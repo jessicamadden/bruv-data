@@ -1,0 +1,65 @@
+!FAMILY	GENUS	SPECIES	CAAB CODE	COMMON
+Atherinopsidae	Atherinops	affinis	1	Topsmelt
+Atherinopsidae	Leuresthes 	tenuis	2	Grunion
+Atherinopsidae			3
+Clinidae	Heterostichus 	rostratus	4	Giant kelpfish
+Clupeidae	Sardinops 	sagax	5	Pacific sardine
+Embiotocidae	Amphistichus 	argenteus	6	Barred surfperch
+Embiotocidae	Amphistichus 	rhodoterus	7	Redtail surfperch
+Embiotocidae	Brachyistius 	frenatus	8	Kelp perch
+Embiotocidae	Cymatogaster 	aggregata	9	Shiner perch
+Embiotocidae	Embiotoca 	jacksoni	10	Black perch
+Embiotocidae	Hyperprosopon 	argenteum	11	Walleye surfperch
+Embiotocidae	Hyperprosopon 	ellipticum	12	Silver surfperch
+Embiotocidae	Micrometrus 	minimus	13	Dwarf perch
+Engraulidae	Engraulis 	mordax	14	Northern anchovy
+Haemulidae	Anisotremus 	davidsonii	15	Sargo
+Haemulidae	Haemulon 	californiensis	16	Salema
+Kyphosidae	Girella 	nigricans	17	Opaleye
+Kyphosidae	Kyphosus 	azureus	18	Zebra perch
+Labridae	Halichoeres 	semicinctus	19	Rock wrasse
+Paralichthyidae	Citharichthys 	stigmaeus	20	Speckled sanddab
+Paralichthyidae	Paralichthys 	californicus	21	California halibut
+Pleuronectidae	Pleuronichthys 	verticalis	22	Hornyhead turbot
+Sciaenidae	Atractoscion 	nobilis	23	White seabass
+Sciaenidae	Menticirrhus 	undulatus	24	California corbina
+Sciaenidae	Seriphus 	politus	25	Queenfish
+Sciaenidae	Umbrina 	roncador	26	Yellowfin croaker
+Syngnathidae	Syngnathus 	californiensis	27	Kelp pipefish
+Syngnathidae			28
+Myliobatidae	Myliobatis 	californica	29	Bat ray
+Triakidae	Triakis 	semifasciata	30	Leopard shark
+Urotrygonidae	Urobatis 	halleri	31	Round stingray
+Blepharipodidae	Blepharipoda	occidentalis	32	Spiny sand crab
+Cancridae	Cancer		33
+Paguridae	Pagurus		34
+Epialtidae	Loxorhynchus	grandis	35	Sheep crab
+Rhinobatidae	Rhinobatos	productus	36	Shovelnose guitarfish
+Phocidae	Phoca	vitulina	37	Harbor seal
+Platyrhinidae	Platyrhinoidis	triserata	39	Thornback guitarfish
+Sphyraenidae	Sphyraena	argentea	40	Pacific barracuda
+Hominidae	Homo	sapiens	41	Human
+Olividae	Callianax	biplicata	42	Purple olive shell
+Munididae	Pleuroncodes	planipes	43	Pelagic red crab
+Serranidae	Paralabrax	clathratus	44	Kelp bass
+Kyphosidae	Hermosilla	azurea	45	Zebra perch
+Labridae	Semicossyphus	pulcher	46	California sheephead
+Paralichthyidae	Citharichthys 	sordidus	47	Pacific sanddab
+Palinuridae	Panulirus	interruptus	48	California spiny lobster 
+Heterodontidae	Heterodontus	francisci	49	Horn shark
+Cottidae	Scorpaenichthys	marmoratus	50	Cabezon
+Sciaenidae	Cheilotrema	saturnum	51	Black croaker
+Phalacrocoracidae	Phalacrocorax	auritus	52	Double-crested cormorant
+Triakidae	Mustelus	californicus	53	Grey smooth-hound
+Nassariidae	Nassarius		54
+Sciaenidae	Roncador	stearnsii	55	Spotfin croaker
+Embiotocidae	Hypsurus	caryi	56	Rainbow surfperch
+Embiotocidae	Rhacochilus	toxotes	57	Rubberlip seaperch
+Mugilidae	Mugil	cephalus	58	Striped mullet
+Serranidae	Paralabrax	nebulifer	59	Barred sand bass
+Muraenidae	Gymnothorax	mordax	60	California moray
+Kyphosidae	Medialuna	californiensis	61	Halfmoon
+Embiotocidae	Rhacochilus	vacca	62	Pile perch
+Dasyatidae	Dasyatis	dipterura	63	Diamond stingray
+Embiotocidae	Amphistichus	koelzi	64	Calico surfperch
+Carangidae	Trachurus	symmetricus	65	Pacific jack mackerel

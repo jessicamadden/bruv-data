@@ -11,6 +11,7 @@ library(plyr)
 library(tidyverse)
 library(here)
 library(janitor)
+library(lubridate)
 ```
 
 1. Move all files to merge into working directory
@@ -38,7 +39,24 @@ maxN_cleaned <- maxN_data %>%
 maxN_bruv_data <- maxN_cleaned %>% 
   mutate(site_code = substr(op_code, 1, 4)) %>% 
   mutate(bruv = substr(op_code, 18, 18)) %>% 
-  mutate(date = substr(op_code, 6, 12)) #I realized that I wasn't consistent with the number of characters in the date entered in the OpCode in EventMeasure. I corrected by hand in output files, but need to go back and change in the EventMeasure file too for reproducibility.
+  mutate(date = substr(op_code, 6, 12)) %>%  
+  mutate(date = dmy(date)) %>%  #Converts date into date format using lubridate package
+  mutate(day = day(date)) %>% #Creates column for day
+  mutate(month = month(date)) %>%  #Creates column for month
+  mutate(year = year(date)) #Creates column for year
+  
+#Line 42: I realized that I wasn't consistent with the number of characters in the date entered in the OpCode in EventMeasure. I corrected by hand in output files, but need to go back and change in the EventMeasure file too for reproducibility.
 
+```
+
+```{r}
+#Create a column for common name
+common_names <- read.delim("file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data/mpa_BRUV_specieslist.txt")
+common_names <- clean_names(common_names)
+
+maxN_bruv_data <- maxN_bruv_data %>% 
+  mutate(code = substr(code, 1, 2)) %>% #clean up code column to just integer %>% 
+  mutate(code = as.integer(code)) %>%  #Convert code to class integer
+  full_join(common_names, by = c("code" = "caab_code")) #join common names to data set
 ```
 
