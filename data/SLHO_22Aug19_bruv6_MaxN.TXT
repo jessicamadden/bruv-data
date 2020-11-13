@@ -1,0 +1,11 @@
+MaxN
+
+Generated: Tuesday, April 14, 2020 11:11:19
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+SLHO_22Aug19_bruv6_GP010027.MP4	  32545	00:26:45.02	SLHO_22Aug19_bruv6_data	00:13:45.01	SLHO_22Aug19_bruv6	Jessica Madden			=1m	100% S											1	No
+SLHO_22Aug19_bruv6_GOPR0027.MP4	  47481	00:13:12.14	SLHO_22Aug19_bruv6_data	00:00:12.13	SLHO_22Aug19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	2	No
+SLHO_22Aug19_bruv6_GP010027.MP4	  38981	00:28:32.39	SLHO_22Aug19_bruv6_data	00:15:32.38	SLHO_22Aug19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Roncador	stearnsii	55	11	No
+SLHO_22Aug19_bruv6_GP030027.MP4	  50443	01:07:07.74	SLHO_22Aug19_bruv6_data	00:54:07.73	SLHO_22Aug19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	130	No
+SLHO_22Aug19_bruv6_GP010027.MP4	  53152	00:32:28.81	SLHO_22Aug19_bruv6_data	00:19:28.80	SLHO_22Aug19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	No
+SLHO_22Aug19_bruv6_GOPR0027.MP4	  49879	00:13:52.15	SLHO_22Aug19_bruv6_data	00:00:52.14	SLHO_22Aug19_bruv6	Jessica Madden			=1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No

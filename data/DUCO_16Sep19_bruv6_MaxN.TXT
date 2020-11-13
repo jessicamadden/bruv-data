@@ -1,0 +1,11 @@
+MaxN
+
+Generated: Thursday, June 11, 2020 17:28:51
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+PODU_16Sep19_6_GP020039.MP4	  34514	00:44:59.93	DUCO_16Sep19_bruv6_data	00:33:59.92	DUCO_16Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	26	No
+PODU_16Sep19_6_GOPR0039.MP4	  48490	00:13:28.97	DUCO_16Sep19_bruv6_data	00:02:28.97	DUCO_16Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	No
+PODU_16Sep19_6_GP020039.MP4	  17486	00:40:15.85	DUCO_16Sep19_bruv6_data	00:29:15.84	DUCO_16Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	No
+PODU_16Sep19_6_GOPR0039.MP4	  42998	00:11:57.35	DUCO_16Sep19_bruv6_data	00:00:57.34	DUCO_16Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	No
+PODU_16Sep19_6_GP010039.MP4	  12043	00:21:02.98	DUCO_16Sep19_bruv6_data	00:10:02.97	DUCO_16Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	clathratus	44	2	No
+PODU_16Sep19_6_GP010039.MP4	    654	00:17:52.97	DUCO_16Sep19_bruv6_data	00:06:52.96	DUCO_16Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	2	No

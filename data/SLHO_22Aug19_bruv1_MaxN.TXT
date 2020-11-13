@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Monday, March 02, 2020 18:52:42
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+SLHO_22Aug19_bruv1_GP010078.MP4	  17021	00:22:26.03	SLHO_22Aug19_bruv1_data	00:08:26.02	SLHO_22Aug19_bruv1	Jessica Madden			>1m	100% S							Phalacrocoracidae	Phalacrocorax	sp		1	No
+SLHO_22Aug19_bruv1_GOPR0078.MP4	  56192	00:15:37.47	SLHO_22Aug19_bruv1_data	00:01:37.46	SLHO_22Aug19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	No
+SLHO_22Aug19_bruv1_GOPR0078.MP4	  51031	00:14:11.37	SLHO_22Aug19_bruv1_data	00:00:11.36	SLHO_22Aug19_bruv1	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	2	No
+SLHO_22Aug19_bruv1_GP030078.MP4	  47448	01:06:17.77	SLHO_22Aug19_bruv1_data	00:52:17.77	SLHO_22Aug19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	No
+SLHO_22Aug19_bruv1_GP010078.MP4	   5250	00:19:09.65	SLHO_22Aug19_bruv1_data	00:05:09.64	SLHO_22Aug19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No

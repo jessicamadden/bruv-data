@@ -1,0 +1,13 @@
+MaxN
+
+Generated: Friday, May 01, 2020 17:31:54
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+SCRI_25Sep19_1_GP010102.MP4	  16546	00:22:18.10	SCRI_25Sep19_bruv1_data	00:10:18.10	SCRI_25Sep19_bruv1	Jessica Madden			>1m	100% S							Atherinopsidae	Atherinops			33	No
+SCRI_25Sep19_1_GP010102.MP4	   3107	00:18:33.90	SCRI_25Sep19_bruv1_data	00:06:33.89	SCRI_25Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	4	No
+SCRI_25Sep19_1_GOPR0102.MP4	  43440	00:12:04.72	SCRI_25Sep19_bruv1_data	00:00:04.72	SCRI_25Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	No
+SCRI_25Sep19_1_GOPR0102.MP4	  50977	00:14:10.47	SCRI_25Sep19_bruv1_data	00:02:10.46	SCRI_25Sep19_bruv1	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	No
+SCRI_25Sep19_1_GOPR0102.MP4	  51197	00:14:14.14	SCRI_25Sep19_bruv1_data	00:02:14.13	SCRI_25Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	No
+SCRI_25Sep19_1_GOPR0102.MP4	  56243	00:15:38.32	SCRI_25Sep19_bruv1_data	00:03:38.32	SCRI_25Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	No
+SCRI_25Sep19_1_GP010102.MP4	   9696	00:20:23.82	SCRI_25Sep19_bruv1_data	00:08:23.82	SCRI_25Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	No
+SCRI_25Sep19_1_GOPR0102.MP4	  46915	00:13:02.70	SCRI_25Sep19_bruv1_data	00:01:02.70	SCRI_25Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	2	No

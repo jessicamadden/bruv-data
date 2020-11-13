@@ -1,0 +1,9 @@
+MaxN
+
+Generated: Thursday, March 26, 2020 12:23:11
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+SAEL_28Aug19_bruv3_GP030021.MP4	  41327	01:04:35.66	SAEL_28Aug19_bruv3_data	00:49:35.64	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	3	No
+SAEL_28Aug19_bruv3_GP040021.MP4	  15012	01:14:58.69	SAEL_28Aug19_bruv3_data	00:59:58.68	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	No
+SAEL_28Aug19_bruv3_GP030021.MP4	   6772	00:54:59.16	SAEL_28Aug19_bruv3_data	00:39:59.15	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	No
+SAEL_28Aug19_bruv3_GP010021.MP4	   6945	00:19:37.93	SAEL_28Aug19_bruv3_data	00:04:37.91	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No

@@ -1,0 +1,12 @@
+MaxN
+
+Generated: Thursday, July 02, 2020 15:40:35
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
+PODU_23Oct19_6_GP020066.MP4	  58114	00:51:33.66	DUCO_23Oct19_bruv6_data	00:39:33.65	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Atherinopsidae			3	14	No
+PODU_23Oct19_6_GP030066.MP4	  35502	01:02:58.47	DUCO_23Oct19_bruv6_data	00:50:58.47	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Haemulidae	Anisotremus	davidsonii	15	1	No
+PODU_23Oct19_6_GP020066.MP4	  23627	00:41:58.30	DUCO_23Oct19_bruv6_data	00:29:58.30	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Girella	nigricans	17	2	No
+PODU_23Oct19_6_GOPR0066.MP4	  43518	00:12:06.03	DUCO_23Oct19_bruv6_data	00:00:06.02	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Medialuna	californiensis	61	1	No
+PODU_23Oct19_6_GOPR0066.MP4	  57284	00:15:55.69	DUCO_23Oct19_bruv6_data	00:03:55.69	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Palinuridae	Panulirus	interruptus	48	2	No
+PODU_23Oct19_6_GP030066.MP4	  12264	00:56:30.79	DUCO_23Oct19_bruv6_data	00:44:30.78	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	2	No
+PODU_23Oct19_6_GP030066.MP4	  47212	01:06:13.84	DUCO_23Oct19_bruv6_data	00:54:13.83	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Triakidae	Triakis	semifasciata	30	1	No

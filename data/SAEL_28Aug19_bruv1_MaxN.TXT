@@ -1,0 +1,12 @@
+MaxN
+
+Generated: Wednesday, March 04, 2020 16:51:29
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+SAEL_28Aug19_bruv1_GP010080.MP4	  40892	00:29:04.28	SAEL_28Aug19_bruv1_data	00:19:04.26	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background											1	No
+SAEL_28Aug19_bruv1_GP020080.MP4	  15017	00:39:34.66	SAEL_28Aug19_bruv1_data	00:29:34.64	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Haemulidae	Anisotremus	davidsonii	15	1	No
+SAEL_28Aug19_bruv1_GP020080.MP4	  21657	00:41:25.43	SAEL_28Aug19_bruv1_data	00:31:25.42	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Palinuridae	Panulirus	interruptus	48 #lobster	1	No
+SAEL_28Aug19_bruv1_GOPR0080.MP4	  53067	00:14:45.33	SAEL_28Aug19_bruv1_data	00:04:45.32	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	16	No
+SAEL_28Aug19_bruv1_GP010080.MP4	  24994	00:24:39.04	SAEL_28Aug19_bruv1_data	00:14:39.03	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Mustelus	californicus	53 #Gray smoothhound	1	No
+SAEL_28Aug19_bruv1_GP020080.MP4	  14968	00:39:33.84	SAEL_28Aug19_bruv1_data	00:29:33.82	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Triakis	semifasciata	30	1	No
+SAEL_28Aug19_bruv1_GOPR0080.MP4	  39129	00:10:52.80	SAEL_28Aug19_bruv1_data	00:00:52.79	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No

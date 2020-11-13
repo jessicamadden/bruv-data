@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Tuesday, April 21, 2020 16:05:08
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	8	No
+HABE_11Sep19_1_GP020090.MP4	  13029	00:39:01.49	HABE_11Sep19_bruv1_data	00:23:01.48	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	No
+HABE_11Sep19_1_GP010090.MP4	    649	00:17:52.89	HABE_11Sep19_bruv1_data	00:01:52.88	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Sciaenidae	Umbrina	roncador	26	1	No
+HABE_11Sep19_1_GP030090.MP4	  26427	01:00:27.07	HABE_11Sep19_bruv1_data	00:44:27.06	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Triakidae	Triakis	semifasciata	30	1	No
+HABE_11Sep19_1_GP020090.MP4	  58685	00:51:43.18	HABE_11Sep19_bruv1_data	00:35:43.17	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No

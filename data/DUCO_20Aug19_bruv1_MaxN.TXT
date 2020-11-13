@@ -1,0 +1,13 @@
+MaxN
+
+Generated: Thursday, February 13, 2020 11:25:35
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment									Family	Genus	Species	Code	MaxN	Has fed
+PODU_20Aug19_bruv1_GOPR0073.MP4	  36935	00:10:16.20	DUCO_20Aug19_bruv1_data	00:00:16.18	DUCO_20Aug19_bruv1	Jessica Madden															1	No
+PODU_20Aug19_bruv1_GP030073.MP4	  57389	01:09:03.62	DUCO_20Aug19_bruv1_data	00:59:03.61	DUCO_20Aug19_bruv1	Jessica Madden											Atherinopsidae	Atherinops	affinis	1	28	No
+PODU_20Aug19_bruv1_GOPR0073.MP4	  59931	00:16:39.85	DUCO_20Aug19_bruv1_data	00:06:39.83	DUCO_20Aug19_bruv1	Jessica Madden											Haemulidae	Anisotremus	davidsonii	15	2	No
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	17	No
+PODU_20Aug19_bruv1_GP010073.MP4	  46643	00:30:40.22	DUCO_20Aug19_bruv1_data	00:20:40.21	DUCO_20Aug19_bruv1	Jessica Madden											Labridae	Semicossyphus	pulcher	46 #California sheephead	1	No
+PODU_20Aug19_bruv1_GP010073.MP4	  23732	00:24:17.99	DUCO_20Aug19_bruv1_data	00:14:17.97	DUCO_20Aug19_bruv1	Jessica Madden											Myliobatidae	Myliobatis	californica	29	1	No
+PODU_20Aug19_bruv1_GP030073.MP4	  18083	00:58:07.87	DUCO_20Aug19_bruv1_data	00:48:07.85	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	5	No
+PODU_20Aug19_bruv1_GP030073.MP4	  12403	00:56:33.11	DUCO_20Aug19_bruv1_data	00:46:33.09	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	2	No

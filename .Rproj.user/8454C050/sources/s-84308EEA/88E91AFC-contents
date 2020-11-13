@@ -1,0 +1,26 @@
+---
+title: "compiling_bruv_data"
+author: "Jessica Madden"
+date: "November 13, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+```
+
+1. Move all files to merge into working directory
+2. Define files as the list of all files in working directory and loop them all into a data frame
+
+```{r}
+files <- list.files(here(data)) #Creates a vector of all file names
+maxN_data <- data.frame(her) #Create empty data frame
+for (file in files){
+  print(file)
+  df <- read.delim(file, header = TRUE, sep = "\t", dec = ".", skip = 4)
+  maxN_data <- rbind.fill(maxN_data, df)
+}
+```
+

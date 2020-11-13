@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Thursday, June 04, 2020 13:03:20
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+HABE_11Sep19_6_GP020038.MP4	  10327	00:38:16.41	HABE_11Sep19_bruv6_data	00:26:16.41	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	2	No
+HABE_11Sep19_6_GOPR0038.MP4	  62534	00:17:23.28	HABE_11Sep19_bruv6_data	00:05:23.27	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	No
+HABE_11Sep19_6_GP010038.MP4	  55490	00:33:07.82	HABE_11Sep19_bruv6_data	00:21:07.82	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	No
+HABE_11Sep19_6_GP030038.MP4	  16954	00:57:49.03	HABE_11Sep19_bruv6_data	00:45:49.03	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	No
+HABE_11Sep19_6_GP030038.MP4	  39213	01:04:00.39	HABE_11Sep19_bruv6_data	00:52:00.38	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No

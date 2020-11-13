@@ -1,0 +1,7 @@
+MaxN
+
+Generated: Thursday, March 26, 2020 09:15:25
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+STBE_21Aug19_bruv3_GOPR0016.MP4	  25993	00:07:13.65	STBE_21Aug19_bruv3_data	00:00:13.65	STBE_21Aug19_bruv3	Jessica Madden			<1m	80% S, 20% BL							Serranidae	Paralabrax	clathratus	44	1	No
+STBE_21Aug19_bruv3_GP030016.MP4	   6847	00:55:00.41	STBE_21Aug19_bruv3_data	00:48:00.41	STBE_21Aug19_bruv3	Jessica Madden			<1m	80% S, 20% BL							Triakidae	Triakis	semifasciata	30	1	No

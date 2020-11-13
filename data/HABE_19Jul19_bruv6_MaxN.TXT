@@ -1,0 +1,12 @@
+MaxN
+
+Generated: Tuesday, April 07, 2020 16:12:14
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+HABE_19Jul19_6_GP010004.MP4	  16222	00:22:12.70	HABE_19Jul19_bruv6_data	00:01:12.69	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	No
+HABE_19Jul19_6_GP010004.MP4	  61631	00:34:50.27	HABE_19Jul19_bruv6_data	00:13:50.26	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Cancridae	Cancer	sp		1	No
+HABE_19Jul19_6_GP030004.MP4	  24861	01:00:00.95	HABE_19Jul19_bruv6_data	00:39:00.94	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	2	No
+HABE_19Jul19_6_GP020004.MP4	  17374	00:40:13.98	HABE_19Jul19_bruv6_data	00:19:13.97	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	No
+HABE_19Jul19_6_GP040004.MP4	  11972	01:14:07.98	HABE_19Jul19_bruv6_data	00:53:07.97	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	No
+HABE_19Jul19_6_GP040004.MP4	   8564	01:13:11.12	HABE_19Jul19_bruv6_data	00:52:11.11	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	No
+HABE_19Jul19_6_GP010004.MP4	  20494	00:23:23.97	HABE_19Jul19_bruv6_data	00:02:23.96	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Triakidae	Triakis	semifasciata	30	1	No

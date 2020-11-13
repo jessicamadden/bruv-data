@@ -1,0 +1,12 @@
+MaxN
+
+Generated: Thursday, February 27, 2020 15:54:16
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+PERC_23Jul19_1_GP020065.MP4	  22896	00:41:46.10	PERC_23Jul19_bruv1_data	00:27:46.05	PERC_23Jul19_bruv1	Jessica Madden			>1m	100% S							Atherinopsidae	Atherinops	affinis	1	4	No
+PERC_23Jul19_1_GP010065.MP4	  59792	00:34:19.59	PERC_23Jul19_bruv1_data	00:20:19.53	PERC_23Jul19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	No
+PERC_23Jul19_1_GP030065.MP4	   3734	00:54:08.48	PERC_23Jul19_bruv1_data	00:40:08.42	PERC_23Jul19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	No
+PERC_23Jul19_1_GP040065.MP4	   1218	01:11:08.56	PERC_23Jul19_bruv1_data	00:57:08.51	PERC_23Jul19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	sordidus	47	1	No
+PERC_23Jul19_1_GP010065.MP4	  62487	00:35:04.55	PERC_23Jul19_bruv1_data	00:21:04.50	PERC_23Jul19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	7	No
+PERC_23Jul19_1_GP010065.MP4	  49041	00:31:20.23	PERC_23Jul19_bruv1_data	00:17:20.17	PERC_23Jul19_bruv1	Jessica Madden			>1m	100% S							Phocidae	Phoca	vitulina	37	1	No
+PERC_23Jul19_1_GOPR0065.MP4	  63177	00:17:34.00	PERC_23Jul19_bruv1_data	00:03:33.95	PERC_23Jul19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	No

@@ -1,0 +1,15 @@
+MaxN
+
+Generated: Friday, June 19, 2020 15:34:11
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+PODU_23Oct19_1_GOPR0126.MP4	  59729	00:16:36.48	DUCO_23Oct19_bruv1_data	00:05:36.47	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S											57	No
+PODU_23Oct19_1_GP020126.MP4	  31713	00:44:13.20	DUCO_23Oct19_bruv1_data	00:33:13.19	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Atherinopsidae			3	129	No
+PODU_23Oct19_1_GP030126.MP4	  25919	01:00:18.60	DUCO_23Oct19_bruv1_data	00:49:18.59	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Embiotocidae	Rhacochilus	vacca	62	1	No
+PODU_23Oct19_1_GP030126.MP4	  58494	01:09:22.06	DUCO_23Oct19_bruv1_data	00:58:22.05	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae				2	No
+PODU_23Oct19_1_GP020126.MP4	  32551	00:44:27.18	DUCO_23Oct19_bruv1_data	00:33:27.17	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Medialuna	californiensis	61	1	No
+PODU_23Oct19_1_GP030126.MP4	   6457	00:54:53.91	DUCO_23Oct19_bruv1_data	00:43:53.90	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46	1	No
+PODU_23Oct19_1_GP010126.MP4	  39496	00:28:40.99	DUCO_23Oct19_bruv1_data	00:17:40.98	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	No
+PODU_23Oct19_1_GOPR0126.MP4	  55275	00:15:22.17	DUCO_23Oct19_bruv1_data	00:04:22.16	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	No
+PODU_23Oct19_1_GOPR0126.MP4	  60219	00:16:44.65	DUCO_23Oct19_bruv1_data	00:05:44.64	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	No
+PODU_23Oct19_1_GP010126.MP4	   3824	00:18:45.86	DUCO_23Oct19_bruv1_data	00:07:45.85	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	No

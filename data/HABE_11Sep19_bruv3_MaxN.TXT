@@ -1,0 +1,9 @@
+MaxN
+
+Generated: Tuesday, May 26, 2020 11:09:47
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+HABE_11Sep19_3_GP020033.MP4	  27177	00:42:57.52	HABE_11Sep19_bruv3_data	00:30:57.52	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Atherinopsidae			3	2	No
+HABE_11Sep19_3_GP010033.MP4	  21701	00:23:44.11	HABE_11Sep19_bruv3_data	00:11:44.10	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Myliobatidae	Myliobatis	californica	29	1	No
+HABE_11Sep19_3_GP010033.MP4	  42958	00:29:38.74	HABE_11Sep19_bruv3_data	00:17:38.74	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	No
+HABE_11Sep19_3_GP020033.MP4	  42786	00:47:17.94	HABE_11Sep19_bruv3_data	00:35:17.93	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Triakidae	Triakis	semifasciata	30	1	No
