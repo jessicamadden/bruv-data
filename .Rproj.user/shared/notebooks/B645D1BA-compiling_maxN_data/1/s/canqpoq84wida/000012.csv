@@ -1,4 +1,0 @@
-"0","files <- list.files(here(data)) #Creates a vector of all file names
-"
-"2","Error in list.files(here(data)) : invalid 'path' argument
-"

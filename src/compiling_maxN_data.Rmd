@@ -7,6 +7,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(plyr)
 library(tidyverse)
 library(here)
 ```
@@ -15,11 +16,11 @@ library(here)
 2. Define files as the list of all files in working directory and loop them all into a data frame
 
 ```{r}
-files <- list.files(here(data)) #Creates a vector of all file names
-maxN_data <- data.frame(her) #Create empty data frame
+files <- list.files("C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data/") #Creates a vector of all file names
+maxN_data <- data.frame() #Create empty data frame
 for (file in files){
   print(file)
-  df <- read.delim(file, header = TRUE, sep = "\t", dec = ".", skip = 4)
+  df <- read.delim(paste0("C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data/", file), header = TRUE, sep = "\t", dec = ".", skip = 4)
   maxN_data <- rbind.fill(maxN_data, df)
 }
 ```
