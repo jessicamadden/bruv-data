@@ -3,6 +3,6 @@ MaxN
 Generated: Thursday, February 13, 2020 13:58:54
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
-HABE_19Jul19_1_GP030057.MP4	   3177	00:36:17.12	data	00:26:12.12	HABE_19Jul19_1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	3	No
-HABE_19Jul19_1_GP020057.MP4	  42731	00:29:34.96	data	00:19:29.95	HABE_19Jul19_1	Jessica Madden			=1m	100% S							Cancridae	Cancer		33	1	No
-HABE_19Jul19_1_GP040057.MP4	  27974	01:00:52.88	data	00:50:47.88	HABE_19Jul19_1	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	No
+HABE_19Jul19_1_GP030057.MP4	   3177	00:36:17.12	data	00:26:12.12	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	3	No
+HABE_19Jul19_1_GP020057.MP4	  42731	00:29:34.96	data	00:19:29.95	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer		33	1	No
+HABE_19Jul19_1_GP040057.MP4	  27974	01:00:52.88	data	00:50:47.88	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	No

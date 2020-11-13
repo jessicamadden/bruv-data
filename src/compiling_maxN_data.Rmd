@@ -1,5 +1,5 @@
 ---
-title: "compiling_bruv_data"
+title: "MaxN_data_summary"
 author: "Jessica Madden"
 date: "November 13, 2020"
 output: html_document
@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(plyr)
 library(tidyverse)
 library(here)
+library(janitor)
 ```
 
 1. Move all files to merge into working directory
@@ -22,6 +23,22 @@ for (file in files){
   print(file)
   df <- read.delim(paste0("C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data/", file), header = TRUE, sep = "\t", dec = ".", skip = 4)
   maxN_data <- rbind.fill(maxN_data, df)
-}
+} #Loops each file filling into data frame
+```
+
+3. Clean up the data a bit
+```{r}
+maxN_cleaned <- maxN_data %>% 
+  clean_names()
+```
+
+4. Some data wrangling
+```{r}
+#Use OpCode to fill site, date, and bruv columns
+maxN_bruv_data <- maxN_cleaned %>% 
+  mutate(site_code = substr(op_code, 1, 4)) %>% 
+  mutate(bruv = substr(op_code, 18, 18)) %>% 
+  mutate(date = substr(op_code, 6, 12)) #I realized that I wasn't consistent with the number of characters in the date entered in the OpCode in EventMeasure. I corrected by hand in output files, but need to go back and change in the EventMeasure file too for reproducibility.
+
 ```
 

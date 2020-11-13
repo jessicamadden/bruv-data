@@ -3,11 +3,11 @@ MaxN
 Generated: Monday, June 29, 2020 10:43:32
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
-SLHO_7Nov19_3_GOPR0070.MP4	  44094	00:12:15.63	SLHO_7Nov19_bruv3_data	00:01:15.63	SLHO_7Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019								1	No
-SLHO_7Nov19_3_GOPR0070.MP4	  48160	00:13:23.47	SLHO_7Nov19_bruv3_data	00:02:23.46	SLHO_7Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Kyphosidae	Hermosilla	azurea	45	1	No
-SLHO_7Nov19_3_GOPR0070.MP4	  55569	00:15:27.08	SLHO_7Nov19_bruv3_data	00:04:27.07	SLHO_7Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Kyphosidae	Medialuna	californiensis	61	2	No
-SLHO_7Nov19_3_GP020070.MP4	  47418	00:48:35.21	SLHO_7Nov19_bruv3_data	00:37:35.20	SLHO_7Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Labridae	Halichoeres	semicinctus	19	1	No
-SLHO_7Nov19_3_GP010070.MP4	  53578	00:32:35.92	SLHO_7Nov19_bruv3_data	00:21:35.91	SLHO_7Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Labridae	Semicossyphus	pulcher	46	1	No
-SLHO_7Nov19_3_GP010070.MP4	  17428	00:22:32.82	SLHO_7Nov19_bruv3_data	00:11:32.81	SLHO_7Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Muraenidae	Gymnothorax	mordax	60	1	No
-SLHO_7Nov19_3_GP010070.MP4	  21511	00:23:40.94	SLHO_7Nov19_bruv3_data	00:12:40.93	SLHO_7Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Serranidae	Paralabrax	clathratus	44	12	No
-SLHO_7Nov19_3_GP010070.MP4	  12810	00:21:15.77	SLHO_7Nov19_bruv3_data	00:10:15.77	SLHO_7Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Serranidae	Paralabrax	nebulifer	59	2	No
+SLHO_7Nov19_3_GOPR0070.MP4	  44094	00:12:15.63	SLHO_7Nov19_bruv3_data	00:01:15.63	SLHO_07Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019								1	No
+SLHO_7Nov19_3_GOPR0070.MP4	  48160	00:13:23.47	SLHO_7Nov19_bruv3_data	00:02:23.46	SLHO_07Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Kyphosidae	Hermosilla	azurea	45	1	No
+SLHO_7Nov19_3_GOPR0070.MP4	  55569	00:15:27.08	SLHO_7Nov19_bruv3_data	00:04:27.07	SLHO_07Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Kyphosidae	Medialuna	californiensis	61	2	No
+SLHO_7Nov19_3_GP020070.MP4	  47418	00:48:35.21	SLHO_7Nov19_bruv3_data	00:37:35.20	SLHO_07Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Labridae	Halichoeres	semicinctus	19	1	No
+SLHO_7Nov19_3_GP010070.MP4	  53578	00:32:35.92	SLHO_7Nov19_bruv3_data	00:21:35.91	SLHO_07Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Labridae	Semicossyphus	pulcher	46	1	No
+SLHO_7Nov19_3_GP010070.MP4	  17428	00:22:32.82	SLHO_7Nov19_bruv3_data	00:11:32.81	SLHO_07Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Muraenidae	Gymnothorax	mordax	60	1	No
+SLHO_7Nov19_3_GP010070.MP4	  21511	00:23:40.94	SLHO_7Nov19_bruv3_data	00:12:40.93	SLHO_07Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Serranidae	Paralabrax	clathratus	44	12	No
+SLHO_7Nov19_3_GP010070.MP4	  12810	00:21:15.77	SLHO_7Nov19_bruv3_data	00:10:15.77	SLHO_07Nov19_bruv3	Jessica Madden			>1m	100% S but BL in 100% of background	SLHO	3	11-07-2019				Serranidae	Paralabrax	nebulifer	59	2	No

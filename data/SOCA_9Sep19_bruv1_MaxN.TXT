@@ -3,15 +3,15 @@ MaxN
 Generated: Wednesday, April 22, 2020 13:56:12
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
-SOCA_9Sep19_1_GOPR0088.MP4	  47839	00:13:18.11	SOCA_9Sep19_bruv1_data	00:01:18.11	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock											1	No
-SOCA_9Sep19_1_GP010088.MP4	  16758	00:22:21.64	SOCA_9Sep19_bruv1_data	00:10:21.64	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae				1	No
-SOCA_9Sep19_1_GP010088.MP4	  25610	00:24:49.32	SOCA_9Sep19_bruv1_data	00:12:49.32	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae	Amphistichus	argenteus	6	1	No
-SOCA_9Sep19_1_GP030088.MP4	  55558	01:08:33.08	SOCA_9Sep19_bruv1_data	00:56:33.07	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae	Embiotoca	jacksoni	10	2	No
-SOCA_9Sep19_1_GP010088.MP4	  60717	00:34:35.02	SOCA_9Sep19_bruv1_data	00:22:35.02	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae	Hyperprosopon	argenteum	11	1	No
-SOCA_9Sep19_1_GP010088.MP4	  22592	00:23:58.97	SOCA_9Sep19_bruv1_data	00:11:58.97	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae	Micrometrus	minimus	13	1	No
-SOCA_9Sep19_1_GP010088.MP4	  46705	00:30:41.26	SOCA_9Sep19_bruv1_data	00:18:41.25	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Myliobatidae	Myliobatis	californica	29	1	No
-SOCA_9Sep19_1_GOPR0088.MP4	  54389	00:15:07.39	SOCA_9Sep19_bruv1_data	00:03:07.39	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Palinuridae	Panulirus	interruptus	48 #lobster	1	No
-SOCA_9Sep19_1_GP010088.MP4	  57959	00:33:49.01	SOCA_9Sep19_bruv1_data	00:21:49.01	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	2	No
-SOCA_9Sep19_1_GP020088.MP4	  60952	00:52:21.00	SOCA_9Sep19_bruv1_data	00:40:21.00	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Rhinobatidae	Rhinobatos	productus	36	1	No
-SOCA_9Sep19_1_GP030088.MP4	  34468	01:02:41.22	SOCA_9Sep19_bruv1_data	00:50:41.22	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Serranidae	Paralabrax	clathratus	44	1	No
-SOCA_9Sep19_1_GOPR0088.MP4	  44881	00:12:28.76	SOCA_9Sep19_bruv1_data	00:00:28.76	SOCA_9Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Triakidae	Triakis	semifasciata	30	7	No
+SOCA_9Sep19_1_GOPR0088.MP4	  47839	00:13:18.11	SOCA_9Sep19_bruv1_data	00:01:18.11	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock											1	No
+SOCA_9Sep19_1_GP010088.MP4	  16758	00:22:21.64	SOCA_9Sep19_bruv1_data	00:10:21.64	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae				1	No
+SOCA_9Sep19_1_GP010088.MP4	  25610	00:24:49.32	SOCA_9Sep19_bruv1_data	00:12:49.32	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae	Amphistichus	argenteus	6	1	No
+SOCA_9Sep19_1_GP030088.MP4	  55558	01:08:33.08	SOCA_9Sep19_bruv1_data	00:56:33.07	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae	Embiotoca	jacksoni	10	2	No
+SOCA_9Sep19_1_GP010088.MP4	  60717	00:34:35.02	SOCA_9Sep19_bruv1_data	00:22:35.02	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae	Hyperprosopon	argenteum	11	1	No
+SOCA_9Sep19_1_GP010088.MP4	  22592	00:23:58.97	SOCA_9Sep19_bruv1_data	00:11:58.97	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Embiotocidae	Micrometrus	minimus	13	1	No
+SOCA_9Sep19_1_GP010088.MP4	  46705	00:30:41.26	SOCA_9Sep19_bruv1_data	00:18:41.25	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Myliobatidae	Myliobatis	californica	29	1	No
+SOCA_9Sep19_1_GOPR0088.MP4	  54389	00:15:07.39	SOCA_9Sep19_bruv1_data	00:03:07.39	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Palinuridae	Panulirus	interruptus	48 #lobster	1	No
+SOCA_9Sep19_1_GP010088.MP4	  57959	00:33:49.01	SOCA_9Sep19_bruv1_data	00:21:49.01	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	2	No
+SOCA_9Sep19_1_GP020088.MP4	  60952	00:52:21.00	SOCA_9Sep19_bruv1_data	00:40:21.00	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Rhinobatidae	Rhinobatos	productus	36	1	No
+SOCA_9Sep19_1_GP030088.MP4	  34468	01:02:41.22	SOCA_9Sep19_bruv1_data	00:50:41.22	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Serranidae	Paralabrax	clathratus	44	1	No
+SOCA_9Sep19_1_GOPR0088.MP4	  44881	00:12:28.76	SOCA_9Sep19_bruv1_data	00:00:28.76	SOCA_09Sep19_bruv1	Jessica Madden			<1m	100% benthic algae on rock							Triakidae	Triakis	semifasciata	30	7	No

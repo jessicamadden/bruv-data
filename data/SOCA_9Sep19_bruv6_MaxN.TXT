@@ -3,16 +3,16 @@ MaxN
 Generated: Friday, June 05, 2020 17:04:14
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
-SOCA_9Sep19_6_GP020036.MP4	  13759	00:39:13.67	SOCA_9Sep19_bruv6_data	00:26:13.66	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Embiotocidae				1	No
-SOCA_9Sep19_6_GOPR0036.MP4	  59651	00:16:35.18	SOCA_9Sep19_bruv6_data	00:03:35.16	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Embiotocidae	Amphistichus	argenteus	6	2	No
-SOCA_9Sep19_6_GOPR0036.MP4	  55575	00:15:27.18	SOCA_9Sep19_bruv6_data	00:02:27.16	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Embiotocidae	Micrometrus	minimus	13	1	No
-SOCA_9Sep19_6_GP030036.MP4	  40391	01:04:20.04	SOCA_9Sep19_bruv6_data	00:51:20.03	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Haemulidae	Anisotremus	davidsonii	15	1	No
-SOCA_9Sep19_6_GP010036.MP4	  62655	00:35:07.36	SOCA_9Sep19_bruv6_data	00:22:07.34	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Labridae	Halichoeres	semicinctus	19	1	No
-SOCA_9Sep19_6_GP010036.MP4	    134	00:17:44.30	SOCA_9Sep19_bruv6_data	00:04:44.28	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Myliobatidae	Myliobatis	californica	29	2	No
-SOCA_9Sep19_6_GP010036.MP4	  38970	00:28:32.21	SOCA_9Sep19_bruv6_data	00:15:32.20	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	No
-SOCA_9Sep19_6_GP010036.MP4	  19972	00:23:15.26	SOCA_9Sep19_bruv6_data	00:10:15.25	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Rhinobatidae	Rhinobatos	productus	36	2	No
-SOCA_9Sep19_6_GP010036.MP4	  27436	00:25:19.78	SOCA_9Sep19_bruv6_data	00:12:19.77	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Sciaenidae				2	No
-SOCA_9Sep19_6_GP020036.MP4	  18084	00:40:25.82	SOCA_9Sep19_bruv6_data	00:27:25.81	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Sciaenidae	Cheilotrema	saturnum	51 #Black croaker	1	No
-SOCA_9Sep19_6_GP020036.MP4	  58443	00:51:39.15	SOCA_9Sep19_bruv6_data	00:38:39.13	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Serranidae	Paralabrax	clathratus	44	2	No
-SOCA_9Sep19_6_GP010036.MP4	  23501	00:24:14.14	SOCA_9Sep19_bruv6_data	00:11:14.12	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Triakidae	Triakis	semifasciata	30	12	No
-SOCA_9Sep19_6_GP010036.MP4	  24514	00:24:31.04	SOCA_9Sep19_bruv6_data	00:11:31.02	SOCA_9Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No
+SOCA_9Sep19_6_GP020036.MP4	  13759	00:39:13.67	SOCA_9Sep19_bruv6_data	00:26:13.66	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Embiotocidae				1	No
+SOCA_9Sep19_6_GOPR0036.MP4	  59651	00:16:35.18	SOCA_9Sep19_bruv6_data	00:03:35.16	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Embiotocidae	Amphistichus	argenteus	6	2	No
+SOCA_9Sep19_6_GOPR0036.MP4	  55575	00:15:27.18	SOCA_9Sep19_bruv6_data	00:02:27.16	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Embiotocidae	Micrometrus	minimus	13	1	No
+SOCA_9Sep19_6_GP030036.MP4	  40391	01:04:20.04	SOCA_9Sep19_bruv6_data	00:51:20.03	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Haemulidae	Anisotremus	davidsonii	15	1	No
+SOCA_9Sep19_6_GP010036.MP4	  62655	00:35:07.36	SOCA_9Sep19_bruv6_data	00:22:07.34	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Labridae	Halichoeres	semicinctus	19	1	No
+SOCA_9Sep19_6_GP010036.MP4	    134	00:17:44.30	SOCA_9Sep19_bruv6_data	00:04:44.28	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Myliobatidae	Myliobatis	californica	29	2	No
+SOCA_9Sep19_6_GP010036.MP4	  38970	00:28:32.21	SOCA_9Sep19_bruv6_data	00:15:32.20	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	No
+SOCA_9Sep19_6_GP010036.MP4	  19972	00:23:15.26	SOCA_9Sep19_bruv6_data	00:10:15.25	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Rhinobatidae	Rhinobatos	productus	36	2	No
+SOCA_9Sep19_6_GP010036.MP4	  27436	00:25:19.78	SOCA_9Sep19_bruv6_data	00:12:19.77	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Sciaenidae				2	No
+SOCA_9Sep19_6_GP020036.MP4	  18084	00:40:25.82	SOCA_9Sep19_bruv6_data	00:27:25.81	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Sciaenidae	Cheilotrema	saturnum	51 #Black croaker	1	No
+SOCA_9Sep19_6_GP020036.MP4	  58443	00:51:39.15	SOCA_9Sep19_bruv6_data	00:38:39.13	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Serranidae	Paralabrax	clathratus	44	2	No
+SOCA_9Sep19_6_GP010036.MP4	  23501	00:24:14.14	SOCA_9Sep19_bruv6_data	00:11:14.12	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Triakidae	Triakis	semifasciata	30	12	No
+SOCA_9Sep19_6_GP010036.MP4	  24514	00:24:31.04	SOCA_9Sep19_bruv6_data	00:11:31.02	SOCA_09Sep19_bruv6	Jessica Madden			=1m	100% benthic algae SS							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No
