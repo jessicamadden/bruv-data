@@ -6,11 +6,14 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
 library(here)
 library(tidyverse)
 library(kableExtra)
 library(janitor)
+library(data.table)
+library(knitr)
 
 # Load in data
 max_n_data <- read.csv(here("data", "max_n_data.csv")) %>% 
@@ -44,7 +47,7 @@ max_n_data <- max_n_data %>%
 
 ```
 
-### % Presence table
+### % Presence
 
 ```{r}
 presence_table <- max_n_data %>% 
@@ -55,36 +58,103 @@ presence_table <- max_n_data %>%
 ```
 
 
-### Species Richness Summary Table
+### Species Richness
 
 ```{r}
-richness_table <- max_n_data %>% 
+sp_richness <- max_n_data %>% 
  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
   group_by(site_full, geog, type) %>% 
   summarise(n_distinct(common)) %>% 
-  arrange(geog) %>% 
-  subset(select=-geog) %>%  
-  rename("Species richess" = "n_distinct(common)") %>% 
-  rename("Type" = "type") %>% 
-  rename("Site" = "site_full") %>% 
-  kbl() %>% 
-  kable_styling()
-richness_table
-
+  rename("sp_richness" = "n_distinct(common)") %>% 
+  arrange(geog)
 
 ```
 
-### Max N Summary
+***Table 1.** Species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9).*
+```{r}
+richness_table <- sp_richness %>% 
+  rename("Species richness" = "sp_richness") %>% 
+  rename("Type" = "type") %>% 
+  rename("Site" = "site_full") %>% 
+  subset(select=-geog) %>% 
+  kbl() %>% 
+  kable_styling()
+richness_table
+```
+
+```{r}
+ggplot(sp_richness, aes(x = reorder(site_full, -geog), y = sp_richness)) +
+  geom_bar(stat="identity", 
+           aes(fill = type)) +
+  scale_fill_brewer(palette="Dark2") +
+  coord_flip() +
+  labs(x = "Site", y = "Species richness") +
+  theme_minimal()
+```
+
+***Figure 1.** Species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9).*
+
+### Max N 
+
+#### Max N by species
+
+
 
 ```{r}
 maxN_table <- max_n_data %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
-  group_by(site_full, geog, common) %>% 
+  group_by(site_full, geog, common, family_x) %>% 
   summarise(maxN = max(max_n))
 
-ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) +
-  geom_bar(position = "stack", stat = "identity") +
-  coord_flip() 
+# Transpose site data into columns
+
+maxN_wider <- maxN_table %>% 
+  pivot_wider(id_cols = c(common, family_x), 
+              names_from = site_full, 
+              values_from = maxN) %>% 
+  arrange(family_x) %>% 
+  rename("Family" = "family_x", "Common name" = "common")
+
+# Change NAs to zeroes
+
+#maxN_wider[is.na(maxN_wider)] = 0
+```
+
+***Table 2.** Max N statistic for each species at 10 sampling locations. Number represents the maximum number of individuals belonging to each species counted in a single frame, across all sampling videos at each site (n = 9).* 
+```{r}
+opts <- options(knitr.kable.NA = "")
+maxN_wider %>% 
+  kbl() %>% 
+  kable_styling()
 
 ```
 
+
+
+```{r}
+ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) +
+  geom_bar(position = "stack", stat = "identity") +
+  coord_flip() +
+  labs(x = "Site", y = "Max N") +
+  theme_minimal() +
+  theme(legend.position = "top")
+```
+***Figure 2. ** Max N statistic for each species at each site.*
+
+#### Max N by family
+
+```{r}
+maxN_fam_table <- max_n_data %>% 
+  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
+  group_by(site_full, geog, family_x) %>% 
+  summarise(maxN = max(max_n))
+
+ggplot(maxN_fam_table, aes(fill = family_x, x = reorder(site_full, -geog), y = maxN)) +
+  geom_bar(position = "stack", stat = "identity") +
+  coord_flip() +
+  labs(x = "Site", y = "Max N") +
+  theme_minimal() +
+  theme(legend.position = "top")
+
+```
+***Figure 3. ** Max N statistic for each family at each site.*
