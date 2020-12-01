@@ -10,24 +10,81 @@ knitr::opts_chunk$set(echo = TRUE)
 library(here)
 library(tidyverse)
 library(kableExtra)
+library(janitor)
 
 # Load in data
-max_n_data <- read.csv(here("data", "max_n_data.csv"))
+max_n_data <- read.csv(here("data", "max_n_data.csv")) %>% 
+  clean_names()
 ```
 
-### Max N Summary Table
+### Initial wrangling
 
 ```{r}
-total_species_list <- unique(max_n_data$common)
+max_n_data <- max_n_data %>% 
+    mutate(geog = case_when(
+    site_code == "WABE" ~ 1, 
+    site_code == "PISM" ~ 2, 
+    site_code == "PERC" ~ 3, 
+    site_code == "REFU" ~ 4, 
+    site_code == "SOCA" ~ 5, 
+    site_code == "HABE" ~ 6, 
+    site_code == "DUCO" ~ 7, 
+    site_code == "LECA" ~ 8, 
+    site_code == "SLHO" ~ 9, 
+    site_code == "STBE" ~ 10, 
+    site_code == "SCRI" ~ 11, 
+    site_code == "SAEL" ~ 12
+  )) %>% #added geographic sorting column
+  mutate(type = case_when(
+    mpa == "1" ~ "MPA", 
+    mpa == "0" ~ "Reference"
+  )) %>%  #adds columns for mpa/reference
+  arrange(geog, date, bruv)
 
-max_n_data_fish <- max_n_data %>% 
-  filter(subclass == "Actinopterygii") 
-fish_species_list <- unique(max_n_data_fish$common)
 
-species_table <- max_n_data %>% 
-  filter(subclass == "Actinopterygii") %>% 
+```
+
+### % Presence table
+
+```{r}
+presence_table <- max_n_data %>% 
+  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
   group_by(site_full, date) %>% 
   count(sp_code, common)
   
+```
+
+
+### Species Richness Summary Table
+
+```{r}
+richness_table <- max_n_data %>% 
+ filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
+  group_by(site_full, geog, type) %>% 
+  summarise(n_distinct(common)) %>% 
+  arrange(geog) %>% 
+  subset(select=-geog) %>%  
+  rename("Species richess" = "n_distinct(common)") %>% 
+  rename("Type" = "type") %>% 
+  rename("Site" = "site_full") %>% 
+  kbl() %>% 
+  kable_styling()
+richness_table
+
+
+```
+
+### Max N Summary
+
+```{r}
+maxN_table <- max_n_data %>% 
+  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
+  group_by(site_full, geog, common) %>% 
+  summarise(maxN = max(max_n))
+
+ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) +
+  geom_bar(position = "stack", stat = "identity") +
+  coord_flip() 
+
 ```
 

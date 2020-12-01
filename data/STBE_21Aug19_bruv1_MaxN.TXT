@@ -1,8 +1,0 @@
-MaxN
-
-Generated: Tuesday, March 03, 2020 11:20:51
-
-Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
-STBE_21Aug19_bruv1_GOPR0076.MP4	  29275	00:08:08.40	STBE_21Aug19_bruv1_data	00:02:08.39	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Cancridae	Cancer	sp		1	No
-STBE_21Aug19_bruv1_GP020076.MP4	   1273	00:35:45.36	STBE_21Aug19_bruv1_data	00:29:45.35	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Myliobatidae	Myliobatis	californica	29	1	No
-STBE_21Aug19_bruv1_GP010076.MP4	  34299	00:27:14.28	STBE_21Aug19_bruv1_data	00:21:14.27	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	2	No
