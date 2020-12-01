@@ -1,0 +1,13 @@
+MaxN
+
+Generated: Wednesday, June 17, 2020 17:03:08
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+SOCA_3Oct19_1_GP010110.MP4	  37641	00:28:10.04	SOCA_3Oct19_bruv1_data	00:17:10.03	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae											1	No
+SOCA_3Oct19_1_GP020110.MP4	   2157	00:36:00.11	SOCA_3Oct19_bruv1_data	00:25:00.10	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae				1	No
+SOCA_3Oct19_1_GOPR0110.MP4	  50049	00:13:54.98	SOCA_3Oct19_bruv1_data	00:02:54.97	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Hyperprosopon	argenteum	11	1	No
+SOCA_3Oct19_1_GOPR0110.MP4	  40694	00:11:18.91	SOCA_3Oct19_bruv1_data	00:00:18.90	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Micrometrus	minimus	13	3	No
+SOCA_3Oct19_1_GP030110.MP4	  14214	00:57:03.32	SOCA_3Oct19_bruv1_data	00:46:03.31	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Palinuridae	Panulirus	interruptus	48 #lobster	1	No
+SOCA_3Oct19_1_GP010110.MP4	  15847	00:22:06.44	SOCA_3Oct19_bruv1_data	00:11:06.43	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	2	No
+SOCA_3Oct19_1_GP010110.MP4	  32600	00:26:45.94	SOCA_3Oct19_bruv1_data	00:15:45.93	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	No
+SOCA_3Oct19_1_GOPR0110.MP4	  54318	00:15:06.21	SOCA_3Oct19_bruv1_data	00:04:06.20	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	3	No

@@ -1,0 +1,11 @@
+MaxN
+
+Generated: Friday, May 22, 2020 12:40:21
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+RESB_5Sep19_bruv3_GP030028.MP4	  10493	00:56:01.24	REFU_5Sep19_bruv3	00:45:01.23	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	No
+RESB_5Sep19_bruv3_GP010028.MP4	  19423	00:23:06.10	REFU_5Sep19_bruv3	00:12:06.09	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	No
+RESB_5Sep19_bruv3_GP030028.MP4	  62956	01:10:36.50	REFU_5Sep19_bruv3	00:59:36.49	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	10	No
+RESB_5Sep19_bruv3_GOPR0028.MP4	  53675	00:14:55.48	REFU_5Sep19_bruv3	00:03:55.47	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae				1	No
+RESB_5Sep19_bruv3_GP010028.MP4	  29373	00:25:52.10	REFU_5Sep19_bruv3	00:14:52.09	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	No
+RESB_5Sep19_bruv3_GP010028.MP4	  59790	00:34:19.56	REFU_5Sep19_bruv3	00:23:19.55	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	No

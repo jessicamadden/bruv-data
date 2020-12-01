@@ -1,0 +1,9 @@
+MaxN
+
+Generated: Friday 03 July 2020 11:36:54
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
+SLHO_7Nov19_6_GOPR0073.MP4	  41413	00:11:30.91	SLHO_7Nov19_bruv6_data	00:00:30.90	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Blepharipodidae	Blepharipoda	occidentalis	32	1	No
+SLHO_7Nov19_6_GP020073.MP4	  44426	00:47:45.30	SLHO_7Nov19_bruv6_data	00:36:45.29	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		18	No
+SLHO_7Nov19_6_GP010073.MP4	  42197	00:29:26.05	SLHO_7Nov19_bruv6_data	00:18:26.04	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Olividae	Callianax	biplicata	42	1	No
+SLHO_7Nov19_6_GOPR0073.MP4	  40072	00:11:08.53	SLHO_7Nov19_bruv6_data	00:00:08.53	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Paralichthyidae	Citharichthys	stigmaeus	20	1	No

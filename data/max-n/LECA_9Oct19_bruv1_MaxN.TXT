@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Thursday, June 18, 2020 15:53:52
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+LECA_9Oct19_1_GP010113.MP4	  60711	00:34:34.92	LECA_9Oct19_bruv1_data	00:19:34.91	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	No
+LECA_9Oct19_1_GP020113.MP4	  32106	00:44:19.76	LECA_9Oct19_bruv1_data	00:29:19.74	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	17	No
+LECA_9Oct19_1_GP010113.MP4	   7417	00:19:45.80	LECA_9Oct19_bruv1_data	00:04:45.79	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	No
+LECA_9Oct19_1_GP010113.MP4	  13714	00:21:30.86	LECA_9Oct19_bruv1_data	00:06:30.84	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	No
+LECA_9Oct19_1_GP010113.MP4	  28118	00:25:31.16	LECA_9Oct19_bruv1_data	00:10:31.15	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	No

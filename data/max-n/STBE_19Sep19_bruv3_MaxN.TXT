@@ -1,0 +1,13 @@
+MaxN
+
+Generated: Tuesday, June 02, 2020 16:35:43
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+STBE_19Sep19_3_GP040043 (1).MP4	   5448	01:12:19.13	STBE_19Sep19_bruv3_data	00:57:19.12	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S											4	No
+STBE_19Sep19_3_GP010043.MP4	  23028	00:24:06.24	STBE_19Sep19_bruv3_data	00:09:06.23	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	No
+STBE_19Sep19_3_GP020043.MP4	  56893	00:51:13.29	STBE_19Sep19_bruv3_data	00:36:13.27	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	No
+STBE_19Sep19_3_GP020043.MP4	  47394	00:48:34.81	STBE_19Sep19_bruv3_data	00:33:34.80	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	No
+STBE_19Sep19_3_GP020043.MP4	  27940	00:43:10.25	STBE_19Sep19_bruv3_data	00:28:10.24	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	No
+STBE_19Sep19_3_GP010043.MP4	  21005	00:23:32.49	STBE_19Sep19_bruv3_data	00:08:32.48	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	4	No
+STBE_19Sep19_3_GOPR0043.MP4	  54216	00:15:04.50	STBE_19Sep19_bruv3_data	00:00:04.49	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	No
+STBE_19Sep19_3_GP020043.MP4	    629	00:35:34.62	STBE_19Sep19_bruv3_data	00:20:34.60	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	No

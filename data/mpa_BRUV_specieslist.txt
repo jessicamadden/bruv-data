@@ -1,9 +1,9 @@
 !FAMILY	GENUS	SPECIES	CAAB CODE	COMMON
 Atherinopsidae	Atherinops	affinis	1	Topsmelt
 Atherinopsidae	Leuresthes 	tenuis	2	Grunion
-Atherinopsidae			3
+Atherinopsidae			3	Unknown Silverside
 Clinidae	Heterostichus 	rostratus	4	Giant kelpfish
-Clupeidae	Sardinops 	sagax	5	Pacific sardine
+Clupeidae	Sardinops 	sagax	5	Sardine
 Embiotocidae	Amphistichus 	argenteus	6	Barred surfperch
 Embiotocidae	Amphistichus 	rhodoterus	7	Redtail surfperch
 Embiotocidae	Brachyistius 	frenatus	8	Kelp perch
@@ -26,13 +26,13 @@ Sciaenidae	Menticirrhus 	undulatus	24	California corbina
 Sciaenidae	Seriphus 	politus	25	Queenfish
 Sciaenidae	Umbrina 	roncador	26	Yellowfin croaker
 Syngnathidae	Syngnathus 	californiensis	27	Kelp pipefish
-Syngnathidae			28
+Syngnathidae			28	Unknown pipefish
 Myliobatidae	Myliobatis 	californica	29	Bat ray
 Triakidae	Triakis 	semifasciata	30	Leopard shark
 Urotrygonidae	Urobatis 	halleri	31	Round stingray
 Blepharipodidae	Blepharipoda	occidentalis	32	Spiny sand crab
-Cancridae	Cancer		33
-Paguridae	Pagurus		34
+Cancridae	Cancer		33	Crab
+Paguridae	Pagurus		34	Hermit crab
 Epialtidae	Loxorhynchus	grandis	35	Sheep crab
 Rhinobatidae	Rhinobatos	productus	36	Shovelnose guitarfish
 Phocidae	Phoca	vitulina	37	Harbor seal
@@ -51,7 +51,7 @@ Cottidae	Scorpaenichthys	marmoratus	50	Cabezon
 Sciaenidae	Cheilotrema	saturnum	51	Black croaker
 Phalacrocoracidae	Phalacrocorax	auritus	52	Double-crested cormorant
 Triakidae	Mustelus	californicus	53	Grey smooth-hound
-Nassariidae	Nassarius		54
+Nassariidae	Nassarius		54	Nassa mud snail
 Sciaenidae	Roncador	stearnsii	55	Spotfin croaker
 Embiotocidae	Hypsurus	caryi	56	Rainbow surfperch
 Embiotocidae	Rhacochilus	toxotes	57	Rubberlip seaperch
@@ -63,3 +63,17 @@ Embiotocidae	Rhacochilus	vacca	62	Pile perch
 Dasyatidae	Dasyatis	dipterura	63	Diamond stingray
 Embiotocidae	Amphistichus	koelzi	64	Calico surfperch
 Carangidae	Trachurus	symmetricus	65	Pacific jack mackerel
+Clinidae	Heterostichus	rostratus	66	Giant kelpfish
+Clupeidae	Sardinops	sagax	67	Sardine
+Embiotocidae	Phanerodon	furcatus	68	White seaperch
+Engraulidae	Engraulis	mordax	69	Northern anchovy
+Haemulidae	Haemulon	californiensis	70	California salema
+Pleuronectidae	Hippoglossus	stenolepis	71	Pacific halibut
+Sygnathidae	Syngnathus	auliscus	72	Barred pipefish
+Sygnathidae	Syngnathus	exilis	73	Barcheek pipefish
+
+
+
+
+
+

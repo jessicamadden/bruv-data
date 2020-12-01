@@ -1,0 +1,69 @@
+Subclass,Family,Scientific_name,Common_name,SP_Code
+Actinopterygii,Sygnathidae,Syngnathus exilis,Barcheek pipefish,SYEX
+Actinopterygii,Sygnathidae,Syngnathus auliscus,Barred pipefish,SYAU
+Actinopterygii,Serranidae,Paralabrax nebulifer,Barred sand bass,PANE
+Actinopterygii,Embiotocidae,Amphistichus argenteus,Barred surfperch,AMAR
+Elasmobranchii,Myliobatidae,Myliobatis californica,Bat ray,MYCA
+Actinopterygii,Sciaenidae,Cheilotrema saturnum,Black croaker,CHSA
+Actinopterygii,Embiotocidae,Embiotoca jacksoni,Black perch,EMJA
+Actinopterygii,Cottidae,Scorpaenichthys marmoratus,Cabezon,SCMA
+Actinopterygii,Embiotocidae,Amphistichus koelzi,Calico surfperch,AMKO
+Actinopterygii,Sciaenidae,Menticirrhus undulatus,California corbina,MEUN
+Actinopterygii,Paralichthyidae,Paralichthys californicus,California halibut,PACA
+Actinopterygii,Muraenidae,Gymnothorax mordax,California moray,GYMO
+Actinopterygii,Haemulidae,Haemulon californiensis,California salema,HACA
+Actinopterygii,Labridae,Semicossyphus pulcher,California sheephead,SEPU
+Invertebrate,Palinuridae,Panulirus interruptus,California spiny lobster ,PAIN
+Invertebrate,Cancridae,Cancer,Crab,CANC
+Elasmobranchii,Dasyatidae,Dasyatis dipterura,Diamond stingray,DADI
+Aves,Phalacrocoracidae,Phalacrocorax auritus,Double-crested cormorant,PHAU
+Actinopterygii,Embiotocidae,Micrometrus minimus,Dwarf perch,MIMI
+Actinopterygii,Clinidae,Heterostichus rostratus,Giant kelpfish,HERO
+Elasmobranchii,Triakidae,Mustelus californicus,Grey smooth-hound,MUCA
+Actinopterygii,Atherinopsidae,Leuresthes tenuis,Grunion,LETE
+Actinopterygii,Kyphosidae,Medialuna californiensis,Halfmoon,MECA
+Mammalia,Phocidae,Phoca vitulina,Harbor seal,PHVI
+Invertebrate,Paguridae,Pagurus,Hermit crab,PAGU
+Elasmobranchii,Heterodontidae,Heterodontus francisci,Horn shark,HEFR
+Actinopterygii,Pleuronectidae,Pleuronichthys verticalis,Hornyhead turbot,PLVE
+Mammalia,Hominidae,Homo sapiens,Human,HOSA
+Actinopterygii,Serranidae,Paralabrax clathratus,Kelp bass,PACL
+Actinopterygii,Embiotocidae,Brachyistius frenatus,Kelp perch,BRFR
+Actinopterygii,Syngnathidae,Syngnathus californiensis,Kelp pipefish,SYCA
+Elasmobranchii,Triakidae,Triakis semifasciata,Leopard shark,TRSE
+Invertebrate,Nassariidae,Nassarius,Nassa mud snail,NASS
+Actinopterygii,Engraulidae,Engraulis mordax,Northern anchovy,ENMO
+Actinopterygii,Kyphosidae,Girella nigricans,Opaleye,GINI
+Actinopterygii,Sphyraenidae,Sphyraena argentea,Pacific barracuda,SPAR
+Actinopterygii,Pleuronectidae,Hippoglossus stenolepis,Pacific halibut,HIST
+Actinopterygii,Carangidae,Trachurus symmetricus,Pacific jack mackerel,TRSY
+Actinopterygii,Paralichthyidae,Citharichthys sordidus,Pacific sanddab,CISO
+Invertebrate,Munididae,Pleuroncodes planipes,Pelagic red crab,PLPL
+Actinopterygii,Embiotocidae,Rhacochilus vacca,Pile perch,RHVA
+Invertebrate,Olividae,Callianax biplicata,Purple olive shell,CABI
+Actinopterygii,Sciaenidae,Seriphus politus,Queenfish,SEPO
+Actinopterygii,Embiotocidae,Hypsurus caryi,Rainbow surfperch,HYCA
+Actinopterygii,Embiotocidae,Amphistichus rhodoterus,Redtail surfperch,AMRH
+Actinopterygii,Labridae,Halichoeres semicinctus,Rock wrasse,HASE
+Elasmobranchii,Urolophidae,Urolophus halleri,Round stingray,URHA
+Actinopterygii,Embiotocidae,Rhacochilus toxotes,Rubberlip seaperch,RHTO
+Actinopterygii,Haemulidae,Haemulon californiensis,Salema,HACA
+Actinopterygii,Clupeidae,Sardinops sagax,Sardine,SASA
+Actinopterygii,Haemulidae,Anisotremus davidsonii,Sargo,ANDA
+Invertebrate,Epialtidae,Loxorhynchus grandis,Sheep crab,LOGR
+Actinopterygii,Embiotocidae,Cymatogaster aggregata,Shiner perch,CAGG
+Elasmobranchii,Rhinobatidae,Rhinobatos productus,Shovelnose guitarfish,RHPR
+Actinopterygii,Embiotocidae,Hyperprosopon ellipticum,Silver surfperch,HYEL
+Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Speckled sanddab,CIST
+Invertebrate,Blepharipodidae,Blepharipoda occidentalis,Spiny sand crab,BLOC
+Actinopterygii,Sciaenidae,Roncador stearnsii,Spotfin croaker,ROST
+Actinopterygii,Mugilidae,Mugil cephalus,Striped mullet,MUCE
+Elasmobranchii,Platyrhinidae,Platyrhinoidis triserata,Thornback guitarfish,PLTR
+Actinopterygii,Atherinopsidae,Atherinops affinis,Topsmelt,ATAF
+Actinopterygii,Syngnathidae,,Unknown pipefish,SYNG
+Actinopterygii,Atherinopsidae,,Unknown Silverside,ATHE
+Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Walleye surfperch,HYAR
+Actinopterygii,Sciaenidae,Atractoscion nobilis,White seabass,ATNO
+Actinopterygii,Embiotocidae,Phanerodon furcatus,White seaperch,PHFU
+Actinopterygii,Sciaenidae,Umbrina roncador,Yellowfin croaker,UMRO
+Actinopterygii,Kyphosidae,Kyphosus azureus,Zebra perch,KYAZ

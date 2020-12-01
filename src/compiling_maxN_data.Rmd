@@ -18,11 +18,11 @@ library(lubridate)
 2. Define files as the list of all files in working directory and loop them all into a data frame
 
 ```{r}
-files <- list.files("C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data/") #Creates a vector of all file names
+files <- list.files("C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data/max-n/") #Creates a vector of all file names
 maxN_data <- data.frame() #Create empty data frame
 for (file in files){
   print(file)
-  df <- read.delim(paste0("C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data/", file), header = TRUE, sep = "\t", dec = ".", skip = 4)
+  df <- read.delim(paste0("C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data/max-n/", file), header = TRUE, sep = "\t", dec = ".", skip = 4)
   maxN_data <- rbind.fill(maxN_data, df)
 } #Loops each file filling into data frame
 ```
@@ -58,5 +58,68 @@ maxN_bruv_data <- maxN_bruv_data %>%
   mutate(code = substr(code, 1, 2)) %>% #clean up code column to just integer %>% 
   mutate(code = as.integer(code)) %>%  #Convert code to class integer
   full_join(common_names, by = c("code" = "caab_code")) #join common names to data set
+
+#Create column for species code
+
+species_codes <- read.csv(here("data", "MPA_sp_codes_fish.csv")) %>% 
+  clean_names() #%>% 
+  #separate("scientific_name", c("genus", "species"), sep = " ", remove = FALSE)
+
+maxN_bruv_data <- maxN_bruv_data %>% 
+  unite("scientific_name", c("genus.x", "species.x"), sep = " ", remove = FALSE) %>% 
+  full_join(species_codes, by = c("common" = "common_name"))
+```
+
+```{r}
+#Create list of MPA and Reference sites
+MPA <- list("WABE", "PERC", "SOCA", "DUCO", "SLHO", "SCRI")
+Reference <- list("PISM", "REFU", "HASK", "LECA", "STBE", "SAEL")
+site_full <- c("Pismo", "Wall", "Percos", "Refugio", "Haskells", "South Campus", "Leo Carrillo", "Dume Cove", "Sleepy Hollow", "Strands", "San Elijo", "Scripps")
+
+#Filter for just columns of interest for maxN summary
+maxn <- maxN_bruv_data %>% 
+  select(site_code, date, day, month, year, bruv, subclass, family.x, genus.x, species.x, sp_code, common, max_n) %>% 
+  mutate(MPA = ifelse(site_code %in% MPA, 1, 0)) %>% #Adds column where value of 1 means MPA site, 0 is ref
+  mutate(site_full = case_when(
+    site_code == "WABE" ~ "Wall Beach", 
+    site_code == "PISM" ~ "Pismo", 
+    site_code == "PERC" ~ "Percos", 
+    site_code == "REFU" ~ "Refugio", 
+    site_code == "HABE" ~ "Haskells", 
+    site_code == "SOCA" ~ "South Campus", 
+    site_code == "LECA" ~ "Leo Carrillo", 
+    site_code == "DUCO" ~ "Dume Cove", 
+    site_code == "SLHO" ~ "Sleepy Hollow", 
+    site_code == "STBE" ~ "Strands", 
+    site_code == "SAEL" ~ "San Elijo", 
+    site_code == "SCRI" ~ "Scripps"
+  )) %>% #Adds column with full site name
+  drop_na(site_code) #removes non-data from species list file
+
+
+
+#Save to csv
+
+write.csv(maxn, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//max_n_data.csv")
+
+
+```
+
+
+
+
+```{r}
+site_richness <- maxn %>% 
+  select(site_full, common) %>% 
+  group_by(site_full) %>% 
+  distinct(common, .keep_all = TRUE)
+  
+ggplot(site_richness, aes(x = site_full)) + 
+  geom_bar()
+```
+
+```{r}
+maxn_counts <- maxn %>% 
+  count(site_full, date)
 ```
 

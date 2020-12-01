@@ -1,0 +1,13 @@
+MaxN
+
+Generated: Thursday, June 25, 2020 14:23:05
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
+LECA_9Oct19_4_GP020144.MP4	  39101	00:46:16.46	LECA_9Oct19_bruv4_data	00:32:16.45	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Atherinopsidae			3	1	No
+LECA_9Oct19_4_GP010144.MP4	  41385	00:29:12.50	LECA_9Oct19_bruv4_data	00:15:12.49	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Cancridae	Cancer	sp		1	No
+LECA_9Oct19_4_GP010144.MP4	  13443	00:21:26.34	LECA_9Oct19_bruv4_data	00:07:26.33	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Embiotocidae	Amphistichus	argenteus	6	3	No
+LECA_9Oct19_4_GP010144.MP4	  34222	00:27:13.00	LECA_9Oct19_bruv4_data	00:13:12.99	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Myliobatidae	Myliobatis	californica	29	1	No
+LECA_9Oct19_4_GP020144.MP4	  10952	00:38:26.84	LECA_9Oct19_bruv4_data	00:24:26.83	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Sciaenidae	Menticirrhus	undulatus	24	1	No
+LECA_9Oct19_4_GP030144.MP4	  14569	00:57:09.24	LECA_9Oct19_bruv4_data	00:43:09.24	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Sciaenidae	Umbrina	roncador	26	2	No
+LECA_9Oct19_4_GP010144.MP4	  50458	00:31:43.87	LECA_9Oct19_bruv4_data	00:17:43.86	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Triakidae	Triakis	semifasciata	30	1	No
+LECA_9Oct19_4_GP020144.MP4	  51145	00:49:37.39	LECA_9Oct19_bruv4_data	00:35:37.39	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Urotrygonidae	Urobatis	halleri	31	1	No

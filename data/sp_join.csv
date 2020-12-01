@@ -1,0 +1,73 @@
+"","subclass","family","scientific_name","common_name","sp_code","x_family","genus","species","caab_code"
+"1","Actinopterygii","Sygnathidae","Syngnathus exilis","Barcheek pipefish","SYEX","Sygnathidae","Syngnathus","exilis",73
+"2","Actinopterygii","Sygnathidae","Syngnathus auliscus","Barred pipefish","SYAU","Sygnathidae","Syngnathus","auliscus",72
+"3","Actinopterygii","Serranidae","Paralabrax nebulifer","Barred sand bass","PANE","Serranidae","Paralabrax","nebulifer",59
+"4","Actinopterygii","Embiotocidae","Amphistichus argenteus","Barred surfperch","AMAR","Embiotocidae","Amphistichus ","argenteus",6
+"5","Elasmobranchii","Myliobatidae","Myliobatis californica","Bat ray","MYCA","Myliobatidae","Myliobatis ","californica",29
+"6","Actinopterygii","Sciaenidae","Cheilotrema saturnum","Black croaker","CHSA","Sciaenidae","Cheilotrema","saturnum",51
+"7","Actinopterygii","Embiotocidae","Embiotoca jacksoni","Black perch","EMJA","Embiotocidae","Embiotoca ","jacksoni",10
+"8","Actinopterygii","Cottidae","Scorpaenichthys marmoratus","Cabezon","SCMA","Cottidae","Scorpaenichthys","marmoratus",50
+"9","Actinopterygii","Embiotocidae","Amphistichus koelzi","Calico surfperch","AMKO","Embiotocidae","Amphistichus","koelzi",64
+"10","Actinopterygii","Sciaenidae","Menticirrhus undulatus","California corbina","MEUN","Sciaenidae","Menticirrhus ","undulatus",24
+"11","Actinopterygii","Paralichthyidae","Paralichthys californicus","California halibut","PACA","Paralichthyidae","Paralichthys ","californicus",21
+"12","Actinopterygii","Muraenidae","Gymnothorax mordax","California moray","GYMO","Muraenidae","Gymnothorax","mordax",60
+"13","Actinopterygii","Haemulidae","Haemulon californiensis","California salema","HACA","Haemulidae","Haemulon","californiensis",70
+"14","Actinopterygii","Labridae","Semicossyphus pulcher","California sheephead","SEPU","Labridae","Semicossyphus","pulcher",46
+"15","Invertebrate","Palinuridae","Panulirus interruptus","California spiny lobster ","PAIN","Palinuridae","Panulirus","interruptus",48
+"16","Invertebrate","Cancridae","Cancer","Crab","CANC","Cancridae","Cancer","",33
+"17","Elasmobranchii","Dasyatidae","Dasyatis dipterura","Diamond stingray","DADI","Dasyatidae","Dasyatis","dipterura",63
+"18","Aves","Phalacrocoracidae","Phalacrocorax auritus","Double-crested cormorant","PHAU","Phalacrocoracidae","Phalacrocorax","auritus",52
+"19","Actinopterygii","Embiotocidae","Micrometrus minimus","Dwarf perch","MIMI","Embiotocidae","Micrometrus ","minimus",13
+"20","Actinopterygii","Clinidae","Heterostichus rostratus","Giant kelpfish","HERO","Clinidae","Heterostichus ","rostratus",4
+"21","Actinopterygii","Clinidae","Heterostichus rostratus","Giant kelpfish","HERO","Clinidae","Heterostichus","rostratus",66
+"22","Elasmobranchii","Triakidae","Mustelus californicus","Grey smooth-hound","MUCA","Triakidae","Mustelus","californicus",53
+"23","Actinopterygii","Atherinopsidae","Leuresthes tenuis","Grunion","LETE","Atherinopsidae","Leuresthes ","tenuis",2
+"24","Actinopterygii","Kyphosidae","Medialuna californiensis","Halfmoon","MECA","Kyphosidae","Medialuna","californiensis",61
+"25","Mammalia","Phocidae","Phoca vitulina","Harbor seal","PHVI","Phocidae","Phoca","vitulina",37
+"26","Invertebrate","Paguridae","Pagurus","Hermit crab","PAGU","Paguridae","Pagurus","",34
+"27","Elasmobranchii","Heterodontidae","Heterodontus francisci","Horn shark","HEFR","Heterodontidae","Heterodontus","francisci",49
+"28","Actinopterygii","Pleuronectidae","Pleuronichthys verticalis","Hornyhead turbot","PLVE","Pleuronectidae","Pleuronichthys ","verticalis",22
+"29","Mammalia","Hominidae","Homo sapiens","Human","HOSA","Hominidae","Homo","sapiens",41
+"30","Actinopterygii","Serranidae","Paralabrax clathratus","Kelp bass","PACL","Serranidae","Paralabrax","clathratus",44
+"31","Actinopterygii","Embiotocidae","Brachyistius frenatus","Kelp perch","BRFR","Embiotocidae","Brachyistius ","frenatus",8
+"32","Actinopterygii","Syngnathidae","Syngnathus californiensis","Kelp pipefish","SYCA","Syngnathidae","Syngnathus ","californiensis",27
+"33","Elasmobranchii","Triakidae","Triakis semifasciata","Leopard shark","TRSE","Triakidae","Triakis ","semifasciata",30
+"34","Invertebrate","Nassariidae","Nassarius","Nassa mud snail","NASS","Nassariidae","Nassarius","",54
+"35","Actinopterygii","Engraulidae","Engraulis mordax","Northern anchovy","ENMO","Engraulidae","Engraulis ","mordax",14
+"36","Actinopterygii","Engraulidae","Engraulis mordax","Northern anchovy","ENMO","Engraulidae","Engraulis","mordax",69
+"37","Actinopterygii","Kyphosidae","Girella nigricans","Opaleye","GINI","Kyphosidae","Girella ","nigricans",17
+"38","Actinopterygii","Sphyraenidae","Sphyraena argentea","Pacific barracuda","SPAR","Sphyraenidae","Sphyraena","argentea",40
+"39","Actinopterygii","Pleuronectidae","Hippoglossus stenolepis","Pacific halibut","HIST","Pleuronectidae","Hippoglossus","stenolepis",71
+"40","Actinopterygii","Carangidae","Trachurus symmetricus","Pacific jack mackerel","TRSY","Carangidae","Trachurus","symmetricus",65
+"41","Actinopterygii","Paralichthyidae","Citharichthys sordidus","Pacific sanddab","CISO","Paralichthyidae","Citharichthys ","sordidus",47
+"42","Invertebrate","Munididae","Pleuroncodes planipes","Pelagic red crab","PLPL","Munididae","Pleuroncodes","planipes",43
+"43","Actinopterygii","Embiotocidae","Rhacochilus vacca","Pile perch","RHVA","Embiotocidae","Rhacochilus","vacca",62
+"44","Invertebrate","Olividae","Callianax biplicata","Purple olive shell","CABI","Olividae","Callianax","biplicata",42
+"45","Actinopterygii","Sciaenidae","Seriphus politus","Queenfish","SEPO","Sciaenidae","Seriphus ","politus",25
+"46","Actinopterygii","Embiotocidae","Hypsurus caryi","Rainbow surfperch","HYCA","Embiotocidae","Hypsurus","caryi",56
+"47","Actinopterygii","Embiotocidae","Amphistichus rhodoterus","Redtail surfperch","AMRH","Embiotocidae","Amphistichus ","rhodoterus",7
+"48","Actinopterygii","Labridae","Halichoeres semicinctus","Rock wrasse","HASE","Labridae","Halichoeres ","semicinctus",19
+"49","Elasmobranchii","Urolophidae","Urolophus halleri","Round stingray","URHA","Urotrygonidae","Urobatis ","halleri",31
+"50","Actinopterygii","Embiotocidae","Rhacochilus toxotes","Rubberlip seaperch","RHTO","Embiotocidae","Rhacochilus","toxotes",57
+"51","Actinopterygii","Haemulidae","Haemulon californiensis","Salema","HACA","Haemulidae","Haemulon ","californiensis",16
+"52","Actinopterygii","Clupeidae","Sardinops sagax","Sardine","SASA","Clupeidae","Sardinops ","sagax",5
+"53","Actinopterygii","Clupeidae","Sardinops sagax","Sardine","SASA","Clupeidae","Sardinops","sagax",67
+"54","Actinopterygii","Haemulidae","Anisotremus davidsonii","Sargo","ANDA","Haemulidae","Anisotremus ","davidsonii",15
+"55","Invertebrate","Epialtidae","Loxorhynchus grandis","Sheep crab","LOGR","Epialtidae","Loxorhynchus","grandis",35
+"56","Actinopterygii","Embiotocidae","Cymatogaster aggregata","Shiner perch","CAGG","Embiotocidae","Cymatogaster ","aggregata",9
+"57","Elasmobranchii","Rhinobatidae","Rhinobatos productus","Shovelnose guitarfish","RHPR","Rhinobatidae","Rhinobatos","productus",36
+"58","Actinopterygii","Embiotocidae","Hyperprosopon ellipticum","Silver surfperch","HYEL","Embiotocidae","Hyperprosopon ","ellipticum",12
+"59","Actinopterygii","Paralichthyidae","Citharichthys stigmaeus","Speckled sanddab","CIST","Paralichthyidae","Citharichthys ","stigmaeus",20
+"60","Invertebrate","Blepharipodidae","Blepharipoda occidentalis","Spiny sand crab","BLOC","Blepharipodidae","Blepharipoda","occidentalis",32
+"61","Actinopterygii","Sciaenidae","Roncador stearnsii","Spotfin croaker","ROST","Sciaenidae","Roncador","stearnsii",55
+"62","Actinopterygii","Mugilidae","Mugil cephalus","Striped mullet","MUCE","Mugilidae","Mugil","cephalus",58
+"63","Elasmobranchii","Platyrhinidae","Platyrhinoidis triserata","Thornback guitarfish","PLTR","Platyrhinidae","Platyrhinoidis","triserata",39
+"64","Actinopterygii","Atherinopsidae","Atherinops affinis","Topsmelt","ATAF","Atherinopsidae","Atherinops","affinis",1
+"65","Actinopterygii","Syngnathidae","","Unknown pipefish","SYNG","Syngnathidae","","",28
+"66","Actinopterygii","Atherinopsidae","","Unknown Silverside","ATHE","Atherinopsidae","","",3
+"67","Actinopterygii","Embiotocidae","Hyperprosopon argenteum","Walleye surfperch","HYAR","Embiotocidae","Hyperprosopon ","argenteum",11
+"68","Actinopterygii","Sciaenidae","Atractoscion nobilis","White seabass","ATNO","Sciaenidae","Atractoscion ","nobilis",23
+"69","Actinopterygii","Embiotocidae","Phanerodon furcatus","White seaperch","PHFU","Embiotocidae","Phanerodon","furcatus",68
+"70","Actinopterygii","Sciaenidae","Umbrina roncador","Yellowfin croaker","UMRO","Sciaenidae","Umbrina ","roncador",26
+"71","Actinopterygii","Kyphosidae","Kyphosus azureus","Zebra perch","KYAZ","Kyphosidae","Kyphosus ","azureus",18
+"72","Actinopterygii","Kyphosidae","Kyphosus azureus","Zebra perch","KYAZ","Kyphosidae","Hermosilla","azurea",45

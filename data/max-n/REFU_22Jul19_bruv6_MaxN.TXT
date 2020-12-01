@@ -1,0 +1,11 @@
+MaxN
+
+Generated: Tuesday, April 07, 2020 14:35:06
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+RESB_22Jul19_6_GP010010.MP4	  21755	00:23:45.01	REFU_22Jul19_bruv6_data	00:08:44.99	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	No
+RESB_22Jul19_6_GP030010.MP4	  58758	01:09:26.46	REFU_22Jul19_bruv6_data	00:54:26.45	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	No
+RESB_22Jul19_6_GP010010.MP4	   6390	00:19:28.67	REFU_22Jul19_bruv6_data	00:04:28.65	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Olividae	Callianax	biplicata	42	2	No
+RESB_22Jul19_6_GP010010.MP4	   1617	00:18:09.04	REFU_22Jul19_bruv6_data	00:03:09.02	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Paralichthyidae				1	No
+RESB_22Jul19_6_GP020010.MP4	  23314	00:41:53.08	REFU_22Jul19_bruv6_data	00:26:53.06	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	No
+RESB_22Jul19_6_GP020010.MP4	  60259	00:52:09.44	REFU_22Jul19_bruv6_data	00:37:09.43	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	2	No

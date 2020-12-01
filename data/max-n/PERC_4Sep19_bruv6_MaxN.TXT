@@ -1,0 +1,12 @@
+MaxN
+
+Generated: Wednesday, May 20, 2020 15:04:49
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+PERC_4Sep19_bruv6_GOPR0032.MP4	  46026	00:12:47.87	PERC_4Sep19_bruv6_data	00:01:47.86	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae				1	No
+PERC_4Sep19_bruv6_GP020032.MP4	  12861	00:38:58.69	PERC_4Sep19_bruv6_data	00:27:58.68	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	12	No
+PERC_4Sep19_bruv6_GOPR0032.MP4	  50634	00:14:04.74	PERC_4Sep19_bruv6_data	00:03:04.73	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	sp		4	No
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45324	00:12:36.16	PERC_4Sep19_bruv6_data	00:01:36.15	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	2	No
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45544	00:12:39.83	PERC_4Sep19_bruv6_data	00:01:39.82	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	2	No
+PERC_4Sep19_bruv6_GOPR0032.MP4	  56868	00:15:48.75	PERC_4Sep19_bruv6_data	00:04:48.74	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	5	No
+PERC_4Sep19_bruv6_GP010032.MP4	  22968	00:24:05.24	PERC_4Sep19_bruv6_data	00:13:05.23	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	No

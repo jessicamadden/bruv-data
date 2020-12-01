@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Tuesday, March 24, 2020 12:02:09
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
+LECA_19Aug19_bruv3_GP030012.MP4	  53052	01:07:51.27	LECA_19Aug19_bruv3_data	00:53:51.26	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	3	No
+LECA_19Aug19_bruv3_GP020012.MP4	  14270	00:39:22.19	LECA_19Aug19_bruv3_data	00:25:22.19	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Cancridae	Cancer		33	1	No
+LECA_19Aug19_bruv3_GP040012.MP4	   9057	01:13:19.34	LECA_19Aug19_bruv3_data	00:59:19.34	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	1	No
+LECA_19Aug19_bruv3_GP010012.MP4	  53163	00:32:29.00	LECA_19Aug19_bruv3_data	00:18:28.99	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	No
+LECA_19Aug19_bruv3_GP020012.MP4	  10191	00:38:14.14	LECA_19Aug19_bruv3_data	00:24:14.14	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	No

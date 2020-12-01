@@ -1,0 +1,33 @@
+---
+title: "BRUV data summary 2019"
+author: "Jessica Madden"
+date: "November 30, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+library(tidyverse)
+library(kableExtra)
+
+# Load in data
+max_n_data <- read.csv(here("data", "max_n_data.csv"))
+```
+
+### Max N Summary Table
+
+```{r}
+total_species_list <- unique(max_n_data$common)
+
+max_n_data_fish <- max_n_data %>% 
+  filter(subclass == "Actinopterygii") 
+fish_species_list <- unique(max_n_data_fish$common)
+
+species_table <- max_n_data %>% 
+  filter(subclass == "Actinopterygii") %>% 
+  group_by(site_full, date) %>% 
+  count(sp_code, common)
+  
+```
+
