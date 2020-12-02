@@ -86,7 +86,6 @@ richness_table
 ggplot(sp_richness, aes(x = reorder(site_full, -geog), y = sp_richness)) +
   geom_bar(stat="identity", 
            aes(fill = type)) +
-  scale_fill_brewer(palette="Dark2") +
   coord_flip() +
   labs(x = "Site", y = "Species richness") +
   theme_minimal()
@@ -138,23 +137,42 @@ ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) 
   labs(x = "Site", y = "Max N") +
   theme_minimal() +
   theme(legend.position = "top")
+
+ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) +
+  geom_bar(position = "fill", stat = "identity") +
+  coord_flip() +
+  labs(x = "Site", y = "% Max N") +
+  theme_minimal() +
+  theme(legend.position = "top")
 ```
+
 ***Figure 2. ** Max N statistic for each species at each site.*
 
 #### Max N by family
 
 ```{r}
+# Make table of maxN aggregated by family
+
 maxN_fam_table <- max_n_data %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
+  group_by(site_full, geog, common, family_x) %>% 
+  summarise(sp_maxN = max(max_n)) %>%
   group_by(site_full, geog, family_x) %>% 
-  summarise(maxN = max(max_n))
+  summarise(fam_maxN = sum(sp_maxN))
+  
 
-ggplot(maxN_fam_table, aes(fill = family_x, x = reorder(site_full, -geog), y = maxN)) +
+ggplot(maxN_fam_table, aes(fill = family_x, x = reorder(site_full, -geog), y = fam_maxN)) +
   geom_bar(position = "stack", stat = "identity") +
   coord_flip() +
   labs(x = "Site", y = "Max N") +
   theme_minimal() +
   theme(legend.position = "top")
 
+ggplot(maxN_fam_table, aes(fill = site_full, x = family_x, y = fam_maxN)) +
+  geom_bar(position = "dodge", stat = "identity") +
+  labs(x = "Site", y = "Max N") +
+  coord_flip() +
+  theme_minimal() 
 ```
+
 ***Figure 3. ** Max N statistic for each family at each site.*
