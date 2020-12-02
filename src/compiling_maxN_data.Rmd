@@ -7,7 +7,6 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(plyr)
 library(tidyverse)
 library(here)
 library(janitor)
@@ -36,6 +35,7 @@ maxN_cleaned <- maxN_data %>%
 4. Some data wrangling
 ```{r}
 #Use OpCode to fill site, date, and bruv columns
+
 maxN_bruv_data <- maxN_cleaned %>% 
   mutate(site_code = substr(op_code, 1, 4)) %>% 
   mutate(bruv = substr(op_code, 18, 18)) %>% 
@@ -45,7 +45,6 @@ maxN_bruv_data <- maxN_cleaned %>%
   mutate(month = month(date)) %>%  #Creates column for month
   mutate(year = year(date)) #Creates column for year
   
-#Line 42: I realized that I wasn't consistent with the number of characters in the date entered in the OpCode in EventMeasure. I corrected by hand in output files, but need to go back and change in the EventMeasure file too for reproducibility.
 
 ```
 
@@ -77,8 +76,8 @@ Reference <- list("PISM", "REFU", "HASK", "LECA", "STBE", "SAEL")
 site_full <- c("Pismo", "Wall", "Percos", "Refugio", "Haskells", "South Campus", "Leo Carrillo", "Dume Cove", "Sleepy Hollow", "Strands", "San Elijo", "Scripps")
 
 #Filter for just columns of interest for maxN summary
-maxn <- maxN_bruv_data %>% 
-  select(site_code, date, day, month, year, bruv, subclass, family.x, genus.x, species.x, sp_code, common, max_n) %>% 
+max_n_data <- maxN_bruv_data %>% 
+  select(site_code, op_code, date, day, month, year, bruv, subclass, family.x, genus.x, species.x, sp_code, common, max_n) %>% 
   mutate(MPA = ifelse(site_code %in% MPA, 1, 0)) %>% #Adds column where value of 1 means MPA site, 0 is ref
   mutate(site_full = case_when(
     site_code == "WABE" ~ "Wall Beach", 
@@ -94,32 +93,33 @@ maxn <- maxN_bruv_data %>%
     site_code == "SAEL" ~ "San Elijo", 
     site_code == "SCRI" ~ "Scripps"
   )) %>% #Adds column with full site name
-  drop_na(site_code) #removes non-data from species list file
-
+  drop_na(site_code) %>%  #removes non-data from species list file
+    mutate(geog = case_when(
+    site_code == "WABE" ~ 1, 
+    site_code == "PISM" ~ 2, 
+    site_code == "PERC" ~ 3, 
+    site_code == "REFU" ~ 4, 
+    site_code == "SOCA" ~ 5, 
+    site_code == "HABE" ~ 6, 
+    site_code == "DUCO" ~ 7, 
+    site_code == "LECA" ~ 8, 
+    site_code == "SLHO" ~ 9, 
+    site_code == "STBE" ~ 10, 
+    site_code == "SCRI" ~ 11, 
+    site_code == "SAEL" ~ 12
+  )) %>% #added geographic sorting column
+  mutate(type = case_when(
+    MPA == "1" ~ "MPA", 
+    MPA == "0" ~ "Reference"
+  )) %>%  #adds columns for mpa/reference
+  arrange(geog, date, bruv)
 
 
 #Save to csv
 
-write.csv(maxn, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//max_n_data.csv")
+write.csv(max_n_data, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//max_n_data.csv")
 
 
 ```
 
-
-
-
-```{r}
-site_richness <- maxn %>% 
-  select(site_full, common) %>% 
-  group_by(site_full) %>% 
-  distinct(common, .keep_all = TRUE)
-  
-ggplot(site_richness, aes(x = site_full)) + 
-  geom_bar()
-```
-
-```{r}
-maxn_counts <- maxn %>% 
-  count(site_full, date)
-```
 

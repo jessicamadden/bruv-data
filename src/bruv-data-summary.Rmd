@@ -20,43 +20,63 @@ max_n_data <- read.csv(here("data", "max_n_data.csv")) %>%
   clean_names()
 ```
 
-### Initial wrangling
 
 ```{r}
-max_n_data <- max_n_data %>% 
-    mutate(geog = case_when(
-    site_code == "WABE" ~ 1, 
-    site_code == "PISM" ~ 2, 
-    site_code == "PERC" ~ 3, 
-    site_code == "REFU" ~ 4, 
-    site_code == "SOCA" ~ 5, 
-    site_code == "HABE" ~ 6, 
-    site_code == "DUCO" ~ 7, 
-    site_code == "LECA" ~ 8, 
-    site_code == "SLHO" ~ 9, 
-    site_code == "STBE" ~ 10, 
-    site_code == "SCRI" ~ 11, 
-    site_code == "SAEL" ~ 12
-  )) %>% #added geographic sorting column
-  mutate(type = case_when(
-    mpa == "1" ~ "MPA", 
-    mpa == "0" ~ "Reference"
-  )) %>%  #adds columns for mpa/reference
-  arrange(geog, date, bruv)
+# Count number of distinct species
 
+species_total <- max_n_data %>% 
+  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
+  pull(sp_code) %>% 
+  n_distinct()
 
+# Count number of distinct families
+
+families_total <- max_n_data %>% 
+  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
+  pull(family_x) %>% 
+  n_distinct()
 ```
+
+
+A total of `r species_total` species belonging to `r families_total` families were recorded from BRUV deployments at all of the locations combined, and of these approximately  were present at three or more locations. 
 
 ### % Presence
 
 ```{r}
-presence_table <- max_n_data %>% 
+# Calculate number of deployments in which each species is present for each site
+
+presence <- max_n_data %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
-  group_by(site_full, date) %>% 
-  count(sp_code, common)
+  group_by(site_full) %>% 
+  count(sp_code, common) %>% 
+  rename("count" = "n")
   
+#Calculate number of deployments for each site from max_n_data data frame
+
+number_deployments <- max_n_data %>% 
+  group_by(site_full) %>% 
+  summarize(deployments = n_distinct(op_code))
+
+# Join data frames and calc % presence for each species site combination
+
+presence_table <- presence %>% 
+  full_join(number_deployments, by = "site_full") %>% 
+  mutate(deployments = as.numeric(deployments)) %>% 
+  mutate(perc_presence = (count / deployments)*100)
+
+# Obtain Max % presence for each species
+
+max_presence_table <- presence_table %>% 
+  group_by(common) %>% 
+  summarize(max_presence = max(perc_presence))
 ```
 
+Table 1. Max % presence 
+```{r}
+max_presence_table %>% 
+  kbl() %>% 
+  kable_styling()
+```
 
 ### Species Richness
 
@@ -112,7 +132,10 @@ maxN_wider <- maxN_table %>%
               names_from = site_full, 
               values_from = maxN) %>% 
   arrange(family_x) %>% 
-  rename("Family" = "family_x", "Common name" = "common")
+    full_join(max_presence_table, by = "common") %>% 
+  relocate(max_presence, .after = family_x) %>% 
+  rename("Common name" = "common", "Family" = "family_x", "Max % presence" = "max_presence")
+
 
 # Change NAs to zeroes
 
@@ -122,10 +145,10 @@ maxN_wider <- maxN_table %>%
 ***Table 2.** Max N statistic for each species at 10 sampling locations. Number represents the maximum number of individuals belonging to each species counted in a single frame, across all sampling videos at each site (n = 9).* 
 ```{r}
 opts <- options(knitr.kable.NA = "")
-maxN_wider %>% 
-  kbl() %>% 
-  kable_styling()
 
+maxN_wider %>% 
+  kable(digits = 0) %>% 
+  kable_styling()
 ```
 
 
@@ -142,8 +165,7 @@ ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) 
   geom_bar(position = "fill", stat = "identity") +
   coord_flip() +
   labs(x = "Site", y = "% Max N") +
-  theme_minimal() +
-  theme(legend.position = "top")
+  theme_minimal()
 ```
 
 ***Figure 2. ** Max N statistic for each species at each site.*
