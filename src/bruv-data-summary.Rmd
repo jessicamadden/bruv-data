@@ -2,7 +2,9 @@
 title: "BRUV data summary 2019"
 author: "Jessica Madden"
 date: "November 30, 2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -38,7 +40,7 @@ families_total <- max_n_data %>%
 ```
 
 
-A total of **`r species_total` species** belonging to **`r families_total` families** were recorded from BRUV deployments at all of the locations combined, and of these approximately  were present at three or more locations. 
+A total of **`r species_total` species** belonging to **`r families_total` families** were recorded from BRUV deployments at all of the locations combined. This summary includes MaxN data recorded to species (with the exception of the category 'unknown silversides'). There are a number of point tags that are to genus, family, or unknown that are not included here, though these tags that are excluded should not greatly affect the species richness or MaxN data represented here.
 
 
 ```{r}
@@ -83,7 +85,7 @@ sp_richness <- max_n_data %>%
 
 ```
 
-***Table 1.** Species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9).*
+***Table 1.** Total species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9). For all MPA/Reference pairs except the San Diego site, the MPA site had greater species richness.*
 ```{r}
 richness_table <- sp_richness %>% 
   rename("Species richness" = "sp_richness") %>% 
@@ -100,14 +102,14 @@ ggplot(sp_richness, aes(x = reorder(site_full, -geog), y = sp_richness)) +
   geom_bar(stat="identity", 
            aes(fill = type)) +
   coord_flip() +
-  labs(x = "Site", y = "Species richness") +
+  labs(x = "Site", y = "Total species richness") +
   theme_minimal() +
   guides(fill=guide_legend(title="Type"))
 ```
 
-***Figure 1.** Total species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9).*
+***Figure 1.** Total species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9). Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude.*
 
-#### Mean species richness
+### Mean Species Richness
 
 ```{r}
 mean_richness <- max_n_data %>% 
@@ -127,19 +129,17 @@ mean_richness_table <- mean_richness %>%
             n_sp_richness = n()) %>% 
   arrange(geog)
 ```
-Table. Summary statistics of species richness from BRUV deployments at ten sampling locations. Mean species richness is an average of each deployment for each site.
+***Table 2.** Summary statistics of species richness from BRUV deployments at ten sampling locations. Mean species richness represents the number of unique species (Actinopterygii, Elasmobranchii) observed in each deployment averaged across all deployments for each site.*
 ```{r}
 mean_rich_table_clean <- mean_richness_table %>%  
   subset(select=-geog) %>% 
-  kable(col.names = c("Site", "Type", "Mean species richness", "Standard deviation", "Min", "Max", "Median", "N")) %>% 
+  kable(digits=2, 
+        col.names = c("Site", "Type", "Mean species richness", "SD", "Min", "Max", "Median", "n")) %>% 
   kable_styling()
 mean_rich_table_clean
 ```
 
 ```{r}
-ggplot(mean_richness, aes(x = site_full, y = sp_rich)) +
-  geom_boxplot()
-
 ggplot(mean_richness_table, aes(x = reorder(site_full, -geog), y = mean_sp_richness)) +
   geom_bar(stat = "identity", 
            aes(fill = type)) +
@@ -152,9 +152,11 @@ ggplot(mean_richness_table, aes(x = reorder(site_full, -geog), y = mean_sp_richn
   guides(fill=guide_legend(title="Type"))
 ```
 
-### Max N 
+***Figure 2.** Mean species richness at each site. Mean species richness represents the number of unique species (Actinopterygii, Elasmobranchii) observed in each deployment averaged across all deployments for each site (n = 9). Error bars indicate standard deviation from the mean. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude.*
 
-#### Max N by species
+### MaxN 
+
+#### MaxN by species
 
 MaxN statistic represents the maximum number of individuals belonging to each species counted in a single frame, across all sampling videos at each site (n = 9). Max % presence is the percentage of deployments in which a species is present, from the site in which the species had the highest % presence. 
 
@@ -187,7 +189,7 @@ maxN_wider <- maxN_table %>%
 #maxN_wider[is.na(maxN_wider)] = 0
 ```
 
-***Table 2.** Max N statistic for each species present at the 10 sampling locations and Max % presence at any one location.* 
+***Table 3.** MaxN statistic for each species present at the 10 sampling locations and Max % presence at any one location. * 
 ```{r}
 opts <- options(knitr.kable.NA = "")
 
@@ -195,7 +197,6 @@ maxN_wider %>%
   kable(digits = 0) %>% 
   kable_styling()
 ```
-
 
 
 ```{r}
@@ -209,6 +210,12 @@ ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) 
         legend.title = element_blank(), 
         legend.text = element_text(size = 8))
 
+
+```
+
+***Figure 3.** MaxN statistic for each site. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude. Stacked colors indicate unique species, with the exception of 'unknown silversides' possibly including topsmelt.*
+
+```{r}
 ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) +
   geom_bar(position = "fill", stat = "identity") +
   coord_flip() +
@@ -220,7 +227,7 @@ ggplot(maxN_table, aes(fill = common, x = reorder(site_full, -geog), y = maxN)) 
         legend.text = element_text(size = 8))
 ```
 
-***Figure 2. ** Max N statistic for each species at each site.*
+***Figure 4.** Composition of species at each site as a proportion of MaxN recorded. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude. Stacked colors indicate unique species, with the exception of 'unknown silversides' possibly including topsmelt.*
 
 #### Max N by family
 
@@ -241,23 +248,24 @@ ggplot(maxN_fam_table, aes(fill = family_x, x = reorder(site_full, -geog), y = f
   labs(x = "Site", 
        y = "Max N") +
   theme_minimal() +
-  theme(legend.position = "top") +
-  guides(fill=guide_legend(title="Family"))
+  theme(legend.position = "top", 
+        legend.title = element_blank())
 ```
 
-***Figure 3. ** Max N statistic for each family at each site.*
+***Figure 5. ** MaxN statistic agregated by family for each site. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude. Stacked colors indicate unique families.*
 
 ```{r}
 ggplot(maxN_fam_table, aes(fill = family_x, x = reorder(site_full, -geog), y = fam_maxN)) +
   geom_bar(position = "fill", stat = "identity") +
   coord_flip() +
-  labs(x = "Site", y = "Max N") +
+  labs(x = "Site", y = "% Max N") +
   theme_minimal() +
-  theme(legend.position = "top")
+  theme(legend.position = "top", 
+        legend.title = element_blank())
 
 ```
-
-***Figure 4.** Composition of species by family at each site as a proportion of MaxN recorded.*
+ 
+***Figure 6.** Composition of species aggregated by family at each site as a proportion of MaxN recorded. Percent contribution of MAxN is between 0 - 1.0. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude. Stacked colors indicate unique families.*
 
 ```{r eval=FALSE}
 ggplot(maxN_fam_table, aes(fill = site_full, x = family_x, y = fam_maxN)) +
@@ -268,7 +276,9 @@ ggplot(maxN_fam_table, aes(fill = site_full, x = family_x, y = fam_maxN)) +
 ```
 
 
-Mean maxN for species by each site seperately
+
+
+#### Mean maxN
 
 ```{r}
 # Change NAs to zeroes
@@ -289,7 +299,7 @@ sampling_dates <- max_n_data %>%
 
 species_list_site <- max_n_data %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select("site_full", "geog", "type", "common") %>%
+  select("site_full", "geog", "type", "common", "family_x") %>%
   group_by(site_full) %>% 
   distinct(common, .keep_all = TRUE) %>% 
   mutate(max_n = 0)
@@ -309,7 +319,7 @@ perc_sp <- species_list_site %>%
 perc_max_n <- max_n_data %>% 
   filter(site_full == "Percos") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 perc_max_n_full <- perc_max_n %>% 
   rbind(perc_sp) %>% 
@@ -321,7 +331,7 @@ perc_max_n_full <- perc_max_n %>%
 # Get summary stats on site
 
 perc_summary <- perc_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
@@ -344,7 +354,7 @@ refu_sp <- species_list_site %>%
 refu_max_n <- max_n_data %>% 
   filter(site_full == "Refugio") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 refu_max_n_full <- refu_max_n %>% 
   rbind(refu_sp) %>% 
@@ -356,7 +366,7 @@ refu_max_n_full <- refu_max_n %>%
 # Get summary stats on site
 
 refu_summary <- refu_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
@@ -378,7 +388,7 @@ soca_sp <- species_list_site %>%
 soca_max_n <- max_n_data %>% 
   filter(site_full == "South Campus") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 soca_max_n_full <- soca_max_n %>% 
   rbind(soca_sp) %>% 
@@ -390,7 +400,7 @@ soca_max_n_full <- soca_max_n %>%
 # Get summary stats on site
 
 soca_summary <- soca_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
@@ -412,7 +422,7 @@ habe_sp <- species_list_site %>%
 habe_max_n <- max_n_data %>% 
   filter(site_full == "Haskells") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 habe_max_n_full <- habe_max_n %>% 
   rbind(habe_sp) %>% 
@@ -424,7 +434,7 @@ habe_max_n_full <- habe_max_n %>%
 # Get summary stats on site
 
 habe_summary <- habe_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
@@ -446,7 +456,7 @@ duco_sp <- species_list_site %>%
 duco_max_n <- max_n_data %>% 
   filter(site_full == "Dume Cove") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 duco_max_n_full <- duco_max_n %>% 
   rbind(duco_sp) %>% 
@@ -458,7 +468,7 @@ duco_max_n_full <- duco_max_n %>%
 # Get summary stats on site
 
 duco_summary <- duco_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
@@ -480,7 +490,7 @@ leca_sp <- species_list_site %>%
 leca_max_n <- max_n_data %>% 
   filter(site_full == "Leo Carrillo") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 leca_max_n_full <- leca_max_n %>% 
   rbind(leca_sp) %>% 
@@ -492,7 +502,7 @@ leca_max_n_full <- leca_max_n %>%
 # Get summary stats on site
 
 leca_summary <- leca_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
@@ -514,7 +524,7 @@ slho_sp <- species_list_site %>%
 slho_max_n <- max_n_data %>% 
   filter(site_full == "Sleepy Hollow") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 slho_max_n_full <- slho_max_n %>% 
   rbind(slho_sp) %>% 
@@ -526,7 +536,7 @@ slho_max_n_full <- slho_max_n %>%
 # Get summary stats on site
 
 slho_summary <- slho_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
@@ -548,7 +558,7 @@ stbe_sp <- species_list_site %>%
 stbe_max_n <- max_n_data %>% 
   filter(site_full == "Strands") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 stbe_max_n_full <- stbe_max_n %>% 
   rbind(stbe_sp) %>% 
@@ -560,47 +570,13 @@ stbe_max_n_full <- stbe_max_n %>%
 # Get summary stats on site
 
 stbe_summary <- stbe_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
             max = max(max_n), 
             n = n()) %>% 
   mutate("Site" = "Strands")
-
-# San Elijo
-
-sael_dates <- sampling_dates %>% 
-  filter(site_full == "San Elijo") %>% 
-  select(site_full, date, bruv)
-
-sael_sp <- species_list_site %>% 
-  filter(site_full == "San Elijo") %>% 
-  merge(sael_dates, by="site_full")
-  
-
-sael_max_n <- max_n_data %>% 
-  filter(site_full == "San Elijo") %>% 
-  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
-
-sael_max_n_full <- sael_max_n %>% 
-  rbind(sael_sp) %>% 
-  group_by(date, bruv) %>% 
-  arrange(-max_n) %>% 
-  distinct(common, .keep_all = TRUE) %>% 
-  arrange(date, bruv)
-
-# Get summary stats on site
-
-sael_summary <- sael_max_n_full %>% 
-  group_by(common) %>% 
-  summarize(mean_max_n = mean(max_n), 
-            sd_max_n = sd(max_n),
-            min = min(max_n), 
-            max = max(max_n), 
-            n = n()) %>% 
-  mutate("Site" = "San Elijo")
 
 # Scripps
 
@@ -616,7 +592,7 @@ scri_sp <- species_list_site %>%
 scri_max_n <- max_n_data %>% 
   filter(site_full == "Scripps") %>% 
   filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
-  select(site_full, date, geog, type, bruv, common, max_n)
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
 
 scri_max_n_full <- scri_max_n %>% 
   rbind(scri_sp) %>% 
@@ -628,13 +604,48 @@ scri_max_n_full <- scri_max_n %>%
 # Get summary stats on site
 
 scri_summary <- scri_max_n_full %>% 
-  group_by(common) %>% 
+  group_by(common, family_x) %>% 
   summarize(mean_max_n = mean(max_n), 
             sd_max_n = sd(max_n),
             min = min(max_n), 
             max = max(max_n), 
             n = n()) %>% 
   mutate("Site" = "Scripps")
+
+# San Elijo
+
+sael_dates <- sampling_dates %>% 
+  filter(site_full == "San Elijo") %>% 
+  select(site_full, date, bruv)
+
+sael_sp <- species_list_site %>% 
+  filter(site_full == "San Elijo") %>% 
+  merge(sael_dates, by="site_full")
+  
+
+sael_max_n <- max_n_data %>% 
+  filter(site_full == "San Elijo") %>% 
+  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>%
+  select(site_full, date, geog, type, bruv, common, family_x, max_n)
+
+sael_max_n_full <- sael_max_n %>% 
+  rbind(sael_sp) %>% 
+  group_by(date, bruv) %>% 
+  arrange(-max_n) %>% 
+  distinct(common, .keep_all = TRUE) %>% 
+  arrange(date, bruv)
+
+# Get summary stats on site
+
+sael_summary <- sael_max_n_full %>% 
+  group_by(common, family_x) %>% 
+  summarize(mean_max_n = mean(max_n), 
+            sd_max_n = sd(max_n),
+            min = min(max_n), 
+            max = max(max_n), 
+            n = n()) %>% 
+  mutate("Site" = "San Elijo")
+
 
 # Merge into one table
 
@@ -646,9 +657,110 @@ mean_maxN_site_table <- perc_summary %>%
   rbind(leca_summary) %>% 
   rbind(slho_summary) %>% 
   rbind(stbe_summary) %>% 
-  rbind(sael_summary) %>% 
   rbind(scri_summary) %>% 
+  rbind(sael_summary) %>% 
   relocate("Site", .before = "common")
   
 ```
+
+***Table 3.** Summary statistics of mean maxN of species at each site out of n deployments. This average includes maxN = 0 for deployments in which a species known to be present at the site is absent.*
+```{r}
+mean_maxN_site_table_wider <- mean_maxN_site_table %>%
+  select("Site", "common", "family_x", "mean_max_n", "sd_max_n") %>% 
+  pivot_wider(names_from = Site,
+              values_from = c(mean_max_n, sd_max_n)
+              ) %>% 
+  clean_names() %>% 
+  relocate(sd_max_n_percos, .after = mean_max_n_percos) %>% 
+  relocate(sd_max_n_refugio, .after = mean_max_n_refugio) %>% 
+  relocate(sd_max_n_south_campus, .after = mean_max_n_south_campus) %>%
+  relocate(sd_max_n_haskells, .after = mean_max_n_haskells) %>% 
+  relocate(sd_max_n_dume_cove, .after = mean_max_n_dume_cove) %>%
+  relocate(sd_max_n_leo_carrillo, .after = mean_max_n_leo_carrillo) %>% 
+  relocate(sd_max_n_sleepy_hollow, .after = mean_max_n_sleepy_hollow) %>% 
+  relocate(sd_max_n_strands, .after = mean_max_n_strands) %>% 
+  relocate(sd_max_n_scripps, .after = mean_max_n_scripps) %>% 
+  relocate(sd_max_n_san_elijo, .after = mean_max_n_san_elijo) %>% 
+  arrange(family_x) %>% 
+  kable(digits=2, 
+          col.names = c("Common name", "Family", "Percos Mean MaxN", "Percos SD", "Refugio Mean MaxN", "Refugio SD", "South Campus Mean MaxN", "South Campus SD", "Haskells Mean MaxN", "Haskells SD", "Dume Cove Mean MaxN", "Dume Cove SD", "Leo Carrillo Mean MaxN", "Leo Carrillo SD", "Sleepy Hollow Mean MaxN", "Sleepy Hollow SD", "Strands Mean MaxN", "Strands SD", "Scripps Mean MaxN", "Scripps SD", "San Elijo Mean MaxN", "San Elijo SD")) %>% 
+  kable_styling()
+mean_maxN_site_table_wider
+```
+**(a)**
+```{r}
+perc_refu <- perc_summary %>% 
+  rbind(refu_summary)
+
+ggplot(perc_refu, aes(x = common, y = mean_max_n)) +
+  geom_bar(stat = "identity", 
+           fill = "lightslategray") +
+  coord_flip() +
+  facet_wrap(~Site) +
+  theme_minimal() +
+  labs(x = "Common name", y = "Mean maxN")
+```
+
+
+**(b)**
+```{r}
+soca_habe <- soca_summary %>% 
+  rbind(habe_summary)
+
+ggplot(soca_habe, aes(x = common, y = mean_max_n)) +
+  geom_bar(stat = "identity", 
+           fill = "lightslategray") +
+  coord_flip() +
+  facet_wrap(~Site) +
+  theme_minimal() +
+  labs(x = "Common name", y = "Mean maxN")
+```
+
+**(c)**
+```{r}
+duco_leca <- duco_summary %>% 
+  rbind(leca_summary)
+
+ggplot(duco_leca, aes(x = common, y = mean_max_n)) +
+  geom_bar(stat = "identity", 
+           fill = "lightslategray") +
+  coord_flip() +
+  facet_wrap(~Site) +
+  theme_minimal() +
+  labs(x = "Common name", y = "Mean maxN")
+```
+
+
+**(d)**
+```{r}
+slho_stbe <- slho_summary %>% 
+  rbind(stbe_summary)
+
+ggplot(slho_stbe, aes(x = common, y = mean_max_n)) +
+  geom_bar(stat = "identity", 
+           fill = "lightslategray") +
+  coord_flip() +
+  facet_wrap(~Site) +
+  theme_minimal() +
+  labs(x = "Common name", y = "Mean maxN")
+```
+
+
+**(e)**
+```{r}
+scri_sael <- scri_summary %>% 
+  rbind(sael_summary)
+
+ggplot(scri_sael, aes(x = common, y = mean_max_n)) +
+  geom_bar(stat = "identity", 
+           fill = "lightslategray") +
+  coord_flip() +
+  facet_wrap(~Site) +
+  theme_minimal() +
+  labs(x = "Common name", y = "Mean maxN")
+```
+
+
+
+***Figure 7 (a-e).** Mean MaxN of all species observed at each site for each site pair. Error bars were left off because of relatively large standard deviation (see Table 3). *
 
