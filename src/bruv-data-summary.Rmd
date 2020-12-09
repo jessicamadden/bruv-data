@@ -109,6 +109,41 @@ ggplot(sp_richness, aes(x = reorder(site_full, -geog), y = sp_richness)) +
 
 ***Figure 1.** Total species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9). Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude.*
 
+### Mean species richness: MPA vs. Reference comparison
+
+Average number of unique individuals of either subclass Actinopterygii or Elasmobranchii per bruv deployment in MPAs vs. Reference sites
+
+```{r}
+mpa_ref_mean_richness <- max_n_data %>% 
+  filter(subclass == "Actinopterygii" | subclass == "Elasmobranchii") %>% 
+  group_by(op_code, type) %>% 
+  summarise(n_distinct(common)) %>% 
+  rename("sp_rich" = "n_distinct(common)") %>% 
+  group_by(type) %>% 
+  summarise(
+    mean_richness = mean(sp_rich), 
+    sd_richness = sd(sp_rich),
+    min = min(sp_rich), 
+    max = max(sp_rich),
+    sample_size = n()
+  ) %>% 
+  mutate(standard_error = sd_richness/(sqrt(sample_size)))
+  
+# Plot it
+
+ggplot(mpa_ref_mean_richness, aes(x = type, y = mean_richness)) +
+  geom_bar(stat = "identity", 
+           aes(fill = type)) +
+  geom_errorbar(aes(x = type, ymax = mean_richness + standard_error, ymin = mean_richness - standard_error), 
+                width = 0.05, 
+                alpha = 0.9) +
+  labs(y = "Mean species richness", x = "", title = "Mean species richness by MPA status") +
+  theme_minimal() +
+  guides(fill=guide_legend(title="Type"))
+```
+
+***Figure.** Mean species richness with MPA and reference sites, averaged from each BRUV deployment.*
+
 ### Mean Total Species Richness
 
 ```{r}
@@ -155,6 +190,7 @@ ggplot(mean_richness_table, aes(x = reorder(site_full, -geog), y = mean_sp_richn
 ```
 
 ***Figure 2.** Mean species richness at each site. Mean species richness represents the number of unique species (Actinopterygii, Elasmobranchii) observed in each deployment averaged across all deployments for each site (n = 9). Error bars indicate standard error. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude.*
+
 
 ### Mean species richness: Actinopterygii
 
@@ -366,10 +402,19 @@ ggplot(maxN_fam_table, aes(fill = site_full, x = family_x, y = fam_maxN)) +
   theme_minimal()
 ```
 
+### Proportion of catch
+
+```{r}
+site_proportion_data <- species_summary_by_site %>%
+  group_by(site) %>%
+  mutate(total_fish_caught = sum(no_fish)) %>%
+  mutate(prop_of_catch = no_fish/total_fish_caught)
+```
 
 
 
-#### Mean maxN
+### Mean maxN
+
 
 ```{r}
 # Change NAs to zeroes
