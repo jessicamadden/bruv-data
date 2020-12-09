@@ -81,8 +81,9 @@ sp_richness <- max_n_data %>%
   group_by(site_full, geog, type) %>% 
   summarise(n_distinct(common)) %>% 
   rename("sp_richness" = "n_distinct(common)") %>% 
-  arrange(geog)
-
+  arrange(geog) %>% 
+  cbind(pair = c(1, 1, 2, 2, 3, 3, 4, 4, 5, 5)) %>% 
+  arrange(-geog)
 ```
 
 ***Table 1.** Total species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9). For all MPA/Reference pairs except the San Diego site, the MPA site had greater species richness.*
@@ -98,8 +99,9 @@ richness_table
 ```
 
 ```{r}
-ggplot(sp_richness, aes(x = reorder(site_full, -geog), y = sp_richness)) +
-  geom_bar(stat="identity", 
+ggplot(sp_richness, aes(x = pair, y = sp_richness, fill = site_full)) +
+  geom_bar(stat = "identity", 
+           position = "dodge", 
            aes(fill = type)) +
   coord_flip() +
   labs(x = "Site", y = "Total species richness") +
@@ -133,13 +135,25 @@ mpa_ref_mean_richness <- max_n_data %>%
 
 ggplot(mpa_ref_mean_richness, aes(x = type, y = mean_richness)) +
   geom_bar(stat = "identity", 
-           aes(fill = type)) +
+           aes(fill = type),
+           color="black", 
+           size=0.25) +
   geom_errorbar(aes(x = type, ymax = mean_richness + standard_error, ymin = mean_richness - standard_error), 
                 width = 0.05, 
                 alpha = 0.9) +
   labs(y = "Mean species richness", x = "", title = "Mean species richness by MPA status") +
-  theme_minimal() +
-  guides(fill=guide_legend(title="Type"))
+  theme(axis.line.x = element_line(size=0.25),
+                     axis.line.y = element_line(size=0.25),
+                     axis.text.x = element_text(size=8, color="black", vjust=0.3),
+                     axis.text.y = element_text(size=8, color="black"),
+                     axis.ticks=element_line(color="black", size=0.25),
+                     axis.title.x = element_text(size = 10, color = "black"),
+                     legend.position="none",
+                     panel.background=element_blank(),
+                     panel.grid=element_blank(),
+                     plot.title=element_text(face="italic", hjust=0.5),
+                     strip.background=element_blank(),
+                     strip.text=element_text(size=8))
 ```
 
 ***Figure.** Mean species richness with MPA and reference sites, averaged from each BRUV deployment.*
