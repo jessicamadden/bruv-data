@@ -3,8 +3,8 @@ title: "BRUV data summary 2019"
 author: "Jessica Madden"
 date: "November 30, 2020"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -109,7 +109,7 @@ ggplot(sp_richness, aes(x = reorder(site_full, -geog), y = sp_richness)) +
 
 ***Figure 1.** Total species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9). Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude.*
 
-### Mean Species Richness
+### Mean Total Species Richness
 
 ```{r}
 mean_richness <- max_n_data %>% 
@@ -127,32 +127,123 @@ mean_richness_table <- mean_richness %>%
             max_sp_richness = max(sp_rich), 
             median_sp_richness = median(sp_rich), 
             n_sp_richness = n()) %>% 
+  mutate(standard_error = (sd_sp_richness / sqrt(n_sp_richness))) %>% 
   arrange(geog)
 ```
 ***Table 2.** Summary statistics of species richness from BRUV deployments at ten sampling locations. Mean species richness represents the number of unique species (Actinopterygii, Elasmobranchii) observed in each deployment averaged across all deployments for each site.*
 ```{r}
-mean_rich_table_clean <- mean_richness_table %>%  
-  subset(select=-geog) %>% 
+mean_richness_table_clean <- mean_richness_table %>%  
+  select("site_full", "type", "mean_sp_richness", "standard_error", "min_sp_richness", "max_sp_richness", "n_sp_richness") %>% 
+  subset(select = (-geog)) %>% 
   kable(digits=2, 
-        col.names = c("Site", "Type", "Mean species richness", "SD", "Min", "Max", "Median", "n")) %>% 
+        col.names = c("Site", "Type", "Mean species richness", "Standard Error", "Min", "Max", "Sample size")) %>% 
   kable_styling()
-mean_rich_table_clean
+mean_richness_table_clean
 ```
 
 ```{r}
 ggplot(mean_richness_table, aes(x = reorder(site_full, -geog), y = mean_sp_richness)) +
   geom_bar(stat = "identity", 
            aes(fill = type)) +
-  geom_errorbar(aes(x = site_full, ymax = mean_sp_richness + sd_sp_richness, ymin = mean_sp_richness - sd_sp_richness), 
+  geom_errorbar(aes(x = site_full, ymax = mean_sp_richness + standard_error, ymin = mean_sp_richness - standard_error), 
                 width = 0.3, 
                 alpha = 0.9) +
-  labs(y = "Mean species richness", x = "Site") +
+  labs(y = "Mean species richness", x = "Site", title = "Mean species richness") +
   theme_minimal() +
   coord_flip() +
   guides(fill=guide_legend(title="Type"))
 ```
 
-***Figure 2.** Mean species richness at each site. Mean species richness represents the number of unique species (Actinopterygii, Elasmobranchii) observed in each deployment averaged across all deployments for each site (n = 9). Error bars indicate standard deviation from the mean. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude.*
+***Figure 2.** Mean species richness at each site. Mean species richness represents the number of unique species (Actinopterygii, Elasmobranchii) observed in each deployment averaged across all deployments for each site (n = 9). Error bars indicate standard error. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude.*
+
+### Mean species richness: Actinopterygii
+
+```{r}
+# Add in zero values for bruvs where no fish present
+
+mean_f_rich <- max_n_data %>% 
+  filter(subclass == "Actinopterygii") %>% 
+  group_by(site_full, date, bruv, geog, type) %>% 
+  summarise(n_distinct(common)) %>% 
+  rename("sp_rich" = "n_distinct(common)")
+
+distinct_op_code <- max_n_data %>% 
+  distinct(op_code, .keep_all = TRUE) %>% 
+  select(site_full, geog, type, date, bruv)
+
+mean_fish_richness <- mean_f_rich %>% 
+  full_join(distinct_op_code, by = c("site_full", "geog", "type", "date", "bruv"))
+  
+# Change NAs to zeroes
+
+mean_fish_richness[is.na(mean_fish_richness)] = 0
+
+mean_fish_richness_table <- mean_fish_richness %>% 
+  group_by(site_full, geog, type) %>% 
+  summarise(mean_sp_richness = mean(sp_rich), 
+            sd_sp_richness = sd(sp_rich), 
+            min_sp_richness = min(sp_rich), 
+            max_sp_richness = max(sp_rich), 
+            median_sp_richness = median(sp_rich), 
+            n_sp_richness = n()) %>% 
+  arrange(geog)
+
+# Plot data
+
+ggplot(mean_fish_richness_table, aes(x = reorder(site_full, -geog), y = mean_sp_richness)) +
+  geom_bar(stat = "identity", 
+           aes(fill = type)) +
+  geom_errorbar(aes(x = site_full, ymax = mean_sp_richness + sd_sp_richness, ymin = mean_sp_richness - sd_sp_richness), 
+                width = 0.3, 
+                alpha = 0.9) +
+  labs(y = "Mean species richness", x = "Site", title = "Mean fish species richness") +
+  theme_minimal() +
+  coord_flip() +
+  guides(fill=guide_legend(title="Type"))
+
+```
+
+### Mean species richness: Elasmobranchii
+
+```{r}
+# Add in zero values for bruvs where no elasmos present
+
+mean_e_rich <- max_n_data %>% 
+  filter(subclass == "Elasmobranchii") %>% 
+  group_by(site_full, date, bruv, geog, type) %>% 
+  summarise(n_distinct(common)) %>% 
+  rename("sp_rich" = "n_distinct(common)")
+
+mean_elasmo_richness <- mean_e_rich %>% 
+  full_join(distinct_op_code, by = c("site_full", "geog", "type", "date", "bruv"))
+  
+# Change NAs to zeroes
+
+mean_elasmo_richness[is.na(mean_elasmo_richness)] = 0
+
+mean_elasmo_richness_table <- mean_elasmo_richness %>% 
+  group_by(site_full, geog, type) %>% 
+  summarise(mean_sp_richness = mean(sp_rich), 
+            sd_sp_richness = sd(sp_rich), 
+            min_sp_richness = min(sp_rich), 
+            max_sp_richness = max(sp_rich), 
+            median_sp_richness = median(sp_rich), 
+            n_sp_richness = n()) %>% 
+  arrange(geog)
+
+# Plot data
+
+ggplot(mean_elasmo_richness_table, aes(x = reorder(site_full, -geog), y = mean_sp_richness)) +
+  geom_bar(stat = "identity", 
+           aes(fill = type)) +
+  geom_errorbar(aes(x = site_full, ymax = mean_sp_richness + sd_sp_richness, ymin = mean_sp_richness - sd_sp_richness), 
+                width = 0.3, 
+                alpha = 0.9) +
+  labs(y = "Mean species richness", x = "Site", title = "Mean elasmobranch species richness") +
+  theme_minimal() +
+  coord_flip() +
+  guides(fill=guide_legend(title="Type"))
+```
 
 ### MaxN 
 
@@ -663,7 +754,7 @@ mean_maxN_site_table <- perc_summary %>%
   
 ```
 
-***Table 3.** Summary statistics of mean maxN of species at each site out of n deployments. This average includes maxN = 0 for deployments in which a species known to be present at the site is absent.*
+***Table 3.** Summary statistics of average maxN of species at each site out of n deployments. This average includes maxN = 0 for deployments in which a species known to be present at the site is absent.*
 ```{r}
 mean_maxN_site_table_wider <- mean_maxN_site_table %>%
   select("Site", "common", "family_x", "mean_max_n", "sd_max_n") %>% 
@@ -762,5 +853,25 @@ ggplot(scri_sael, aes(x = common, y = mean_max_n)) +
 
 
 
-***Figure 7 (a-e).** Mean MaxN of all species observed at each site for each site pair. Error bars were left off because of relatively large standard deviation (see Table 3). *
+***Figure 7 (a-e).** Average MaxN of all species observed at each site for each site pair. Error bars were left off because of relatively large standard deviation (see Table 3). *
+
+Pull species list from maxN data
+
+```{r}
+species_list_all_sites <- max_n_data %>% 
+  filter(subclass %in% c("Actinopterygii", "Elasmobranchii")) %>% 
+  select(site_full, type, geog, subclass, family_x, genus_x, species_x, sp_code, common) %>% 
+  group_by(site_full) %>% 
+  distinct(common, .keep_all = TRUE)
+
+species_list_all <- max_n_data %>% 
+  filter(subclass %in% c("Actinopterygii", "Elasmobranchii")) %>% 
+  select(subclass, family_x, genus_x, species_x, sp_code, common) %>% 
+  distinct(common, .keep_all = TRUE)
+  
+# Save to file
+
+write.csv(species_list_all_sites, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//species_list_sites.csv")
+write.csv(species_list_all, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//species_list.csv")
+```
 

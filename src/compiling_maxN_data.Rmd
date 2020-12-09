@@ -7,10 +7,12 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(plyr)
 library(tidyverse)
 library(here)
 library(janitor)
 library(lubridate)
+
 ```
 
 1. Move all files to merge into working directory
@@ -60,7 +62,7 @@ maxN_bruv_data <- maxN_bruv_data %>%
 
 #Create column for species code
 
-species_codes <- read.csv(here("data", "MPA_sp_codes_fish.csv")) %>% 
+species_codes <- read.csv(here::here("data", "MPA_sp_codes_fish.csv")) %>% 
   clean_names() #%>% 
   #separate("scientific_name", c("genus", "species"), sep = " ", remove = FALSE)
 
