@@ -418,7 +418,7 @@ ggplot(maxN_fam_table, aes(fill = site_full, x = family_x, y = fam_maxN)) +
 
 ### Proportion of catch
 
-```{r}
+```{r, eval=FALSE}
 site_proportion_data <- species_summary_by_site %>%
   group_by(site) %>%
   mutate(total_fish_caught = sum(no_fish)) %>%
