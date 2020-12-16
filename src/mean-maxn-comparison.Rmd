@@ -1,0 +1,202 @@
+---
+title: "Mean MaxN Comparison"
+author: "Jessica Madden"
+date: "December 16, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+# Get mean maxN for each 5 min interval
+
+perc_mean_maxn_five <- point_data %>% 
+  filter(site_full == "Percos") %>%
+  filter(subclass %in% c("Actinopterygii", "Elasmobranchii")) %>% 
+  group_by(op_code, five_min, common, sp_code) %>% 
+  summarise(
+    maxn = max(number)
+  )
+```
+
+
+```{r}
+
+#Add in zeroes for time intervals when species absent by joining full species list
+# Create 3 data frames and merge
+
+unique_opcode <- point_data %>% 
+  select(op_code, site_full, site_code, type, geog, date, day, month, year, bruv) %>% 
+  unique()
+
+all_five_min <- seq(5, 60, by=5)
+
+df <- unique_opcode %>% 
+  merge(all_five_min) %>% 
+  merge(species_codes) %>% 
+  rename("five_min" = "y")
+
+point_data_five <- point_data %>% 
+  full_join(df, by = c("op_code", "site_full", "site_code", "type", "geog", "date", "day", "month", "year", "bruv", "five_min"))
+  
+point_data_five_perc <-point_data_five %>% 
+  filter(site_full == "Percos") %>% 
+  arrange(op_code, y, common)
+  
+# Sum all duplicate rows
+
+  group_by(op_code, site_full, site_code, type, geog, date, day, month, year, bruv, period_time_hms, time, minute, second, subclass, family, scientific_name, genus, species, common, code, sp_code) %>% 
+  summarize(number = sum(number))
+  
+  
+# Use complete() to fill in missing rows
+  
+point_data_complete <- point_data %>% 
+  select(op_code, sp_code, number, five_min) %>% 
+  complete(op_code, sp_code, five_min, fill=list(number=0)) %>% 
+  arrange(op_code, five_min, sp_code) %>% 
+  inner_join(point_data, by = c("op_code", "sp_code", "five_min"))
+
+# Remove rows that lack species ID
+
+point_data_complete <- point_data_complete[!is.na(point_data_complete$sp_code),]
+
+# Combine duplicate rows
+
+point_data_complete <- point_data_complete %>% 
+  select(op_code, site_full, site_code, type, geog, date, day, month, year, bruv, period_time_hms, time, minute, second, subclass, family, scientific_name, genus, species, common, code, sp_code, number.x, number.y) %>% 
+  group_by(op_code, site_full, site_code, type, geog, date, day, month, year, bruv, period_time_hms, time, minute, second, subclass, family, scientific_name, genus, species, common, code, sp_code) %>% 
+  summarize(number = sum(number))
+
+```
+
+```{r}
+# Case study: Percos vs Refugio comparison of mean MaxN of barred surfperch
+# Get mean maxN for each 5 min interval
+
+perc_ref_five <- point_data %>% 
+  filter(site_full %in% c("Percos", "Refugio")) %>%
+  filter(common == "Barred surfperch") %>% 
+  group_by(op_code, site_full, common, five_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(five_min, site_full) %>% 
+  summarize(
+    mean_maxn = mean(maxn), 
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  )
+
+# Get mean maxN for each 10 min interval
+
+perc_ref_ten <- point_data %>% 
+  filter(site_full %in% c("Percos", "Refugio")) %>%
+  filter(common == "Barred surfperch") %>% 
+  group_by(op_code, site_full, common, ten_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(ten_min, site_full) %>% 
+  summarize(
+    mean_maxn = mean(maxn),
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  )
+```
+
+```{r}
+ggplot(perc_ref_five, aes(x = five_min, y = mean_maxn, fill = site_full)) +
+  geom_bar(stat="identity", 
+           position = "dodge") +
+  scale_fill_manual(values = c("seagreen", "sienna3")) +
+  scale_x_continuous(limits = c(0, 60), 
+                     n.breaks = 12) +
+  scale_y_continuous(n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across deployments for each 5 min segment of 60 min video") +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+```{r}
+ggplot(perc_ref_ten, aes(x = ten_min, y = mean_maxn, fill = site_full)) +
+  geom_bar(stat="identity", 
+           position = "dodge")  +
+  scale_fill_manual(values = c("seagreen", "sienna3")) +
+  scale_x_continuous(limits = c(0, 60), 
+                     n.breaks = 6) +
+  scale_y_continuous(n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across deployments for each 10 min segment of 60 min video") +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+```{r}
+# Case study: Dume vs Leo comparison of mean MaxN of topsmelt
+# Get mean maxN for each 5 min interval
+
+dume_leo_five <- point_data %>% 
+  filter(site_full %in% c("Dume Cove", "Leo Carrillo")) %>%
+  filter(common == "Topsmelt") %>% 
+  group_by(op_code, site_full, common, five_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(five_min, site_full) %>% 
+  summarize(
+    mean_maxn = mean(maxn), 
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  )
+
+# Get mean maxN for each 10 min interval
+
+dume_leo_ten <- point_data %>% 
+  filter(site_full %in% c("Dume Cove", "Leo Carrillo")) %>%
+  filter(common == "Topsmelt") %>% 
+  group_by(op_code, site_full, common, ten_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(ten_min, site_full) %>% 
+  summarize(
+    mean_maxn = mean(maxn),
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  )
+```
+
+```{r}
+ggplot(dume_leo_five, aes(x = five_min, y = mean_maxn, fill = site_full)) +
+  geom_bar(stat="identity", 
+           position = "dodge") +  
+scale_fill_manual(values = c("seagreen", "sienna3")) +
+  scale_x_continuous(limits = c(0, 60), 
+                     n.breaks = 12) +
+  scale_y_continuous(n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Topsmelt Mean MaxN", subtitle = "Averaged across deployments for each 5 min segment of 60 min video") +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+```{r}
+ggplot(dume_leo_ten, aes(x = ten_min, y = mean_maxn, fill = site_full)) +
+  geom_bar(stat="identity", 
+           position = "dodge") +  
+scale_fill_manual(values = c("seagreen", "sienna3")) +
+  scale_x_continuous(limits = c(0, 60), 
+                     n.breaks = 6) +
+  scale_y_continuous(n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Topsmelt Mean MaxN", subtitle = "Averaged across deployments for each 10 min segment of 60 min video") +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+
