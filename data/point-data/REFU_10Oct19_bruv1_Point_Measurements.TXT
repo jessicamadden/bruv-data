@@ -1,0 +1,67 @@
+Dot Point Measurements
+
+Generated: Tuesday, June 16, 2020 16:10:54
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+REFU_10Oct19_bruv1_GOPR0115.MP4	  43394	00:12:03.96	REFU_10Oct19_bruv1_data	00:00:03.95	376	334	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing	id?	background	
+REFU_10Oct19_bruv1_GOPR0115.MP4	  43394	00:12:03.96	REFU_10Oct19_bruv1_data	00:00:03.95	633	1775	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing	id?	background	
+REFU_10Oct19_bruv1_GOPR0115.MP4	  44488	00:12:22.21	REFU_10Oct19_bruv1_data	00:00:22.21	201	645	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	positive id		
+REFU_10Oct19_bruv1_GOPR0115.MP4	  61973	00:17:13.92	REFU_10Oct19_bruv1_data	00:05:13.91	891	1622	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	   1763	00:18:11.47	REFU_10Oct19_bruv1_data	00:06:11.47	658	1703	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	   5457	00:19:13.10	REFU_10Oct19_bruv1_data	00:07:13.10	714	928	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  15725	00:22:04.41	REFU_10Oct19_bruv1_data	00:10:04.40	300	110	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  15725	00:22:04.41	REFU_10Oct19_bruv1_data	00:10:04.40	242	1552	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  15725	00:22:04.41	REFU_10Oct19_bruv1_data	00:10:04.40	414	1402	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  16482	00:22:17.04	REFU_10Oct19_bruv1_data	00:10:17.03	697	1039	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  27767	00:25:25.31	REFU_10Oct19_bruv1_data	00:13:25.30	779	428	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  29132	00:25:48.08	REFU_10Oct19_bruv1_data	00:13:48.08	970	621	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  35527	00:27:34.77	REFU_10Oct19_bruv1_data	00:15:34.77	845	744	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  39003	00:28:32.76	REFU_10Oct19_bruv1_data	00:16:32.76	301	503	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  40851	00:29:03.59	REFU_10Oct19_bruv1_data	00:17:03.59	355	1010	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	5	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  41283	00:29:10.80	REFU_10Oct19_bruv1_data	00:17:10.80	811	714	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  54335	00:32:48.55	REFU_10Oct19_bruv1_data	00:20:48.55	490	884	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  54749	00:32:55.46	REFU_10Oct19_bruv1_data	00:20:55.45	159	125	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  54749	00:32:55.46	REFU_10Oct19_bruv1_data	00:20:55.45	479	1262	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP010115.MP4	  55475	00:33:07.57	REFU_10Oct19_bruv1_data	00:21:07.57	772	549	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	   5816	00:37:01.15	REFU_10Oct19_bruv1_data	00:25:01.15	977	814	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	   6363	00:37:10.28	REFU_10Oct19_bruv1_data	00:25:10.28	975	616	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	   6363	00:37:10.28	REFU_10Oct19_bruv1_data	00:25:10.28	966	1769	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	   6659	00:37:15.22	REFU_10Oct19_bruv1_data	00:25:15.21	499	1386	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	   6659	00:37:15.22	REFU_10Oct19_bruv1_data	00:25:15.21	462	1225	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing		background	
+REFU_10Oct19_bruv1_GP020115.MP4	   6659	00:37:15.22	REFU_10Oct19_bruv1_data	00:25:15.21	562	1038	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing		background	
+REFU_10Oct19_bruv1_GP020115.MP4	   6659	00:37:15.22	REFU_10Oct19_bruv1_data	00:25:15.21	240	591	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing		background	
+REFU_10Oct19_bruv1_GP020115.MP4	   6659	00:37:15.22	REFU_10Oct19_bruv1_data	00:25:15.21	348	551	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing		background	
+REFU_10Oct19_bruv1_GP020115.MP4	  24846	00:42:18.64	REFU_10Oct19_bruv1_data	00:30:18.63	506	985	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  30064	00:43:45.69	REFU_10Oct19_bruv1_data	00:31:45.69	907	849	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  30064	00:43:45.69	REFU_10Oct19_bruv1_data	00:31:45.69	157	976	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  31482	00:44:09.35	REFU_10Oct19_bruv1_data	00:32:09.34	615	668	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  42638	00:47:15.47	REFU_10Oct19_bruv1_data	00:35:15.46	673	1700	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  48117	00:48:46.87	REFU_10Oct19_bruv1_data	00:36:46.87	571	1547	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  48117	00:48:46.87	REFU_10Oct19_bruv1_data	00:36:46.87	95	913	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  52381	00:49:58.01	REFU_10Oct19_bruv1_data	00:37:58.01	742	645	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing		background	
+REFU_10Oct19_bruv1_GP020115.MP4	  58844	00:51:45.84	REFU_10Oct19_bruv1_data	00:39:45.83	916	1621	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  60808	00:52:18.60	REFU_10Oct19_bruv1_data	00:40:18.60	234	1465	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  62257	00:52:42.78	REFU_10Oct19_bruv1_data	00:40:42.77	548	1341	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP020115.MP4	  62257	00:52:42.78	REFU_10Oct19_bruv1_data	00:40:42.77	410	136	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing		background	
+REFU_10Oct19_bruv1_GP020115.MP4	  62617	00:52:48.78	REFU_10Oct19_bruv1_data	00:40:48.78	961	1738	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	    621	00:53:16.54	REFU_10Oct19_bruv1_data	00:41:16.54	401	171	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	    621	00:53:16.54	REFU_10Oct19_bruv1_data	00:41:16.54	572	1319	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  13683	00:56:54.46	REFU_10Oct19_bruv1_data	00:44:54.46	756	707	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  13683	00:56:54.46	REFU_10Oct19_bruv1_data	00:44:54.46	357	1700	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  13760	00:56:55.75	REFU_10Oct19_bruv1_data	00:44:55.74	406	1743	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  17391	00:57:56.32	REFU_10Oct19_bruv1_data	00:45:56.32	846	1482	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  19221	00:58:26.85	REFU_10Oct19_bruv1_data	00:46:26.85	492	540	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  23916	00:59:45.18	REFU_10Oct19_bruv1_data	00:47:45.18	271	1766	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  23916	00:59:45.18	REFU_10Oct19_bruv1_data	00:47:45.18	502	1650	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  27416	01:00:43.57	REFU_10Oct19_bruv1_data	00:48:43.57	886	1543	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  30063	01:01:27.73	REFU_10Oct19_bruv1_data	00:49:27.73	398	725	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  30063	01:01:27.73	REFU_10Oct19_bruv1_data	00:49:27.73	245	1770	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  33705	01:02:28.49	REFU_10Oct19_bruv1_data	00:50:28.49	487	692	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  33894	01:02:31.65	REFU_10Oct19_bruv1_data	00:50:31.65	573	1669	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  33894	01:02:31.65	REFU_10Oct19_bruv1_data	00:50:31.65	695	1022	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  43138	01:05:05.87	REFU_10Oct19_bruv1_data	00:53:05.87	835	874	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  51089	01:07:18.52	REFU_10Oct19_bruv1_data	00:55:18.52	738	983	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  52939	01:07:49.38	REFU_10Oct19_bruv1_data	00:55:49.38	58	444	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  55491	01:08:31.96	REFU_10Oct19_bruv1_data	00:56:31.96	551	924	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  55491	01:08:31.96	REFU_10Oct19_bruv1_data	00:56:31.96	723	933	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+REFU_10Oct19_bruv1_GP030115.MP4	  56916	01:08:55.73	REFU_10Oct19_bruv1_data	00:56:55.73	467	765	REFU_10Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			

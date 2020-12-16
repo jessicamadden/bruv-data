@@ -1,0 +1,30 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 18:01:11
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+HABE_2Oct19_1_GP010108.MP4	   2888	00:18:30.24	HABE_2Oct19_bruv1_data	00:01:30.24	128	778	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  18243	00:22:46.42	HABE_2Oct19_bruv1_data	00:05:46.41	281	209	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  18243	00:22:46.42	HABE_2Oct19_bruv1_data	00:05:46.41	453	890	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  18350	00:22:48.20	HABE_2Oct19_bruv1_data	00:05:48.20	394	124	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  18350	00:22:48.20	HABE_2Oct19_bruv1_data	00:05:48.20	463	584	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  18350	00:22:48.20	HABE_2Oct19_bruv1_data	00:05:48.20	443	612	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  20393	00:23:22.28	HABE_2Oct19_bruv1_data	00:06:22.28	494	292	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  20393	00:23:22.28	HABE_2Oct19_bruv1_data	00:06:22.28	467	1427	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  20393	00:23:22.28	HABE_2Oct19_bruv1_data	00:06:22.28	466	1585	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  20393	00:23:22.28	HABE_2Oct19_bruv1_data	00:06:22.28	480	1745	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP010108.MP4	  60617	00:34:33.35	HABE_2Oct19_bruv1_data	00:17:33.35	868	617	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+HABE_2Oct19_1_GP020108.MP4	  37145	00:45:43.82	HABE_2Oct19_bruv1_data	00:28:43.82	285	984	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP020108.MP4	  37145	00:45:43.82	HABE_2Oct19_bruv1_data	00:28:43.82	155	1714	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? topsmelt?		
+HABE_2Oct19_1_GP020108.MP4	  42391	00:47:11.35	HABE_2Oct19_bruv1_data	00:30:11.34	67	1201	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing	id? topsmelt?	background	
+HABE_2Oct19_1_GP020108.MP4	  46970	00:48:27.74	HABE_2Oct19_bruv1_data	00:31:27.74	575	875	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	positive id		
+HABE_2Oct19_1_GP030108.MP4	   6606	00:54:56.39	HABE_2Oct19_bruv1_data	00:37:56.39	155	1178	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_1_GP030108.MP4	   6895	00:55:01.21	HABE_2Oct19_bruv1_data	00:38:01.21	233	1794	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	4	AD	Passing		background	
+HABE_2Oct19_1_GP030108.MP4	   6950	00:55:02.13	HABE_2Oct19_bruv1_data	00:38:02.13	727	1546	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_1_GP030108.MP4	  10975	00:56:09.28	HABE_2Oct19_bruv1_data	00:39:09.28	716	1275	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_1_GP030108.MP4	  10975	00:56:09.28	HABE_2Oct19_bruv1_data	00:39:09.28	898	1703	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_1_GP030108.MP4	  28876	01:01:07.93	HABE_2Oct19_bruv1_data	00:44:07.93	739	1101	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_1_GP030108.MP4	  32818	01:02:13.70	HABE_2Oct19_bruv1_data	00:45:13.69	763	1178	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_1_GP030108.MP4	  36106	01:03:08.55	HABE_2Oct19_bruv1_data	00:46:08.55	217	971	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	4	AD	Passing		background	
+HABE_2Oct19_1_GP040108.MP4	  13277	01:14:29.75	HABE_2Oct19_bruv1_data	00:57:29.75	262	1350	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing	id? topsmelt?	background	
+HABE_2Oct19_1_GP040108.MP4	  16894	01:15:30.09	HABE_2Oct19_bruv1_data	00:58:30.09	750	1865	HABE_02Oct19_bruv1	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			

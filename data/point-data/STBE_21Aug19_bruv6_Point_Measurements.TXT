@@ -1,0 +1,10 @@
+Dot Point Measurements
+
+Generated: Wednesday, April 15, 2020 15:09:34
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+STBE_21Aug19_bruv6_GOPR0025.MP4	  43933	00:12:12.95	STBE_21Aug19_bruv6_data	00:00:12.95	513	265	STBE_21Aug19_bruv6	Jessica Madden			<1m	80% S, 20% BS							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_21Aug19_bruv6_GOPR0025.MP4	  60754	00:16:53.58	STBE_21Aug19_bruv6_data	00:04:53.58	519	773	STBE_21Aug19_bruv6	Jessica Madden			<1m	80% S, 20% BS							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_21Aug19_bruv6_GOPR0025.MP4	  63382	00:17:37.42	STBE_21Aug19_bruv6_data	00:05:37.42	625	695	STBE_21Aug19_bruv6	Jessica Madden			<1m	80% S, 20% BS							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_21Aug19_bruv6_GP010025.MP4	  59288	00:34:11.18	STBE_21Aug19_bruv6_data	00:22:11.18	644	404	STBE_21Aug19_bruv6	Jessica Madden			<1m	80% S, 20% BS							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_21Aug19_bruv6_GP020025.MP4	  37180	00:45:44.41	STBE_21Aug19_bruv6_data	00:33:44.41	775	1595	STBE_21Aug19_bruv6	Jessica Madden			<1m	80% S, 20% BS							Triakidae	Triakis	semifasciata	30	1	AD	Passing			

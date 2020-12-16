@@ -1,0 +1,42 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 11:33:34
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SLHO_7Nov19_6_GOPR0073.MP4	  40072	00:11:08.53	SLHO_7Nov19_bruv6_data	00:00:08.53	818	529	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  41413	00:11:30.91	SLHO_7Nov19_bruv6_data	00:00:30.90	646	878	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  41413	00:11:30.91	SLHO_7Nov19_bruv6_data	00:00:30.90	629	949	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  41413	00:11:30.91	SLHO_7Nov19_bruv6_data	00:00:30.90	595	881	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  41413	00:11:30.91	SLHO_7Nov19_bruv6_data	00:00:30.90	538	857	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  41413	00:11:30.91	SLHO_7Nov19_bruv6_data	00:00:30.90	740	1082	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  41413	00:11:30.91	SLHO_7Nov19_bruv6_data	00:00:30.90	1033	954	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  49946	00:13:53.27	SLHO_7Nov19_bruv6_data	00:02:53.26	712	1104	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  49946	00:13:53.27	SLHO_7Nov19_bruv6_data	00:02:53.26	738	1077	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  49946	00:13:53.27	SLHO_7Nov19_bruv6_data	00:02:53.26	596	1059	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  49946	00:13:53.27	SLHO_7Nov19_bruv6_data	00:02:53.26	569	1059	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  49946	00:13:53.27	SLHO_7Nov19_bruv6_data	00:02:53.26	548	1063	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  49946	00:13:53.27	SLHO_7Nov19_bruv6_data	00:02:53.26	526	1057	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  49946	00:13:53.27	SLHO_7Nov19_bruv6_data	00:02:53.26	509	1065	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  53969	00:15:00.38	SLHO_7Nov19_bruv6_data	00:04:00.37	600	853	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		9	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  58012	00:16:07.83	SLHO_7Nov19_bruv6_data	00:05:07.82	520	933	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		10	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  62155	00:17:16.95	SLHO_7Nov19_bruv6_data	00:06:16.94	993	968	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+SLHO_7Nov19_6_GOPR0073.MP4	  62879	00:17:29.03	SLHO_7Nov19_bruv6_data	00:06:29.02	731	794	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+SLHO_7Nov19_6_GP010073.MP4	   5838	00:19:19.46	SLHO_7Nov19_bruv6_data	00:08:19.45	542	1085	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		11	AD	Passing			
+SLHO_7Nov19_6_GP010073.MP4	  15343	00:21:58.03	SLHO_7Nov19_bruv6_data	00:10:58.02	561	855	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		11	AD	Passing			
+SLHO_7Nov19_6_GP010073.MP4	  42197	00:29:26.05	SLHO_7Nov19_bruv6_data	00:18:26.04	885	163	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Olividae	Callianax	biplicata	42	1	AD	Passing			
+SLHO_7Nov19_6_GP010073.MP4	  48840	00:31:16.88	SLHO_7Nov19_bruv6_data	00:20:16.87	984	1095	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		10	AD	Passing			
+SLHO_7Nov19_6_GP010073.MP4	  50809	00:31:49.72	SLHO_7Nov19_bruv6_data	00:20:49.72	586	1113	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		13	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	   4773	00:36:43.75	SLHO_7Nov19_bruv6_data	00:25:43.74	598	1238	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		10	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	   6380	00:37:10.56	SLHO_7Nov19_bruv6_data	00:26:10.55	935	1203	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Olividae	Callianax	biplicata	42	1	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  11194	00:38:30.88	SLHO_7Nov19_bruv6_data	00:27:30.87	808	392	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  24061	00:42:05.54	SLHO_7Nov19_bruv6_data	00:31:05.53	593	1238	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		8	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  26455	00:42:45.48	SLHO_7Nov19_bruv6_data	00:31:45.47	588	813	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		9	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  30648	00:43:55.43	SLHO_7Nov19_bruv6_data	00:32:55.42	624	779	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		11	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  32987	00:44:34.46	SLHO_7Nov19_bruv6_data	00:33:34.45	785	868	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Olividae	Callianax	biplicata	42	1	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  35808	00:45:21.52	SLHO_7Nov19_bruv6_data	00:34:21.51	611	1177	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		16	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  41072	00:46:49.34	SLHO_7Nov19_bruv6_data	00:35:49.33	640	1151	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		15	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  44426	00:47:45.30	SLHO_7Nov19_bruv6_data	00:36:45.29	775	857	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		18	AD	Passing			
+SLHO_7Nov19_6_GP020073.MP4	  58722	00:51:43.80	SLHO_7Nov19_bruv6_data	00:40:43.79	555	836	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		13	AD	Passing			
+SLHO_7Nov19_6_GP030073.MP4	  12592	00:56:36.26	SLHO_7Nov19_bruv6_data	00:45:36.25	647	1105	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		13	AD	Passing			
+SLHO_7Nov19_6_GP030073.MP4	  31701	01:01:55.06	SLHO_7Nov19_bruv6_data	00:50:55.05	605	1225	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		11	AD	Passing			
+SLHO_7Nov19_6_GP030073.MP4	  46976	01:06:09.90	SLHO_7Nov19_bruv6_data	00:55:09.89	661	1001	SLHO_07Nov19_bruv6	Jessica Madden			>1m	100% S	SLHO	6	11-07-2019				Nassariidae	Nassarius	sp		12	AD	Passing			

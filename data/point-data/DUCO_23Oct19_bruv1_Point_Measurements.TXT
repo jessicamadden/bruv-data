@@ -1,0 +1,25 @@
+Dot Point Measurements
+
+Generated: Friday, June 19, 2020 15:33:44
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PODU_23Oct19_1_GOPR0126.MP4	  55275	00:15:22.17	DUCO_23Oct19_bruv1_data	00:04:22.16	1019	1197	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id?		
+PODU_23Oct19_1_GOPR0126.MP4	  59410	00:16:31.16	DUCO_23Oct19_bruv1_data	00:05:31.15	927	563	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id?		
+PODU_23Oct19_1_GOPR0126.MP4	  59729	00:16:36.48	DUCO_23Oct19_bruv1_data	00:05:36.47	219	743	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S											57	AD	Passing	id? baitfish; # estimate	background	
+PODU_23Oct19_1_GOPR0126.MP4	  60219	00:16:44.65	DUCO_23Oct19_bruv1_data	00:05:44.64	852	492	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PODU_23Oct19_1_GP010126.MP4	   1652	00:18:09.62	DUCO_23Oct19_bruv1_data	00:07:09.61	873	841	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PODU_23Oct19_1_GP010126.MP4	   1652	00:18:09.62	DUCO_23Oct19_bruv1_data	00:07:09.61	943	743	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id?		
+PODU_23Oct19_1_GP010126.MP4	   3824	00:18:45.86	DUCO_23Oct19_bruv1_data	00:07:45.85	700	155	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_23Oct19_1_GP010126.MP4	  17060	00:22:26.68	DUCO_23Oct19_bruv1_data	00:11:26.67	711	50	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_1_GP010126.MP4	  32613	00:26:46.15	DUCO_23Oct19_bruv1_data	00:15:46.15	916	672	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PODU_23Oct19_1_GP010126.MP4	  39496	00:28:40.99	DUCO_23Oct19_bruv1_data	00:17:40.98	791	1658	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_23Oct19_1_GP020126.MP4	   6201	00:37:07.58	DUCO_23Oct19_bruv1_data	00:26:07.57	854	1118	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PODU_23Oct19_1_GP020126.MP4	  18168	00:40:27.22	DUCO_23Oct19_bruv1_data	00:29:27.22	683	726	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_1_GP020126.MP4	  24992	00:42:21.07	DUCO_23Oct19_bruv1_data	00:31:21.06	723	1596	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_1_GP020126.MP4	  31713	00:44:13.20	DUCO_23Oct19_bruv1_data	00:33:13.19	134	679	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Atherinopsidae			3	129	AD	Passing	# estimate		
+PODU_23Oct19_1_GP020126.MP4	  32551	00:44:27.18	DUCO_23Oct19_bruv1_data	00:33:27.17	335	1621	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Medialuna	californiensis	61	1	AD	Passing			
+PODU_23Oct19_1_GP030126.MP4	   6457	00:54:53.91	DUCO_23Oct19_bruv1_data	00:43:53.90	698	1817	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46	1	AD	Passing	id?	background	
+PODU_23Oct19_1_GP030126.MP4	  25107	01:00:05.05	DUCO_23Oct19_bruv1_data	00:49:05.04	688	110	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_1_GP030126.MP4	  25919	01:00:18.60	DUCO_23Oct19_bruv1_data	00:49:18.59	76	1563	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Embiotocidae	Rhacochilus	vacca	62	1	AD	Passing			
+PODU_23Oct19_1_GP030126.MP4	  58494	01:09:22.06	DUCO_23Oct19_bruv1_data	00:58:22.05	437	146	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae				1	AD	Passing	id?	background	
+PODU_23Oct19_1_GP030126.MP4	  58494	01:09:22.06	DUCO_23Oct19_bruv1_data	00:58:22.05	483	769	DUCO_23Oct19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae				1	AD	Passing	id?	background	

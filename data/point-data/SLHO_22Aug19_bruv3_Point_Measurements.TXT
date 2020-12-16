@@ -1,0 +1,76 @@
+Dot Point Measurements
+
+Generated: Wednesday, March 25, 2020 16:04:41
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  40146	00:11:09.77	SLHO_22Aug19_bruv3_data	00:00:09.76	587	815	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  43775	00:12:10.31	SLHO_22Aug19_bruv3_data	00:01:10.30	621	821	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  47320	00:13:09.46	SLHO_22Aug19_bruv3_data	00:02:09.45	162	1438	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  47320	00:13:09.46	SLHO_22Aug19_bruv3_data	00:02:09.45	457	119	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  51430	00:14:18.02	SLHO_22Aug19_bruv3_data	00:03:18.01	794	753	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  54985	00:15:17.33	SLHO_22Aug19_bruv3_data	00:04:17.32	213	47	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  54985	00:15:17.33	SLHO_22Aug19_bruv3_data	00:04:17.32	135	1299	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  54985	00:15:17.33	SLHO_22Aug19_bruv3_data	00:04:17.32	467	1672	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  54985	00:15:17.33	SLHO_22Aug19_bruv3_data	00:04:17.32	773	1634	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  58442	00:16:15.01	SLHO_22Aug19_bruv3_data	00:05:15.00	264	1129	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  58838	00:16:21.61	SLHO_22Aug19_bruv3_data	00:05:21.60	820	347	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  62340	00:17:20.04	SLHO_22Aug19_bruv3_data	00:06:20.03	575	650	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  62749	00:17:26.86	SLHO_22Aug19_bruv3_data	00:06:26.85	562	914	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  62749	00:17:26.86	SLHO_22Aug19_bruv3_data	00:06:26.85	588	1151	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GOPR0019.MP4	  62749	00:17:26.86	SLHO_22Aug19_bruv3_data	00:06:26.85	708	1261	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	   2675	00:18:35.70	SLHO_22Aug19_bruv3_data	00:07:35.69	801	1250	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	   2675	00:18:35.70	SLHO_22Aug19_bruv3_data	00:07:35.69	432	562	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S											1	AD	Passing	ID?		
+SLHO_22Aug19_bruv3_GP010019.MP4	  13300	00:21:32.96	SLHO_22Aug19_bruv3_data	00:10:32.95	290	1213	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  13423	00:21:35.01	SLHO_22Aug19_bruv3_data	00:10:35.00	454	910	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	2	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  16444	00:22:25.41	SLHO_22Aug19_bruv3_data	00:11:25.40	602	737	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  16444	00:22:25.41	SLHO_22Aug19_bruv3_data	00:11:25.40	809	558	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  18521	00:23:00.06	SLHO_22Aug19_bruv3_data	00:12:00.05	725	1186	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  30239	00:26:15.56	SLHO_22Aug19_bruv3_data	00:15:15.55	233	822	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  30239	00:26:15.56	SLHO_22Aug19_bruv3_data	00:15:15.55	137	85	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  30239	00:26:15.56	SLHO_22Aug19_bruv3_data	00:15:15.55	786	493	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  47369	00:31:01.34	SLHO_22Aug19_bruv3_data	00:20:01.33	831	440	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  47369	00:31:01.34	SLHO_22Aug19_bruv3_data	00:20:01.33	589	711	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  47953	00:31:11.09	SLHO_22Aug19_bruv3_data	00:20:11.08	751	850	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  47953	00:31:11.09	SLHO_22Aug19_bruv3_data	00:20:11.08	577	1524	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  50049	00:31:46.05	SLHO_22Aug19_bruv3_data	00:20:46.04	741	827	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  50049	00:31:46.05	SLHO_22Aug19_bruv3_data	00:20:46.04	614	1378	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  50049	00:31:46.05	SLHO_22Aug19_bruv3_data	00:20:46.04	439	432	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  58844	00:34:12.78	SLHO_22Aug19_bruv3_data	00:23:12.77	608	789	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  58844	00:34:12.78	SLHO_22Aug19_bruv3_data	00:23:12.77	409	1217	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP010019.MP4	  58844	00:34:12.78	SLHO_22Aug19_bruv3_data	00:23:12.77	470	1427	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	   1851	00:36:04.01	SLHO_22Aug19_bruv3_data	00:25:04.00	531	112	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	   1851	00:36:04.01	SLHO_22Aug19_bruv3_data	00:25:04.00	555	270	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  15859	00:39:57.71	SLHO_22Aug19_bruv3_data	00:28:57.70	589	442	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  19705	00:41:01.88	SLHO_22Aug19_bruv3_data	00:30:01.87	319	917	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  19705	00:41:01.88	SLHO_22Aug19_bruv3_data	00:30:01.87	499	1042	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  20921	00:41:22.16	SLHO_22Aug19_bruv3_data	00:30:22.15	268	684	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+SLHO_22Aug19_bruv3_GP020019.MP4	  20921	00:41:22.16	SLHO_22Aug19_bruv3_data	00:30:22.15	419	86	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	2	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  21417	00:41:30.44	SLHO_22Aug19_bruv3_data	00:30:30.43	573	520	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  26697	00:42:58.53	SLHO_22Aug19_bruv3_data	00:31:58.52	491	259	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  26697	00:42:58.53	SLHO_22Aug19_bruv3_data	00:31:58.52	306	768	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  26697	00:42:58.53	SLHO_22Aug19_bruv3_data	00:31:58.52	440	1406	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  27722	00:43:15.63	SLHO_22Aug19_bruv3_data	00:32:15.62	793	683	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  29845	00:43:51.05	SLHO_22Aug19_bruv3_data	00:32:51.04	812	1583	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  33453	00:44:51.24	SLHO_22Aug19_bruv3_data	00:33:51.23	135	1693	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  33453	00:44:51.24	SLHO_22Aug19_bruv3_data	00:33:51.23	213	1214	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  36895	00:45:48.66	SLHO_22Aug19_bruv3_data	00:34:48.65	279	182	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  36895	00:45:48.66	SLHO_22Aug19_bruv3_data	00:34:48.65	372	905	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  38661	00:46:18.13	SLHO_22Aug19_bruv3_data	00:35:18.12	211	110	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S											3	AD	Passing	ID? Embiotocidae?		
+SLHO_22Aug19_bruv3_GP020019.MP4	  43810	00:47:44.03	SLHO_22Aug19_bruv3_data	00:36:44.02	54	1335	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  43810	00:47:44.03	SLHO_22Aug19_bruv3_data	00:36:44.02	117	1819	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  55692	00:51:02.26	SLHO_22Aug19_bruv3_data	00:40:02.25	720	1703	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP020019.MP4	  58425	00:51:47.85	SLHO_22Aug19_bruv3_data	00:40:47.85	411	396	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  21258	00:59:09.85	SLHO_22Aug19_bruv3_data	00:48:09.84	676	1253	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  28306	01:01:07.43	SLHO_22Aug19_bruv3_data	00:50:07.42	458	353	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  28801	01:01:15.69	SLHO_22Aug19_bruv3_data	00:50:15.68	444	1682	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  29904	01:01:34.09	SLHO_22Aug19_bruv3_data	00:50:34.08	748	500	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  46674	01:06:13.87	SLHO_22Aug19_bruv3_data	00:55:13.86	552	1238	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  47740	01:06:31.65	SLHO_22Aug19_bruv3_data	00:55:31.64	406	1666	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  48049	01:06:36.81	SLHO_22Aug19_bruv3_data	00:55:36.80	209	1840	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  48049	01:06:36.81	SLHO_22Aug19_bruv3_data	00:55:36.80	556	297	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+SLHO_22Aug19_bruv3_GP030019.MP4	  48049	01:06:36.81	SLHO_22Aug19_bruv3_data	00:55:36.80	583	251	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  49596	01:07:02.62	SLHO_22Aug19_bruv3_data	00:56:02.61	252	1585	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  49596	01:07:02.62	SLHO_22Aug19_bruv3_data	00:56:02.61	353	1812	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  53737	01:08:11.70	SLHO_22Aug19_bruv3_data	00:57:11.69	633	949	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  53737	01:08:11.70	SLHO_22Aug19_bruv3_data	00:57:11.69	348	1265	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_22Aug19_bruv3_GP030019.MP4	  53737	01:08:11.70	SLHO_22Aug19_bruv3_data	00:57:11.69	120	1100	SLHO_22Aug19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			

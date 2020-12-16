@@ -1,0 +1,38 @@
+Dot Point Measurements
+
+Generated: Thursday, July 02, 2020 15:40:21
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PODU_23Oct19_6_GOPR0066.MP4	  43518	00:12:06.03	DUCO_23Oct19_bruv6_data	00:00:06.02	92	574	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Medialuna	californiensis	61	1	AD	Passing			
+PODU_23Oct19_6_GOPR0066.MP4	  46028	00:12:47.90	DUCO_23Oct19_bruv6_data	00:00:47.90	715	1652	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+PODU_23Oct19_6_GOPR0066.MP4	  57284	00:15:55.69	DUCO_23Oct19_bruv6_data	00:03:55.69	726	1294	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+PODU_23Oct19_6_GOPR0066.MP4	  57284	00:15:55.69	DUCO_23Oct19_bruv6_data	00:03:55.69	667	1638	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+PODU_23Oct19_6_GOPR0066.MP4	  58146	00:16:10.07	DUCO_23Oct19_bruv6_data	00:04:10.07	551	120	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GOPR0066.MP4	  61938	00:17:13.33	DUCO_23Oct19_bruv6_data	00:05:13.33	465	1840	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_23Oct19_6_GOPR0066.MP4	  63105	00:17:32.80	DUCO_23Oct19_bruv6_data	00:05:32.80	235	1155	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Medialuna	californiensis	61	1	AD	Passing		background	
+PODU_23Oct19_6_GP010066.MP4	   6072	00:19:23.36	DUCO_23Oct19_bruv6_data	00:07:23.36	422	1378	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Medialuna	californiensis	61	1	AD	Passing			
+PODU_23Oct19_6_GP010066.MP4	   7927	00:19:54.31	DUCO_23Oct19_bruv6_data	00:07:54.31	109	1321	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_23Oct19_6_GP010066.MP4	   8100	00:19:57.20	DUCO_23Oct19_bruv6_data	00:07:57.19	718	1199	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+PODU_23Oct19_6_GP010066.MP4	  22131	00:23:51.28	DUCO_23Oct19_bruv6_data	00:11:51.28	732	1534	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP010066.MP4	  46873	00:30:44.06	DUCO_23Oct19_bruv6_data	00:18:44.06	116	226	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Atherinopsidae			3	1	AD	Passing	id? prob topsmelt	background	
+PODU_23Oct19_6_GP010066.MP4	  47431	00:30:53.37	DUCO_23Oct19_bruv6_data	00:18:53.37	216	236	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Atherinopsidae			3	1	AD	Passing	id? prob topsmelt	background	
+PODU_23Oct19_6_GP020066.MP4	  23627	00:41:58.30	DUCO_23Oct19_bruv6_data	00:29:58.30	362	564	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+PODU_23Oct19_6_GP020066.MP4	  23627	00:41:58.30	DUCO_23Oct19_bruv6_data	00:29:58.30	329	372	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+PODU_23Oct19_6_GP020066.MP4	  24057	00:42:05.47	DUCO_23Oct19_bruv6_data	00:30:05.47	486	29	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP020066.MP4	  42096	00:47:06.42	DUCO_23Oct19_bruv6_data	00:35:06.42	535	815	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP020066.MP4	  58114	00:51:33.66	DUCO_23Oct19_bruv6_data	00:39:33.65	46	473	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Atherinopsidae			3	14	AD	Passing	id? prob topsmelt	background	
+PODU_23Oct19_6_GP020066.MP4	  60213	00:52:08.68	DUCO_23Oct19_bruv6_data	00:40:08.67	564	826	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	   3818	00:54:09.88	DUCO_23Oct19_bruv6_data	00:42:09.88	504	1400	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Medialuna	californiensis	61	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	   9691	00:55:47.86	DUCO_23Oct19_bruv6_data	00:43:47.86	444	331	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+PODU_23Oct19_6_GP030066.MP4	  12264	00:56:30.79	DUCO_23Oct19_bruv6_data	00:44:30.78	647	1164	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  12264	00:56:30.79	DUCO_23Oct19_bruv6_data	00:44:30.78	802	1826	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  15267	00:57:20.89	DUCO_23Oct19_bruv6_data	00:45:20.88	634	1376	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  17365	00:57:55.89	DUCO_23Oct19_bruv6_data	00:45:55.89	109	1414	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Medialuna	californiensis	61	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  31968	01:01:59.52	DUCO_23Oct19_bruv6_data	00:49:59.51	46	395	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Girella	nigricans	17	1	AD	Passing			
+PODU_23Oct19_6_GP030066.MP4	  35502	01:02:58.47	DUCO_23Oct19_bruv6_data	00:50:58.47	499	513	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  43833	01:05:17.46	DUCO_23Oct19_bruv6_data	00:53:17.46	788	1422	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  43833	01:05:17.46	DUCO_23Oct19_bruv6_data	00:53:17.46	833	1692	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  47212	01:06:13.84	DUCO_23Oct19_bruv6_data	00:54:13.83	300	100	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_23Oct19_6_GP030066.MP4	  48935	01:06:42.58	DUCO_23Oct19_bruv6_data	00:54:42.58	72	927	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Kyphosidae	Medialuna	californiensis	61	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  50882	01:07:15.06	DUCO_23Oct19_bruv6_data	00:55:15.06	513	386	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_23Oct19_6_GP030066.MP4	  51467	01:07:24.82	DUCO_23Oct19_bruv6_data	00:55:24.82	154	58	DUCO_23Oct19_bruv6	Jessica Madden			>1m	100% S	DUCO	6	10-23-2019				Serranidae	Paralabrax	clathratus	44	2	AD	Passing		background	

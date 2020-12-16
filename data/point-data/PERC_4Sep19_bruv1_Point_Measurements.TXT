@@ -1,0 +1,85 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 11:19:38
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PERC_4Sep19_bruv1_GOPR0083.MP4	  43431	00:12:04.57	PERC_4Sep19_bruv1_data	00:00:04.57	670	1249	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GOPR0083.MP4	  54666	00:15:12.01	PERC_4Sep19_bruv1_data	00:03:12.01	585	1126	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		3	AD	Passing			
+PERC_4Sep19_bruv1_GOPR0083.MP4	  56256	00:15:38.54	PERC_4Sep19_bruv1_data	00:03:38.53	690	569	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_4Sep19_bruv1_GOPR0083.MP4	  56256	00:15:38.54	PERC_4Sep19_bruv1_data	00:03:38.53	710	604	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_4Sep19_bruv1_GOPR0083.MP4	  56256	00:15:38.54	PERC_4Sep19_bruv1_data	00:03:38.53	834	1899	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_4Sep19_bruv1_GOPR0083.MP4	  58294	00:16:12.54	PERC_4Sep19_bruv1_data	00:04:12.54	153	1800	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PERC_4Sep19_bruv1_GOPR0083.MP4	  62215	00:17:17.95	PERC_4Sep19_bruv1_data	00:05:17.95	613	1031	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		2	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	   2308	00:18:20.57	PERC_4Sep19_bruv1_data	00:06:20.56	727	1524	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	   6281	00:19:26.85	PERC_4Sep19_bruv1_data	00:07:26.85	651	1134	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	   6281	00:19:26.85	PERC_4Sep19_bruv1_data	00:07:26.85	831	1773	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	   8102	00:19:57.23	PERC_4Sep19_bruv1_data	00:07:57.23	924	1298	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	   8102	00:19:57.23	PERC_4Sep19_bruv1_data	00:07:57.23	724	200	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	   8477	00:20:03.49	PERC_4Sep19_bruv1_data	00:08:03.48	658	925	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	   8477	00:20:03.49	PERC_4Sep19_bruv1_data	00:08:03.48	684	1109	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		3	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	   9401	00:20:18.90	PERC_4Sep19_bruv1_data	00:08:18.90	917	1251	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	4	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  16153	00:22:11.55	PERC_4Sep19_bruv1_data	00:10:11.54	950	1308	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	6	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  16153	00:22:11.55	PERC_4Sep19_bruv1_data	00:10:11.54	640	907	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		2	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  17017	00:22:25.96	PERC_4Sep19_bruv1_data	00:10:25.96	640	1124	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing		background	
+PERC_4Sep19_bruv1_GP010083.MP4	  26340	00:25:01.50	PERC_4Sep19_bruv1_data	00:13:01.50	708	789	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  33714	00:27:04.52	PERC_4Sep19_bruv1_data	00:15:04.52	629	872	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		2	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  34064	00:27:10.36	PERC_4Sep19_bruv1_data	00:15:10.36	751	645	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  40218	00:28:53.03	PERC_4Sep19_bruv1_data	00:16:53.03	910	1235	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	6	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  40654	00:29:00.31	PERC_4Sep19_bruv1_data	00:17:00.30	674	463	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  44000	00:29:56.13	PERC_4Sep19_bruv1_data	00:17:56.13	726	363	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	6	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  44000	00:29:56.13	PERC_4Sep19_bruv1_data	00:17:56.13	968	1578	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	6	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  49779	00:31:32.54	PERC_4Sep19_bruv1_data	00:19:32.54	665	1485	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  49779	00:31:32.54	PERC_4Sep19_bruv1_data	00:19:32.54	673	1258	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  54191	00:32:46.15	PERC_4Sep19_bruv1_data	00:20:46.14	667	1331	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  54690	00:32:54.47	PERC_4Sep19_bruv1_data	00:20:54.47	764	1264	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  54690	00:32:54.47	PERC_4Sep19_bruv1_data	00:20:54.47	676	1248	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  54782	00:32:56.01	PERC_4Sep19_bruv1_data	00:20:56.00	716	625	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  57593	00:33:42.90	PERC_4Sep19_bruv1_data	00:21:42.90	956	1329	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	6	AD	Passing			
+PERC_4Sep19_bruv1_GP010083.MP4	  61121	00:34:41.76	PERC_4Sep19_bruv1_data	00:22:41.76	571	1132	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	   5566	00:36:56.98	PERC_4Sep19_bruv1_data	00:24:56.98	726	1516	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		2	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	   6138	00:37:06.52	PERC_4Sep19_bruv1_data	00:25:06.52	495	947	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		2	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	   6138	00:37:06.52	PERC_4Sep19_bruv1_data	00:25:06.52	617	812	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	   7414	00:37:27.81	PERC_4Sep19_bruv1_data	00:25:27.81	755	1602	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	   7926	00:37:36.35	PERC_4Sep19_bruv1_data	00:25:36.35	935	1314	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	6	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  17273	00:40:12.29	PERC_4Sep19_bruv1_data	00:28:12.29	570	131	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  17273	00:40:12.29	PERC_4Sep19_bruv1_data	00:28:12.29	710	461	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  17273	00:40:12.29	PERC_4Sep19_bruv1_data	00:28:12.29	750	712	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Feeding			
+PERC_4Sep19_bruv1_GP020083.MP4	  24040	00:42:05.19	PERC_4Sep19_bruv1_data	00:30:05.19	675	756	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  27713	00:43:06.47	PERC_4Sep19_bruv1_data	00:31:06.46	609	1043	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  27713	00:43:06.47	PERC_4Sep19_bruv1_data	00:31:06.46	642	1238	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		2	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  27713	00:43:06.47	PERC_4Sep19_bruv1_data	00:31:06.46	822	1350	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  41270	00:46:52.64	PERC_4Sep19_bruv1_data	00:34:52.64	636	1056	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		3	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  41980	00:47:04.49	PERC_4Sep19_bruv1_data	00:35:04.49	571	826	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		4	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  42860	00:47:19.17	PERC_4Sep19_bruv1_data	00:35:19.17	693	1169	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  48567	00:48:54.38	PERC_4Sep19_bruv1_data	00:36:54.38	687	117	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  48567	00:48:54.38	PERC_4Sep19_bruv1_data	00:36:54.38	694	231	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  50871	00:49:32.82	PERC_4Sep19_bruv1_data	00:37:32.82	730	800	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  50871	00:49:32.82	PERC_4Sep19_bruv1_data	00:37:32.82	697	1551	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing		background	
+PERC_4Sep19_bruv1_GP020083.MP4	  51460	00:49:42.65	PERC_4Sep19_bruv1_data	00:37:42.64	684	933	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  51460	00:49:42.65	PERC_4Sep19_bruv1_data	00:37:42.64	721	1367	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  56679	00:51:09.72	PERC_4Sep19_bruv1_data	00:39:09.71	433	1021	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  60729	00:52:17.28	PERC_4Sep19_bruv1_data	00:40:17.28	536	778	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		2	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  60901	00:52:20.15	PERC_4Sep19_bruv1_data	00:40:20.15	622	1582	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  61270	00:52:26.31	PERC_4Sep19_bruv1_data	00:40:26.31	569	698	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  61270	00:52:26.31	PERC_4Sep19_bruv1_data	00:40:26.31	771	805	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  61707	00:52:33.60	PERC_4Sep19_bruv1_data	00:40:33.60	855	1268	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP020083.MP4	  61707	00:52:33.60	PERC_4Sep19_bruv1_data	00:40:33.60	771	1659	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing		background	
+PERC_4Sep19_bruv1_GP030083.MP4	   2348	00:53:45.36	PERC_4Sep19_bruv1_data	00:41:45.35	922	1540	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	3	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  15137	00:57:18.72	PERC_4Sep19_bruv1_data	00:45:18.72	691	581	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  15137	00:57:18.72	PERC_4Sep19_bruv1_data	00:45:18.72	570	877	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  15137	00:57:18.72	PERC_4Sep19_bruv1_data	00:45:18.72	608	1214	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  20998	00:58:56.50	PERC_4Sep19_bruv1_data	00:46:56.50	831	473	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  20998	00:58:56.50	PERC_4Sep19_bruv1_data	00:46:56.50	1043	1353	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  20998	00:58:56.50	PERC_4Sep19_bruv1_data	00:46:56.50	435	895	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  21746	00:59:08.98	PERC_4Sep19_bruv1_data	00:47:08.98	558	636	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  21746	00:59:08.98	PERC_4Sep19_bruv1_data	00:47:08.98	791	159	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  21746	00:59:08.98	PERC_4Sep19_bruv1_data	00:47:08.98	788	504	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  21746	00:59:08.98	PERC_4Sep19_bruv1_data	00:47:08.98	815	1419	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  31078	01:01:44.67	PERC_4Sep19_bruv1_data	00:49:44.67	677	1284	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Paralichthys	californicus	21	1	AD	Passing		background	
+PERC_4Sep19_bruv1_GP030083.MP4	  31078	01:01:44.67	PERC_4Sep19_bruv1_data	00:49:44.67	495	621	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  34730	01:02:45.60	PERC_4Sep19_bruv1_data	00:50:45.59	544	671	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  34730	01:02:45.60	PERC_4Sep19_bruv1_data	00:50:45.59	724	1300	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Paralichthys	californicus	21	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  50416	01:07:07.29	PERC_4Sep19_bruv1_data	00:55:07.29	582	517	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Paralichthys	californicus	21	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  50416	01:07:07.29	PERC_4Sep19_bruv1_data	00:55:07.29	508	1127	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  62819	01:10:34.21	PERC_4Sep19_bruv1_data	00:58:34.21	589	1280	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PERC_4Sep19_bruv1_GP030083.MP4	  62819	01:10:34.21	PERC_4Sep19_bruv1_data	00:58:34.21	806	1362	PERC_04Sep19_bruv1	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			

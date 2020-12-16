@@ -1,0 +1,33 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 11:26:32
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+RESB_5Sep19_bruv3_GOPR0028.MP4	  53675	00:14:55.48	REFU_5Sep19_bruv3	00:03:55.47	802	1655	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae				1	AD	Passing	id? probably c. stigmaeus		
+RESB_5Sep19_bruv3_GP010028.MP4	  19423	00:23:06.10	REFU_5Sep19_bruv3	00:12:06.09	581	1828	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? probably barred surfperch		
+RESB_5Sep19_bruv3_GP010028.MP4	  27470	00:25:20.35	REFU_5Sep19_bruv3	00:14:20.34	589	1120	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? calico?		
+RESB_5Sep19_bruv3_GP010028.MP4	  29373	00:25:52.10	REFU_5Sep19_bruv3	00:14:52.09	880	777	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id? probably c. stigmaeus		
+RESB_5Sep19_bruv3_GP010028.MP4	  32053	00:26:36.81	REFU_5Sep19_bruv3	00:15:36.80	897	810	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id? probably c. stigmaeus		
+RESB_5Sep19_bruv3_GP010028.MP4	  32053	00:26:36.81	REFU_5Sep19_bruv3	00:15:36.80	594	1099	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? calico?		
+RESB_5Sep19_bruv3_GP010028.MP4	  52962	00:32:25.64	REFU_5Sep19_bruv3	00:21:25.63	643	1176	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? calico?		
+RESB_5Sep19_bruv3_GP010028.MP4	  59790	00:34:19.56	REFU_5Sep19_bruv3	00:23:19.55	786	1360	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+RESB_5Sep19_bruv3_GP010028.MP4	  60282	00:34:27.77	REFU_5Sep19_bruv3	00:23:27.76	701	1603	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? calico?		
+RESB_5Sep19_bruv3_GP010028.MP4	  60820	00:34:36.74	REFU_5Sep19_bruv3	00:23:36.73	838	897	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id? probably c. stigmaeus		
+RESB_5Sep19_bruv3_GP010028.MP4	  63314	00:35:18.35	REFU_5Sep19_bruv3	00:24:18.34	429	748	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_bruv3_GP020028.MP4	     60	00:35:25.12	REFU_5Sep19_bruv3	00:24:25.11	826	1434	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+RESB_5Sep19_bruv3_GP020028.MP4	    933	00:35:39.69	REFU_5Sep19_bruv3	00:24:39.68	962	1253	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_5Sep19_bruv3_GP020028.MP4	   4270	00:36:35.36	REFU_5Sep19_bruv3	00:25:35.35	802	1313	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id? probably c. stigmaeus		
+RESB_5Sep19_bruv3_GP020028.MP4	   6939	00:37:19.89	REFU_5Sep19_bruv3	00:26:19.88	699	717	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+RESB_5Sep19_bruv3_GP020028.MP4	   7308	00:37:26.04	REFU_5Sep19_bruv3	00:26:26.03	598	1197	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_bruv3_GP020028.MP4	  30553	00:43:53.85	REFU_5Sep19_bruv3	00:32:53.84	196	1608	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	    281	00:53:10.87	REFU_5Sep19_bruv3	00:42:10.86	770	1259	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	  10493	00:56:01.24	REFU_5Sep19_bruv3	00:45:01.23	172	257	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	  13801	00:56:56.43	REFU_5Sep19_bruv3	00:45:56.42	704	1653	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	  15645	00:57:27.19	REFU_5Sep19_bruv3	00:46:27.18	150	468	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	  29289	01:01:14.82	REFU_5Sep19_bruv3	00:50:14.81	490	763	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	  31063	01:01:44.42	REFU_5Sep19_bruv3	00:50:44.41	701	655	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	  31129	01:01:45.52	REFU_5Sep19_bruv3	00:50:45.51	390	222	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? calico?		
+RESB_5Sep19_bruv3_GP030028.MP4	  47695	01:06:21.89	REFU_5Sep19_bruv3	00:55:21.89	636	1194	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	  52270	01:07:38.22	REFU_5Sep19_bruv3	00:56:38.21	715	1540	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? calico?		
+RESB_5Sep19_bruv3_GP030028.MP4	  53453	01:07:57.96	REFU_5Sep19_bruv3	00:56:57.95	805	659	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_5Sep19_bruv3_GP030028.MP4	  62956	01:10:36.50	REFU_5Sep19_bruv3	00:59:36.49	473	1683	REFU_05Sep19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	10	AD	Passing			

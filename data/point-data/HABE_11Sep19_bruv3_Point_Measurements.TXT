@@ -1,0 +1,24 @@
+Dot Point Measurements
+
+Generated: Tuesday, May 26, 2020 11:09:34
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+HABE_11Sep19_3_GP010033.MP4	  21701	00:23:44.11	HABE_11Sep19_bruv3_data	00:11:44.10	617	1253	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_3_GP010033.MP4	  35776	00:27:38.92	HABE_11Sep19_bruv3_data	00:15:38.92	260	801	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Atherinopsidae			3	1	AD	Passing			
+HABE_11Sep19_3_GP010033.MP4	  37954	00:28:15.26	HABE_11Sep19_bruv3_data	00:16:15.26	679	1040	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_3_GP010033.MP4	  42958	00:29:38.74	HABE_11Sep19_bruv3_data	00:17:38.74	722	362	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+HABE_11Sep19_3_GP010033.MP4	  51830	00:32:06.76	HABE_11Sep19_bruv3_data	00:20:06.76	738	1173	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_3_GP010033.MP4	  52172	00:32:12.46	HABE_11Sep19_bruv3_data	00:20:12.46	746	1098	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_3_GP010033.MP4	  52172	00:32:12.46	HABE_11Sep19_bruv3_data	00:20:12.46	812	1244	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+HABE_11Sep19_3_GP020033.MP4	   6596	00:37:14.17	HABE_11Sep19_bruv3_data	00:25:14.16	647	1042	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_3_GP020033.MP4	  12298	00:38:49.29	HABE_11Sep19_bruv3_data	00:26:49.29	729	177	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+HABE_11Sep19_3_GP020033.MP4	  25790	00:42:34.39	HABE_11Sep19_bruv3_data	00:30:34.38	833	298	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+HABE_11Sep19_3_GP020033.MP4	  27177	00:42:57.52	HABE_11Sep19_bruv3_data	00:30:57.52	43	52	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Atherinopsidae			3	1	AD	Passing			
+HABE_11Sep19_3_GP020033.MP4	  27177	00:42:57.52	HABE_11Sep19_bruv3_data	00:30:57.52	137	163	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Atherinopsidae			3	1	AD	Passing			
+HABE_11Sep19_3_GP020033.MP4	  42786	00:47:17.94	HABE_11Sep19_bruv3_data	00:35:17.93	572	633	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+HABE_11Sep19_3_GP020033.MP4	  43958	00:47:37.49	HABE_11Sep19_bruv3_data	00:35:37.49	751	1711	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+HABE_11Sep19_3_GP020033.MP4	  49007	00:49:01.72	HABE_11Sep19_bruv3_data	00:37:01.72	721	583	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing		background	
+HABE_11Sep19_3_GP020033.MP4	  63098	00:52:56.81	HABE_11Sep19_bruv3_data	00:40:56.80	638	920	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+HABE_11Sep19_3_GP030033.MP4	  14651	00:57:10.61	HABE_11Sep19_bruv3_data	00:45:10.61	639	753	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+HABE_11Sep19_3_GP030033.MP4	  40447	01:04:20.97	HABE_11Sep19_bruv3_data	00:52:20.97	662	1143	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_3_GP030033.MP4	  51056	01:07:17.97	HABE_11Sep19_bruv3_data	00:55:17.96	156	996	HABE_11Sep19_bruv3	Jessica Madden			=1m	100%S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			

@@ -1,0 +1,23 @@
+Dot Point Measurements
+
+Generated: Thursday, February 27, 2020 15:59:46
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+LECA_19Aug19_bruv1_GOPR0071.MP4	  44708	00:12:25.88	LECA_19Aug19_bruv1_data	00:00:07.84	330	296	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GOPR0071.MP4	  48027	00:13:21.25	LECA_19Aug19_bruv1_data	00:01:03.21	569	494	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GOPR0071.MP4	  48527	00:13:29.59	LECA_19Aug19_bruv1_data	00:01:11.55	404	696	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GOPR0071.MP4	  63461	00:17:38.74	LECA_19Aug19_bruv1_data	00:05:20.70	39	1205	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	   3174	00:18:35.01	LECA_19Aug19_bruv1_data	00:06:16.98	246	692	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	   3941	00:18:47.81	LECA_19Aug19_bruv1_data	00:06:29.77	583	196	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	   3941	00:18:47.81	LECA_19Aug19_bruv1_data	00:06:29.77	453	141	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	   7789	00:19:52.01	LECA_19Aug19_bruv1_data	00:07:33.97	201	1738	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	   9839	00:20:26.21	LECA_19Aug19_bruv1_data	00:08:08.17	830	973	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	  46271	00:30:34.02	LECA_19Aug19_bruv1_data	00:18:15.98	462	1676	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	  46271	00:30:34.02	LECA_19Aug19_bruv1_data	00:18:15.98	25	570	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	  46418	00:30:36.47	LECA_19Aug19_bruv1_data	00:18:18.43	9	184	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	  46418	00:30:36.47	LECA_19Aug19_bruv1_data	00:18:18.43	66	378	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP010071.MP4	  46418	00:30:36.47	LECA_19Aug19_bruv1_data	00:18:18.43	463	1128	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP020071.MP4	  29288	00:43:32.74	LECA_19Aug19_bruv1_data	00:31:14.71	196	1710	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP020071.MP4	  40190	00:46:34.63	LECA_19Aug19_bruv1_data	00:34:16.59	349	1469	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP020071.MP4	  41686	00:46:59.58	LECA_19Aug19_bruv1_data	00:34:41.55	435	1763	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv1_GP030071.MP4	  37697	01:03:35.09	LECA_19Aug19_bruv1_data	00:51:17.06	225	1822	LECA_19Aug19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			

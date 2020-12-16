@@ -1,0 +1,37 @@
+Dot Point Measurements
+
+Generated: Thursday, May 28, 2020 11:41:08
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PODU_16Sep19_3_GOPR0145.MP4	  61206	00:17:01.12	DUCO_16Sep19_bruv3_data	00:00:01.12	830	1063	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_16Sep19_3_GP010145.MP4	   6511	00:19:30.69	DUCO_16Sep19_bruv3_data	00:02:30.68	915	204	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP010145.MP4	  25088	00:24:40.61	DUCO_16Sep19_bruv3_data	00:07:40.61	361	928	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP010145.MP4	  25088	00:24:40.61	DUCO_16Sep19_bruv3_data	00:07:40.61	45	108	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP010145.MP4	  41052	00:29:06.95	DUCO_16Sep19_bruv3_data	00:12:06.94	994	187	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_16Sep19_3_GP010145.MP4	  43360	00:29:45.45	DUCO_16Sep19_bruv3_data	00:12:45.45	353	1796	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP010145.MP4	  51537	00:32:01.87	DUCO_16Sep19_bruv3_data	00:15:01.87	818	131	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+PODU_16Sep19_3_GP010145.MP4	  56807	00:33:29.79	DUCO_16Sep19_bruv3_data	00:16:29.79	855	283	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP020145.MP4	   1266	00:35:45.24	DUCO_16Sep19_bruv3_data	00:18:45.24	762	1831	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_16Sep19_3_GP020145.MP4	  10532	00:38:19.83	DUCO_16Sep19_bruv3_data	00:21:19.83	758	1080	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP020145.MP4	  19021	00:40:41.46	DUCO_16Sep19_bruv3_data	00:23:41.45	889	113	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP020145.MP4	  20481	00:41:05.81	DUCO_16Sep19_bruv3_data	00:24:05.81	625	1356	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_16Sep19_3_GP020145.MP4	  25659	00:42:32.20	DUCO_16Sep19_bruv3_data	00:25:32.20	1008	342	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+PODU_16Sep19_3_GP020145.MP4	  32680	00:44:29.33	DUCO_16Sep19_bruv3_data	00:27:29.33	530	1618	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?	background	
+PODU_16Sep19_3_GP020145.MP4	  38316	00:46:03.36	DUCO_16Sep19_bruv3_data	00:29:03.36	212	901	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP020145.MP4	  45880	00:48:09.55	DUCO_16Sep19_bruv3_data	00:31:09.55	822	303	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_3_GP020145.MP4	  62624	00:52:48.90	DUCO_16Sep19_bruv3_data	00:35:48.90	241	1466	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing		background	
+PODU_16Sep19_3_GP020145.MP4	  62624	00:52:48.90	DUCO_16Sep19_bruv3_data	00:35:48.90	14	1507	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing		background	
+PODU_16Sep19_3_GP020145.MP4	  62624	00:52:48.90	DUCO_16Sep19_bruv3_data	00:35:48.90	155	1503	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing		background	
+PODU_16Sep19_3_GP020145.MP4	  62624	00:52:48.90	DUCO_16Sep19_bruv3_data	00:35:48.90	229	1867	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing		background	
+PODU_16Sep19_3_GP020145.MP4	  62624	00:52:48.90	DUCO_16Sep19_bruv3_data	00:35:48.90	264	1850	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing		background	
+PODU_16Sep19_3_GP030145.MP4	   2610	00:53:49.73	DUCO_16Sep19_bruv3_data	00:36:49.72	895	1103	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+PODU_16Sep19_3_GP030145.MP4	   5925	00:54:45.03	DUCO_16Sep19_bruv3_data	00:37:45.03	601	1448	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP030145.MP4	  11122	00:56:11.74	DUCO_16Sep19_bruv3_data	00:39:11.73	719	421	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP030145.MP4	  11122	00:56:11.74	DUCO_16Sep19_bruv3_data	00:39:11.73	763	647	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP030145.MP4	  14727	00:57:11.88	DUCO_16Sep19_bruv3_data	00:40:11.88	807	1510	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_16Sep19_3_GP030145.MP4	  34060	01:02:34.42	DUCO_16Sep19_bruv3_data	00:45:34.42	773	430	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP030145.MP4	  35259	01:02:54.42	DUCO_16Sep19_bruv3_data	00:45:54.42	760	441	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP030145.MP4	  35259	01:02:54.42	DUCO_16Sep19_bruv3_data	00:45:54.42	787	664	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_3_GP030145.MP4	  45868	01:05:51.41	DUCO_16Sep19_bruv3_data	00:48:51.41	864	1369	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_3_GP040145.MP4	  13898	01:14:40.11	DUCO_16Sep19_bruv3_data	00:57:40.11	605	341	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_16Sep19_3_GP040145.MP4	  20784	01:16:34.99	DUCO_16Sep19_bruv3_data	00:59:34.99	648	1384	DUCO_16Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			

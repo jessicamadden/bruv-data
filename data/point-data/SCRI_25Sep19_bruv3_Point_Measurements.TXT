@@ -1,0 +1,54 @@
+Dot Point Measurements
+
+Generated: Tuesday, June 16, 2020 09:30:03
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SCRI_25Sep19_3_GOPR0045.MP4	  58082	00:16:09.00	SCRI_25Sep19_bruv3_data	00:00:08.99	968	714	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GOPR0045.MP4	  58512	00:16:16.18	SCRI_25Sep19_bruv3_data	00:00:16.17	564	791	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GOPR0045.MP4	  60014	00:16:41.23	SCRI_25Sep19_bruv3_data	00:00:41.22	841	475	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GOPR0045.MP4	  60014	00:16:41.23	SCRI_25Sep19_bruv3_data	00:00:41.22	785	867	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  13676	00:21:30.22	SCRI_25Sep19_bruv3_data	00:05:30.21	764	853	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  14483	00:21:43.69	SCRI_25Sep19_bruv3_data	00:05:43.68	664	447	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  25996	00:24:55.76	SCRI_25Sep19_bruv3_data	00:08:55.75	693	1392	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  25996	00:24:55.76	SCRI_25Sep19_bruv3_data	00:08:55.75	692	1846	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  37374	00:28:05.58	SCRI_25Sep19_bruv3_data	00:12:05.57	796	1735	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  47352	00:30:52.05	SCRI_25Sep19_bruv3_data	00:14:52.04	715	291	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  48830	00:31:16.71	SCRI_25Sep19_bruv3_data	00:15:16.70	576	44	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  48830	00:31:16.71	SCRI_25Sep19_bruv3_data	00:15:16.70	699	575	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP010045.MP4	  55076	00:33:00.91	SCRI_25Sep19_bruv3_data	00:17:00.90	419	582	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	3	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	   2666	00:36:08.60	SCRI_25Sep19_bruv3_data	00:20:08.59	778	938	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	   8640	00:37:48.27	SCRI_25Sep19_bruv3_data	00:21:48.26	697	1440	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+SCRI_25Sep19_3_GP020045.MP4	  14399	00:39:24.35	SCRI_25Sep19_bruv3_data	00:23:24.34	377	334	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S											7	AD	Passing	id?	background	
+SCRI_25Sep19_3_GP020045.MP4	  40455	00:46:39.05	SCRI_25Sep19_bruv3_data	00:30:39.04	654	548	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  51704	00:49:46.72	SCRI_25Sep19_bruv3_data	00:33:46.71	435	235	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  54687	00:50:36.48	SCRI_25Sep19_bruv3_data	00:34:36.47	744	1024	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  55642	00:50:52.42	SCRI_25Sep19_bruv3_data	00:34:52.41	704	1637	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  56657	00:51:09.35	SCRI_25Sep19_bruv3_data	00:35:09.34	254	981	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  63092	00:52:56.71	SCRI_25Sep19_bruv3_data	00:36:56.70	746	1188	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  63092	00:52:56.71	SCRI_25Sep19_bruv3_data	00:36:56.70	775	767	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  63092	00:52:56.71	SCRI_25Sep19_bruv3_data	00:36:56.70	666	1224	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  63092	00:52:56.71	SCRI_25Sep19_bruv3_data	00:36:56.70	581	1711	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP020045.MP4	  63092	00:52:56.71	SCRI_25Sep19_bruv3_data	00:36:56.70	670	906	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  11870	00:56:24.21	SCRI_25Sep19_bruv3_data	00:40:24.21	713	964	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  11870	00:56:24.21	SCRI_25Sep19_bruv3_data	00:40:24.21	751	1145	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  13877	00:56:57.70	SCRI_25Sep19_bruv3_data	00:40:57.69	508	649	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  13877	00:56:57.70	SCRI_25Sep19_bruv3_data	00:40:57.69	694	1517	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  20614	00:58:50.09	SCRI_25Sep19_bruv3_data	00:42:50.08	801	1305	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	3	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  25116	01:00:05.20	SCRI_25Sep19_bruv3_data	00:44:05.19	601	1036	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  29688	01:01:21.48	SCRI_25Sep19_bruv3_data	00:45:21.47	517	1117	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  32750	01:02:12.56	SCRI_25Sep19_bruv3_data	00:46:12.55	634	413	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	2	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  33360	01:02:22.74	SCRI_25Sep19_bruv3_data	00:46:22.73	812	1480	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  45941	01:05:52.63	SCRI_25Sep19_bruv3_data	00:49:52.62	698	984	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  45941	01:05:52.63	SCRI_25Sep19_bruv3_data	00:49:52.62	782	817	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  47380	01:06:16.64	SCRI_25Sep19_bruv3_data	00:50:16.63	718	942	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  48308	01:06:32.12	SCRI_25Sep19_bruv3_data	00:50:32.11	715	1424	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+SCRI_25Sep19_3_GP030045.MP4	  52357	01:07:39.67	SCRI_25Sep19_bruv3_data	00:51:39.66	815	304	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  52357	01:07:39.67	SCRI_25Sep19_bruv3_data	00:51:39.66	641	1082	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP030045.MP4	  57718	01:09:09.11	SCRI_25Sep19_bruv3_data	00:53:09.10	526	727	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SCRI_25Sep19_3_GP040045.MP4	   2611	01:11:31.80	SCRI_25Sep19_bruv3_data	00:55:31.80	765	1317	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP040045.MP4	   6149	01:12:30.83	SCRI_25Sep19_bruv3_data	00:56:30.82	799	1291	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP040045.MP4	   6149	01:12:30.83	SCRI_25Sep19_bruv3_data	00:56:30.82	710	1847	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP040045.MP4	  12290	01:14:13.28	SCRI_25Sep19_bruv3_data	00:58:13.27	591	1614	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP040045.MP4	  12290	01:14:13.28	SCRI_25Sep19_bruv3_data	00:58:13.27	754	147	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_3_GP040045.MP4	  12290	01:14:13.28	SCRI_25Sep19_bruv3_data	00:58:13.27	763	669	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_3_GP040045.MP4	  12290	01:14:13.28	SCRI_25Sep19_bruv3_data	00:58:13.27	842	1415	SCRI_25Sep19_bruv3	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			

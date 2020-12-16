@@ -1,0 +1,85 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 15:09:18
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+RESB_22Jul19_3_GP010003.MP4	   2852	00:18:29.64	REFU_22Jul19_bruv3_data	00:04:29.64	786	1589	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  18128	00:22:44.50	REFU_22Jul19_bruv3_data	00:08:44.49	816	231	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  18128	00:22:44.50	REFU_22Jul19_bruv3_data	00:08:44.49	746	1073	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  19730	00:23:11.22	REFU_22Jul19_bruv3_data	00:09:11.22	739	1423	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  22890	00:24:03.94	REFU_22Jul19_bruv3_data	00:10:03.94	760	941	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  23719	00:24:17.77	REFU_22Jul19_bruv3_data	00:10:17.77	779	1163	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  24847	00:24:36.59	REFU_22Jul19_bruv3_data	00:10:36.59	731	1112	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  24847	00:24:36.59	REFU_22Jul19_bruv3_data	00:10:36.59	828	1819	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  28441	00:25:36.55	REFU_22Jul19_bruv3_data	00:11:36.55	892	1844	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  28700	00:25:40.87	REFU_22Jul19_bruv3_data	00:11:40.87	358	1436	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Cymatogaster	aggregata	9	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  28742	00:25:41.57	REFU_22Jul19_bruv3_data	00:11:41.57	436	1871	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  35274	00:27:30.55	REFU_22Jul19_bruv3_data	00:13:30.54	677	995	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  35274	00:27:30.55	REFU_22Jul19_bruv3_data	00:13:30.54	677	1160	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  38880	00:28:30.71	REFU_22Jul19_bruv3_data	00:14:30.70	739	1119	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  38880	00:28:30.71	REFU_22Jul19_bruv3_data	00:14:30.70	795	1461	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  49733	00:31:31.77	REFU_22Jul19_bruv3_data	00:17:31.77	667	1016	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  49733	00:31:31.77	REFU_22Jul19_bruv3_data	00:17:31.77	549	1218	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  53086	00:32:27.71	REFU_22Jul19_bruv3_data	00:18:27.71	977	642	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  53271	00:32:30.80	REFU_22Jul19_bruv3_data	00:18:30.79	785	1197	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  53271	00:32:30.80	REFU_22Jul19_bruv3_data	00:18:30.79	826	1401	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  59094	00:34:07.95	REFU_22Jul19_bruv3_data	00:20:07.94	511	1008	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP010003.MP4	  59094	00:34:07.95	REFU_22Jul19_bruv3_data	00:20:07.94	448	1054	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	   6336	00:37:09.83	REFU_22Jul19_bruv3_data	00:23:09.82	940	671	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	   6336	00:37:09.83	REFU_22Jul19_bruv3_data	00:23:09.82	935	540	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  11531	00:38:36.50	REFU_22Jul19_bruv3_data	00:24:36.49	922	1548	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  13163	00:39:03.72	REFU_22Jul19_bruv3_data	00:25:03.72	616	1036	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  13511	00:39:09.53	REFU_22Jul19_bruv3_data	00:25:09.52	502	978	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  13511	00:39:09.53	REFU_22Jul19_bruv3_data	00:25:09.52	609	886	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  13511	00:39:09.53	REFU_22Jul19_bruv3_data	00:25:09.52	626	924	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  15060	00:39:35.37	REFU_22Jul19_bruv3_data	00:25:35.37	792	1260	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  27213	00:42:58.13	REFU_22Jul19_bruv3_data	00:28:58.12	696	1172	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  27213	00:42:58.13	REFU_22Jul19_bruv3_data	00:28:58.12	467	1146	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  27903	00:43:09.64	REFU_22Jul19_bruv3_data	00:29:09.63	730	655	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  32582	00:44:27.70	REFU_22Jul19_bruv3_data	00:30:27.69	760	1631	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  32582	00:44:27.70	REFU_22Jul19_bruv3_data	00:30:27.69	704	1224	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  35613	00:45:18.27	REFU_22Jul19_bruv3_data	00:31:18.26	869	1306	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  36715	00:45:36.65	REFU_22Jul19_bruv3_data	00:31:36.64	919	1351	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  36715	00:45:36.65	REFU_22Jul19_bruv3_data	00:31:36.64	912	1870	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  36715	00:45:36.65	REFU_22Jul19_bruv3_data	00:31:36.64	679	886	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  36997	00:45:41.36	REFU_22Jul19_bruv3_data	00:31:41.35	730	1443	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  39231	00:46:18.63	REFU_22Jul19_bruv3_data	00:32:18.62	983	636	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  39231	00:46:18.63	REFU_22Jul19_bruv3_data	00:32:18.62	961	1295	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  49104	00:49:03.34	REFU_22Jul19_bruv3_data	00:35:03.33	769	787	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  49104	00:49:03.34	REFU_22Jul19_bruv3_data	00:35:03.33	745	1130	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  49104	00:49:03.34	REFU_22Jul19_bruv3_data	00:35:03.33	643	312	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  50909	00:49:33.45	REFU_22Jul19_bruv3_data	00:35:33.45	709	547	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  51402	00:49:41.68	REFU_22Jul19_bruv3_data	00:35:41.67	736	603	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  51543	00:49:44.03	REFU_22Jul19_bruv3_data	00:35:44.03	740	749	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  51543	00:49:44.03	REFU_22Jul19_bruv3_data	00:35:44.03	795	1290	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  56397	00:51:05.01	REFU_22Jul19_bruv3_data	00:37:05.01	786	1596	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  56397	00:51:05.01	REFU_22Jul19_bruv3_data	00:37:05.01	850	1396	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  60237	00:52:09.08	REFU_22Jul19_bruv3_data	00:38:09.07	744	670	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  60832	00:52:19.00	REFU_22Jul19_bruv3_data	00:38:19.00	852	1174	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP020003.MP4	  60832	00:52:19.00	REFU_22Jul19_bruv3_data	00:38:19.00	829	1209	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	   2953	00:53:55.45	REFU_22Jul19_bruv3_data	00:39:55.44	888	801	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	   7076	00:55:04.23	REFU_22Jul19_bruv3_data	00:41:04.23	865	1808	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	   7076	00:55:04.23	REFU_22Jul19_bruv3_data	00:41:04.23	857	1753	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	   8925	00:55:35.08	REFU_22Jul19_bruv3_data	00:41:35.08	840	459	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	   9956	00:55:52.28	REFU_22Jul19_bruv3_data	00:41:52.28	772	1155	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  12159	00:56:29.04	REFU_22Jul19_bruv3_data	00:42:29.03	795	1212	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  12840	00:56:40.40	REFU_22Jul19_bruv3_data	00:42:40.39	932	770	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  12840	00:56:40.40	REFU_22Jul19_bruv3_data	00:42:40.39	843	1653	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  19331	00:58:28.69	REFU_22Jul19_bruv3_data	00:44:28.68	616	579	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  19331	00:58:28.69	REFU_22Jul19_bruv3_data	00:44:28.68	622	927	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  19627	00:58:33.63	REFU_22Jul19_bruv3_data	00:44:33.62	711	996	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  21547	00:59:05.66	REFU_22Jul19_bruv3_data	00:45:05.65	647	1099	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  23949	00:59:45.73	REFU_22Jul19_bruv3_data	00:45:45.73	679	1290	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  23949	00:59:45.73	REFU_22Jul19_bruv3_data	00:45:45.73	776	1452	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  30722	01:01:38.73	REFU_22Jul19_bruv3_data	00:47:38.72	945	1519	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  30722	01:01:38.73	REFU_22Jul19_bruv3_data	00:47:38.72	777	1046	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  39486	01:04:04.94	REFU_22Jul19_bruv3_data	00:50:04.94	772	773	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  39486	01:04:04.94	REFU_22Jul19_bruv3_data	00:50:04.94	818	1398	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  45362	01:05:42.97	REFU_22Jul19_bruv3_data	00:51:42.97	752	1230	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  45362	01:05:42.97	REFU_22Jul19_bruv3_data	00:51:42.97	744	1089	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  46550	01:06:02.79	REFU_22Jul19_bruv3_data	00:52:02.79	961	1661	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP030003.MP4	  46550	01:06:02.79	REFU_22Jul19_bruv3_data	00:52:02.79	764	1220	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_3_GP040003.MP4	   1670	01:11:16.11	REFU_22Jul19_bruv3_data	00:57:16.10	976	1215	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP040003.MP4	   1670	01:11:16.11	REFU_22Jul19_bruv3_data	00:57:16.10	809	1623	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP040003.MP4	  10691	01:13:46.61	REFU_22Jul19_bruv3_data	00:59:46.60	738	1164	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_3_GP040003.MP4	  10691	01:13:46.61	REFU_22Jul19_bruv3_data	00:59:46.60	903	1271	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			

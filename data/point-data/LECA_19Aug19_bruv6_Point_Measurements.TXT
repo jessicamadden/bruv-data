@@ -1,0 +1,33 @@
+Dot Point Measurements
+
+Generated: Wednesday, April 08, 2020 15:47:49
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+LECA_19Aug19_bruv6_GOPR0016.MP4	  61831	00:17:11.55	LECA_19Aug19_bruv6_data	00:00:11.54	149	963	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Atherinopsidae			3	1	AD	Passing	id? prob topsmelt		
+LECA_19Aug19_bruv6_GP010016.MP4	  20375	00:23:21.98	LECA_19Aug19_bruv6_data	00:06:21.98	590	306	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  23841	00:24:19.81	LECA_19Aug19_bruv6_data	00:07:19.81	574	323	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  24099	00:24:24.11	LECA_19Aug19_bruv6_data	00:07:24.11	525	1802	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  24099	00:24:24.11	LECA_19Aug19_bruv6_data	00:07:24.11	601	1522	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  37699	00:28:11.01	LECA_19Aug19_bruv6_data	00:11:11.00	551	267	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  39531	00:28:41.57	LECA_19Aug19_bruv6_data	00:11:41.57	217	935	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Atherinopsidae			3	1	AD	Passing	id? prob topsmelt		
+LECA_19Aug19_bruv6_GP010016.MP4	  39643	00:28:43.44	LECA_19Aug19_bruv6_data	00:11:43.44	673	1092	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  39643	00:28:43.44	LECA_19Aug19_bruv6_data	00:11:43.44	574	224	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  45877	00:30:27.44	LECA_19Aug19_bruv6_data	00:13:27.44	648	788	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  45877	00:30:27.44	LECA_19Aug19_bruv6_data	00:13:27.44	699	398	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  45877	00:30:27.44	LECA_19Aug19_bruv6_data	00:13:27.44	702	245	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  46440	00:30:36.84	LECA_19Aug19_bruv6_data	00:13:36.83	633	1719	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  56257	00:33:20.62	LECA_19Aug19_bruv6_data	00:16:20.61	690	246	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	3	AD	Passing			
+LECA_19Aug19_bruv6_GP010016.MP4	  61524	00:34:48.49	LECA_19Aug19_bruv6_data	00:17:48.48	610	1444	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	   5983	00:37:03.94	LECA_19Aug19_bruv6_data	00:20:03.94	515	1725	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	   5983	00:37:03.94	LECA_19Aug19_bruv6_data	00:20:03.94	435	1593	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	   5983	00:37:03.94	LECA_19Aug19_bruv6_data	00:20:03.94	421	827	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	   9191	00:37:57.46	LECA_19Aug19_bruv6_data	00:20:57.46	820	1576	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	  10298	00:38:15.93	LECA_19Aug19_bruv6_data	00:21:15.92	426	894	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Atherinopsidae			3	1	AD	Passing	id? prob topsmelt		
+LECA_19Aug19_bruv6_GP020016.MP4	  25943	00:42:36.94	LECA_19Aug19_bruv6_data	00:25:36.94	86	1119	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Atherinopsidae			3	1	AD	Passing	id? prob topsmelt		
+LECA_19Aug19_bruv6_GP020016.MP4	  26402	00:42:44.60	LECA_19Aug19_bruv6_data	00:25:44.59	750	821	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	  30913	00:43:59.85	LECA_19Aug19_bruv6_data	00:26:59.85	467	1578	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	  31840	00:44:15.32	LECA_19Aug19_bruv6_data	00:27:15.32	409	1792	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	3	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	  42439	00:47:12.15	LECA_19Aug19_bruv6_data	00:30:12.14	254	759	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Atherinopsidae			3	1	AD	Passing	id? prob topsmelt		
+LECA_19Aug19_bruv6_GP020016.MP4	  46949	00:48:27.39	LECA_19Aug19_bruv6_data	00:31:27.39	562	558	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_19Aug19_bruv6_GP020016.MP4	  47581	00:48:37.93	LECA_19Aug19_bruv6_data	00:31:37.93	763	484	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_19Aug19_bruv6_GP030016.MP4	  14117	00:57:01.70	LECA_19Aug19_bruv6_data	00:40:01.70	623	183	LECA_19Aug19_bruv6	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			

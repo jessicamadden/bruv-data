@@ -1,0 +1,211 @@
+Dot Point Measurements
+
+Generated: Thursday, April 09, 2020 17:12:13
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PODU_20Aug19_bruv6_GOPR0019.MP4	  39660	00:11:01.66	DUCO_20Aug19_bruv6_data	00:00:01.65	431	995	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GOPR0019.MP4	  39754	00:11:03.23	DUCO_20Aug19_bruv6_data	00:00:03.22	241	805	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GOPR0019.MP4	  39754	00:11:03.23	DUCO_20Aug19_bruv6_data	00:00:03.22	91	624	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S											1	AD	Passing	id? opaleye?		
+PODU_20Aug19_bruv6_GOPR0019.MP4	  56424	00:15:41.34	DUCO_20Aug19_bruv6_data	00:04:41.33	171	844	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GOPR0019.MP4	  60088	00:16:42.47	DUCO_20Aug19_bruv6_data	00:05:42.46	322	1205	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	2	AD	Passing	background		
+PODU_20Aug19_bruv6_GOPR0019.MP4	  63084	00:17:32.45	DUCO_20Aug19_bruv6_data	00:06:32.44	580	1486	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	3	AD	Passing	background		
+PODU_20Aug19_bruv6_GOPR0019.MP4	  63084	00:17:32.45	DUCO_20Aug19_bruv6_data	00:06:32.44	229	445	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GOPR0019.MP4	  63084	00:17:32.45	DUCO_20Aug19_bruv6_data	00:06:32.44	782	1436	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	   3265	00:18:36.53	DUCO_20Aug19_bruv6_data	00:07:36.52	198	328	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	3	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	   6038	00:19:22.79	DUCO_20Aug19_bruv6_data	00:08:22.79	87	708	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	   8895	00:20:10.46	DUCO_20Aug19_bruv6_data	00:09:10.45	547	1657	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	191	1307	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	269	1425	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	271	1489	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	341	1368	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	351	1420	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	386	1497	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	371	1563	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	410	1594	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	436	1647	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	401	1712	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	427	1755	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	364	1767	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	358	1814	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	391	1868	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  14975	00:21:51.89	DUCO_20Aug19_bruv6_data	00:10:51.88	256	1767	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP010019.MP4	  15346	00:21:58.08	DUCO_20Aug19_bruv6_data	00:10:58.07	170	1835	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  15796	00:22:05.59	DUCO_20Aug19_bruv6_data	00:11:05.58	306	1194	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  15796	00:22:05.59	DUCO_20Aug19_bruv6_data	00:11:05.58	547	1604	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  17656	00:22:36.62	DUCO_20Aug19_bruv6_data	00:11:36.61	441	1074	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  17656	00:22:36.62	DUCO_20Aug19_bruv6_data	00:11:36.61	285	989	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  18074	00:22:43.60	DUCO_20Aug19_bruv6_data	00:11:43.59	441	1448	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  18074	00:22:43.60	DUCO_20Aug19_bruv6_data	00:11:43.59	455	1831	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  18074	00:22:43.60	DUCO_20Aug19_bruv6_data	00:11:43.59	591	1173	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  18074	00:22:43.60	DUCO_20Aug19_bruv6_data	00:11:43.59	654	1514	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  22409	00:23:55.92	DUCO_20Aug19_bruv6_data	00:12:55.91	324	1380	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  22409	00:23:55.92	DUCO_20Aug19_bruv6_data	00:12:55.91	478	1376	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  22409	00:23:55.92	DUCO_20Aug19_bruv6_data	00:12:55.91	425	978	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  22409	00:23:55.92	DUCO_20Aug19_bruv6_data	00:12:55.91	721	1558	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  25168	00:24:41.95	DUCO_20Aug19_bruv6_data	00:13:41.94	561	1605	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  25168	00:24:41.95	DUCO_20Aug19_bruv6_data	00:13:41.94	574	1202	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  26071	00:24:57.01	DUCO_20Aug19_bruv6_data	00:13:57.00	670	1385	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  26071	00:24:57.01	DUCO_20Aug19_bruv6_data	00:13:57.00	509	1093	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  26071	00:24:57.01	DUCO_20Aug19_bruv6_data	00:13:57.00	62	211	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  26071	00:24:57.01	DUCO_20Aug19_bruv6_data	00:13:57.00	532	1283	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  28308	00:25:34.33	DUCO_20Aug19_bruv6_data	00:14:34.32	398	1849	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  28308	00:25:34.33	DUCO_20Aug19_bruv6_data	00:14:34.32	291	251	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  28308	00:25:34.33	DUCO_20Aug19_bruv6_data	00:14:34.32	566	1004	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  28308	00:25:34.33	DUCO_20Aug19_bruv6_data	00:14:34.32	687	1212	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  28963	00:25:45.26	DUCO_20Aug19_bruv6_data	00:14:45.25	571	1255	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	2	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  28963	00:25:45.26	DUCO_20Aug19_bruv6_data	00:14:45.25	663	1219	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  28963	00:25:45.26	DUCO_20Aug19_bruv6_data	00:14:45.25	402	652	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  28963	00:25:45.26	DUCO_20Aug19_bruv6_data	00:14:45.25	148	164	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  30219	00:26:06.21	DUCO_20Aug19_bruv6_data	00:15:06.21	512	953	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  30219	00:26:06.21	DUCO_20Aug19_bruv6_data	00:15:06.21	550	1682	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  30219	00:26:06.21	DUCO_20Aug19_bruv6_data	00:15:06.21	670	1251	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  30219	00:26:06.21	DUCO_20Aug19_bruv6_data	00:15:06.21	496	681	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  30896	00:26:17.51	DUCO_20Aug19_bruv6_data	00:15:17.50	364	1120	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  30896	00:26:17.51	DUCO_20Aug19_bruv6_data	00:15:17.50	581	1579	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  30896	00:26:17.51	DUCO_20Aug19_bruv6_data	00:15:17.50	488	1330	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  35260	00:27:30.32	DUCO_20Aug19_bruv6_data	00:16:30.31	385	719	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	3	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  35260	00:27:30.32	DUCO_20Aug19_bruv6_data	00:16:30.31	451	404	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  40762	00:29:02.11	DUCO_20Aug19_bruv6_data	00:18:02.10	583	967	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  40762	00:29:02.11	DUCO_20Aug19_bruv6_data	00:18:02.10	374	67	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  40762	00:29:02.11	DUCO_20Aug19_bruv6_data	00:18:02.10	433	395	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  43281	00:29:44.13	DUCO_20Aug19_bruv6_data	00:18:44.12	207	181	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  43281	00:29:44.13	DUCO_20Aug19_bruv6_data	00:18:44.12	326	713	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  43281	00:29:44.13	DUCO_20Aug19_bruv6_data	00:18:44.12	555	641	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  43406	00:29:46.22	DUCO_20Aug19_bruv6_data	00:18:46.21	341	582	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  43406	00:29:46.22	DUCO_20Aug19_bruv6_data	00:18:46.21	435	1024	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  43406	00:29:46.22	DUCO_20Aug19_bruv6_data	00:18:46.21	464	1612	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  43406	00:29:46.22	DUCO_20Aug19_bruv6_data	00:18:46.21	550	676	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  43406	00:29:46.22	DUCO_20Aug19_bruv6_data	00:18:46.21	726	1530	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  43406	00:29:46.22	DUCO_20Aug19_bruv6_data	00:18:46.21	480	638	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  44522	00:30:04.84	DUCO_20Aug19_bruv6_data	00:19:04.83	170	94	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  44522	00:30:04.84	DUCO_20Aug19_bruv6_data	00:19:04.83	542	1205	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  44522	00:30:04.84	DUCO_20Aug19_bruv6_data	00:19:04.83	662	1249	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  48270	00:31:07.37	DUCO_20Aug19_bruv6_data	00:20:07.36	237	355	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  50099	00:31:37.88	DUCO_20Aug19_bruv6_data	00:20:37.87	571	1359	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  50099	00:31:37.88	DUCO_20Aug19_bruv6_data	00:20:37.87	326	682	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP010019.MP4	  50404	00:31:42.97	DUCO_20Aug19_bruv6_data	00:20:42.96	626	1167	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP010019.MP4	  50404	00:31:42.97	DUCO_20Aug19_bruv6_data	00:20:42.96	326	1704	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  52446	00:32:17.04	DUCO_20Aug19_bruv6_data	00:21:17.03	360	161	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  52446	00:32:17.04	DUCO_20Aug19_bruv6_data	00:21:17.03	401	522	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  52446	00:32:17.04	DUCO_20Aug19_bruv6_data	00:21:17.03	774	1807	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  52870	00:32:24.11	DUCO_20Aug19_bruv6_data	00:21:24.10	477	769	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  52870	00:32:24.11	DUCO_20Aug19_bruv6_data	00:21:24.10	585	1138	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  52870	00:32:24.11	DUCO_20Aug19_bruv6_data	00:21:24.10	345	426	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  56083	00:33:17.71	DUCO_20Aug19_bruv6_data	00:22:17.70	266	295	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  56083	00:33:17.71	DUCO_20Aug19_bruv6_data	00:22:17.70	533	1095	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  56083	00:33:17.71	DUCO_20Aug19_bruv6_data	00:22:17.70	758	1663	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP010019.MP4	  57473	00:33:40.90	DUCO_20Aug19_bruv6_data	00:22:40.89	652	1270	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  57473	00:33:40.90	DUCO_20Aug19_bruv6_data	00:22:40.89	644	1790	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP010019.MP4	  57473	00:33:40.90	DUCO_20Aug19_bruv6_data	00:22:40.89	431	164	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD		background		
+PODU_20Aug19_bruv6_GP010019.MP4	  57473	00:33:40.90	DUCO_20Aug19_bruv6_data	00:22:40.89	241	78	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	   2424	00:36:04.56	DUCO_20Aug19_bruv6_data	00:25:04.55	349	255	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	   2424	00:36:04.56	DUCO_20Aug19_bruv6_data	00:25:04.55	703	1392	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   2607	00:36:07.62	DUCO_20Aug19_bruv6_data	00:25:07.61	602	1017	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   2607	00:36:07.62	DUCO_20Aug19_bruv6_data	00:25:07.61	420	1084	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   2936	00:36:13.10	DUCO_20Aug19_bruv6_data	00:25:13.09	622	1081	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   2936	00:36:13.10	DUCO_20Aug19_bruv6_data	00:25:13.09	286	1095	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   2936	00:36:13.10	DUCO_20Aug19_bruv6_data	00:25:13.09	267	23	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD		background		
+PODU_20Aug19_bruv6_GP020019.MP4	   6812	00:37:17.77	DUCO_20Aug19_bruv6_data	00:26:17.76	498	572	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   6812	00:37:17.77	DUCO_20Aug19_bruv6_data	00:26:17.76	446	767	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   6812	00:37:17.77	DUCO_20Aug19_bruv6_data	00:26:17.76	667	1553	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   6856	00:37:18.50	DUCO_20Aug19_bruv6_data	00:26:18.49	520	606	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   6856	00:37:18.50	DUCO_20Aug19_bruv6_data	00:26:18.49	494	779	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   6856	00:37:18.50	DUCO_20Aug19_bruv6_data	00:26:18.49	686	1527	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   6856	00:37:18.50	DUCO_20Aug19_bruv6_data	00:26:18.49	239	1775	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	3	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP020019.MP4	   7140	00:37:23.24	DUCO_20Aug19_bruv6_data	00:26:23.23	591	823	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   7140	00:37:23.24	DUCO_20Aug19_bruv6_data	00:26:23.23	711	1298	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   7140	00:37:23.24	DUCO_20Aug19_bruv6_data	00:26:23.23	757	1402	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   7140	00:37:23.24	DUCO_20Aug19_bruv6_data	00:26:23.23	593	1076	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP020019.MP4	   8048	00:37:38.39	DUCO_20Aug19_bruv6_data	00:26:38.38	147	1320	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   8048	00:37:38.39	DUCO_20Aug19_bruv6_data	00:26:38.38	506	994	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	   8048	00:37:38.39	DUCO_20Aug19_bruv6_data	00:26:38.38	472	514	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  20545	00:41:06.88	DUCO_20Aug19_bruv6_data	00:30:06.87	252	870	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  20545	00:41:06.88	DUCO_20Aug19_bruv6_data	00:30:06.87	685	1177	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  20545	00:41:06.88	DUCO_20Aug19_bruv6_data	00:30:06.87	390	150	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  20545	00:41:06.88	DUCO_20Aug19_bruv6_data	00:30:06.87	391	582	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD		background		
+PODU_20Aug19_bruv6_GP020019.MP4	  20545	00:41:06.88	DUCO_20Aug19_bruv6_data	00:30:06.87	398	39	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  20545	00:41:06.88	DUCO_20Aug19_bruv6_data	00:30:06.87	789	1491	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  21618	00:41:24.78	DUCO_20Aug19_bruv6_data	00:30:24.77	255	102	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  21618	00:41:24.78	DUCO_20Aug19_bruv6_data	00:30:24.77	677	1212	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  21618	00:41:24.78	DUCO_20Aug19_bruv6_data	00:30:24.77	412	400	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  21618	00:41:24.78	DUCO_20Aug19_bruv6_data	00:30:24.77	608	944	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  21618	00:41:24.78	DUCO_20Aug19_bruv6_data	00:30:24.77	529	1690	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  21907	00:41:29.60	DUCO_20Aug19_bruv6_data	00:30:29.59	107	61	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  21907	00:41:29.60	DUCO_20Aug19_bruv6_data	00:30:29.59	425	149	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  21907	00:41:29.60	DUCO_20Aug19_bruv6_data	00:30:29.59	393	216	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD		background		
+PODU_20Aug19_bruv6_GP020019.MP4	  21907	00:41:29.60	DUCO_20Aug19_bruv6_data	00:30:29.59	509	667	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  21907	00:41:29.60	DUCO_20Aug19_bruv6_data	00:30:29.59	336	1719	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  21907	00:41:29.60	DUCO_20Aug19_bruv6_data	00:30:29.59	12	1745	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  28930	00:43:26.77	DUCO_20Aug19_bruv6_data	00:32:26.76	423	1051	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing	background		
+PODU_20Aug19_bruv6_GP020019.MP4	  32746	00:44:30.43	DUCO_20Aug19_bruv6_data	00:33:30.43	420	214	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  32746	00:44:30.43	DUCO_20Aug19_bruv6_data	00:33:30.43	649	1012	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  32746	00:44:30.43	DUCO_20Aug19_bruv6_data	00:33:30.43	283	199	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Halichoeres	semicinctus	19	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  37289	00:45:46.23	DUCO_20Aug19_bruv6_data	00:34:46.22	648	1634	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  37289	00:45:46.23	DUCO_20Aug19_bruv6_data	00:34:46.22	477	1327	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  37289	00:45:46.23	DUCO_20Aug19_bruv6_data	00:34:46.22	52	306	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	male		
+PODU_20Aug19_bruv6_GP020019.MP4	  37289	00:45:46.23	DUCO_20Aug19_bruv6_data	00:34:46.22	467	1026	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  37289	00:45:46.23	DUCO_20Aug19_bruv6_data	00:34:46.22	363	167	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  37289	00:45:46.23	DUCO_20Aug19_bruv6_data	00:34:46.22	524	662	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  38494	00:46:06.33	DUCO_20Aug19_bruv6_data	00:35:06.32	389	321	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  38494	00:46:06.33	DUCO_20Aug19_bruv6_data	00:35:06.32	339	649	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  38494	00:46:06.33	DUCO_20Aug19_bruv6_data	00:35:06.32	569	829	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  38494	00:46:06.33	DUCO_20Aug19_bruv6_data	00:35:06.32	453	1103	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  38494	00:46:06.33	DUCO_20Aug19_bruv6_data	00:35:06.32	495	942	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  42888	00:47:19.64	DUCO_20Aug19_bruv6_data	00:36:19.63	509	1665	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  42888	00:47:19.64	DUCO_20Aug19_bruv6_data	00:36:19.63	200	409	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  42888	00:47:19.64	DUCO_20Aug19_bruv6_data	00:36:19.63	394	258	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	2	AD		background		
+PODU_20Aug19_bruv6_GP020019.MP4	  43042	00:47:22.21	DUCO_20Aug19_bruv6_data	00:36:22.20	232	124	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  43042	00:47:22.21	DUCO_20Aug19_bruv6_data	00:36:22.20	142	874	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	male		
+PODU_20Aug19_bruv6_GP020019.MP4	  43042	00:47:22.21	DUCO_20Aug19_bruv6_data	00:36:22.20	442	739	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  43042	00:47:22.21	DUCO_20Aug19_bruv6_data	00:36:22.20	661	1686	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD				
+PODU_20Aug19_bruv6_GP020019.MP4	  50382	00:49:24.66	DUCO_20Aug19_bruv6_data	00:38:24.65	107	518	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	3	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  59939	00:52:04.10	DUCO_20Aug19_bruv6_data	00:41:04.09	545	955	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  59939	00:52:04.10	DUCO_20Aug19_bruv6_data	00:41:04.09	694	1273	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  60591	00:52:14.98	DUCO_20Aug19_bruv6_data	00:41:14.97	628	1120	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  60591	00:52:14.98	DUCO_20Aug19_bruv6_data	00:41:14.97	435	575	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  60591	00:52:14.98	DUCO_20Aug19_bruv6_data	00:41:14.97	127	1095	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  61110	00:52:23.64	DUCO_20Aug19_bruv6_data	00:41:23.63	460	916	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	3	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  61110	00:52:23.64	DUCO_20Aug19_bruv6_data	00:41:23.63	336	162	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Halichoeres	semicinctus	19	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  61110	00:52:23.64	DUCO_20Aug19_bruv6_data	00:41:23.63	285	220	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  61110	00:52:23.64	DUCO_20Aug19_bruv6_data	00:41:23.63	696	1197	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP020019.MP4	  61110	00:52:23.64	DUCO_20Aug19_bruv6_data	00:41:23.63	851	1783	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  10903	00:56:08.08	DUCO_20Aug19_bruv6_data	00:45:08.07	499	1405	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  11442	00:56:17.07	DUCO_20Aug19_bruv6_data	00:45:17.06	363	1066	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  12301	00:56:31.40	DUCO_20Aug19_bruv6_data	00:45:31.40	360	1180	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  12301	00:56:31.40	DUCO_20Aug19_bruv6_data	00:45:31.40	409	933	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  15395	00:57:23.02	DUCO_20Aug19_bruv6_data	00:46:23.01	162	1303	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	54	AD	Passing	id? background		
+PODU_20Aug19_bruv6_GP030019.MP4	  15395	00:57:23.02	DUCO_20Aug19_bruv6_data	00:46:23.01	295	450	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  15395	00:57:23.02	DUCO_20Aug19_bruv6_data	00:46:23.01	505	689	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  15572	00:57:25.98	DUCO_20Aug19_bruv6_data	00:46:25.97	271	822	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  28681	01:01:04.68	DUCO_20Aug19_bruv6_data	00:50:04.67	343	494	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	2	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  30944	01:01:42.43	DUCO_20Aug19_bruv6_data	00:50:42.42	415	339	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  33907	01:02:31.86	DUCO_20Aug19_bruv6_data	00:51:31.86	497	587	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  33907	01:02:31.86	DUCO_20Aug19_bruv6_data	00:51:31.86	578	1822	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  33907	01:02:31.86	DUCO_20Aug19_bruv6_data	00:51:31.86	139	484	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  43928	01:05:19.05	DUCO_20Aug19_bruv6_data	00:54:19.04	652	1057	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  43928	01:05:19.05	DUCO_20Aug19_bruv6_data	00:54:19.04	663	1792	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  43928	01:05:19.05	DUCO_20Aug19_bruv6_data	00:54:19.04	106	590	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  44361	01:05:26.27	DUCO_20Aug19_bruv6_data	00:54:26.26	398	452	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  44361	01:05:26.27	DUCO_20Aug19_bruv6_data	00:54:26.26	469	775	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  44361	01:05:26.27	DUCO_20Aug19_bruv6_data	00:54:26.26	439	1095	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  46863	01:06:08.01	DUCO_20Aug19_bruv6_data	00:55:08.00	379	210	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  46863	01:06:08.01	DUCO_20Aug19_bruv6_data	00:55:08.00	294	844	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  49743	01:06:56.06	DUCO_20Aug19_bruv6_data	00:55:56.05	578	939	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  49743	01:06:56.06	DUCO_20Aug19_bruv6_data	00:55:56.05	685	1282	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  49743	01:06:56.06	DUCO_20Aug19_bruv6_data	00:55:56.05	443	1398	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  49743	01:06:56.06	DUCO_20Aug19_bruv6_data	00:55:56.05	511	1536	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  49743	01:06:56.06	DUCO_20Aug19_bruv6_data	00:55:56.05	737	1657	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Halichoeres	semicinctus	19	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  49986	01:07:00.12	DUCO_20Aug19_bruv6_data	00:56:00.11	609	1729	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  52846	01:07:47.83	DUCO_20Aug19_bruv6_data	00:56:47.82	602	864	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  52846	01:07:47.83	DUCO_20Aug19_bruv6_data	00:56:47.82	616	1408	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv6_GP030019.MP4	  52846	01:07:47.83	DUCO_20Aug19_bruv6_data	00:56:47.82	556	1172	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  52846	01:07:47.83	DUCO_20Aug19_bruv6_data	00:56:47.82	534	1493	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  56261	01:08:44.80	DUCO_20Aug19_bruv6_data	00:57:44.79	624	1045	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  56261	01:08:44.80	DUCO_20Aug19_bruv6_data	00:57:44.79	309	60	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Embiotocidae	Embiotoca	jacksoni	10	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  56984	01:08:56.87	DUCO_20Aug19_bruv6_data	00:57:56.86	17	165	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  56984	01:08:56.87	DUCO_20Aug19_bruv6_data	00:57:56.86	195	402	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  56984	01:08:56.87	DUCO_20Aug19_bruv6_data	00:57:56.86	154	726	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  59370	01:09:36.67	DUCO_20Aug19_bruv6_data	00:58:36.66	528	743	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  59370	01:09:36.67	DUCO_20Aug19_bruv6_data	00:58:36.66	631	982	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  59370	01:09:36.67	DUCO_20Aug19_bruv6_data	00:58:36.66	415	920	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_20Aug19_bruv6_GP030019.MP4	  59370	01:09:36.67	DUCO_20Aug19_bruv6_data	00:58:36.66	516	1289	DUCO_20Aug19_bruv6	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			

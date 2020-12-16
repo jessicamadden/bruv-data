@@ -1,0 +1,22 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 16:44:33
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+LECA_17Sep19_bruv6_GP010041.MP4	  19897	00:23:14.01	LECA_17Sep19_bruv6_data	00:10:14.00	877	175	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing	id?		
+LECA_17Sep19_bruv6_GP010041.MP4	  20397	00:23:22.35	LECA_17Sep19_bruv6_data	00:10:22.34	266	370	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+LECA_17Sep19_bruv6_GP020041.MP4	  32808	00:44:31.47	LECA_17Sep19_bruv6_data	00:31:31.46	804	997	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+LECA_17Sep19_bruv6_GP020041.MP4	  47141	00:48:30.59	LECA_17Sep19_bruv6_data	00:35:30.58	789	1016	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+LECA_17Sep19_bruv6_GP020041.MP4	  56255	00:51:02.64	LECA_17Sep19_bruv6_data	00:38:02.63	790	1653	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	   3050	00:53:57.07	LECA_17Sep19_bruv6_data	00:40:57.05	781	1622	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  13615	00:56:53.33	LECA_17Sep19_bruv6_data	00:43:53.31	785	1067	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  22690	00:59:24.73	LECA_17Sep19_bruv6_data	00:46:24.72	624	1117	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  29456	01:01:17.61	LECA_17Sep19_bruv6_data	00:48:17.59	542	255	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  29648	01:01:20.81	LECA_17Sep19_bruv6_data	00:48:20.80	502	89	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	5	AD	Passing	check id		
+LECA_17Sep19_bruv6_GP030041.MP4	  33468	01:02:24.54	LECA_17Sep19_bruv6_data	00:49:24.53	848	446	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  33468	01:02:24.54	LECA_17Sep19_bruv6_data	00:49:24.53	760	291	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  39260	01:04:01.17	LECA_17Sep19_bruv6_data	00:51:01.16	680	949	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  50785	01:07:13.45	LECA_17Sep19_bruv6_data	00:54:13.43	753	855	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  53802	01:08:03.78	LECA_17Sep19_bruv6_data	00:55:03.77	754	1100	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+LECA_17Sep19_bruv6_GP030041.MP4	  53802	01:08:03.78	LECA_17Sep19_bruv6_data	00:55:03.77	676	1763	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+LECA_17Sep19_bruv6_GP040041.MP4	   6104	01:12:30.08	LECA_17Sep19_bruv6_data	00:59:30.07	700	1363	LECA_17Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			

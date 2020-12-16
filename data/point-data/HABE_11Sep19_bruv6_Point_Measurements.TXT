@@ -1,0 +1,25 @@
+Dot Point Measurements
+
+Generated: Thursday, June 04, 2020 13:02:54
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+HABE_11Sep19_6_GOPR0038.MP4	  62534	00:17:23.28	HABE_11Sep19_bruv6_data	00:05:23.27	797	1741	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_6_GP010038.MP4	  55375	00:33:05.90	HABE_11Sep19_bruv6_data	00:21:05.90	621	1017	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id?		
+HABE_11Sep19_6_GP010038.MP4	  55490	00:33:07.82	HABE_11Sep19_bruv6_data	00:21:07.82	823	1083	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	   6167	00:37:07.01	HABE_11Sep19_bruv6_data	00:25:07.01	867	1200	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	   9601	00:38:04.30	HABE_11Sep19_bruv6_data	00:26:04.30	883	1126	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	   9601	00:38:04.30	HABE_11Sep19_bruv6_data	00:26:04.30	679	975	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id?		
+HABE_11Sep19_6_GP020038.MP4	  10327	00:38:16.41	HABE_11Sep19_bruv6_data	00:26:16.41	277	1168	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id?		
+HABE_11Sep19_6_GP020038.MP4	  10327	00:38:16.41	HABE_11Sep19_bruv6_data	00:26:16.41	43	1275	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id?		
+HABE_11Sep19_6_GP020038.MP4	  24298	00:42:09.49	HABE_11Sep19_bruv6_data	00:30:09.49	828	1189	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	  32033	00:44:18.54	HABE_11Sep19_bruv6_data	00:32:18.54	823	1107	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	  32033	00:44:18.54	HABE_11Sep19_bruv6_data	00:32:18.54	812	1479	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	  40851	00:46:45.65	HABE_11Sep19_bruv6_data	00:34:45.65	786	1251	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	  40851	00:46:45.65	HABE_11Sep19_bruv6_data	00:34:45.65	710	535	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id?		
+HABE_11Sep19_6_GP020038.MP4	  43151	00:47:24.02	HABE_11Sep19_bruv6_data	00:35:24.02	269	1068	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id?		
+HABE_11Sep19_6_GP020038.MP4	  43151	00:47:24.02	HABE_11Sep19_bruv6_data	00:35:24.02	849	1475	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	  48394	00:48:51.50	HABE_11Sep19_bruv6_data	00:36:51.49	521	1254	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	positive id, changed prev		
+HABE_11Sep19_6_GP020038.MP4	  55303	00:50:46.76	HABE_11Sep19_bruv6_data	00:38:46.76	721	1135	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_11Sep19_6_GP020038.MP4	  60846	00:52:19.24	HABE_11Sep19_bruv6_data	00:40:19.23	671	714	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_11Sep19_6_GP030038.MP4	  16954	00:57:49.03	HABE_11Sep19_bruv6_data	00:45:49.03	763	358	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+HABE_11Sep19_6_GP030038.MP4	  39213	01:04:00.39	HABE_11Sep19_bruv6_data	00:52:00.38	906	769	HABE_11Sep19_bruv6	Jessica Madden			=1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			

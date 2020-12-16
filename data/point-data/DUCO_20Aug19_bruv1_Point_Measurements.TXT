@@ -1,0 +1,224 @@
+Dot Point Measurements
+
+Generated: Thursday, February 27, 2020 15:57:43
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment									Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PODU_20Aug19_bruv1_GOPR0073.MP4	  35965	00:10:00.02	DUCO_20Aug19_bruv1_data	00:00:00.00	490	1333	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  36152	00:10:03.14	DUCO_20Aug19_bruv1_data	00:00:03.12	513	1251	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  36152	00:10:03.14	DUCO_20Aug19_bruv1_data	00:00:03.12	449	296	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  36935	00:10:16.20	DUCO_20Aug19_bruv1_data	00:00:16.18	697	877	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  36935	00:10:16.20	DUCO_20Aug19_bruv1_data	00:00:16.18	262	1808	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	unidentified fish	background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  38925	00:10:49.40	DUCO_20Aug19_bruv1_data	00:00:49.38	472	957	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  38925	00:10:49.40	DUCO_20Aug19_bruv1_data	00:00:49.38	490	1216	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  38925	00:10:49.40	DUCO_20Aug19_bruv1_data	00:00:49.38	287	1729	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  38925	00:10:49.40	DUCO_20Aug19_bruv1_data	00:00:49.38	412	1859	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	unknown fish- possible black perch	background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  42877	00:11:55.33	DUCO_20Aug19_bruv1_data	00:01:55.32	175	954	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  42877	00:11:55.33	DUCO_20Aug19_bruv1_data	00:01:55.32	442	875	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  42877	00:11:55.33	DUCO_20Aug19_bruv1_data	00:01:55.32	763	1613	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  42877	00:11:55.33	DUCO_20Aug19_bruv1_data	00:01:55.32	410	1658	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing	id check?	background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  43522	00:12:06.09	DUCO_20Aug19_bruv1_data	00:02:06.08	458	1503	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  43522	00:12:06.09	DUCO_20Aug19_bruv1_data	00:02:06.08	636	348	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  43522	00:12:06.09	DUCO_20Aug19_bruv1_data	00:02:06.08	515	1788	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46619	00:12:57.76	DUCO_20Aug19_bruv1_data	00:02:57.74	396	1173	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46619	00:12:57.76	DUCO_20Aug19_bruv1_data	00:02:57.74	451	1480	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46619	00:12:57.76	DUCO_20Aug19_bruv1_data	00:02:57.74	470	1829	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46619	00:12:57.76	DUCO_20Aug19_bruv1_data	00:02:57.74	385	1811	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing	id check?	background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46619	00:12:57.76	DUCO_20Aug19_bruv1_data	00:02:57.74	415	1883	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing	id check?	background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46619	00:12:57.76	DUCO_20Aug19_bruv1_data	00:02:57.74	401	176	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46619	00:12:57.76	DUCO_20Aug19_bruv1_data	00:02:57.74	495	480	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46638	00:12:58.08	DUCO_20Aug19_bruv1_data	00:02:58.06	529	599	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46638	00:12:58.08	DUCO_20Aug19_bruv1_data	00:02:58.06	417	291	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46638	00:12:58.08	DUCO_20Aug19_bruv1_data	00:02:58.06	418	1030	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing	id check?	background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46638	00:12:58.08	DUCO_20Aug19_bruv1_data	00:02:58.06	462	1321	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing	id check?	background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  46638	00:12:58.08	DUCO_20Aug19_bruv1_data	00:02:58.06	481	1758	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing	id check?	background	
+PODU_20Aug19_bruv1_GOPR0073.MP4	  50456	00:14:01.77	DUCO_20Aug19_bruv1_data	00:04:01.76	556	173	DUCO_20Aug19_bruv1	Jessica Madden											Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  50456	00:14:01.77	DUCO_20Aug19_bruv1_data	00:04:01.76	413	1601	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  50456	00:14:01.77	DUCO_20Aug19_bruv1_data	00:04:01.76	511	1608	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  50456	00:14:01.77	DUCO_20Aug19_bruv1_data	00:04:01.76	465	1234	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  50456	00:14:01.77	DUCO_20Aug19_bruv1_data	00:04:01.76	579	446	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  50456	00:14:01.77	DUCO_20Aug19_bruv1_data	00:04:01.76	554	651	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  54290	00:15:05.74	DUCO_20Aug19_bruv1_data	00:05:05.72	405	1708	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  54290	00:15:05.74	DUCO_20Aug19_bruv1_data	00:05:05.72	545	640	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  54290	00:15:05.74	DUCO_20Aug19_bruv1_data	00:05:05.72	483	169	DUCO_20Aug19_bruv1	Jessica Madden											Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  54290	00:15:05.74	DUCO_20Aug19_bruv1_data	00:05:05.72	765	1727	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  59931	00:16:39.85	DUCO_20Aug19_bruv1_data	00:06:39.83	517	1815	DUCO_20Aug19_bruv1	Jessica Madden											Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+PODU_20Aug19_bruv1_GOPR0073.MP4	  59931	00:16:39.85	DUCO_20Aug19_bruv1_data	00:06:39.83	463	1597	DUCO_20Aug19_bruv1	Jessica Madden											Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  18833	00:22:56.26	DUCO_20Aug19_bruv1_data	00:12:56.24	155	168	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	unidentified fish - zebra perch?	background	
+PODU_20Aug19_bruv1_GP010073.MP4	  18833	00:22:56.26	DUCO_20Aug19_bruv1_data	00:12:56.24	597	45	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  18833	00:22:56.26	DUCO_20Aug19_bruv1_data	00:12:56.24	430	1029	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20545	00:23:24.82	DUCO_20Aug19_bruv1_data	00:13:24.80	314	1790	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20545	00:23:24.82	DUCO_20Aug19_bruv1_data	00:13:24.80	487	1506	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20545	00:23:24.82	DUCO_20Aug19_bruv1_data	00:13:24.80	428	870	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20545	00:23:24.82	DUCO_20Aug19_bruv1_data	00:13:24.80	346	893	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20545	00:23:24.82	DUCO_20Aug19_bruv1_data	00:13:24.80	392	1316	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20734	00:23:27.97	DUCO_20Aug19_bruv1_data	00:13:27.96	674	1449	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20734	00:23:27.97	DUCO_20Aug19_bruv1_data	00:13:27.96	32	494	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20734	00:23:27.97	DUCO_20Aug19_bruv1_data	00:13:27.96	381	966	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20734	00:23:27.97	DUCO_20Aug19_bruv1_data	00:13:27.96	405	1248	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20734	00:23:27.97	DUCO_20Aug19_bruv1_data	00:13:27.96	365	1581	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20734	00:23:27.97	DUCO_20Aug19_bruv1_data	00:13:27.96	483	1637	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20734	00:23:27.97	DUCO_20Aug19_bruv1_data	00:13:27.96	387	1715	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	396	884	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	397	1353	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	472	1355	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	422	1610	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	403	1770	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	524	1815	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	469	1660	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	531	1635	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  20947	00:23:31.53	DUCO_20Aug19_bruv1_data	00:13:31.51	426	1025	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	412	1756	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	469	1877	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	529	1640	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	510	1485	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	599	1497	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	383	1496	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	517	1350	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	389	1152	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	360	570	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  21317	00:23:37.70	DUCO_20Aug19_bruv1_data	00:13:37.68	337	699	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  23732	00:24:17.99	DUCO_20Aug19_bruv1_data	00:14:17.97	362	1412	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  23732	00:24:17.99	DUCO_20Aug19_bruv1_data	00:14:17.97	390	793	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  23732	00:24:17.99	DUCO_20Aug19_bruv1_data	00:14:17.97	595	877	DUCO_20Aug19_bruv1	Jessica Madden											Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  24635	00:24:33.05	DUCO_20Aug19_bruv1_data	00:14:33.04	314	979	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  24635	00:24:33.05	DUCO_20Aug19_bruv1_data	00:14:33.04	378	481	DUCO_20Aug19_bruv1	Jessica Madden											Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  26145	00:24:58.25	DUCO_20Aug19_bruv1_data	00:14:58.23	462	225	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  26145	00:24:58.25	DUCO_20Aug19_bruv1_data	00:14:58.23	494	945	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  28656	00:25:40.14	DUCO_20Aug19_bruv1_data	00:15:40.12	324	150	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  28656	00:25:40.14	DUCO_20Aug19_bruv1_data	00:15:40.12	394	818	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  28656	00:25:40.14	DUCO_20Aug19_bruv1_data	00:15:40.12	572	333	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  29214	00:25:49.45	DUCO_20Aug19_bruv1_data	00:15:49.43	567	1029	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  29214	00:25:49.45	DUCO_20Aug19_bruv1_data	00:15:49.43	292	1341	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  29214	00:25:49.45	DUCO_20Aug19_bruv1_data	00:15:49.43	727	1389	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  32112	00:26:37.80	DUCO_20Aug19_bruv1_data	00:16:37.78	494	488	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  32112	00:26:37.80	DUCO_20Aug19_bruv1_data	00:16:37.78	460	1745	DUCO_20Aug19_bruv1	Jessica Madden											Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  46643	00:30:40.22	DUCO_20Aug19_bruv1_data	00:20:40.21	378	1808	DUCO_20Aug19_bruv1	Jessica Madden											Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  46643	00:30:40.22	DUCO_20Aug19_bruv1_data	00:20:40.21	460	1424	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  48274	00:31:07.43	DUCO_20Aug19_bruv1_data	00:21:07.42	374	1257	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  48274	00:31:07.43	DUCO_20Aug19_bruv1_data	00:21:07.42	759	1408	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP010073.MP4	  51666	00:32:04.02	DUCO_20Aug19_bruv1_data	00:22:04.01	449	652	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  51666	00:32:04.02	DUCO_20Aug19_bruv1_data	00:22:04.01	444	1613	DUCO_20Aug19_bruv1	Jessica Madden											Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  58345	00:33:55.45	DUCO_20Aug19_bruv1_data	00:23:55.43	585	1326	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	larval fish		
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	415	688	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	478	686	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	481	843	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	424	838	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	533	915	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	276	729	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	321	658	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	319	556	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	274	453	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	315	417	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	410	305	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	323	271	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	196	389	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	168	476	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	121	608	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	198	164	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	289	146	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP010073.MP4	  60175	00:34:25.98	DUCO_20Aug19_bruv1_data	00:24:25.96	604	1656	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP020073.MP4	   3157	00:36:16.79	DUCO_20Aug19_bruv1_data	00:26:16.78	469	950	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	   3157	00:36:16.79	DUCO_20Aug19_bruv1_data	00:26:16.78	187	1014	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	   6852	00:37:18.44	DUCO_20Aug19_bruv1_data	00:27:18.42	519	1731	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	   6852	00:37:18.44	DUCO_20Aug19_bruv1_data	00:27:18.42	230	1724	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	unidentified fish	background	
+PODU_20Aug19_bruv1_GP020073.MP4	  16822	00:40:04.77	DUCO_20Aug19_bruv1_data	00:30:04.75	551	398	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  23597	00:41:57.80	DUCO_20Aug19_bruv1_data	00:31:57.78	659	1351	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  23597	00:41:57.80	DUCO_20Aug19_bruv1_data	00:31:57.78	340	968	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP020073.MP4	  26498	00:42:46.20	DUCO_20Aug19_bruv1_data	00:32:46.18	629	1075	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  26498	00:42:46.20	DUCO_20Aug19_bruv1_data	00:32:46.18	285	802	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  29530	00:43:36.78	DUCO_20Aug19_bruv1_data	00:33:36.76	592	727	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  29530	00:43:36.78	DUCO_20Aug19_bruv1_data	00:33:36.76	364	1496	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  29530	00:43:36.78	DUCO_20Aug19_bruv1_data	00:33:36.76	207	193	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	unidentified fish- opaleye?		
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	608	991	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	421	1494	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	483	1284	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	488	1070	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	458	884	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	465	708	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	412	617	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	442	442	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	401	196	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	326	57	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	389	55	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  30164	00:43:47.36	DUCO_20Aug19_bruv1_data	00:33:47.34	353	25	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  31279	00:44:05.96	DUCO_20Aug19_bruv1_data	00:34:05.94	528	635	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  31279	00:44:05.96	DUCO_20Aug19_bruv1_data	00:34:05.94	73	282	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  35948	00:45:23.85	DUCO_20Aug19_bruv1_data	00:35:23.84	610	743	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  35948	00:45:23.85	DUCO_20Aug19_bruv1_data	00:35:23.84	221	800	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	unidentified fish - opaleye?	background	
+PODU_20Aug19_bruv1_GP020073.MP4	  40963	00:46:47.52	DUCO_20Aug19_bruv1_data	00:36:47.51	487	943	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  40963	00:46:47.52	DUCO_20Aug19_bruv1_data	00:36:47.51	570	1838	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  45529	00:48:03.70	DUCO_20Aug19_bruv1_data	00:38:03.68	631	904	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  45529	00:48:03.70	DUCO_20Aug19_bruv1_data	00:38:03.68	150	53	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  51021	00:49:35.32	DUCO_20Aug19_bruv1_data	00:39:35.31	408	943	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  51021	00:49:35.32	DUCO_20Aug19_bruv1_data	00:39:35.31	182	1615	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  52643	00:50:02.38	DUCO_20Aug19_bruv1_data	00:40:02.37	283	428	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  52983	00:50:08.06	DUCO_20Aug19_bruv1_data	00:40:08.04	613	898	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP020073.MP4	  52983	00:50:08.06	DUCO_20Aug19_bruv1_data	00:40:08.04	337	1102	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP020073.MP4	  53279	00:50:12.99	DUCO_20Aug19_bruv1_data	00:40:12.98	581	1266	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP020073.MP4	  53279	00:50:12.99	DUCO_20Aug19_bruv1_data	00:40:12.98	442	330	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  54760	00:50:37.70	DUCO_20Aug19_bruv1_data	00:40:37.69	563	389	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  54760	00:50:37.70	DUCO_20Aug19_bruv1_data	00:40:37.69	437	811	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  54760	00:50:37.70	DUCO_20Aug19_bruv1_data	00:40:37.69	412	1116	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP020073.MP4	  55699	00:50:53.37	DUCO_20Aug19_bruv1_data	00:40:53.35	321	1112	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP020073.MP4	  55699	00:50:53.37	DUCO_20Aug19_bruv1_data	00:40:53.35	462	1501	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  55699	00:50:53.37	DUCO_20Aug19_bruv1_data	00:40:53.35	413	1833	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  55699	00:50:53.37	DUCO_20Aug19_bruv1_data	00:40:53.35	642	1537	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP020073.MP4	  55699	00:50:53.37	DUCO_20Aug19_bruv1_data	00:40:53.35	631	1681	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	   2199	00:53:42.87	DUCO_20Aug19_bruv1_data	00:43:42.85	248	298	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	   2199	00:53:42.87	DUCO_20Aug19_bruv1_data	00:43:42.85	248	510	DUCO_20Aug19_bruv1	Jessica Madden											Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	   2199	00:53:42.87	DUCO_20Aug19_bruv1_data	00:43:42.85	317	205	DUCO_20Aug19_bruv1	Jessica Madden											Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	   2199	00:53:42.87	DUCO_20Aug19_bruv1_data	00:43:42.85	497	75	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	   2199	00:53:42.87	DUCO_20Aug19_bruv1_data	00:43:42.85	494	1029	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	   5439	00:54:36.92	DUCO_20Aug19_bruv1_data	00:44:36.91	351	330	DUCO_20Aug19_bruv1	Jessica Madden											Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	   5439	00:54:36.92	DUCO_20Aug19_bruv1_data	00:44:36.91	488	685	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	   6860	00:55:00.63	DUCO_20Aug19_bruv1_data	00:45:00.61	260	679	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	   7261	00:55:07.32	DUCO_20Aug19_bruv1_data	00:45:07.30	574	1387	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	   8149	00:55:22.14	DUCO_20Aug19_bruv1_data	00:45:22.12	690	1526	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	   8149	00:55:22.14	DUCO_20Aug19_bruv1_data	00:45:22.12	610	1389	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  11767	00:56:22.50	DUCO_20Aug19_bruv1_data	00:46:22.48	650	1480	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  11767	00:56:22.50	DUCO_20Aug19_bruv1_data	00:46:22.48	611	1813	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  11767	00:56:22.50	DUCO_20Aug19_bruv1_data	00:46:22.48	593	414	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  11905	00:56:24.80	DUCO_20Aug19_bruv1_data	00:46:24.78	417	1203	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Chase other			
+PODU_20Aug19_bruv1_GP030073.MP4	  12403	00:56:33.11	DUCO_20Aug19_bruv1_data	00:46:33.09	469	505	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Chase conspecific			
+PODU_20Aug19_bruv1_GP030073.MP4	  12403	00:56:33.11	DUCO_20Aug19_bruv1_data	00:46:33.09	463	61	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  12403	00:56:33.11	DUCO_20Aug19_bruv1_data	00:46:33.09	617	758	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  14212	00:57:03.29	DUCO_20Aug19_bruv1_data	00:47:03.27	561	1266	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  14212	00:57:03.29	DUCO_20Aug19_bruv1_data	00:47:03.27	599	620	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  14212	00:57:03.29	DUCO_20Aug19_bruv1_data	00:47:03.27	706	1615	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  17449	00:57:57.29	DUCO_20Aug19_bruv1_data	00:47:57.27	581	943	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  17449	00:57:57.29	DUCO_20Aug19_bruv1_data	00:47:57.27	624	1670	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  17449	00:57:57.29	DUCO_20Aug19_bruv1_data	00:47:57.27	495	1612	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  17449	00:57:57.29	DUCO_20Aug19_bruv1_data	00:47:57.27	634	1287	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  17449	00:57:57.29	DUCO_20Aug19_bruv1_data	00:47:57.27	262	401	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  17581	00:57:59.49	DUCO_20Aug19_bruv1_data	00:47:59.48	563	761	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  17581	00:57:59.49	DUCO_20Aug19_bruv1_data	00:47:59.48	479	1118	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  17581	00:57:59.49	DUCO_20Aug19_bruv1_data	00:47:59.48	483	1456	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  17581	00:57:59.49	DUCO_20Aug19_bruv1_data	00:47:59.48	713	1330	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  17581	00:57:59.49	DUCO_20Aug19_bruv1_data	00:47:59.48	46	506	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  17581	00:57:59.49	DUCO_20Aug19_bruv1_data	00:47:59.48	750	1587	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  18083	00:58:07.87	DUCO_20Aug19_bruv1_data	00:48:07.85	230	553	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  18083	00:58:07.87	DUCO_20Aug19_bruv1_data	00:48:07.85	558	1132	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  18083	00:58:07.87	DUCO_20Aug19_bruv1_data	00:48:07.85	583	1383	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  18083	00:58:07.87	DUCO_20Aug19_bruv1_data	00:48:07.85	627	1257	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  18083	00:58:07.87	DUCO_20Aug19_bruv1_data	00:48:07.85	656	1597	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  25895	01:00:18.20	DUCO_20Aug19_bruv1_data	00:50:18.18	506	758	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  28860	01:01:07.66	DUCO_20Aug19_bruv1_data	00:51:07.65	595	1458	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  28860	01:01:07.66	DUCO_20Aug19_bruv1_data	00:51:07.65	576	581	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  35020	01:02:50.43	DUCO_20Aug19_bruv1_data	00:52:50.42	396	831	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  35020	01:02:50.43	DUCO_20Aug19_bruv1_data	00:52:50.42	549	1237	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  36896	01:03:21.73	DUCO_20Aug19_bruv1_data	00:53:21.72	508	1034	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  36896	01:03:21.73	DUCO_20Aug19_bruv1_data	00:53:21.72	618	731	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  36896	01:03:21.73	DUCO_20Aug19_bruv1_data	00:53:21.72	378	1670	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  42099	01:04:48.53	DUCO_20Aug19_bruv1_data	00:54:48.52	292	1159	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  42099	01:04:48.53	DUCO_20Aug19_bruv1_data	00:54:48.52	187	932	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	unknown silverside	background	
+PODU_20Aug19_bruv1_GP030073.MP4	  43111	01:05:05.42	DUCO_20Aug19_bruv1_data	00:55:05.40	667	1241	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  43924	01:05:18.98	DUCO_20Aug19_bruv1_data	00:55:18.97	727	1701	DUCO_20Aug19_bruv1	Jessica Madden															1	AD	Passing	larval fish cloud		
+PODU_20Aug19_bruv1_GP030073.MP4	  44394	01:05:26.82	DUCO_20Aug19_bruv1_data	00:55:26.81	226	950	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  48508	01:06:35.46	DUCO_20Aug19_bruv1_data	00:56:35.44	579	437	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  54793	01:08:20.31	DUCO_20Aug19_bruv1_data	00:58:20.30	592	722	DUCO_20Aug19_bruv1	Jessica Madden											Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  54793	01:08:20.31	DUCO_20Aug19_bruv1_data	00:58:20.30	536	973	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  54793	01:08:20.31	DUCO_20Aug19_bruv1_data	00:58:20.30	283	362	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  55783	01:08:36.83	DUCO_20Aug19_bruv1_data	00:58:36.81	631	1209	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+PODU_20Aug19_bruv1_GP030073.MP4	  55783	01:08:36.83	DUCO_20Aug19_bruv1_data	00:58:36.81	292	1531	DUCO_20Aug19_bruv1	Jessica Madden											Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing			
+PODU_20Aug19_bruv1_GP030073.MP4	  57389	01:09:03.62	DUCO_20Aug19_bruv1_data	00:59:03.61	321	1585	DUCO_20Aug19_bruv1	Jessica Madden											Atherinopsidae	Atherinops	affinis	1	28	AD	Passing		background	
+PODU_20Aug19_bruv1_GP030073.MP4	  57389	01:09:03.62	DUCO_20Aug19_bruv1_data	00:59:03.61	595	1424	DUCO_20Aug19_bruv1	Jessica Madden											Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			

@@ -1,0 +1,63 @@
+Dot Point Measurements
+
+Generated: Friday, June 12, 2020 14:43:55
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+STBE_19Sep19_6_GP010046.MP4	    805	00:17:55.49	STBE_19Sep19_bruv6_data	00:04:55.48	520	1718	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_6_GP010046.MP4	   2958	00:18:31.41	STBE_19Sep19_bruv6_data	00:05:31.40	848	631	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_6_GP010046.MP4	  13966	00:21:35.06	STBE_19Sep19_bruv6_data	00:08:35.05	850	1710	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_6_GP010046.MP4	  52405	00:32:16.35	STBE_19Sep19_bruv6_data	00:19:16.34	812	1453	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP010046.MP4	  63459	00:35:20.77	STBE_19Sep19_bruv6_data	00:22:20.76	651	1326	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  10712	00:38:22.83	STBE_19Sep19_bruv6_data	00:25:22.82	886	1665	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing	id?	background	
+STBE_19Sep19_6_GP020046.MP4	  28792	00:43:24.47	STBE_19Sep19_bruv6_data	00:30:24.46	392	1816	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  28792	00:43:24.47	STBE_19Sep19_bruv6_data	00:30:24.46	418	1680	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  29666	00:43:39.05	STBE_19Sep19_bruv6_data	00:30:39.04	531	1806	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  31983	00:44:17.71	STBE_19Sep19_bruv6_data	00:31:17.69	689	1591	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing	id?	background	
+STBE_19Sep19_6_GP020046.MP4	  42807	00:47:18.29	STBE_19Sep19_bruv6_data	00:34:18.27	378	1867	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  43265	00:47:25.93	STBE_19Sep19_bruv6_data	00:34:25.91	653	1368	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  44735	00:47:50.45	STBE_19Sep19_bruv6_data	00:34:50.44	812	1098	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  44788	00:47:51.34	STBE_19Sep19_bruv6_data	00:34:51.32	472	1731	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  46466	00:48:19.33	STBE_19Sep19_bruv6_data	00:35:19.32	535	886	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  46582	00:48:21.27	STBE_19Sep19_bruv6_data	00:35:21.25	504	992	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  48214	00:48:48.49	STBE_19Sep19_bruv6_data	00:35:48.48	868	953	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  51235	00:49:38.89	STBE_19Sep19_bruv6_data	00:36:38.88	468	1649	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  51313	00:49:40.19	STBE_19Sep19_bruv6_data	00:36:40.18	449	1522	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  51313	00:49:40.19	STBE_19Sep19_bruv6_data	00:36:40.18	564	1724	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  51370	00:49:41.14	STBE_19Sep19_bruv6_data	00:36:41.13	625	1708	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  51370	00:49:41.14	STBE_19Sep19_bruv6_data	00:36:41.13	739	1557	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  51545	00:49:44.06	STBE_19Sep19_bruv6_data	00:36:44.05	651	1417	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_6_GP020046.MP4	  52604	00:50:01.73	STBE_19Sep19_bruv6_data	00:37:01.72	726	237	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  55053	00:50:42.59	STBE_19Sep19_bruv6_data	00:37:42.58	639	1400	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing	positive id		
+STBE_19Sep19_6_GP020046.MP4	  61056	00:52:22.74	STBE_19Sep19_bruv6_data	00:39:22.73	582	1481	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	AD	Passing			
+STBE_19Sep19_6_GP020046.MP4	  61927	00:52:37.27	STBE_19Sep19_bruv6_data	00:39:37.26	797	1409	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	    132	00:53:08.39	STBE_19Sep19_bruv6_data	00:40:08.37	375	1410	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	   1599	00:53:32.86	STBE_19Sep19_bruv6_data	00:40:32.85	585	932	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	   5221	00:54:33.29	STBE_19Sep19_bruv6_data	00:41:33.27	610	1860	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  22753	00:59:25.78	STBE_19Sep19_bruv6_data	00:46:25.77	768	1565	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  23158	00:59:32.54	STBE_19Sep19_bruv6_data	00:46:32.52	521	808	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  23402	00:59:36.61	STBE_19Sep19_bruv6_data	00:46:36.59	587	1384	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  25549	01:00:12.43	STBE_19Sep19_bruv6_data	00:47:12.41	513	1694	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	  32978	01:02:16.37	STBE_19Sep19_bruv6_data	00:49:16.35	885	1272	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing	id?	background	
+STBE_19Sep19_6_GP030046.MP4	  33228	01:02:20.54	STBE_19Sep19_bruv6_data	00:49:20.52	632	472	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	  38628	01:03:50.63	STBE_19Sep19_bruv6_data	00:50:50.61	609	1337	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  39249	01:04:00.99	STBE_19Sep19_bruv6_data	00:51:00.97	803	1181	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing	id?	background	
+STBE_19Sep19_6_GP030046.MP4	  46778	01:06:06.60	STBE_19Sep19_bruv6_data	00:53:06.58	758	1054	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	  46919	01:06:08.95	STBE_19Sep19_bruv6_data	00:53:08.94	826	1223	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	  46919	01:06:08.95	STBE_19Sep19_bruv6_data	00:53:08.94	419	308	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  48996	01:06:43.60	STBE_19Sep19_bruv6_data	00:53:43.59	862	1255	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	  49744	01:06:56.08	STBE_19Sep19_bruv6_data	00:53:56.07	454	1177	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  49744	01:06:56.08	STBE_19Sep19_bruv6_data	00:53:56.07	521	1004	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  51155	01:07:19.62	STBE_19Sep19_bruv6_data	00:54:19.61	233	1081	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  51155	01:07:19.62	STBE_19Sep19_bruv6_data	00:54:19.61	216	1296	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  51155	01:07:19.62	STBE_19Sep19_bruv6_data	00:54:19.61	236	1396	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  51155	01:07:19.62	STBE_19Sep19_bruv6_data	00:54:19.61	402	1413	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  51155	01:07:19.62	STBE_19Sep19_bruv6_data	00:54:19.61	827	283	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	  53999	01:08:07.07	STBE_19Sep19_bruv6_data	00:55:07.05	405	850	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  53999	01:08:07.07	STBE_19Sep19_bruv6_data	00:55:07.05	433	919	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  53999	01:08:07.07	STBE_19Sep19_bruv6_data	00:55:07.05	477	995	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  53999	01:08:07.07	STBE_19Sep19_bruv6_data	00:55:07.05	422	421	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  54057	01:08:08.03	STBE_19Sep19_bruv6_data	00:55:08.02	405	511	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_6_GP030046.MP4	  54057	01:08:08.03	STBE_19Sep19_bruv6_data	00:55:08.02	308	1359	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_6_GP030046.MP4	  62014	01:10:20.78	STBE_19Sep19_bruv6_data	00:57:20.77	701	1089	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+STBE_19Sep19_6_GP040046.MP4	   3120	01:11:40.30	STBE_19Sep19_bruv6_data	00:58:40.28	826	757	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+STBE_19Sep19_6_GP040046.MP4	   3120	01:11:40.30	STBE_19Sep19_bruv6_data	00:58:40.28	558	1443	STBE_19Sep19_bruv6_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing		background	

@@ -1,0 +1,25 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 11:10:33
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+LECA_9Oct19_1_GP010113.MP4	   7417	00:19:45.80	LECA_9Oct19_bruv1_data	00:04:45.79	802	150	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP010113.MP4	  13714	00:21:30.86	LECA_9Oct19_bruv1_data	00:06:30.84	926	650	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_9Oct19_1_GP010113.MP4	  17067	00:22:26.80	LECA_9Oct19_bruv1_data	00:07:26.78	520	84	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP010113.MP4	  26457	00:25:03.45	LECA_9Oct19_bruv1_data	00:10:03.44	966	1480	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_9Oct19_1_GP010113.MP4	  28118	00:25:31.16	LECA_9Oct19_bruv1_data	00:10:31.15	573	179	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_9Oct19_1_GP010113.MP4	  51744	00:32:05.32	LECA_9Oct19_bruv1_data	00:17:05.31	715	917	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP010113.MP4	  60711	00:34:34.92	LECA_9Oct19_bruv1_data	00:19:34.91	750	666	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? barred?		
+LECA_9Oct19_1_GP020113.MP4	    976	00:35:40.40	LECA_9Oct19_bruv1_data	00:20:40.39	420	1535	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id? barred?		
+LECA_9Oct19_1_GP020113.MP4	   3109	00:36:15.99	LECA_9Oct19_bruv1_data	00:21:15.97	334	1076	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_9Oct19_1_GP020113.MP4	  17364	00:40:13.81	LECA_9Oct19_bruv1_data	00:25:13.80	726	889	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP020113.MP4	  32106	00:44:19.76	LECA_9Oct19_bruv1_data	00:29:19.74	173	1313	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	17	AD	Passing			
+LECA_9Oct19_1_GP020113.MP4	  35727	00:45:20.17	LECA_9Oct19_bruv1_data	00:30:20.15	770	1714	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP020113.MP4	  60283	00:52:09.84	LECA_9Oct19_bruv1_data	00:37:09.83	684	1546	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP030113.MP4	  12440	00:56:33.72	LECA_9Oct19_bruv1_data	00:41:33.71	299	280	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP030113.MP4	  18526	00:58:15.26	LECA_9Oct19_bruv1_data	00:43:15.24	583	202	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_9Oct19_1_GP030113.MP4	  36014	01:03:07.02	LECA_9Oct19_bruv1_data	00:48:07.00	716	1704	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_9Oct19_1_GP030113.MP4	  48340	01:06:32.66	LECA_9Oct19_bruv1_data	00:51:32.64	349	1305	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP030113.MP4	  52255	01:07:37.97	LECA_9Oct19_bruv1_data	00:52:37.95	697	1525	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_9Oct19_1_GP030113.MP4	  62397	01:10:27.17	LECA_9Oct19_bruv1_data	00:55:27.16	597	1412	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_9Oct19_1_GP040113.MP4	  14018	01:14:42.11	LECA_9Oct19_bruv1_data	00:59:42.10	636	1762	LECA_09Oct19_bruv1	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			

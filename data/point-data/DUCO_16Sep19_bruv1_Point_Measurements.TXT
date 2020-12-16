@@ -1,0 +1,35 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 16:36:17
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PODU_16Sep19_1_GOPR0092.MP4	  56380	00:15:40.61	DUCO_16Sep19_bruv1_data	00:03:40.60	568	1255	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GOPR0092.MP4	  63657	00:17:42.01	DUCO_16Sep19_bruv1_data	00:05:42.01	324	860	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP010092.MP4	   3847	00:18:46.24	DUCO_16Sep19_bruv1_data	00:06:46.24	304	1775	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+PODU_16Sep19_1_GP010092.MP4	   9111	00:20:14.06	DUCO_16Sep19_bruv1_data	00:08:14.06	145	1480	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Atherinopsidae			3	10	AD	Passing	check id	background	
+PODU_16Sep19_1_GP010092.MP4	  20268	00:23:20.20	DUCO_16Sep19_bruv1_data	00:11:20.20	311	1647	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	9	AD	Passing			
+PODU_16Sep19_1_GP010092.MP4	  34639	00:27:19.95	DUCO_16Sep19_bruv1_data	00:15:19.95	556	248	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_1_GP010092.MP4	  35822	00:27:39.69	DUCO_16Sep19_bruv1_data	00:15:39.69	775	1778	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP010092.MP4	  51153	00:31:55.46	DUCO_16Sep19_bruv1_data	00:19:55.46	341	1082	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP010092.MP4	  55615	00:33:09.90	DUCO_16Sep19_bruv1_data	00:21:09.90	652	456	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP010092.MP4	  55615	00:33:09.90	DUCO_16Sep19_bruv1_data	00:21:09.90	694	1841	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	   2209	00:36:00.98	DUCO_16Sep19_bruv1_data	00:24:00.97	210	1221	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	   8198	00:37:40.89	DUCO_16Sep19_bruv1_data	00:25:40.89	612	1082	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	  21733	00:41:26.70	DUCO_16Sep19_bruv1_data	00:29:26.70	212	175	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	12	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	  24120	00:42:06.52	DUCO_16Sep19_bruv1_data	00:30:06.52	700	530	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	  29379	00:43:34.26	DUCO_16Sep19_bruv1_data	00:31:34.26	161	770	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	  34946	00:45:07.14	DUCO_16Sep19_bruv1_data	00:33:07.14	353	1650	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Atherinopsidae			3	5	AD	Passing	silverfish- topsmelt or anchovy	background	
+PODU_16Sep19_1_GP020092.MP4	  40722	00:46:43.50	DUCO_16Sep19_bruv1_data	00:34:43.50	107	1101	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	  45167	00:47:57.66	DUCO_16Sep19_bruv1_data	00:35:57.66	33	259	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	  51168	00:49:37.77	DUCO_16Sep19_bruv1_data	00:37:37.77	52	1648	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Atherinopsidae			3	4	AD	Passing	silverfish- topsmelt or anchovy	background	
+PODU_16Sep19_1_GP020092.MP4	  51873	00:49:49.54	DUCO_16Sep19_bruv1_data	00:37:49.53	175	1526	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Atherinopsidae			3	7	AD	Passing	silverfish- topsmelt or anchovy	background	
+PODU_16Sep19_1_GP020092.MP4	  62642	00:52:49.20	DUCO_16Sep19_bruv1_data	00:40:49.20	807	1642	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP020092.MP4	  63018	00:52:55.47	DUCO_16Sep19_bruv1_data	00:40:55.47	236	798	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+PODU_16Sep19_1_GP030092.MP4	   7033	00:55:03.52	DUCO_16Sep19_bruv1_data	00:43:03.51	109	1707	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Atherinopsidae			3	9	AD	Passing	silverfish- topsmelt or anchovy	background	
+PODU_16Sep19_1_GP030092.MP4	  17492	00:57:58.01	DUCO_16Sep19_bruv1_data	00:45:58.01	732	1799	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP030092.MP4	  23986	00:59:46.35	DUCO_16Sep19_bruv1_data	00:47:46.35	297	523	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+PODU_16Sep19_1_GP030092.MP4	  23986	00:59:46.35	DUCO_16Sep19_bruv1_data	00:47:46.35	555	393	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP030092.MP4	  25656	01:00:14.21	DUCO_16Sep19_bruv1_data	00:48:14.21	770	1615	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	6	AD	Passing		background	
+PODU_16Sep19_1_GP030092.MP4	  28307	01:00:58.44	DUCO_16Sep19_bruv1_data	00:48:58.44	350	1634	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Atherinopsidae			3	9	AD	Passing	silverfish- topsmelt or anchovy	background	
+PODU_16Sep19_1_GP030092.MP4	  34637	01:02:44.04	DUCO_16Sep19_bruv1_data	00:50:44.04	870	1789	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PODU_16Sep19_1_GP030092.MP4	  53204	01:07:53.80	DUCO_16Sep19_bruv1_data	00:55:53.80	489	1892	DUCO_16Sep19_bruv1_data	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			

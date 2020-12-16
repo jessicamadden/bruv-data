@@ -1,0 +1,129 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 16:20:16
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SCRI_25Sep19_6_GOPR0048.MP4	  39765	00:11:03.41	SCRI_25Sep19_bruv6_data	00:00:03.40	885	1398	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  39765	00:11:03.41	SCRI_25Sep19_bruv6_data	00:00:03.40	789	1690	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  39765	00:11:03.41	SCRI_25Sep19_bruv6_data	00:00:03.40	829	635	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  40485	00:11:15.42	SCRI_25Sep19_bruv6_data	00:00:15.42	951	1240	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  40485	00:11:15.42	SCRI_25Sep19_bruv6_data	00:00:15.42	755	901	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  40485	00:11:15.42	SCRI_25Sep19_bruv6_data	00:00:15.42	655	616	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  40485	00:11:15.42	SCRI_25Sep19_bruv6_data	00:00:15.42	796	563	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  40588	00:11:17.14	SCRI_25Sep19_bruv6_data	00:00:17.13	641	507	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  40588	00:11:17.14	SCRI_25Sep19_bruv6_data	00:00:17.13	752	1297	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  40588	00:11:17.14	SCRI_25Sep19_bruv6_data	00:00:17.13	847	1232	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  40723	00:11:19.40	SCRI_25Sep19_bruv6_data	00:00:19.39	686	194	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  44956	00:12:30.02	SCRI_25Sep19_bruv6_data	00:01:30.01	845	348	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  44956	00:12:30.02	SCRI_25Sep19_bruv6_data	00:01:30.01	907	1263	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  44956	00:12:30.02	SCRI_25Sep19_bruv6_data	00:01:30.01	920	1613	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  51720	00:14:22.86	SCRI_25Sep19_bruv6_data	00:03:22.85	908	1205	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  54762	00:15:13.61	SCRI_25Sep19_bruv6_data	00:04:13.60	309	544	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  56274	00:15:38.84	SCRI_25Sep19_bruv6_data	00:04:38.83	890	662	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  56274	00:15:38.84	SCRI_25Sep19_bruv6_data	00:04:38.83	896	1664	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  56274	00:15:38.84	SCRI_25Sep19_bruv6_data	00:04:38.83	849	1278	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  56274	00:15:38.84	SCRI_25Sep19_bruv6_data	00:04:38.83	758	152	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  56274	00:15:38.84	SCRI_25Sep19_bruv6_data	00:04:38.83	763	280	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  57547	00:16:00.08	SCRI_25Sep19_bruv6_data	00:05:00.07	940	1437	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	5	AD	Passing			
+SCRI_25Sep19_6_GOPR0048.MP4	  61278	00:17:02.32	SCRI_25Sep19_bruv6_data	00:06:02.31	245	1756	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	6	AD	Passing	id? topsmelt?	background	
+SCRI_25Sep19_6_GP010048.MP4	   1089	00:18:00.23	SCRI_25Sep19_bruv6_data	00:07:00.22	132	1593	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	32	AD	Passing	id? topsmelt?	background	
+SCRI_25Sep19_6_GP010048.MP4	   1782	00:18:11.79	SCRI_25Sep19_bruv6_data	00:07:11.78	855	711	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	5	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	   2657	00:18:26.39	SCRI_25Sep19_bruv6_data	00:07:26.38	524	111	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  10580	00:20:38.57	SCRI_25Sep19_bruv6_data	00:09:38.56	912	786	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	6	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12513	00:21:10.82	SCRI_25Sep19_bruv6_data	00:10:10.81	815	668	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12513	00:21:10.82	SCRI_25Sep19_bruv6_data	00:10:10.81	912	1468	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12513	00:21:10.82	SCRI_25Sep19_bruv6_data	00:10:10.81	897	1212	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12513	00:21:10.82	SCRI_25Sep19_bruv6_data	00:10:10.81	806	855	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12620	00:21:12.60	SCRI_25Sep19_bruv6_data	00:10:12.60	783	341	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12620	00:21:12.60	SCRI_25Sep19_bruv6_data	00:10:12.60	779	613	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12620	00:21:12.60	SCRI_25Sep19_bruv6_data	00:10:12.60	932	1515	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12620	00:21:12.60	SCRI_25Sep19_bruv6_data	00:10:12.60	875	1458	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  12620	00:21:12.60	SCRI_25Sep19_bruv6_data	00:10:12.60	902	1614	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  17794	00:22:38.92	SCRI_25Sep19_bruv6_data	00:11:38.91	510	1210	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  30929	00:26:18.06	SCRI_25Sep19_bruv6_data	00:15:18.05	747	985	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	5	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  32121	00:26:37.95	SCRI_25Sep19_bruv6_data	00:15:37.94	865	401	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  32121	00:26:37.95	SCRI_25Sep19_bruv6_data	00:15:37.94	816	956	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  32121	00:26:37.95	SCRI_25Sep19_bruv6_data	00:15:37.94	851	1354	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  32121	00:26:37.95	SCRI_25Sep19_bruv6_data	00:15:37.94	846	1199	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  36611	00:27:52.85	SCRI_25Sep19_bruv6_data	00:16:52.85	735	46	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  36611	00:27:52.85	SCRI_25Sep19_bruv6_data	00:16:52.85	801	675	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  36611	00:27:52.85	SCRI_25Sep19_bruv6_data	00:16:52.85	697	483	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  36611	00:27:52.85	SCRI_25Sep19_bruv6_data	00:16:52.85	816	1230	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  36611	00:27:52.85	SCRI_25Sep19_bruv6_data	00:16:52.85	796	1033	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  39513	00:28:41.27	SCRI_25Sep19_bruv6_data	00:17:41.26	993	1895	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  39513	00:28:41.27	SCRI_25Sep19_bruv6_data	00:17:41.26	942	1464	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  39513	00:28:41.27	SCRI_25Sep19_bruv6_data	00:17:41.26	961	519	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  39513	00:28:41.27	SCRI_25Sep19_bruv6_data	00:17:41.26	792	793	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  39513	00:28:41.27	SCRI_25Sep19_bruv6_data	00:17:41.26	720	860	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  40461	00:28:57.09	SCRI_25Sep19_bruv6_data	00:17:57.08	704	363	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  40461	00:28:57.09	SCRI_25Sep19_bruv6_data	00:17:57.08	755	519	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  40461	00:28:57.09	SCRI_25Sep19_bruv6_data	00:17:57.08	768	885	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  40461	00:28:57.09	SCRI_25Sep19_bruv6_data	00:17:57.08	667	594	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  40461	00:28:57.09	SCRI_25Sep19_bruv6_data	00:17:57.08	694	1052	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  40461	00:28:57.09	SCRI_25Sep19_bruv6_data	00:17:57.08	792	1085	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  50002	00:31:36.26	SCRI_25Sep19_bruv6_data	00:20:36.25	790	829	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  50002	00:31:36.26	SCRI_25Sep19_bruv6_data	00:20:36.25	704	978	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  50002	00:31:36.26	SCRI_25Sep19_bruv6_data	00:20:36.25	706	773	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP010048.MP4	  50002	00:31:36.26	SCRI_25Sep19_bruv6_data	00:20:36.25	948	1636	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3089	00:36:15.66	SCRI_25Sep19_bruv6_data	00:25:15.65	965	1715	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3089	00:36:15.66	SCRI_25Sep19_bruv6_data	00:25:15.65	814	1287	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3089	00:36:15.66	SCRI_25Sep19_bruv6_data	00:25:15.65	592	914	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3089	00:36:15.66	SCRI_25Sep19_bruv6_data	00:25:15.65	765	668	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3648	00:36:24.98	SCRI_25Sep19_bruv6_data	00:25:24.97	873	1222	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3648	00:36:24.98	SCRI_25Sep19_bruv6_data	00:25:24.97	970	1775	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3648	00:36:24.98	SCRI_25Sep19_bruv6_data	00:25:24.97	908	1564	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3648	00:36:24.98	SCRI_25Sep19_bruv6_data	00:25:24.97	748	1036	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3648	00:36:24.98	SCRI_25Sep19_bruv6_data	00:25:24.97	802	1269	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	   3648	00:36:24.98	SCRI_25Sep19_bruv6_data	00:25:24.97	777	819	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  11151	00:38:30.16	SCRI_25Sep19_bruv6_data	00:27:30.15	749	508	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  22261	00:41:35.51	SCRI_25Sep19_bruv6_data	00:30:35.50	778	1026	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  23162	00:41:50.54	SCRI_25Sep19_bruv6_data	00:30:50.53	870	738	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	3	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  23652	00:41:58.72	SCRI_25Sep19_bruv6_data	00:30:58.71	794	836	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  23652	00:41:58.72	SCRI_25Sep19_bruv6_data	00:30:58.71	819	708	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  23652	00:41:58.72	SCRI_25Sep19_bruv6_data	00:30:58.71	705	879	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  23652	00:41:58.72	SCRI_25Sep19_bruv6_data	00:30:58.71	634	656	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  23652	00:41:58.72	SCRI_25Sep19_bruv6_data	00:30:58.71	711	76	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  23843	00:42:01.90	SCRI_25Sep19_bruv6_data	00:31:01.89	615	1473	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SCRI_25Sep19_6_GP020048.MP4	  38784	00:46:11.17	SCRI_25Sep19_bruv6_data	00:35:11.16	259	381	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	77	AD	Passing	id? topsmelt?		
+SCRI_25Sep19_6_GP020048.MP4	  41847	00:47:02.27	SCRI_25Sep19_bruv6_data	00:36:02.26	878	740	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  41847	00:47:02.27	SCRI_25Sep19_bruv6_data	00:36:02.26	822	1057	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  41847	00:47:02.27	SCRI_25Sep19_bruv6_data	00:36:02.26	874	1251	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  41847	00:47:02.27	SCRI_25Sep19_bruv6_data	00:36:02.26	879	1423	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  51522	00:49:43.68	SCRI_25Sep19_bruv6_data	00:38:43.67	701	569	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  51947	00:49:50.77	SCRI_25Sep19_bruv6_data	00:38:50.76	164	508	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	158	AD	Passing	id? probably topsmelt		
+SCRI_25Sep19_6_GP020048.MP4	  57861	00:51:29.44	SCRI_25Sep19_bruv6_data	00:40:29.43	850	239	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  57861	00:51:29.44	SCRI_25Sep19_bruv6_data	00:40:29.43	846	715	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  57861	00:51:29.44	SCRI_25Sep19_bruv6_data	00:40:29.43	826	1043	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  57861	00:51:29.44	SCRI_25Sep19_bruv6_data	00:40:29.43	929	1511	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  60410	00:52:11.96	SCRI_25Sep19_bruv6_data	00:41:11.95	838	720	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  60410	00:52:11.96	SCRI_25Sep19_bruv6_data	00:41:11.95	914	1367	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  60410	00:52:11.96	SCRI_25Sep19_bruv6_data	00:41:11.95	833	1214	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  60410	00:52:11.96	SCRI_25Sep19_bruv6_data	00:41:11.95	789	1260	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP020048.MP4	  60410	00:52:11.96	SCRI_25Sep19_bruv6_data	00:41:11.95	886	1552	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	   6658	00:54:57.26	SCRI_25Sep19_bruv6_data	00:43:57.25	668	425	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	   6658	00:54:57.26	SCRI_25Sep19_bruv6_data	00:43:57.25	765	581	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	   6658	00:54:57.26	SCRI_25Sep19_bruv6_data	00:43:57.25	719	885	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	   6658	00:54:57.26	SCRI_25Sep19_bruv6_data	00:43:57.25	893	1072	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	   6658	00:54:57.26	SCRI_25Sep19_bruv6_data	00:43:57.25	954	1392	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  11451	00:56:17.22	SCRI_25Sep19_bruv6_data	00:45:17.21	827	1389	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  14567	00:57:09.21	SCRI_25Sep19_bruv6_data	00:46:09.20	842	508	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  14567	00:57:09.21	SCRI_25Sep19_bruv6_data	00:46:09.20	700	1073	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  15952	00:57:32.32	SCRI_25Sep19_bruv6_data	00:46:32.31	999	436	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  15952	00:57:32.32	SCRI_25Sep19_bruv6_data	00:46:32.31	1018	1539	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  15952	00:57:32.32	SCRI_25Sep19_bruv6_data	00:46:32.31	976	1825	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  15952	00:57:32.32	SCRI_25Sep19_bruv6_data	00:46:32.31	797	631	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  15952	00:57:32.32	SCRI_25Sep19_bruv6_data	00:46:32.31	702	945	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  32344	01:02:05.79	SCRI_25Sep19_bruv6_data	00:51:05.78	787	828	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  32344	01:02:05.79	SCRI_25Sep19_bruv6_data	00:51:05.78	792	1001	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  34474	01:02:41.32	SCRI_25Sep19_bruv6_data	00:51:41.31	770	119	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  34474	01:02:41.32	SCRI_25Sep19_bruv6_data	00:51:41.31	818	981	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  34474	01:02:41.32	SCRI_25Sep19_bruv6_data	00:51:41.31	791	1038	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  34474	01:02:41.32	SCRI_25Sep19_bruv6_data	00:51:41.31	928	1339	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  49296	01:06:48.60	SCRI_25Sep19_bruv6_data	00:55:48.60	662	356	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  49296	01:06:48.60	SCRI_25Sep19_bruv6_data	00:55:48.60	716	173	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  49296	01:06:48.60	SCRI_25Sep19_bruv6_data	00:55:48.60	701	743	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  49296	01:06:48.60	SCRI_25Sep19_bruv6_data	00:55:48.60	811	979	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  51001	01:07:17.05	SCRI_25Sep19_bruv6_data	00:56:17.04	717	400	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  51001	01:07:17.05	SCRI_25Sep19_bruv6_data	00:56:17.04	686	638	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  51001	01:07:17.05	SCRI_25Sep19_bruv6_data	00:56:17.04	721	803	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SCRI_25Sep19_6_GP030048.MP4	  51001	01:07:17.05	SCRI_25Sep19_bruv6_data	00:56:17.04	776	969	SCRI_25Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			

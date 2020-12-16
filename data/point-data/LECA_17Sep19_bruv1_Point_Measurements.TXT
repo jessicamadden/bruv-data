@@ -1,0 +1,21 @@
+Dot Point Measurements
+
+Generated: Wednesday, April 22, 2020 17:29:05
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+LECA_17Sep19_bruv1_GP010096.MP4	  11505	00:20:54.00	LECA_17Sep19_bruv1_data	00:07:53.99	935	558	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_17Sep19_bruv1_GP010096.MP4	  17993	00:22:42.24	LECA_17Sep19_bruv1_data	00:09:42.23	77	511	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae				1	AD	Passing	id?		
+LECA_17Sep19_bruv1_GP010096.MP4	  21833	00:23:46.31	LECA_17Sep19_bruv1_data	00:10:46.30	947	1371	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_17Sep19_bruv1_GP010096.MP4	  30655	00:26:13.49	LECA_17Sep19_bruv1_data	00:13:13.48	743	305	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP010096.MP4	  59059	00:34:07.36	LECA_17Sep19_bruv1_data	00:21:07.35	731	1512	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Heterodontidae	Heterodontus	francisci	49 #horn shark	1	AD	Passing			
+LECA_17Sep19_bruv1_GP020096.MP4	  47913	00:48:43.47	LECA_17Sep19_bruv1_data	00:35:43.46	734	457	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP020096.MP4	  59834	00:52:02.35	LECA_17Sep19_bruv1_data	00:39:02.34	590	895	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP030096.MP4	  31517	01:01:51.99	LECA_17Sep19_bruv1_data	00:48:51.98	736	599	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP030096.MP4	  40434	01:04:20.76	LECA_17Sep19_bruv1_data	00:51:20.74	830	1599	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP030096.MP4	  49561	01:06:53.03	LECA_17Sep19_bruv1_data	00:53:53.01	844	1342	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_17Sep19_bruv1_GP030096.MP4	  55029	01:08:24.25	LECA_17Sep19_bruv1_data	00:55:24.24	797	583	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP030096.MP4	  55029	01:08:24.25	LECA_17Sep19_bruv1_data	00:55:24.24	804	1393	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP030096.MP4	  62727	01:10:32.68	LECA_17Sep19_bruv1_data	00:57:32.67	648	1721	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP030096.MP4	  62727	01:10:32.68	LECA_17Sep19_bruv1_data	00:57:32.67	920	1876	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP030096.MP4	  62727	01:10:32.68	LECA_17Sep19_bruv1_data	00:57:32.67	935	1683	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+LECA_17Sep19_bruv1_GP040096.MP4	   5094	01:12:13.23	LECA_17Sep19_bruv1_data	00:59:13.22	923	1320	LECA_17Sep19_bruv1	Jessica Madden			=1m	100% S							Heterodontidae	Heterodontus	francisci	49 #horn shark	1	AD	Passing			

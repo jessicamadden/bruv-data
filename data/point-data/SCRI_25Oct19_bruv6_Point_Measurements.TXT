@@ -1,0 +1,29 @@
+Dot Point Measurements
+
+Generated: Monday 06 July 2020 16:04:26
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SCRI_25Oct19_6_GOPR0071.MP4	  44454	00:12:21.64	SCRI_25Oct19_bruv6_data	00:01:21.63	871	1015	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GOPR0071.MP4	  44454	00:12:21.64	SCRI_25Oct19_bruv6_data	00:01:21.63	857	920	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GOPR0071.MP4	  44454	00:12:21.64	SCRI_25Oct19_bruv6_data	00:01:21.63	859	840	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GOPR0071.MP4	  50477	00:14:02.12	SCRI_25Oct19_bruv6_data	00:03:02.12	788	939	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_6_GOPR0071.MP4	  58247	00:16:11.75	SCRI_25Oct19_bruv6_data	00:05:11.74	986	660	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP010071.MP4	  21363	00:23:38.47	SCRI_25Oct19_bruv6_data	00:12:38.46	967	1256	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP010071.MP4	  42395	00:29:29.35	SCRI_25Oct19_bruv6_data	00:18:29.34	928	885	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_6_GP010071.MP4	  50254	00:31:40.47	SCRI_25Oct19_bruv6_data	00:20:40.46	843	1611	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_6_GP010071.MP4	  57756	00:33:45.62	SCRI_25Oct19_bruv6_data	00:22:45.61	1009	1177	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP020071.MP4	  31304	00:44:06.38	SCRI_25Oct19_bruv6_data	00:33:06.37	1022	1103	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP020071.MP4	  50364	00:49:24.36	SCRI_25Oct19_bruv6_data	00:38:24.35	1021	788	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id?		
+SCRI_25Oct19_6_GP020071.MP4	  51657	00:49:45.93	SCRI_25Oct19_bruv6_data	00:38:45.92	1005	943	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP020071.MP4	  52314	00:49:56.89	SCRI_25Oct19_bruv6_data	00:38:56.88	1007	949	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP020071.MP4	  52314	00:49:56.89	SCRI_25Oct19_bruv6_data	00:38:56.88	1074	1138	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP020071.MP4	  59153	00:51:50.99	SCRI_25Oct19_bruv6_data	00:40:50.98	1012	794	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id?		
+SCRI_25Oct19_6_GP030071.MP4	   2750	00:53:52.06	SCRI_25Oct19_bruv6_data	00:42:52.05	1058	604	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP030071.MP4	   3635	00:54:06.83	SCRI_25Oct19_bruv6_data	00:43:06.82	1050	666	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP030071.MP4	   3635	00:54:06.83	SCRI_25Oct19_bruv6_data	00:43:06.82	1022	1198	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP030071.MP4	  13180	00:56:46.07	SCRI_25Oct19_bruv6_data	00:45:46.06	1042	1406	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id?		
+SCRI_25Oct19_6_GP030071.MP4	  19835	00:58:37.10	SCRI_25Oct19_bruv6_data	00:47:37.09	1045	1141	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP030071.MP4	  27717	01:00:48.59	SCRI_25Oct19_bruv6_data	00:49:48.59	1044	1187	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	id?		
+SCRI_25Oct19_6_GP030071.MP4	  50441	01:07:07.71	SCRI_25Oct19_bruv6_data	00:56:07.70	1048	1206	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP030071.MP4	  58875	01:09:28.41	SCRI_25Oct19_bruv6_data	00:58:28.40	1048	1239	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			
+SCRI_25Oct19_6_GP030071.MP4	  58875	01:09:28.41	SCRI_25Oct19_bruv6_data	00:58:28.40	973	1256	SCRI_25Oct19_bruv6	Jessica Madden			>1m	100% S	SCRI	6	10-25-2019				Cancridae	Cancer	sp		1	AD	Passing			

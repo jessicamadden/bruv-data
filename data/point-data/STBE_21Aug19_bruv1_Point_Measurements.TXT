@@ -1,0 +1,33 @@
+Dot Point Measurements
+
+Generated: Tuesday, March 03, 2020 11:20:22
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+STBE_21Aug19_bruv1_GOPR0076.MP4	  29275	00:08:08.40	STBE_21Aug19_bruv1_data	00:02:08.39	891	882	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Cancridae	Cancer	sp		1	AD	Passing			
+STBE_21Aug19_bruv1_GOPR0076.MP4	  59979	00:16:40.65	STBE_21Aug19_bruv1_data	00:10:40.64	750	1111	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Cancridae	Cancer	sp		1	AD				
+STBE_21Aug19_bruv1_GOPR0076.MP4	  60609	00:16:51.16	STBE_21Aug19_bruv1_data	00:10:51.15	453	376	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_21Aug19_bruv1_GOPR0076.MP4	  61931	00:17:13.22	STBE_21Aug19_bruv1_data	00:11:13.21	89	1082	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD	Passing	ID?		
+STBE_21Aug19_bruv1_GOPR0076.MP4	  63024	00:17:31.45	STBE_21Aug19_bruv1_data	00:11:31.44	191	1235	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	   2860	00:18:29.78	STBE_21Aug19_bruv1_data	00:12:29.77	542	1200	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  12114	00:21:04.16	STBE_21Aug19_bruv1_data	00:15:04.15	795	1071	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  15252	00:21:56.52	STBE_21Aug19_bruv1_data	00:15:56.51	716	1353	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  34078	00:27:10.60	STBE_21Aug19_bruv1_data	00:21:10.59	697	1209	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  34299	00:27:14.28	STBE_21Aug19_bruv1_data	00:21:14.27	738	1273	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  34299	00:27:14.28	STBE_21Aug19_bruv1_data	00:21:14.27	221	264	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  40123	00:28:51.45	STBE_21Aug19_bruv1_data	00:22:51.44	66	1298	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  40466	00:28:57.17	STBE_21Aug19_bruv1_data	00:22:57.16	731	1473	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  40585	00:28:59.15	STBE_21Aug19_bruv1_data	00:22:59.14	198	729	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  40585	00:28:59.15	STBE_21Aug19_bruv1_data	00:22:59.14	749	1578	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  50245	00:31:40.32	STBE_21Aug19_bruv1_data	00:25:40.31	278	494	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  57220	00:33:36.68	STBE_21Aug19_bruv1_data	00:27:36.67	381	1210	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  61498	00:34:48.05	STBE_21Aug19_bruv1_data	00:28:48.04	112	341	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP010076.MP4	  61498	00:34:48.05	STBE_21Aug19_bruv1_data	00:28:48.04	761	1321	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP020076.MP4	   1273	00:35:45.36	STBE_21Aug19_bruv1_data	00:29:45.35	658	1456	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+STBE_21Aug19_bruv1_GP020076.MP4	   2235	00:36:01.41	STBE_21Aug19_bruv1_data	00:30:01.40	463	1396	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+STBE_21Aug19_bruv1_GP020076.MP4	   5004	00:36:47.61	STBE_21Aug19_bruv1_data	00:30:47.60	412	1385	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP020076.MP4	  18399	00:40:31.08	STBE_21Aug19_bruv1_data	00:34:31.07	433	410	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP020076.MP4	  24553	00:42:13.75	STBE_21Aug19_bruv1_data	00:36:13.74	665	1075	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP020076.MP4	  41214	00:46:51.71	STBE_21Aug19_bruv1_data	00:40:51.70	650	1157	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Cancridae	Cancer	sp		1	AD				
+STBE_21Aug19_bruv1_GP030076.MP4	   1415	00:53:29.79	STBE_21Aug19_bruv1_data	00:47:29.78	786	1148	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Cancridae	Cancer	sp		1	AD				
+STBE_21Aug19_bruv1_GP030076.MP4	   7369	00:55:09.12	STBE_21Aug19_bruv1_data	00:49:09.11	465	1121	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				
+STBE_21Aug19_bruv1_GP030076.MP4	  32879	01:02:14.71	STBE_21Aug19_bruv1_data	00:56:14.70	704	1492	STBE_21Aug19_bruv1	Jessica Madden		lots of swell	<1m	70% S, 30% BL							Triakidae	Triakis	semifasciata	30	1	AD				

@@ -1,0 +1,41 @@
+Dot Point Measurements
+
+Generated: Wednesday, June 03, 2020 14:25:59
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SAEL_26Sep19_3_GOPR0047.MP4	  53058	00:14:45.18	SAEL_26Sep19_bruv3_data	00:01:45.17	691	1538	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_3_GOPR0047.MP4	  55958	00:15:33.57	SAEL_26Sep19_bruv3_data	00:02:33.55	872	1717	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_3_GOPR0047.MP4	  58471	00:16:15.49	SAEL_26Sep19_bruv3_data	00:03:15.48	135	1530	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S											1	AD	Passing	id? corbina?		
+SAEL_26Sep19_3_GP010047.MP4	   2757	00:18:28.06	SAEL_26Sep19_bruv3_data	00:05:28.04	788	1773	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP010047.MP4	   5259	00:19:09.80	SAEL_26Sep19_bruv3_data	00:06:09.79	77	1711	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Atherinopsidae			3	3	AD	Passing	id?	background	
+SAEL_26Sep19_3_GP010047.MP4	   7737	00:19:51.14	SAEL_26Sep19_bruv3_data	00:06:51.13	171	982	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Atherinopsidae			3	8	AD	Passing	id?	background	
+SAEL_26Sep19_3_GP010047.MP4	  14981	00:21:51.99	SAEL_26Sep19_bruv3_data	00:08:51.98	693	1058	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_3_GP010047.MP4	  15522	00:22:01.02	SAEL_26Sep19_bruv3_data	00:09:01.01	72	577	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_3_GP010047.MP4	  28617	00:25:39.49	SAEL_26Sep19_bruv3_data	00:12:39.48	198	647	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP010047.MP4	  28617	00:25:39.49	SAEL_26Sep19_bruv3_data	00:12:39.48	286	1478	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP010047.MP4	  29782	00:25:58.92	SAEL_26Sep19_bruv3_data	00:12:58.91	578	963	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_26Sep19_3_GP010047.MP4	  40542	00:28:58.44	SAEL_26Sep19_bruv3_data	00:15:58.42	235	1568	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP010047.MP4	  48584	00:31:12.60	SAEL_26Sep19_bruv3_data	00:18:12.59	678	674	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_3_GP010047.MP4	  50574	00:31:45.80	SAEL_26Sep19_bruv3_data	00:18:45.79	786	1757	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	AD	Passing			
+SAEL_26Sep19_3_GP010047.MP4	  62206	00:34:59.86	SAEL_26Sep19_bruv3_data	00:21:59.85	534	1355	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP020047.MP4	    558	00:35:33.43	SAEL_26Sep19_bruv3_data	00:22:33.42	650	292	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SAEL_26Sep19_3_GP020047.MP4	   2177	00:36:00.44	SAEL_26Sep19_bruv3_data	00:23:00.43	363	1562	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP020047.MP4	   2177	00:36:00.44	SAEL_26Sep19_bruv3_data	00:23:00.43	446	1709	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP020047.MP4	   2177	00:36:00.44	SAEL_26Sep19_bruv3_data	00:23:00.43	383	745	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S											1	AD	Passing	id? yf croaker?		
+SAEL_26Sep19_3_GP020047.MP4	   3379	00:36:20.49	SAEL_26Sep19_bruv3_data	00:23:20.48	780	840	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_3_GP020047.MP4	   6111	00:37:06.07	SAEL_26Sep19_bruv3_data	00:24:06.06	502	1718	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP020047.MP4	  12989	00:39:00.82	SAEL_26Sep19_bruv3_data	00:26:00.81	182	216	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP020047.MP4	  15588	00:39:44.18	SAEL_26Sep19_bruv3_data	00:26:44.17	884	777	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_3_GP020047.MP4	  31620	00:44:11.65	SAEL_26Sep19_bruv3_data	00:31:11.64	822	1231	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_3_GP020047.MP4	  61709	00:52:33.63	SAEL_26Sep19_bruv3_data	00:39:33.62	843	1232	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	   3483	00:54:04.29	SAEL_26Sep19_bruv3_data	00:41:04.28	782	1271	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	  14203	00:57:03.14	SAEL_26Sep19_bruv3_data	00:44:03.12	650	1637	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	  24441	00:59:53.94	SAEL_26Sep19_bruv3_data	00:46:53.93	661	1693	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP030047.MP4	  25470	01:00:11.11	SAEL_26Sep19_bruv3_data	00:47:11.09	779	1240	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	  41313	01:04:35.42	SAEL_26Sep19_bruv3_data	00:51:35.41	523	975	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	  45126	01:05:39.04	SAEL_26Sep19_bruv3_data	00:52:39.02	694	1507	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	  45126	01:05:39.04	SAEL_26Sep19_bruv3_data	00:52:39.02	418	534	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+SAEL_26Sep19_3_GP030047.MP4	  55735	01:08:36.03	SAEL_26Sep19_bruv3_data	00:55:36.02	703	447	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	  57944	01:09:12.88	SAEL_26Sep19_bruv3_data	00:56:12.87	957	1276	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	  63000	01:10:37.23	SAEL_26Sep19_bruv3_data	00:57:37.22	392	1013	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_3_GP030047.MP4	  63000	01:10:37.23	SAEL_26Sep19_bruv3_data	00:57:37.22	338	1485	SAEL_26Sep19_bruv3	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			

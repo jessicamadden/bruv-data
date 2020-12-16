@@ -1,0 +1,42 @@
+Dot Point Measurements
+
+Generated: Tuesday, April 07, 2020 16:11:57
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+HABE_19Jul19_6_GP010004.MP4	  13702	00:21:30.66	HABE_19Jul19_bruv6_data	00:00:30.65	515	1118	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP010004.MP4	  16222	00:22:12.70	HABE_19Jul19_bruv6_data	00:01:12.69	982	625	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing	id?		
+HABE_19Jul19_6_GP010004.MP4	  20494	00:23:23.97	HABE_19Jul19_bruv6_data	00:02:23.96	217	979	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+HABE_19Jul19_6_GP010004.MP4	  36377	00:27:48.95	HABE_19Jul19_bruv6_data	00:06:48.94	585	1034	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP010004.MP4	  47859	00:31:00.51	HABE_19Jul19_bruv6_data	00:10:00.50	702	1237	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP010004.MP4	  50463	00:31:43.95	HABE_19Jul19_bruv6_data	00:10:43.94	708	1411	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP010004.MP4	  61631	00:34:50.27	HABE_19Jul19_bruv6_data	00:13:50.26	737	977	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP010004.MP4	  61631	00:34:50.27	HABE_19Jul19_bruv6_data	00:13:50.26	738	1095	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	   2492	00:36:05.70	HABE_19Jul19_bruv6_data	00:15:05.69	727	1089	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	   2656	00:36:08.43	HABE_19Jul19_bruv6_data	00:15:08.42	631	974	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  17374	00:40:13.98	HABE_19Jul19_bruv6_data	00:19:13.97	474	911	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  20818	00:41:11.44	HABE_19Jul19_bruv6_data	00:20:11.43	622	1025	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  28964	00:43:27.34	HABE_19Jul19_bruv6_data	00:22:27.33	687	983	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  36299	00:45:29.71	HABE_19Jul19_bruv6_data	00:24:29.70	970	1517	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  44559	00:47:47.51	HABE_19Jul19_bruv6_data	00:26:47.51	597	665	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  44693	00:47:49.75	HABE_19Jul19_bruv6_data	00:26:49.74	746	1097	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  56524	00:51:07.13	HABE_19Jul19_bruv6_data	00:30:07.12	674	1300	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  57103	00:51:16.79	HABE_19Jul19_bruv6_data	00:30:16.78	811	1492	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_19Jul19_6_GP020004.MP4	  58609	00:51:41.92	HABE_19Jul19_bruv6_data	00:30:41.91	1048	647	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  15664	00:57:27.51	HABE_19Jul19_bruv6_data	00:36:27.50	689	226	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  16119	00:57:35.10	HABE_19Jul19_bruv6_data	00:36:35.09	1039	644	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  24861	01:00:00.95	HABE_19Jul19_bruv6_data	00:39:00.94	860	1300	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  24861	01:00:00.95	HABE_19Jul19_bruv6_data	00:39:00.94	703	1036	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing	id?		
+HABE_19Jul19_6_GP030004.MP4	  26713	01:00:31.84	HABE_19Jul19_bruv6_data	00:39:31.84	598	1054	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Cancridae	Cancer	sp		1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  28122	01:00:55.35	HABE_19Jul19_bruv6_data	00:39:55.34	795	1339	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  28122	01:00:55.35	HABE_19Jul19_bruv6_data	00:39:55.34	842	1638	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  28756	01:01:05.93	HABE_19Jul19_bruv6_data	00:40:05.92	768	1115	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  28756	01:01:05.93	HABE_19Jul19_bruv6_data	00:40:05.92	820	1209	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP030004.MP4	  38464	01:03:47.89	HABE_19Jul19_bruv6_data	00:42:47.88	1034	640	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+HABE_19Jul19_6_GP040004.MP4	   8564	01:13:11.12	HABE_19Jul19_bruv6_data	00:52:11.11	722	1704	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+HABE_19Jul19_6_GP040004.MP4	   9158	01:13:21.03	HABE_19Jul19_bruv6_data	00:52:21.02	1032	616	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+HABE_19Jul19_6_GP040004.MP4	  11972	01:14:07.98	HABE_19Jul19_bruv6_data	00:53:07.97	786	1097	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+HABE_19Jul19_6_GP040004.MP4	  19101	01:16:06.91	HABE_19Jul19_bruv6_data	00:55:06.90	504	286	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+HABE_19Jul19_6_GP040004.MP4	  20437	01:16:29.20	HABE_19Jul19_bruv6_data	00:55:29.19	839	1182	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP040004.MP4	  20876	01:16:36.53	HABE_19Jul19_bruv6_data	00:55:36.52	1040	640	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+HABE_19Jul19_6_GP040004.MP4	  29936	01:19:07.68	HABE_19Jul19_bruv6_data	00:58:07.67	818	1791	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_19Jul19_6_GP040004.MP4	  29936	01:19:07.68	HABE_19Jul19_bruv6_data	00:58:07.67	718	1536	HABE_19Jul19_bruv6	Jessica Madden			<1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			

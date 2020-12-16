@@ -1,0 +1,28 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 15:13:27
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+HABE_19Jul19_3_GP010131.MP4	    354	00:17:47.97	HABE_19Jul19_bruv3_data	00:00:47.96	894	938	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP010131.MP4	   9336	00:20:17.82	HABE_19Jul19_bruv3_data	00:03:17.81	890	795	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP010131.MP4	  17709	00:22:37.51	HABE_19Jul19_bruv3_data	00:05:37.50	1013	1361	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP010131.MP4	  35537	00:27:34.94	HABE_19Jul19_bruv3_data	00:10:34.93	1013	333	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP010131.MP4	  45871	00:30:27.34	HABE_19Jul19_bruv3_data	00:13:27.34	572	1356	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+HABE_19Jul19_3_GP010131.MP4	  49348	00:31:25.35	HABE_19Jul19_bruv3_data	00:14:25.35	1015	756	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP010131.MP4	  52345	00:32:15.35	HABE_19Jul19_bruv3_data	00:15:15.35	995	1325	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP010131.MP4	  52664	00:32:20.67	HABE_19Jul19_bruv3_data	00:15:20.67	945	1273	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP010131.MP4	  52664	00:32:20.67	HABE_19Jul19_bruv3_data	00:15:20.67	1027	1690	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP020131.MP4	  14781	00:39:30.72	HABE_19Jul19_bruv3_data	00:22:30.72	923	1586	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP020131.MP4	  36578	00:45:34.36	HABE_19Jul19_bruv3_data	00:28:34.36	889	801	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+HABE_19Jul19_3_GP020131.MP4	  39273	00:46:19.33	HABE_19Jul19_bruv3_data	00:29:19.32	834	1317	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+HABE_19Jul19_3_GP020131.MP4	  39273	00:46:19.33	HABE_19Jul19_bruv3_data	00:29:19.32	846	880	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+HABE_19Jul19_3_GP020131.MP4	  42608	00:47:14.97	HABE_19Jul19_bruv3_data	00:30:14.96	941	1482	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP020131.MP4	  44363	00:47:44.24	HABE_19Jul19_bruv3_data	00:30:44.24	824	803	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+HABE_19Jul19_3_GP020131.MP4	  44363	00:47:44.24	HABE_19Jul19_bruv3_data	00:30:44.24	713	937	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+HABE_19Jul19_3_GP030131.MP4	   5580	00:54:39.28	HABE_19Jul19_bruv3_data	00:37:39.27	940	1581	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+HABE_19Jul19_3_GP030131.MP4	  16802	00:57:46.50	HABE_19Jul19_bruv3_data	00:40:46.49	885	1251	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+HABE_19Jul19_3_GP030131.MP4	  26463	01:00:27.67	HABE_19Jul19_bruv3_data	00:43:27.67	965	1552	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP030131.MP4	  39275	01:04:01.42	HABE_19Jul19_bruv3_data	00:47:01.42	888	1676	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+HABE_19Jul19_3_GP030131.MP4	  50937	01:07:15.98	HABE_19Jul19_bruv3_data	00:50:15.98	281	245	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S											1	AD	Passing	ID? possibly a bat ray		
+HABE_19Jul19_3_GP040131.MP4	   3972	01:11:54.51	HABE_19Jul19_bruv3_data	00:54:54.51	138	1227	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+HABE_19Jul19_3_GP040131.MP4	   5095	01:12:13.25	HABE_19Jul19_bruv3_data	00:55:13.24	905	1465	HABE_19Jul19_bruv3	Jessica Madden			<1m	100% S							Paralichthyidae				1	AD	Passing			

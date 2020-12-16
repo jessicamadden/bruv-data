@@ -1,0 +1,49 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 16:27:20
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+RESB_5Sep19_1_GOPR0085.MP4	  60629	00:16:51.49	REFU_5Sep19_bruv1	00:05:51.48	513	1548	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GOPR0085.MP4	  61294	00:17:02.59	REFU_5Sep19_bruv1	00:06:02.58	537	1502	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	   5640	00:19:16.15	REFU_5Sep19_bruv1	00:08:16.15	236	1294	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  10829	00:20:42.72	REFU_5Sep19_bruv1	00:09:42.72	362	514	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  12482	00:21:10.30	REFU_5Sep19_bruv1	00:10:10.29	252	1407	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  12482	00:21:10.30	REFU_5Sep19_bruv1	00:10:10.29	502	1762	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  12482	00:21:10.30	REFU_5Sep19_bruv1	00:10:10.29	426	1833	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  13039	00:21:19.59	REFU_5Sep19_bruv1	00:10:19.59	502	506	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  30527	00:26:11.35	REFU_5Sep19_bruv1	00:15:11.34	198	1742	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  30704	00:26:14.31	REFU_5Sep19_bruv1	00:15:14.30	572	588	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  30784	00:26:15.64	REFU_5Sep19_bruv1	00:15:15.63	353	548	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  31558	00:26:28.55	REFU_5Sep19_bruv1	00:15:28.54	658	50	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  31558	00:26:28.55	REFU_5Sep19_bruv1	00:15:28.54	582	305	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  44375	00:30:02.38	REFU_5Sep19_bruv1	00:19:02.37	621	1488	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  50857	00:31:50.53	REFU_5Sep19_bruv1	00:20:50.52	355	1116	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP010085.MP4	  50857	00:31:50.53	REFU_5Sep19_bruv1	00:20:50.52	492	1493	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   2426	00:36:04.60	REFU_5Sep19_bruv1	00:25:04.59	288	450	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	ellipticum	12	18	AD	Passing	check id		
+RESB_5Sep19_1_GP020085.MP4	   2804	00:36:10.90	REFU_5Sep19_bruv1	00:25:10.89	294	975	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   2870	00:36:12.00	REFU_5Sep19_bruv1	00:25:11.99	346	604	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   2870	00:36:12.00	REFU_5Sep19_bruv1	00:25:11.99	226	1222	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   2870	00:36:12.00	REFU_5Sep19_bruv1	00:25:11.99	412	816	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   3460	00:36:21.85	REFU_5Sep19_bruv1	00:25:21.84	457	774	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   3460	00:36:21.85	REFU_5Sep19_bruv1	00:25:21.84	514	1131	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   4183	00:36:33.91	REFU_5Sep19_bruv1	00:25:33.90	225	299	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   4183	00:36:33.91	REFU_5Sep19_bruv1	00:25:33.90	369	974	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   7398	00:37:27.55	REFU_5Sep19_bruv1	00:26:27.54	454	1085	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	   7398	00:37:27.55	REFU_5Sep19_bruv1	00:26:27.54	532	1403	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	  20573	00:41:07.35	REFU_5Sep19_bruv1	00:30:07.34	103	1685	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	  32318	00:44:23.29	REFU_5Sep19_bruv1	00:33:23.28	498	1289	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	  46794	00:48:24.80	REFU_5Sep19_bruv1	00:37:24.79	518	1221	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	  47335	00:48:33.83	REFU_5Sep19_bruv1	00:37:33.82	490	1666	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	  52223	00:49:55.38	REFU_5Sep19_bruv1	00:38:55.37	147	490	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	  53635	00:50:18.93	REFU_5Sep19_bruv1	00:39:18.92	588	1115	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	  56417	00:51:05.35	REFU_5Sep19_bruv1	00:40:05.34	37	1364	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP020085.MP4	  56417	00:51:05.35	REFU_5Sep19_bruv1	00:40:05.34	551	698	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+RESB_5Sep19_1_GP030085.MP4	   1549	00:53:32.03	REFU_5Sep19_bruv1	00:42:32.02	383	1175	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae				1	AD	Passing	id? probably just barred surfperch		
+RESB_5Sep19_1_GP030085.MP4	   8674	00:55:30.89	REFU_5Sep19_bruv1	00:44:30.88	510	1035	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP030085.MP4	  17666	00:58:00.91	REFU_5Sep19_bruv1	00:47:00.90	508	881	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP030085.MP4	  31926	01:01:58.82	REFU_5Sep19_bruv1	00:50:58.81	520	1136	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP030085.MP4	  33410	01:02:23.57	REFU_5Sep19_bruv1	00:51:23.56	904	398	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_5Sep19_1_GP030085.MP4	  37790	01:03:36.65	REFU_5Sep19_bruv1	00:52:36.64	498	404	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_5Sep19_1_GP030085.MP4	  48967	01:06:43.12	REFU_5Sep19_bruv1	00:55:43.11	513	1520	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae				1	AD	Passing	id? probably just barred surfperch		
+RESB_5Sep19_1_GP030085.MP4	  49513	01:06:52.22	REFU_5Sep19_bruv1	00:55:52.22	516	1023	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+RESB_5Sep19_1_GP030085.MP4	  58017	01:09:14.10	REFU_5Sep19_bruv1	00:58:14.09	236	1320	REFU_05Sep19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			

@@ -1,0 +1,273 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 14:58:33
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PERC_23Jul19_3_GOPR0005.MP4	  43157	00:12:00.00	PERC_23Jul19_bruv3_data	00:00:00.00	944	1540	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  43157	00:12:00.00	PERC_23Jul19_bruv3_data	00:00:00.00	973	1575	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  43157	00:12:00.00	PERC_23Jul19_bruv3_data	00:00:00.00	715	1012	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GOPR0005.MP4	  43157	00:12:00.00	PERC_23Jul19_bruv3_data	00:00:00.00	837	1048	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  44472	00:12:21.94	PERC_23Jul19_bruv3_data	00:00:21.94	837	1164	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  44472	00:12:21.94	PERC_23Jul19_bruv3_data	00:00:21.94	919	1528	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  44472	00:12:21.94	PERC_23Jul19_bruv3_data	00:00:21.94	803	974	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  46963	00:13:03.50	PERC_23Jul19_bruv3_data	00:01:03.50	871	1081	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  46963	00:13:03.50	PERC_23Jul19_bruv3_data	00:01:03.50	683	911	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GOPR0005.MP4	  46963	00:13:03.50	PERC_23Jul19_bruv3_data	00:01:03.50	821	1091	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GOPR0005.MP4	  51813	00:14:24.41	PERC_23Jul19_bruv3_data	00:02:24.41	689	1124	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  51813	00:14:24.41	PERC_23Jul19_bruv3_data	00:02:24.41	876	1429	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  51813	00:14:24.41	PERC_23Jul19_bruv3_data	00:02:24.41	896	1372	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  51813	00:14:24.41	PERC_23Jul19_bruv3_data	00:02:24.41	944	1534	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  51813	00:14:24.41	PERC_23Jul19_bruv3_data	00:02:24.41	974	1559	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  54337	00:15:06.52	PERC_23Jul19_bruv3_data	00:03:06.52	809	977	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  54337	00:15:06.52	PERC_23Jul19_bruv3_data	00:03:06.52	805	1194	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  54822	00:15:14.61	PERC_23Jul19_bruv3_data	00:03:14.61	829	962	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  54822	00:15:14.61	PERC_23Jul19_bruv3_data	00:03:14.61	821	1076	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  54822	00:15:14.61	PERC_23Jul19_bruv3_data	00:03:14.61	804	1142	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  61132	00:16:59.89	PERC_23Jul19_bruv3_data	00:04:59.88	734	948	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GOPR0005.MP4	  61132	00:16:59.89	PERC_23Jul19_bruv3_data	00:04:59.88	796	984	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GOPR0005.MP4	  61553	00:17:06.91	PERC_23Jul19_bruv3_data	00:05:06.91	828	784	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  62413	00:17:21.26	PERC_23Jul19_bruv3_data	00:05:21.25	844	1070	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  62413	00:17:21.26	PERC_23Jul19_bruv3_data	00:05:21.25	766	1042	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  62413	00:17:21.26	PERC_23Jul19_bruv3_data	00:05:21.25	818	1098	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  62672	00:17:25.58	PERC_23Jul19_bruv3_data	00:05:25.58	820	859	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GOPR0005.MP4	  62672	00:17:25.58	PERC_23Jul19_bruv3_data	00:05:25.58	858	1653	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	   1078	00:18:00.05	PERC_23Jul19_bruv3_data	00:06:00.04	904	1373	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	   1078	00:18:00.05	PERC_23Jul19_bruv3_data	00:06:00.04	873	1425	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	   6580	00:19:31.84	PERC_23Jul19_bruv3_data	00:07:31.83	881	1094	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	   6580	00:19:31.84	PERC_23Jul19_bruv3_data	00:07:31.83	889	1363	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	   6580	00:19:31.84	PERC_23Jul19_bruv3_data	00:07:31.83	880	1445	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	   6580	00:19:31.84	PERC_23Jul19_bruv3_data	00:07:31.83	684	918	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GP010005.MP4	   6580	00:19:31.84	PERC_23Jul19_bruv3_data	00:07:31.83	831	1445	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GP010005.MP4	   6580	00:19:31.84	PERC_23Jul19_bruv3_data	00:07:31.83	843	1093	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	   6580	00:19:31.84	PERC_23Jul19_bruv3_data	00:07:31.83	831	931	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  11724	00:20:57.66	PERC_23Jul19_bruv3_data	00:08:57.65	594	852	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  11724	00:20:57.66	PERC_23Jul19_bruv3_data	00:08:57.65	853	1044	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  11724	00:20:57.66	PERC_23Jul19_bruv3_data	00:08:57.65	827	1136	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  14600	00:21:45.64	PERC_23Jul19_bruv3_data	00:09:45.64	633	188	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing		background	
+PERC_23Jul19_3_GP010005.MP4	  15871	00:22:06.84	PERC_23Jul19_bruv3_data	00:10:06.84	791	1454	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing		background	
+PERC_23Jul19_3_GP010005.MP4	  15871	00:22:06.84	PERC_23Jul19_bruv3_data	00:10:06.84	820	1319	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  15871	00:22:06.84	PERC_23Jul19_bruv3_data	00:10:06.84	844	1053	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  15871	00:22:06.84	PERC_23Jul19_bruv3_data	00:10:06.84	817	1090	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  15871	00:22:06.84	PERC_23Jul19_bruv3_data	00:10:06.84	888	1117	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  15871	00:22:06.84	PERC_23Jul19_bruv3_data	00:10:06.84	900	1366	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  15871	00:22:06.84	PERC_23Jul19_bruv3_data	00:10:06.84	685	936	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GP010005.MP4	  17564	00:22:35.09	PERC_23Jul19_bruv3_data	00:10:35.08	910	1253	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  17564	00:22:35.09	PERC_23Jul19_bruv3_data	00:10:35.08	926	1360	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  17564	00:22:35.09	PERC_23Jul19_bruv3_data	00:10:35.08	900	1590	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  22126	00:23:51.20	PERC_23Jul19_bruv3_data	00:11:51.19	799	1133	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  22126	00:23:51.20	PERC_23Jul19_bruv3_data	00:11:51.19	802	1232	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  22126	00:23:51.20	PERC_23Jul19_bruv3_data	00:11:51.19	817	1070	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  22126	00:23:51.20	PERC_23Jul19_bruv3_data	00:11:51.19	884	1126	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  22126	00:23:51.20	PERC_23Jul19_bruv3_data	00:11:51.19	889	1332	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  22126	00:23:51.20	PERC_23Jul19_bruv3_data	00:11:51.19	894	1432	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  22126	00:23:51.20	PERC_23Jul19_bruv3_data	00:11:51.19	856	1451	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  33780	00:27:05.62	PERC_23Jul19_bruv3_data	00:15:05.62	797	1101	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  34585	00:27:19.05	PERC_23Jul19_bruv3_data	00:15:19.05	800	927	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  34585	00:27:19.05	PERC_23Jul19_bruv3_data	00:15:19.05	891	964	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  35643	00:27:36.71	PERC_23Jul19_bruv3_data	00:15:36.70	647	852	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  35643	00:27:36.71	PERC_23Jul19_bruv3_data	00:15:36.70	702	952	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GP010005.MP4	  36610	00:27:52.84	PERC_23Jul19_bruv3_data	00:15:52.84	863	1257	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  37356	00:28:05.28	PERC_23Jul19_bruv3_data	00:16:05.28	907	1177	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  37356	00:28:05.28	PERC_23Jul19_bruv3_data	00:16:05.28	882	1415	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  37356	00:28:05.28	PERC_23Jul19_bruv3_data	00:16:05.28	836	891	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  37356	00:28:05.28	PERC_23Jul19_bruv3_data	00:16:05.28	880	1200	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  40566	00:28:58.84	PERC_23Jul19_bruv3_data	00:16:58.83	832	1109	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  40566	00:28:58.84	PERC_23Jul19_bruv3_data	00:16:58.83	827	1039	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  41173	00:29:08.96	PERC_23Jul19_bruv3_data	00:17:08.96	875	1128	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  41173	00:29:08.96	PERC_23Jul19_bruv3_data	00:17:08.96	891	1358	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  41173	00:29:08.96	PERC_23Jul19_bruv3_data	00:17:08.96	955	1567	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  41173	00:29:08.96	PERC_23Jul19_bruv3_data	00:17:08.96	879	1437	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50499	00:31:44.55	PERC_23Jul19_bruv3_data	00:19:44.55	759	1276	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50499	00:31:44.55	PERC_23Jul19_bruv3_data	00:19:44.55	820	1169	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50499	00:31:44.55	PERC_23Jul19_bruv3_data	00:19:44.55	952	1514	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50690	00:31:47.74	PERC_23Jul19_bruv3_data	00:19:47.74	677	1125	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50690	00:31:47.74	PERC_23Jul19_bruv3_data	00:19:47.74	663	1164	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50690	00:31:47.74	PERC_23Jul19_bruv3_data	00:19:47.74	757	1141	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50690	00:31:47.74	PERC_23Jul19_bruv3_data	00:19:47.74	811	1043	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50690	00:31:47.74	PERC_23Jul19_bruv3_data	00:19:47.74	886	1102	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50690	00:31:47.74	PERC_23Jul19_bruv3_data	00:19:47.74	818	1285	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  50690	00:31:47.74	PERC_23Jul19_bruv3_data	00:19:47.74	957	1487	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  51653	00:32:03.81	PERC_23Jul19_bruv3_data	00:20:03.80	738	1164	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  51653	00:32:03.81	PERC_23Jul19_bruv3_data	00:20:03.80	813	1039	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  51653	00:32:03.81	PERC_23Jul19_bruv3_data	00:20:03.80	818	997	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  51653	00:32:03.81	PERC_23Jul19_bruv3_data	00:20:03.80	854	1134	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  51653	00:32:03.81	PERC_23Jul19_bruv3_data	00:20:03.80	795	1219	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  51653	00:32:03.81	PERC_23Jul19_bruv3_data	00:20:03.80	847	1262	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  51653	00:32:03.81	PERC_23Jul19_bruv3_data	00:20:03.80	820	1100	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GP010005.MP4	  53401	00:32:32.97	PERC_23Jul19_bruv3_data	00:20:32.97	790	843	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  53401	00:32:32.97	PERC_23Jul19_bruv3_data	00:20:32.97	815	1183	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  56506	00:33:24.77	PERC_23Jul19_bruv3_data	00:21:24.77	886	1093	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  56506	00:33:24.77	PERC_23Jul19_bruv3_data	00:21:24.77	877	1321	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  56506	00:33:24.77	PERC_23Jul19_bruv3_data	00:21:24.77	852	1515	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  56506	00:33:24.77	PERC_23Jul19_bruv3_data	00:21:24.77	848	1102	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP010005.MP4	  56506	00:33:24.77	PERC_23Jul19_bruv3_data	00:21:24.77	834	1068	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GP010005.MP4	  56506	00:33:24.77	PERC_23Jul19_bruv3_data	00:21:24.77	829	1391	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   4801	00:36:44.22	PERC_23Jul19_bruv3_data	00:24:44.22	893	1109	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   4801	00:36:44.22	PERC_23Jul19_bruv3_data	00:24:44.22	905	1489	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   4801	00:36:44.22	PERC_23Jul19_bruv3_data	00:24:44.22	886	1348	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   4801	00:36:44.22	PERC_23Jul19_bruv3_data	00:24:44.22	857	1405	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   7963	00:37:36.97	PERC_23Jul19_bruv3_data	00:25:36.97	772	973	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GP020005.MP4	   7963	00:37:36.97	PERC_23Jul19_bruv3_data	00:25:36.97	854	1034	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing	ID?		
+PERC_23Jul19_3_GP020005.MP4	   7963	00:37:36.97	PERC_23Jul19_bruv3_data	00:25:36.97	691	829	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   7963	00:37:36.97	PERC_23Jul19_bruv3_data	00:25:36.97	791	1036	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   7963	00:37:36.97	PERC_23Jul19_bruv3_data	00:25:36.97	888	1071	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   7963	00:37:36.97	PERC_23Jul19_bruv3_data	00:25:36.97	884	1251	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   7963	00:37:36.97	PERC_23Jul19_bruv3_data	00:25:36.97	830	1203	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   7963	00:37:36.97	PERC_23Jul19_bruv3_data	00:25:36.97	827	1282	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	   9607	00:38:04.40	PERC_23Jul19_bruv3_data	00:26:04.40	790	1022	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  14831	00:39:31.55	PERC_23Jul19_bruv3_data	00:27:31.55	739	1025	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  14831	00:39:31.55	PERC_23Jul19_bruv3_data	00:27:31.55	770	1158	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  16340	00:39:56.73	PERC_23Jul19_bruv3_data	00:27:56.73	790	271	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  16340	00:39:56.73	PERC_23Jul19_bruv3_data	00:27:56.73	775	768	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  17734	00:40:19.98	PERC_23Jul19_bruv3_data	00:28:19.98	804	1174	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  17734	00:40:19.98	PERC_23Jul19_bruv3_data	00:28:19.98	737	1133	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  17734	00:40:19.98	PERC_23Jul19_bruv3_data	00:28:19.98	764	1042	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  17734	00:40:19.98	PERC_23Jul19_bruv3_data	00:28:19.98	831	1135	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  17863	00:40:22.14	PERC_23Jul19_bruv3_data	00:28:22.13	842	859	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  17863	00:40:22.14	PERC_23Jul19_bruv3_data	00:28:22.13	820	927	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  22265	00:41:35.58	PERC_23Jul19_bruv3_data	00:29:35.57	874	1387	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  22265	00:41:35.58	PERC_23Jul19_bruv3_data	00:29:35.57	845	1172	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  22265	00:41:35.58	PERC_23Jul19_bruv3_data	00:29:35.57	774	1109	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	722	824	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	778	876	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	803	1273	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	816	968	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	850	1096	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	822	1073	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	782	1200	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	883	1895	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	886	1742	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  25897	00:42:36.17	PERC_23Jul19_bruv3_data	00:30:36.17	802	1151	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  28391	00:43:17.78	PERC_23Jul19_bruv3_data	00:31:17.78	626	950	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  28391	00:43:17.78	PERC_23Jul19_bruv3_data	00:31:17.78	763	1028	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  28391	00:43:17.78	PERC_23Jul19_bruv3_data	00:31:17.78	705	983	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  28391	00:43:17.78	PERC_23Jul19_bruv3_data	00:31:17.78	947	964	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  28391	00:43:17.78	PERC_23Jul19_bruv3_data	00:31:17.78	774	944	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  29698	00:43:39.58	PERC_23Jul19_bruv3_data	00:31:39.58	792	1150	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  29698	00:43:39.58	PERC_23Jul19_bruv3_data	00:31:39.58	827	1089	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  29698	00:43:39.58	PERC_23Jul19_bruv3_data	00:31:39.58	797	1077	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  29698	00:43:39.58	PERC_23Jul19_bruv3_data	00:31:39.58	1065	1000	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  29698	00:43:39.58	PERC_23Jul19_bruv3_data	00:31:39.58	761	1115	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  29698	00:43:39.58	PERC_23Jul19_bruv3_data	00:31:39.58	722	1073	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  30297	00:43:49.58	PERC_23Jul19_bruv3_data	00:31:49.57	808	1119	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  30297	00:43:49.58	PERC_23Jul19_bruv3_data	00:31:49.57	798	1199	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  30297	00:43:49.58	PERC_23Jul19_bruv3_data	00:31:49.57	819	1361	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33308	00:44:39.81	PERC_23Jul19_bruv3_data	00:32:39.81	605	1019	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33308	00:44:39.81	PERC_23Jul19_bruv3_data	00:32:39.81	663	1023	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33308	00:44:39.81	PERC_23Jul19_bruv3_data	00:32:39.81	763	1041	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33308	00:44:39.81	PERC_23Jul19_bruv3_data	00:32:39.81	729	1002	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33308	00:44:39.81	PERC_23Jul19_bruv3_data	00:32:39.81	804	968	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33308	00:44:39.81	PERC_23Jul19_bruv3_data	00:32:39.81	873	1431	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33308	00:44:39.81	PERC_23Jul19_bruv3_data	00:32:39.81	937	1890	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33308	00:44:39.81	PERC_23Jul19_bruv3_data	00:32:39.81	769	1436	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  33713	00:44:46.57	PERC_23Jul19_bruv3_data	00:32:46.56	767	587	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	5	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  34598	00:45:01.33	PERC_23Jul19_bruv3_data	00:33:01.33	740	759	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  34598	00:45:01.33	PERC_23Jul19_bruv3_data	00:33:01.33	840	1442	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  42570	00:47:14.33	PERC_23Jul19_bruv3_data	00:35:14.33	829	1081	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  42570	00:47:14.33	PERC_23Jul19_bruv3_data	00:35:14.33	805	1044	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  42570	00:47:14.33	PERC_23Jul19_bruv3_data	00:35:14.33	815	1084	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  45000	00:47:54.87	PERC_23Jul19_bruv3_data	00:35:54.87	801	885	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  45000	00:47:54.87	PERC_23Jul19_bruv3_data	00:35:54.87	850	1083	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  45000	00:47:54.87	PERC_23Jul19_bruv3_data	00:35:54.87	801	1055	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  45000	00:47:54.87	PERC_23Jul19_bruv3_data	00:35:54.87	747	1125	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  45000	00:47:54.87	PERC_23Jul19_bruv3_data	00:35:54.87	590	1142	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  47277	00:48:32.86	PERC_23Jul19_bruv3_data	00:36:32.86	780	854	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  47277	00:48:32.86	PERC_23Jul19_bruv3_data	00:36:32.86	823	1103	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  47277	00:48:32.86	PERC_23Jul19_bruv3_data	00:36:32.86	833	1153	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  47277	00:48:32.86	PERC_23Jul19_bruv3_data	00:36:32.86	885	1732	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  47931	00:48:43.77	PERC_23Jul19_bruv3_data	00:36:43.77	848	1387	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  47931	00:48:43.77	PERC_23Jul19_bruv3_data	00:36:43.77	801	1411	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  49341	00:49:07.29	PERC_23Jul19_bruv3_data	00:37:07.29	692	904	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  49341	00:49:07.29	PERC_23Jul19_bruv3_data	00:37:07.29	763	950	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  49341	00:49:07.29	PERC_23Jul19_bruv3_data	00:37:07.29	843	989	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  49341	00:49:07.29	PERC_23Jul19_bruv3_data	00:37:07.29	839	1105	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  49341	00:49:07.29	PERC_23Jul19_bruv3_data	00:37:07.29	860	1048	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  49341	00:49:07.29	PERC_23Jul19_bruv3_data	00:37:07.29	967	980	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  49341	00:49:07.29	PERC_23Jul19_bruv3_data	00:37:07.29	951	991	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  49954	00:49:17.52	PERC_23Jul19_bruv3_data	00:37:17.52	827	1313	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	6	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  52355	00:49:57.58	PERC_23Jul19_bruv3_data	00:37:57.58	856	1053	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  52355	00:49:57.58	PERC_23Jul19_bruv3_data	00:37:57.58	828	1073	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  52355	00:49:57.58	PERC_23Jul19_bruv3_data	00:37:57.58	811	1042	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  55035	00:50:42.29	PERC_23Jul19_bruv3_data	00:38:42.29	795	1130	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  55035	00:50:42.29	PERC_23Jul19_bruv3_data	00:38:42.29	848	1091	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  55035	00:50:42.29	PERC_23Jul19_bruv3_data	00:38:42.29	849	1047	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  55035	00:50:42.29	PERC_23Jul19_bruv3_data	00:38:42.29	827	943	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	783	876	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	824	1469	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	843	1173	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	813	923	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	727	30	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	701	134	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	588	945	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	679	949	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP020005.MP4	  61375	00:52:28.06	PERC_23Jul19_bruv3_data	00:40:28.06	790	1025	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   3140	00:53:58.57	PERC_23Jul19_bruv3_data	00:41:58.57	867	1106	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   3140	00:53:58.57	PERC_23Jul19_bruv3_data	00:41:58.57	662	1177	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   3140	00:53:58.57	PERC_23Jul19_bruv3_data	00:41:58.57	705	1163	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   3140	00:53:58.57	PERC_23Jul19_bruv3_data	00:41:58.57	807	1153	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   3140	00:53:58.57	PERC_23Jul19_bruv3_data	00:41:58.57	797	1059	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   4788	00:54:26.06	PERC_23Jul19_bruv3_data	00:42:26.06	977	1107	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   4788	00:54:26.06	PERC_23Jul19_bruv3_data	00:42:26.06	812	979	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   4788	00:54:26.06	PERC_23Jul19_bruv3_data	00:42:26.06	796	933	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   4788	00:54:26.06	PERC_23Jul19_bruv3_data	00:42:26.06	764	904	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   4788	00:54:26.06	PERC_23Jul19_bruv3_data	00:42:26.06	673	877	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   4788	00:54:26.06	PERC_23Jul19_bruv3_data	00:42:26.06	663	962	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   9454	00:55:43.91	PERC_23Jul19_bruv3_data	00:43:43.90	846	725	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   9454	00:55:43.91	PERC_23Jul19_bruv3_data	00:43:43.90	960	976	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   9454	00:55:43.91	PERC_23Jul19_bruv3_data	00:43:43.90	801	958	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   9454	00:55:43.91	PERC_23Jul19_bruv3_data	00:43:43.90	813	1064	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   9454	00:55:43.91	PERC_23Jul19_bruv3_data	00:43:43.90	791	1124	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   9454	00:55:43.91	PERC_23Jul19_bruv3_data	00:43:43.90	767	1182	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   9454	00:55:43.91	PERC_23Jul19_bruv3_data	00:43:43.90	672	1171	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	   9881	00:55:51.03	PERC_23Jul19_bruv3_data	00:43:51.03	1005	698	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	5	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  17541	00:57:58.83	PERC_23Jul19_bruv3_data	00:45:58.82	816	1045	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  17541	00:57:58.83	PERC_23Jul19_bruv3_data	00:45:58.82	812	1122	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  17541	00:57:58.83	PERC_23Jul19_bruv3_data	00:45:58.82	800	1223	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  17541	00:57:58.83	PERC_23Jul19_bruv3_data	00:45:58.82	824	948	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  17541	00:57:58.83	PERC_23Jul19_bruv3_data	00:45:58.82	793	955	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  17541	00:57:58.83	PERC_23Jul19_bruv3_data	00:45:58.82	1054	517	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18165	00:58:09.24	PERC_23Jul19_bruv3_data	00:46:09.23	781	505	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18165	00:58:09.24	PERC_23Jul19_bruv3_data	00:46:09.23	1066	947	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18165	00:58:09.24	PERC_23Jul19_bruv3_data	00:46:09.23	790	894	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18165	00:58:09.24	PERC_23Jul19_bruv3_data	00:46:09.23	821	936	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18165	00:58:09.24	PERC_23Jul19_bruv3_data	00:46:09.23	761	980	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18165	00:58:09.24	PERC_23Jul19_bruv3_data	00:46:09.23	862	1078	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18165	00:58:09.24	PERC_23Jul19_bruv3_data	00:46:09.23	828	1051	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18552	00:58:15.69	PERC_23Jul19_bruv3_data	00:46:15.69	828	913	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18552	00:58:15.69	PERC_23Jul19_bruv3_data	00:46:15.69	819	1418	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  18552	00:58:15.69	PERC_23Jul19_bruv3_data	00:46:15.69	777	1156	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  24167	00:59:49.37	PERC_23Jul19_bruv3_data	00:47:49.37	909	1232	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  24167	00:59:49.37	PERC_23Jul19_bruv3_data	00:47:49.37	769	900	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	background		
+PERC_23Jul19_3_GP030005.MP4	  24167	00:59:49.37	PERC_23Jul19_bruv3_data	00:47:49.37	841	1582	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	background		
+PERC_23Jul19_3_GP030005.MP4	  24700	00:59:58.26	PERC_23Jul19_bruv3_data	00:47:58.26	713	635	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  24700	00:59:58.26	PERC_23Jul19_bruv3_data	00:47:58.26	817	925	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  25157	01:00:05.89	PERC_23Jul19_bruv3_data	00:48:05.88	842	1535	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  25157	01:00:05.89	PERC_23Jul19_bruv3_data	00:48:05.88	833	1133	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  25157	01:00:05.89	PERC_23Jul19_bruv3_data	00:48:05.88	844	1060	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  25157	01:00:05.89	PERC_23Jul19_bruv3_data	00:48:05.88	803	660	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  32756	01:02:12.66	PERC_23Jul19_bruv3_data	00:50:12.66	817	1312	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  32756	01:02:12.66	PERC_23Jul19_bruv3_data	00:50:12.66	822	1222	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  32756	01:02:12.66	PERC_23Jul19_bruv3_data	00:50:12.66	786	1204	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  32756	01:02:12.66	PERC_23Jul19_bruv3_data	00:50:12.66	773	777	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  32756	01:02:12.66	PERC_23Jul19_bruv3_data	00:50:12.66	715	613	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	background		
+PERC_23Jul19_3_GP030005.MP4	  32756	01:02:12.66	PERC_23Jul19_bruv3_data	00:50:12.66	696	568	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing	background		
+PERC_23Jul19_3_GP030005.MP4	  34675	01:02:44.68	PERC_23Jul19_bruv3_data	00:50:44.67	471	1360	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  34917	01:02:48.71	PERC_23Jul19_bruv3_data	00:50:48.71	538	226	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  34917	01:02:48.71	PERC_23Jul19_bruv3_data	00:50:48.71	175	1045	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  46860	01:06:07.96	PERC_23Jul19_bruv3_data	00:54:07.96	811	519	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  46860	01:06:07.96	PERC_23Jul19_bruv3_data	00:54:07.96	963	1001	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  46860	01:06:07.96	PERC_23Jul19_bruv3_data	00:54:07.96	702	1181	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  51094	01:07:18.60	PERC_23Jul19_bruv3_data	00:55:18.60	812	1343	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	3	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  53480	01:07:58.41	PERC_23Jul19_bruv3_data	00:55:58.41	530	306	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  53480	01:07:58.41	PERC_23Jul19_bruv3_data	00:55:58.41	781	956	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  53480	01:07:58.41	PERC_23Jul19_bruv3_data	00:55:58.41	804	921	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  54170	01:08:09.92	PERC_23Jul19_bruv3_data	00:56:09.92	822	926	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP030005.MP4	  54170	01:08:09.92	PERC_23Jul19_bruv3_data	00:56:09.92	782	1246	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP040005.MP4	   3100	01:11:39.96	PERC_23Jul19_bruv3_data	00:59:39.96	839	951	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP040005.MP4	   3100	01:11:39.96	PERC_23Jul19_bruv3_data	00:59:39.96	835	1076	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP040005.MP4	   3100	01:11:39.96	PERC_23Jul19_bruv3_data	00:59:39.96	816	1035	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Nassariidae	Nassarius		54	1	AD	Passing			
+PERC_23Jul19_3_GP040005.MP4	   3940	01:11:53.98	PERC_23Jul19_bruv3_data	00:59:53.97	714	544	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP040005.MP4	   3940	01:11:53.98	PERC_23Jul19_bruv3_data	00:59:53.97	824	1060	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP040005.MP4	   3940	01:11:53.98	PERC_23Jul19_bruv3_data	00:59:53.97	780	997	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP040005.MP4	   3940	01:11:53.98	PERC_23Jul19_bruv3_data	00:59:53.97	812	1343	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+PERC_23Jul19_3_GP040005.MP4	   3961	01:11:54.33	PERC_23Jul19_bruv3_data	00:59:54.32	830	985	PERC_23Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	6	AD	Passing			

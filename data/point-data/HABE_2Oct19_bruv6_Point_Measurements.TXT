@@ -1,0 +1,44 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 18:03:19
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+HABE_2Oct19_6_GOPR0052.MP4	  58913	00:16:22.87	HABE_2Oct19_bruv6_data	00:03:22.85	723	1005	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	   9355	00:20:18.13	HABE_2Oct19_bruv6_data	00:07:18.12	713	930	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  24859	00:24:36.79	HABE_2Oct19_bruv6_data	00:11:36.78	514	575	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  24859	00:24:36.79	HABE_2Oct19_bruv6_data	00:11:36.78	496	908	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  24859	00:24:36.79	HABE_2Oct19_bruv6_data	00:11:36.78	582	900	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  24859	00:24:36.79	HABE_2Oct19_bruv6_data	00:11:36.78	573	1007	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  24859	00:24:36.79	HABE_2Oct19_bruv6_data	00:11:36.78	590	1223	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  24859	00:24:36.79	HABE_2Oct19_bruv6_data	00:11:36.78	478	1289	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  24859	00:24:36.79	HABE_2Oct19_bruv6_data	00:11:36.78	429	1535	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  41552	00:29:15.29	HABE_2Oct19_bruv6_data	00:16:15.27	464	226	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  46665	00:30:40.59	HABE_2Oct19_bruv6_data	00:17:40.58	463	1763	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  46665	00:30:40.59	HABE_2Oct19_bruv6_data	00:17:40.58	406	1416	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  46665	00:30:40.59	HABE_2Oct19_bruv6_data	00:17:40.58	348	1553	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  46853	00:30:43.73	HABE_2Oct19_bruv6_data	00:17:43.71	140	334	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Carangidae	Trachurus	symmetricus	65	1	AD	Passing			
+HABE_2Oct19_6_GP010052.MP4	  54862	00:32:57.34	HABE_2Oct19_bruv6_data	00:19:57.33	827	1026	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	    279	00:35:28.78	HABE_2Oct19_bruv6_data	00:22:28.76	762	987	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	  14301	00:39:22.71	HABE_2Oct19_bruv6_data	00:26:22.70	735	996	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	  21091	00:41:15.99	HABE_2Oct19_bruv6_data	00:28:15.98	833	928	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	  21091	00:41:15.99	HABE_2Oct19_bruv6_data	00:28:15.98	672	1023	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	  30807	00:43:58.09	HABE_2Oct19_bruv6_data	00:30:58.07	668	912	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	  30807	00:43:58.09	HABE_2Oct19_bruv6_data	00:30:58.07	731	973	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	  30807	00:43:58.09	HABE_2Oct19_bruv6_data	00:30:58.07	813	1007	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	  60238	00:52:09.09	HABE_2Oct19_bruv6_data	00:39:09.08	647	1122	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP020052.MP4	  60238	00:52:09.09	HABE_2Oct19_bruv6_data	00:39:09.08	754	1043	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP030052.MP4	   4257	00:54:17.20	HABE_2Oct19_bruv6_data	00:41:17.19	258	1724	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Carangidae	Trachurus	symmetricus	65	1	AD	Passing	id?	background	
+HABE_2Oct19_6_GP030052.MP4	  16430	00:57:40.29	HABE_2Oct19_bruv6_data	00:44:40.28	728	973	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP030052.MP4	  19544	00:58:32.24	HABE_2Oct19_bruv6_data	00:45:32.23	562	911	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_2Oct19_6_GP030052.MP4	  19853	00:58:37.40	HABE_2Oct19_bruv6_data	00:45:37.38	456	699	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	9	AD	Passing			
+HABE_2Oct19_6_GP030052.MP4	  19938	00:58:38.82	HABE_2Oct19_bruv6_data	00:45:38.80	253	637	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Carangidae	Trachurus	symmetricus	65	1	AD	Passing			
+HABE_2Oct19_6_GP030052.MP4	  26110	01:00:21.78	HABE_2Oct19_bruv6_data	00:47:21.77	769	1056	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Cancridae	Cancer	sp		1	AD	Passing			
+HABE_2Oct19_6_GP030052.MP4	  30317	01:01:31.97	HABE_2Oct19_bruv6_data	00:48:31.96	753	1447	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Paralichthyidae				1	AD	Passing	id? halibut?	background	
+HABE_2Oct19_6_GP030052.MP4	  37537	01:03:32.43	HABE_2Oct19_bruv6_data	00:50:32.41	771	1773	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Paralichthyidae				1	AD	Passing	id? halibut?	background	
+HABE_2Oct19_6_GP030052.MP4	  41262	01:04:34.57	HABE_2Oct19_bruv6_data	00:51:34.56	542	573	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Carangidae	Trachurus	symmetricus	65	1	AD	Passing	id?	background	
+HABE_2Oct19_6_GP030052.MP4	  41262	01:04:34.57	HABE_2Oct19_bruv6_data	00:51:34.56	496	669	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	10	AD	Passing			
+HABE_2Oct19_6_GP030052.MP4	  55388	01:08:30.24	HABE_2Oct19_bruv6_data	00:55:30.23	400	1800	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Carangidae	Trachurus	symmetricus	65	2	AD	Passing	id?	background	
+HABE_2Oct19_6_GP030052.MP4	  55698	01:08:35.41	HABE_2Oct19_bruv6_data	00:55:35.40	545	1212	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Atherinopsidae	Atherinops	affinis	1	2	AD	Passing			
+HABE_2Oct19_6_GP040052.MP4	   4850	01:12:09.16	HABE_2Oct19_bruv6_data	00:59:09.15	277	1674	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Carangidae	Trachurus	symmetricus	65	1	AD	Passing	id?	background	
+HABE_2Oct19_6_GP040052.MP4	   4850	01:12:09.16	HABE_2Oct19_bruv6_data	00:59:09.15	495	479	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Carangidae	Trachurus	symmetricus	65	1	AD	Passing	id?	background	
+HABE_2Oct19_6_GP040052.MP4	   4850	01:12:09.16	HABE_2Oct19_bruv6_data	00:59:09.15	451	795	HABE_02Oct19_bruv6	Jessica Madden			=1m	100% S	HABE	6	10-02-2019				Carangidae	Trachurus	symmetricus	65	1	AD	Passing	id?	background	

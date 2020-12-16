@@ -1,0 +1,34 @@
+Dot Point Measurements
+
+Generated: Tuesday, May 26, 2020 16:01:20
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+LECA_17Sep19_bruv3_GOPR0037.MP4	  61948	00:17:13.50	LECA_17Sep19_bruv3_data	00:03:13.49	597	1030	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing	id? 		
+LECA_17Sep19_bruv3_GP010037.MP4	    264	00:17:46.47	LECA_17Sep19_bruv3_data	00:03:46.46	679	41	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing	id?		
+LECA_17Sep19_bruv3_GP010037.MP4	   1603	00:18:08.80	LECA_17Sep19_bruv3_data	00:04:08.80	667	351	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+LECA_17Sep19_bruv3_GP010037.MP4	  14960	00:21:51.64	LECA_17Sep19_bruv3_data	00:07:51.64	786	1690	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+LECA_17Sep19_bruv3_GP010037.MP4	  18374	00:22:48.60	LECA_17Sep19_bruv3_data	00:08:48.59	428	770	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_17Sep19_bruv3_GP010037.MP4	  23730	00:24:17.96	LECA_17Sep19_bruv3_data	00:10:17.95	684	1134	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_17Sep19_bruv3_GP010037.MP4	  24783	00:24:35.52	LECA_17Sep19_bruv3_data	00:10:35.52	572	383	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+LECA_17Sep19_bruv3_GP020037.MP4	  27690	00:43:06.08	LECA_17Sep19_bruv3_data	00:29:06.08	638	148	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing			
+LECA_17Sep19_bruv3_GP020037.MP4	  42630	00:47:15.33	LECA_17Sep19_bruv3_data	00:33:15.33	716	380	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+LECA_17Sep19_bruv3_GP020037.MP4	  51999	00:49:51.64	LECA_17Sep19_bruv3_data	00:35:51.63	647	689	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+LECA_17Sep19_bruv3_GP020037.MP4	  60995	00:52:21.72	LECA_17Sep19_bruv3_data	00:38:21.72	793	596	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	   7768	00:55:15.78	LECA_17Sep19_bruv3_data	00:41:15.77	678	298	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  10220	00:55:56.69	LECA_17Sep19_bruv3_data	00:41:56.68	722	962	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  14984	00:57:16.17	LECA_17Sep19_bruv3_data	00:43:16.16	718	623	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  20747	00:58:52.31	LECA_17Sep19_bruv3_data	00:44:52.31	624	1347	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae				1	AD	Passing	id?		
+LECA_17Sep19_bruv3_GP030037.MP4	  23930	00:59:45.42	LECA_17Sep19_bruv3_data	00:45:45.41	628	198	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  23930	00:59:45.42	LECA_17Sep19_bruv3_data	00:45:45.41	600	287	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  38075	01:03:41.40	LECA_17Sep19_bruv3_data	00:49:41.40	632	268	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  40159	01:04:16.17	LECA_17Sep19_bruv3_data	00:50:16.16	673	1573	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  42361	01:04:52.91	LECA_17Sep19_bruv3_data	00:50:52.90	703	1130	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  42695	01:04:58.48	LECA_17Sep19_bruv3_data	00:50:58.47	230	1606	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  42695	01:04:58.48	LECA_17Sep19_bruv3_data	00:50:58.47	575	1748	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  57139	01:08:59.45	LECA_17Sep19_bruv3_data	00:54:59.45	786	425	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  57229	01:09:00.95	LECA_17Sep19_bruv3_data	00:55:00.95	519	60	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  57229	01:09:00.95	LECA_17Sep19_bruv3_data	00:55:00.95	504	1457	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  62617	01:10:30.84	LECA_17Sep19_bruv3_data	00:56:30.84	790	408	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  62617	01:10:30.84	LECA_17Sep19_bruv3_data	00:56:30.84	665	139	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  62617	01:10:30.84	LECA_17Sep19_bruv3_data	00:56:30.84	695	438	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_17Sep19_bruv3_GP030037.MP4	  62895	01:10:35.48	LECA_17Sep19_bruv3_data	00:56:35.48	701	1074	LECA_17Sep19_bruv3	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			

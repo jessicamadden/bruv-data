@@ -1,0 +1,60 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 11:23:00
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+PERC_4Sep19_bruv6_GOPR0032.MP4	  39618	00:11:00.96	PERC_4Sep19_bruv6_data	00:00:00.95	807	769	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  41836	00:11:37.96	PERC_4Sep19_bruv6_data	00:00:37.95	726	1786	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  42157	00:11:43.32	PERC_4Sep19_bruv6_data	00:00:43.31	909	1254	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45324	00:12:36.16	PERC_4Sep19_bruv6_data	00:01:36.15	841	475	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45324	00:12:36.16	PERC_4Sep19_bruv6_data	00:01:36.15	798	903	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45324	00:12:36.16	PERC_4Sep19_bruv6_data	00:01:36.15	853	843	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45544	00:12:39.83	PERC_4Sep19_bruv6_data	00:01:39.82	738	462	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45544	00:12:39.83	PERC_4Sep19_bruv6_data	00:01:39.82	798	419	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45544	00:12:39.83	PERC_4Sep19_bruv6_data	00:01:39.82	840	839	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  45544	00:12:39.83	PERC_4Sep19_bruv6_data	00:01:39.82	867	1528	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  46026	00:12:47.87	PERC_4Sep19_bruv6_data	00:01:47.86	868	1686	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae				1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  47823	00:13:17.85	PERC_4Sep19_bruv6_data	00:02:17.84	781	137	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	sp		1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  50634	00:14:04.74	PERC_4Sep19_bruv6_data	00:03:04.73	330	1373	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	sp		4	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  56868	00:15:48.75	PERC_4Sep19_bruv6_data	00:04:48.74	711	390	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	5	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  57842	00:16:05.00	PERC_4Sep19_bruv6_data	00:05:04.99	813	1793	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	sp		1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  57842	00:16:05.00	PERC_4Sep19_bruv6_data	00:05:04.99	899	1458	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  57842	00:16:05.00	PERC_4Sep19_bruv6_data	00:05:04.99	819	915	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  61963	00:17:13.75	PERC_4Sep19_bruv6_data	00:06:13.74	868	786	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GOPR0032.MP4	  61963	00:17:13.75	PERC_4Sep19_bruv6_data	00:06:13.74	704	1046	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	   8533	00:20:04.42	PERC_4Sep19_bruv6_data	00:09:04.41	872	1814	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	   8533	00:20:04.42	PERC_4Sep19_bruv6_data	00:09:04.41	789	1624	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  13427	00:21:26.07	PERC_4Sep19_bruv6_data	00:10:26.06	814	1346	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  13427	00:21:26.07	PERC_4Sep19_bruv6_data	00:10:26.06	724	1399	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  14043	00:21:36.35	PERC_4Sep19_bruv6_data	00:10:36.34	745	813	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  22968	00:24:05.24	PERC_4Sep19_bruv6_data	00:13:05.23	577	1610	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  28161	00:25:31.88	PERC_4Sep19_bruv6_data	00:14:31.87	779	787	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  32754	00:26:48.51	PERC_4Sep19_bruv6_data	00:15:48.50	852	932	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  32754	00:26:48.51	PERC_4Sep19_bruv6_data	00:15:48.50	815	621	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  35704	00:27:37.72	PERC_4Sep19_bruv6_data	00:16:37.71	770	162	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  35817	00:27:39.61	PERC_4Sep19_bruv6_data	00:16:39.60	1001	1582	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  37686	00:28:10.79	PERC_4Sep19_bruv6_data	00:17:10.78	647	851	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  37686	00:28:10.79	PERC_4Sep19_bruv6_data	00:17:10.78	814	1212	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  50899	00:31:51.23	PERC_4Sep19_bruv6_data	00:20:51.22	847	851	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  50899	00:31:51.23	PERC_4Sep19_bruv6_data	00:20:51.22	813	1662	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+PERC_4Sep19_bruv6_GP010032.MP4	  56594	00:33:26.24	PERC_4Sep19_bruv6_data	00:22:26.23	677	1690	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	   3044	00:36:14.91	PERC_4Sep19_bruv6_data	00:25:14.90	735	817	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	7	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  10010	00:38:11.12	PERC_4Sep19_bruv6_data	00:27:11.11	766	988	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  12861	00:38:58.69	PERC_4Sep19_bruv6_data	00:27:58.68	821	1089	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	12	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  21528	00:41:23.28	PERC_4Sep19_bruv6_data	00:30:23.27	791	1333	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	7	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  27653	00:43:05.47	PERC_4Sep19_bruv6_data	00:32:05.46	265	1518	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	12	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  40007	00:46:31.57	PERC_4Sep19_bruv6_data	00:35:31.56	997	1539	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	6	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  41140	00:46:50.47	PERC_4Sep19_bruv6_data	00:35:50.46	845	1260	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	9	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  52495	00:49:59.91	PERC_4Sep19_bruv6_data	00:38:59.90	894	1291	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	12	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  59057	00:51:49.39	PERC_4Sep19_bruv6_data	00:40:49.38	822	1147	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  61397	00:52:28.43	PERC_4Sep19_bruv6_data	00:41:28.42	855	601	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	4	AD	Passing			
+PERC_4Sep19_bruv6_GP020032.MP4	  62238	00:52:42.46	PERC_4Sep19_bruv6_data	00:41:42.45	601	1534	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	12	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  11331	00:56:15.22	PERC_4Sep19_bruv6_data	00:45:15.21	816	882	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	4	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  11331	00:56:15.22	PERC_4Sep19_bruv6_data	00:45:15.21	763	1176	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  11590	00:56:19.54	PERC_4Sep19_bruv6_data	00:45:19.53	729	1180	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	6	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  16526	00:57:41.89	PERC_4Sep19_bruv6_data	00:46:41.88	974	111	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	10	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  18224	00:58:10.22	PERC_4Sep19_bruv6_data	00:47:10.21	846	973	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  21726	00:59:08.65	PERC_4Sep19_bruv6_data	00:48:08.64	708	477	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  29276	01:01:14.60	PERC_4Sep19_bruv6_data	00:50:14.59	822	944	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  30674	01:01:37.93	PERC_4Sep19_bruv6_data	00:50:37.92	804	1184	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	4	AD	Passing			
+PERC_4Sep19_bruv6_GP030032.MP4	  49790	01:06:56.85	PERC_4Sep19_bruv6_data	00:55:56.84	712	1787	PERC_04Sep19_bruv6	Jessica Madden			=1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			

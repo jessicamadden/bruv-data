@@ -1,0 +1,58 @@
+Dot Point Measurements
+
+Generated: Tuesday, June 23, 2020 14:42:19
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SCRI_25Oct19_1_GOPR0131.MP4	  39627	00:11:01.11	SCRI_25Oct19_bruv1_data	00:00:01.10	645	1121	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_1_GOPR0131.MP4	  46971	00:13:03.63	SCRI_25Oct19_bruv1_data	00:02:03.62	638	1709	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GOPR0131.MP4	  46971	00:13:03.63	SCRI_25Oct19_bruv1_data	00:02:03.62	654	1196	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_1_GOPR0131.MP4	  59343	00:16:30.04	SCRI_25Oct19_bruv1_data	00:05:30.03	552	1448	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_1_GOPR0131.MP4	  60923	00:16:56.40	SCRI_25Oct19_bruv1_data	00:05:56.39	500	1357	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	   4849	00:19:02.96	SCRI_25Oct19_bruv1_data	00:08:02.95	677	256	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	   4849	00:19:02.96	SCRI_25Oct19_bruv1_data	00:08:02.95	659	1409	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	   4849	00:19:02.96	SCRI_25Oct19_bruv1_data	00:08:02.95	571	1530	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  10272	00:20:33.43	SCRI_25Oct19_bruv1_data	00:09:33.42	134	301	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Atherinopsidae			3	1	AD	Passing	id? prob topsmelt	background	
+SCRI_25Oct19_1_GP010131.MP4	  11220	00:20:49.25	SCRI_25Oct19_bruv1_data	00:09:49.24	375	790	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Atherinopsidae			3	10	AD	Passing	id? prob topsmelt	background	
+SCRI_25Oct19_1_GP010131.MP4	  12697	00:21:13.89	SCRI_25Oct19_bruv1_data	00:10:13.88	659	1163	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  12742	00:21:14.64	SCRI_25Oct19_bruv1_data	00:10:14.63	316	131	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Atherinopsidae			3	13	AD	Passing	id? prob topsmelt	background	
+SCRI_25Oct19_1_GP010131.MP4	  13144	00:21:21.35	SCRI_25Oct19_bruv1_data	00:10:21.34	690	401	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  13144	00:21:21.35	SCRI_25Oct19_bruv1_data	00:10:21.34	672	1155	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  16715	00:22:20.92	SCRI_25Oct19_bruv1_data	00:11:20.91	668	1643	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Triakidae	Mustelus	sp		1	AD	Passing	id? gray?	background	
+SCRI_25Oct19_1_GP010131.MP4	  16715	00:22:20.92	SCRI_25Oct19_bruv1_data	00:11:20.91	643	1260	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  21267	00:23:36.87	SCRI_25Oct19_bruv1_data	00:12:36.86	437	139	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Atherinopsidae			3	3	AD	Passing	id? prob topsmelt	background	
+SCRI_25Oct19_1_GP010131.MP4	  27591	00:25:22.37	SCRI_25Oct19_bruv1_data	00:14:22.36	613	158	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  27591	00:25:22.37	SCRI_25Oct19_bruv1_data	00:14:22.36	771	152	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  31618	00:26:29.55	SCRI_25Oct19_bruv1_data	00:15:29.55	670	669	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  39695	00:28:44.31	SCRI_25Oct19_bruv1_data	00:17:44.30	82	1090	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Atherinopsidae			3	15	AD	Passing	id? prob topsmelt	background	
+SCRI_25Oct19_1_GP010131.MP4	  40434	00:28:56.63	SCRI_25Oct19_bruv1_data	00:17:56.63	634	289	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  40434	00:28:56.63	SCRI_25Oct19_bruv1_data	00:17:56.63	757	1765	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  41413	00:29:12.97	SCRI_25Oct19_bruv1_data	00:18:12.96	811	1817	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  51293	00:31:57.80	SCRI_25Oct19_bruv1_data	00:20:57.79	716	1271	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  52043	00:32:10.31	SCRI_25Oct19_bruv1_data	00:21:10.30	659	1045	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	2	AD	Passing			
+SCRI_25Oct19_1_GP010131.MP4	  56550	00:33:25.50	SCRI_25Oct19_bruv1_data	00:22:25.49	107	295	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Atherinopsidae			3	2	AD	Passing	id? prob topsmelt	background	
+SCRI_25Oct19_1_GP010131.MP4	  56685	00:33:27.76	SCRI_25Oct19_bruv1_data	00:22:27.75	715	1766	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Sciaenidae				1	AD	Passing	id? prob corbina	background	
+SCRI_25Oct19_1_GP020131.MP4	    237	00:35:28.08	SCRI_25Oct19_bruv1_data	00:24:28.07	674	984	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	   4547	00:36:39.98	SCRI_25Oct19_bruv1_data	00:25:39.97	694	1132	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	   4547	00:36:39.98	SCRI_25Oct19_bruv1_data	00:25:39.97	632	1861	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	   5714	00:36:59.45	SCRI_25Oct19_bruv1_data	00:25:59.44	566	757	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	2	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	   9020	00:37:54.61	SCRI_25Oct19_bruv1_data	00:26:54.60	432	885	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	   9133	00:37:56.49	SCRI_25Oct19_bruv1_data	00:26:56.48	678	1076	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	  20174	00:41:00.69	SCRI_25Oct19_bruv1_data	00:30:00.68	687	1158	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	  20495	00:41:06.05	SCRI_25Oct19_bruv1_data	00:30:06.04	728	484	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	  55440	00:50:49.05	SCRI_25Oct19_bruv1_data	00:39:49.04	688	255	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SCRI_25Oct19_1_GP020131.MP4	  56991	00:51:14.92	SCRI_25Oct19_bruv1_data	00:40:14.91	340	237	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Atherinopsidae			3	6	AD	Passing	id? prob topsmelt	background	
+SCRI_25Oct19_1_GP020131.MP4	  58822	00:51:45.47	SCRI_25Oct19_bruv1_data	00:40:45.46	693	1455	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Dasyatidae	Dasyatis	dipterura	63	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	  58822	00:51:45.47	SCRI_25Oct19_bruv1_data	00:40:45.46	670	1044	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	  61322	00:52:27.18	SCRI_25Oct19_bruv1_data	00:41:27.17	461	1620	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SCRI_25Oct19_1_GP020131.MP4	  61322	00:52:27.18	SCRI_25Oct19_bruv1_data	00:41:27.17	465	682	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SCRI_25Oct19_1_GP020131.MP4	  61892	00:52:36.69	SCRI_25Oct19_bruv1_data	00:41:36.68	339	868	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP020131.MP4	  62512	00:52:47.03	SCRI_25Oct19_bruv1_data	00:41:47.02	645	567	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	2	AD	Passing			
+SCRI_25Oct19_1_GP030131.MP4	  22339	00:59:17.87	SCRI_25Oct19_bruv1_data	00:48:17.86	700	1233	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP030131.MP4	  22535	00:59:21.14	SCRI_25Oct19_bruv1_data	00:48:21.13	436	252	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SCRI_25Oct19_1_GP030131.MP4	  22535	00:59:21.14	SCRI_25Oct19_bruv1_data	00:48:21.13	490	541	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SCRI_25Oct19_1_GP030131.MP4	  22946	00:59:28.00	SCRI_25Oct19_bruv1_data	00:48:27.99	606	1169	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP030131.MP4	  22946	00:59:28.00	SCRI_25Oct19_bruv1_data	00:48:27.99	729	1250	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP030131.MP4	  28848	01:01:06.46	SCRI_25Oct19_bruv1_data	00:50:06.45	446	872	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP030131.MP4	  41986	01:04:45.65	SCRI_25Oct19_bruv1_data	00:53:45.64	188	266	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Atherinopsidae			3	1	AD	Passing	id? prob topsmelt	background	
+SCRI_25Oct19_1_GP030131.MP4	  54043	01:08:06.80	SCRI_25Oct19_bruv1_data	00:57:06.79	585	1273	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SCRI_25Oct19_1_GP030131.MP4	  60163	01:09:48.90	SCRI_25Oct19_bruv1_data	00:58:48.89	667	1323	SCRI_25Oct19_bruv1	Jessica Madden			=1m	100% S	SCRI	1	10-25-2019				Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			

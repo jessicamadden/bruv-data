@@ -1,0 +1,194 @@
+Dot Point Measurements
+
+Generated: Wednesday, April 29, 2020 16:23:48
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SLHO_18Sep19_1_GOPR0098.MP4	  43282	00:12:02.09	SLHO_18Sep19_bruv1_data	00:00:02.09	481	688	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GOPR0098.MP4	  62272	00:17:18.90	SLHO_18Sep19_bruv1_data	00:05:18.90	716	1178	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  12035	00:21:02.84	SLHO_18Sep19_bruv1_data	00:09:02.84	614	756	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+SLHO_18Sep19_1_GP010098.MP4	  12035	00:21:02.84	SLHO_18Sep19_bruv1_data	00:09:02.84	710	790	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  19920	00:23:14.39	SLHO_18Sep19_bruv1_data	00:11:14.39	740	1230	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  19920	00:23:14.39	SLHO_18Sep19_bruv1_data	00:11:14.39	717	1125	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  21885	00:23:47.18	SLHO_18Sep19_bruv1_data	00:11:47.17	736	1219	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  21885	00:23:47.18	SLHO_18Sep19_bruv1_data	00:11:47.17	748	1294	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  21885	00:23:47.18	SLHO_18Sep19_bruv1_data	00:11:47.17	561	613	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  22975	00:24:05.36	SLHO_18Sep19_bruv1_data	00:12:05.36	697	1341	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  22975	00:24:05.36	SLHO_18Sep19_bruv1_data	00:12:05.36	746	1390	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  22975	00:24:05.36	SLHO_18Sep19_bruv1_data	00:12:05.36	626	1040	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+SLHO_18Sep19_1_GP010098.MP4	  28521	00:25:37.89	SLHO_18Sep19_bruv1_data	00:13:37.88	590	1304	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  28521	00:25:37.89	SLHO_18Sep19_bruv1_data	00:13:37.88	781	1296	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  28521	00:25:37.89	SLHO_18Sep19_bruv1_data	00:13:37.88	33	272	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Atherinopsidae	Atherinops			1	AD	Passing	id?	background	
+SLHO_18Sep19_1_GP010098.MP4	  33524	00:27:01.35	SLHO_18Sep19_bruv1_data	00:15:01.35	623	643	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  33524	00:27:01.35	SLHO_18Sep19_bruv1_data	00:15:01.35	629	1323	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  33524	00:27:01.35	SLHO_18Sep19_bruv1_data	00:15:01.35	510	1672	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  34596	00:27:19.24	SLHO_18Sep19_bruv1_data	00:15:19.23	374	867	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  34596	00:27:19.24	SLHO_18Sep19_bruv1_data	00:15:19.23	615	655	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  34596	00:27:19.24	SLHO_18Sep19_bruv1_data	00:15:19.23	640	1151	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  47802	00:30:59.56	SLHO_18Sep19_bruv1_data	00:18:59.56	660	1090	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  47802	00:30:59.56	SLHO_18Sep19_bruv1_data	00:18:59.56	605	1253	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  47802	00:30:59.56	SLHO_18Sep19_bruv1_data	00:18:59.56	764	1367	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  52355	00:32:15.52	SLHO_18Sep19_bruv1_data	00:20:15.51	586	687	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  52355	00:32:15.52	SLHO_18Sep19_bruv1_data	00:20:15.51	625	663	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  52355	00:32:15.52	SLHO_18Sep19_bruv1_data	00:20:15.51	735	1140	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  61534	00:34:48.65	SLHO_18Sep19_bruv1_data	00:22:48.65	621	716	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  61534	00:34:48.65	SLHO_18Sep19_bruv1_data	00:22:48.65	548	890	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  61534	00:34:48.65	SLHO_18Sep19_bruv1_data	00:22:48.65	578	1085	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  61534	00:34:48.65	SLHO_18Sep19_bruv1_data	00:22:48.65	640	1050	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  63043	00:35:13.83	SLHO_18Sep19_bruv1_data	00:23:13.83	618	970	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  63043	00:35:13.83	SLHO_18Sep19_bruv1_data	00:23:13.83	686	1040	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  63043	00:35:13.83	SLHO_18Sep19_bruv1_data	00:23:13.83	597	1316	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  63043	00:35:13.83	SLHO_18Sep19_bruv1_data	00:23:13.83	563	1273	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP010098.MP4	  63043	00:35:13.83	SLHO_18Sep19_bruv1_data	00:23:13.83	608	389	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing		background	
+SLHO_18Sep19_1_GP020098.MP4	   1175	00:35:43.72	SLHO_18Sep19_bruv1_data	00:23:43.72	575	929	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   1175	00:35:43.72	SLHO_18Sep19_bruv1_data	00:23:43.72	633	807	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   1175	00:35:43.72	SLHO_18Sep19_bruv1_data	00:23:43.72	708	1331	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   1175	00:35:43.72	SLHO_18Sep19_bruv1_data	00:23:43.72	738	1210	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   1175	00:35:43.72	SLHO_18Sep19_bruv1_data	00:23:43.72	589	1325	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+SLHO_18Sep19_1_GP020098.MP4	   3646	00:36:24.95	SLHO_18Sep19_bruv1_data	00:24:24.95	490	408	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   3646	00:36:24.95	SLHO_18Sep19_bruv1_data	00:24:24.95	637	692	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   3646	00:36:24.95	SLHO_18Sep19_bruv1_data	00:24:24.95	646	797	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   3646	00:36:24.95	SLHO_18Sep19_bruv1_data	00:24:24.95	680	1095	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   3646	00:36:24.95	SLHO_18Sep19_bruv1_data	00:24:24.95	623	1438	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   3646	00:36:24.95	SLHO_18Sep19_bruv1_data	00:24:24.95	529	1118	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5474	00:36:55.45	SLHO_18Sep19_bruv1_data	00:24:55.44	654	835	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5474	00:36:55.45	SLHO_18Sep19_bruv1_data	00:24:55.44	588	1042	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5474	00:36:55.45	SLHO_18Sep19_bruv1_data	00:24:55.44	690	1170	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5474	00:36:55.45	SLHO_18Sep19_bruv1_data	00:24:55.44	667	1319	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5474	00:36:55.45	SLHO_18Sep19_bruv1_data	00:24:55.44	742	1256	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5474	00:36:55.45	SLHO_18Sep19_bruv1_data	00:24:55.44	767	1291	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5474	00:36:55.45	SLHO_18Sep19_bruv1_data	00:24:55.44	786	1514	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5537	00:36:56.50	SLHO_18Sep19_bruv1_data	00:24:56.50	689	904	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5537	00:36:56.50	SLHO_18Sep19_bruv1_data	00:24:56.50	635	1009	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5537	00:36:56.50	SLHO_18Sep19_bruv1_data	00:24:56.50	798	1365	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5537	00:36:56.50	SLHO_18Sep19_bruv1_data	00:24:56.50	743	1371	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5537	00:36:56.50	SLHO_18Sep19_bruv1_data	00:24:56.50	611	1414	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5537	00:36:56.50	SLHO_18Sep19_bruv1_data	00:24:56.50	765	1694	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   5537	00:36:56.50	SLHO_18Sep19_bruv1_data	00:24:56.50	648	1166	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   6606	00:37:14.33	SLHO_18Sep19_bruv1_data	00:25:14.33	858	1641	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   6606	00:37:14.33	SLHO_18Sep19_bruv1_data	00:25:14.33	745	1377	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   6606	00:37:14.33	SLHO_18Sep19_bruv1_data	00:25:14.33	746	1104	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   6606	00:37:14.33	SLHO_18Sep19_bruv1_data	00:25:14.33	670	739	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   6606	00:37:14.33	SLHO_18Sep19_bruv1_data	00:25:14.33	556	596	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   6606	00:37:14.33	SLHO_18Sep19_bruv1_data	00:25:14.33	487	793	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	   6606	00:37:14.33	SLHO_18Sep19_bruv1_data	00:25:14.33	674	1153	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  27785	00:43:07.67	SLHO_18Sep19_bruv1_data	00:31:07.67	633	992	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  27785	00:43:07.67	SLHO_18Sep19_bruv1_data	00:31:07.67	309	384	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  27785	00:43:07.67	SLHO_18Sep19_bruv1_data	00:31:07.67	420	414	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  27785	00:43:07.67	SLHO_18Sep19_bruv1_data	00:31:07.67	578	1308	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  27785	00:43:07.67	SLHO_18Sep19_bruv1_data	00:31:07.67	734	1300	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  27785	00:43:07.67	SLHO_18Sep19_bruv1_data	00:31:07.67	621	1735	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  27785	00:43:07.67	SLHO_18Sep19_bruv1_data	00:31:07.67	870	1764	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	307	149	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	493	522	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	563	696	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	511	843	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	502	925	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	631	1129	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	466	1180	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	266	786	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	557	797	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	770	1398	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28344	00:43:16.99	SLHO_18Sep19_bruv1_data	00:31:16.99	567	1655	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	363	324	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	511	1069	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	467	1181	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	452	1272	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	627	1270	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	629	1418	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	491	1357	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	676	1621	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	773	1452	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  28802	00:43:24.64	SLHO_18Sep19_bruv1_data	00:31:24.63	669	1056	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  30887	00:43:59.42	SLHO_18Sep19_bruv1_data	00:31:59.42	752	1678	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing	id?		
+SLHO_18Sep19_1_GP020098.MP4	  34368	00:44:57.49	SLHO_18Sep19_bruv1_data	00:32:57.49	676	1126	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+SLHO_18Sep19_1_GP020098.MP4	  34368	00:44:57.49	SLHO_18Sep19_bruv1_data	00:32:57.49	634	833	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+SLHO_18Sep19_1_GP020098.MP4	  34368	00:44:57.49	SLHO_18Sep19_bruv1_data	00:32:57.49	770	1461	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+SLHO_18Sep19_1_GP020098.MP4	  35060	00:45:09.04	SLHO_18Sep19_bruv1_data	00:33:09.04	585	722	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35060	00:45:09.04	SLHO_18Sep19_bruv1_data	00:33:09.04	440	914	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35060	00:45:09.04	SLHO_18Sep19_bruv1_data	00:33:09.04	622	1090	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35060	00:45:09.04	SLHO_18Sep19_bruv1_data	00:33:09.04	651	1248	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35060	00:45:09.04	SLHO_18Sep19_bruv1_data	00:33:09.04	580	1279	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35060	00:45:09.04	SLHO_18Sep19_bruv1_data	00:33:09.04	555	1365	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35698	00:45:19.68	SLHO_18Sep19_bruv1_data	00:33:19.68	497	864	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35698	00:45:19.68	SLHO_18Sep19_bruv1_data	00:33:19.68	572	570	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35698	00:45:19.68	SLHO_18Sep19_bruv1_data	00:33:19.68	649	810	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35698	00:45:19.68	SLHO_18Sep19_bruv1_data	00:33:19.68	703	1196	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35698	00:45:19.68	SLHO_18Sep19_bruv1_data	00:33:19.68	572	1210	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35698	00:45:19.68	SLHO_18Sep19_bruv1_data	00:33:19.68	658	1447	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  35698	00:45:19.68	SLHO_18Sep19_bruv1_data	00:33:19.68	699	891	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	498	559	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	533	546	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	633	713	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	565	757	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	547	929	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	594	998	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	651	1477	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	622	1749	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	461	1119	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	209	922	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  42612	00:47:15.03	SLHO_18Sep19_bruv1_data	00:35:15.03	718	1164	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP020098.MP4	  60759	00:52:17.78	SLHO_18Sep19_bruv1_data	00:40:17.78	548	651	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Guarding bait			
+SLHO_18Sep19_1_GP030098.MP4	   6322	00:54:51.66	SLHO_18Sep19_bruv1_data	00:42:51.65	427	1078	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Guarding bait			
+SLHO_18Sep19_1_GP030098.MP4	   6322	00:54:51.66	SLHO_18Sep19_bruv1_data	00:42:51.65	639	803	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	   6322	00:54:51.66	SLHO_18Sep19_bruv1_data	00:42:51.65	421	310	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  15851	00:57:30.63	SLHO_18Sep19_bruv1_data	00:45:30.63	725	1291	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  19242	00:58:27.20	SLHO_18Sep19_bruv1_data	00:46:27.20	745	1353	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  19242	00:58:27.20	SLHO_18Sep19_bruv1_data	00:46:27.20	518	407	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  19242	00:58:27.20	SLHO_18Sep19_bruv1_data	00:46:27.20	749	802	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  19994	00:58:39.75	SLHO_18Sep19_bruv1_data	00:46:39.75	788	1416	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  19994	00:58:39.75	SLHO_18Sep19_bruv1_data	00:46:39.75	271	1125	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  20326	00:58:45.29	SLHO_18Sep19_bruv1_data	00:46:45.29	567	1249	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  20326	00:58:45.29	SLHO_18Sep19_bruv1_data	00:46:45.29	447	795	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  20326	00:58:45.29	SLHO_18Sep19_bruv1_data	00:46:45.29	432	857	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  20606	00:58:49.96	SLHO_18Sep19_bruv1_data	00:46:49.96	537	1541	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  20606	00:58:49.96	SLHO_18Sep19_bruv1_data	00:46:49.96	709	1654	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  20606	00:58:49.96	SLHO_18Sep19_bruv1_data	00:46:49.96	533	1227	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  20606	00:58:49.96	SLHO_18Sep19_bruv1_data	00:46:49.96	628	1119	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  31372	01:01:49.57	SLHO_18Sep19_bruv1_data	00:49:49.57	426	513	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  31372	01:01:49.57	SLHO_18Sep19_bruv1_data	00:49:49.57	694	1246	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  31372	01:01:49.57	SLHO_18Sep19_bruv1_data	00:49:49.57	670	1382	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  31372	01:01:49.57	SLHO_18Sep19_bruv1_data	00:49:49.57	787	1719	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  31372	01:01:49.57	SLHO_18Sep19_bruv1_data	00:49:49.57	566	1764	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  31372	01:01:49.57	SLHO_18Sep19_bruv1_data	00:49:49.57	698	1072	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  34398	01:02:40.06	SLHO_18Sep19_bruv1_data	00:50:40.05	550	241	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  34398	01:02:40.06	SLHO_18Sep19_bruv1_data	00:50:40.05	529	1166	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  34398	01:02:40.06	SLHO_18Sep19_bruv1_data	00:50:40.05	790	1432	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  34398	01:02:40.06	SLHO_18Sep19_bruv1_data	00:50:40.05	578	972	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  39833	01:04:10.73	SLHO_18Sep19_bruv1_data	00:52:10.73	809	500	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  45487	01:05:45.06	SLHO_18Sep19_bruv1_data	00:53:45.06	370	614	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Atherinopsidae	Atherinops			1	AD	Passing	id?	background	
+SLHO_18Sep19_1_GP030098.MP4	  51044	01:07:17.77	SLHO_18Sep19_bruv1_data	00:55:17.76	769	1204	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  51044	01:07:17.77	SLHO_18Sep19_bruv1_data	00:55:17.76	576	982	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  51044	01:07:17.77	SLHO_18Sep19_bruv1_data	00:55:17.76	643	650	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  51390	01:07:23.54	SLHO_18Sep19_bruv1_data	00:55:23.54	71	1050	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  51390	01:07:23.54	SLHO_18Sep19_bruv1_data	00:55:23.54	539	932	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  51390	01:07:23.54	SLHO_18Sep19_bruv1_data	00:55:23.54	683	973	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  53910	01:08:05.58	SLHO_18Sep19_bruv1_data	00:56:05.58	133	534	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  53910	01:08:05.58	SLHO_18Sep19_bruv1_data	00:56:05.58	478	1051	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  53910	01:08:05.58	SLHO_18Sep19_bruv1_data	00:56:05.58	661	1031	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  53910	01:08:05.58	SLHO_18Sep19_bruv1_data	00:56:05.58	343	1803	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  54931	01:08:22.62	SLHO_18Sep19_bruv1_data	00:56:22.61	455	859	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  54931	01:08:22.62	SLHO_18Sep19_bruv1_data	00:56:22.61	650	1067	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  54931	01:08:22.62	SLHO_18Sep19_bruv1_data	00:56:22.61	745	1223	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  54931	01:08:22.62	SLHO_18Sep19_bruv1_data	00:56:22.61	725	1025	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  54931	01:08:22.62	SLHO_18Sep19_bruv1_data	00:56:22.61	272	1613	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  59974	01:09:46.75	SLHO_18Sep19_bruv1_data	00:57:46.75	585	925	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  59974	01:09:46.75	SLHO_18Sep19_bruv1_data	00:57:46.75	329	1859	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  59974	01:09:46.75	SLHO_18Sep19_bruv1_data	00:57:46.75	320	1065	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  59974	01:09:46.75	SLHO_18Sep19_bruv1_data	00:57:46.75	685	1175	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  60225	01:09:50.94	SLHO_18Sep19_bruv1_data	00:57:50.93	350	178	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  60225	01:09:50.94	SLHO_18Sep19_bruv1_data	00:57:50.93	828	1643	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  60225	01:09:50.94	SLHO_18Sep19_bruv1_data	00:57:50.93	774	1487	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  60225	01:09:50.94	SLHO_18Sep19_bruv1_data	00:57:50.93	726	1207	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  60225	01:09:50.94	SLHO_18Sep19_bruv1_data	00:57:50.93	679	1099	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  60225	01:09:50.94	SLHO_18Sep19_bruv1_data	00:57:50.93	629	867	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  63055	01:10:38.15	SLHO_18Sep19_bruv1_data	00:58:38.15	584	847	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  63055	01:10:38.15	SLHO_18Sep19_bruv1_data	00:58:38.15	276	483	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  63055	01:10:38.15	SLHO_18Sep19_bruv1_data	00:58:38.15	102	1222	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  63055	01:10:38.15	SLHO_18Sep19_bruv1_data	00:58:38.15	346	1303	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  63055	01:10:38.15	SLHO_18Sep19_bruv1_data	00:58:38.15	313	956	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  63055	01:10:38.15	SLHO_18Sep19_bruv1_data	00:58:38.15	633	1003	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP030098.MP4	  63055	01:10:38.15	SLHO_18Sep19_bruv1_data	00:58:38.15	714	1460	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP040098.MP4	   3106	01:11:40.06	SLHO_18Sep19_bruv1_data	00:59:40.06	645	769	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_1_GP040098.MP4	   3106	01:11:40.06	SLHO_18Sep19_bruv1_data	00:59:40.06	825	1774	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP040098.MP4	   3106	01:11:40.06	SLHO_18Sep19_bruv1_data	00:59:40.06	811	1538	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SLHO_18Sep19_1_GP040098.MP4	   3106	01:11:40.06	SLHO_18Sep19_bruv1_data	00:59:40.06	729	1484	SLHO_18Sep19_bruv1	Jessica Madden			>1m 	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			

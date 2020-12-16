@@ -1,0 +1,31 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 16:30:37
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SAEL_28Aug19_bruv5_GOPR0036.MP4	  56119	00:15:36.25	SAEL_28Aug19_bruv5_data	00:04:36.24	48	476	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Atherinopsidae			3	1	AD	Passing	id? unknown silver fish		
+SAEL_28Aug19_bruv5_GOPR0036.MP4	  56119	00:15:36.25	SAEL_28Aug19_bruv5_data	00:04:36.24	131	1119	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Atherinopsidae			3	1	AD	Passing	id? unknown silver fish		
+SAEL_28Aug19_bruv5_GOPR0036.MP4	  56119	00:15:36.25	SAEL_28Aug19_bruv5_data	00:04:36.24	188	1200	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Atherinopsidae			3	1	AD	Passing	id? unknown silver fish		
+SAEL_28Aug19_bruv5_GOPR0036.MP4	  56119	00:15:36.25	SAEL_28Aug19_bruv5_data	00:04:36.24	187	1275	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Atherinopsidae			3	1	AD	Passing	id? unknown silver fish		
+SAEL_28Aug19_bruv5_GOPR0036.MP4	  56386	00:15:40.71	SAEL_28Aug19_bruv5_data	00:04:40.70	227	303	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP010036.MP4	   1608	00:18:08.89	SAEL_28Aug19_bruv5_data	00:07:08.88	714	1438	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP010036.MP4	   6702	00:19:33.87	SAEL_28Aug19_bruv5_data	00:08:33.86	85	682	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Atherinopsidae			3	14	AD	Passing	id? unknown silver fish- anchovy?		
+SAEL_28Aug19_bruv5_GP010036.MP4	  16392	00:22:15.53	SAEL_28Aug19_bruv5_data	00:11:15.52	977	866	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP010036.MP4	  29940	00:26:01.56	SAEL_28Aug19_bruv5_data	00:15:01.55	929	910	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP010036.MP4	  42837	00:29:36.72	SAEL_28Aug19_bruv5_data	00:18:36.72	724	997	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP010036.MP4	  49578	00:31:29.19	SAEL_28Aug19_bruv5_data	00:20:29.18	850	458	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	   3424	00:36:21.25	SAEL_28Aug19_bruv5_data	00:25:21.24	848	912	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	   6914	00:37:19.47	SAEL_28Aug19_bruv5_data	00:26:19.46	445	298	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	   8271	00:37:42.11	SAEL_28Aug19_bruv5_data	00:26:42.10	526	220	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	   8271	00:37:42.11	SAEL_28Aug19_bruv5_data	00:26:42.10	565	497	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	  12880	00:38:59.00	SAEL_28Aug19_bruv5_data	00:27:58.99	1001	1601	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	  22388	00:41:37.63	SAEL_28Aug19_bruv5_data	00:30:37.62	961	1497	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	  45483	00:48:02.93	SAEL_28Aug19_bruv5_data	00:37:02.92	983	915	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	  45845	00:48:08.97	SAEL_28Aug19_bruv5_data	00:37:08.96	387	1235	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP020036.MP4	  58106	00:51:33.52	SAEL_28Aug19_bruv5_data	00:40:33.51	973	739	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP030036.MP4	   5725	00:54:41.70	SAEL_28Aug19_bruv5_data	00:43:41.69	557	231	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP030036.MP4	  11499	00:56:18.02	SAEL_28Aug19_bruv5_data	00:45:18.02	1014	1499	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP030036.MP4	  27703	01:00:48.36	SAEL_28Aug19_bruv5_data	00:49:48.35	329	419	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP030036.MP4	  29378	01:01:16.31	SAEL_28Aug19_bruv5_data	00:50:16.30	822	904	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP030036.MP4	  34099	01:02:35.07	SAEL_28Aug19_bruv5_data	00:51:35.06	560	1093	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv5_GP030036.MP4	  47113	01:06:12.18	SAEL_28Aug19_bruv5_data	00:55:12.18	623	608	SAEL_28Aug19_bruv5	Jessica Madden			>1m	100% benthic algae							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			

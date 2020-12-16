@@ -1,0 +1,44 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 16:47:55
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+STBE_19Sep19_3_GOPR0043.MP4	  54096	00:15:02.50	STBE_19Sep19_bruv3_data	00:00:02.49	296	881	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_19Sep19_3_GOPR0043.MP4	  54216	00:15:04.50	STBE_19Sep19_bruv3_data	00:00:04.49	781	699	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_3_GOPR0043.MP4	  56183	00:15:37.32	STBE_19Sep19_bruv3_data	00:00:37.30	699	749	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_19Sep19_3_GOPR0043.MP4	  56183	00:15:37.32	STBE_19Sep19_bruv3_data	00:00:37.30	863	1423	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	    411	00:17:48.92	STBE_19Sep19_bruv3_data	00:02:48.90	757	777	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_19Sep19_3_GP010043.MP4	    411	00:17:48.92	STBE_19Sep19_bruv3_data	00:02:48.90	640	759	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	    411	00:17:48.92	STBE_19Sep19_bruv3_data	00:02:48.90	720	82	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	  16509	00:22:17.49	STBE_19Sep19_bruv3_data	00:07:17.47	634	583	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	2	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	  16509	00:22:17.49	STBE_19Sep19_bruv3_data	00:07:17.47	453	1642	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_3_GP010043.MP4	  21005	00:23:32.49	STBE_19Sep19_bruv3_data	00:08:32.48	708	756	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	4	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	  23028	00:24:06.24	STBE_19Sep19_bruv3_data	00:09:06.23	332	1190	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	AD	Passing	id?	background	
+STBE_19Sep19_3_GP010043.MP4	  30999	00:26:19.23	STBE_19Sep19_bruv3_data	00:11:19.21	830	439	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	  30999	00:26:19.23	STBE_19Sep19_bruv3_data	00:11:19.21	745	396	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	  45898	00:30:27.79	STBE_19Sep19_bruv3_data	00:15:27.78	699	508	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	  45898	00:30:27.79	STBE_19Sep19_bruv3_data	00:15:27.78	697	335	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP010043.MP4	  51770	00:32:05.76	STBE_19Sep19_bruv3_data	00:17:05.74	604	783	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing	second one?		
+STBE_19Sep19_3_GP010043.MP4	  58978	00:34:06.01	STBE_19Sep19_bruv3_data	00:19:05.99	192	1708	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S											1	AD	Passing	id?? fish	background	
+STBE_19Sep19_3_GP020043.MP4	    244	00:35:28.19	STBE_19Sep19_bruv3_data	00:20:28.18	823	1560	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP020043.MP4	    629	00:35:34.62	STBE_19Sep19_bruv3_data	00:20:34.60	832	476	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_3_GP020043.MP4	  27448	00:43:02.05	STBE_19Sep19_bruv3_data	00:28:02.03	659	460	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP020043.MP4	  27940	00:43:10.25	STBE_19Sep19_bruv3_data	00:28:10.24	761	749	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+STBE_19Sep19_3_GP020043.MP4	  31344	00:44:07.04	STBE_19Sep19_bruv3_data	00:29:07.03	750	610	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP020043.MP4	  31344	00:44:07.04	STBE_19Sep19_bruv3_data	00:29:07.03	706	260	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP020043.MP4	  40660	00:46:42.47	STBE_19Sep19_bruv3_data	00:31:42.45	675	34	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP020043.MP4	  41795	00:47:01.40	STBE_19Sep19_bruv3_data	00:32:01.39	560	1776	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+STBE_19Sep19_3_GP020043.MP4	  47394	00:48:34.81	STBE_19Sep19_bruv3_data	00:33:34.80	569	201	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	AD	Passing	id?	background	
+STBE_19Sep19_3_GP020043.MP4	  50687	00:49:29.75	STBE_19Sep19_bruv3_data	00:34:29.73	549	196	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP020043.MP4	  54948	00:50:40.84	STBE_19Sep19_bruv3_data	00:35:40.82	528	565	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP020043.MP4	  56893	00:51:13.29	STBE_19Sep19_bruv3_data	00:36:13.27	232	333	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	AD	Passing			
+STBE_19Sep19_3_GP030043.MP4	   2269	00:53:44.04	STBE_19Sep19_bruv3_data	00:38:44.02	745	950	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP030043.MP4	  21427	00:59:03.66	STBE_19Sep19_bruv3_data	00:44:03.64	665	1079	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_3_GP030043.MP4	  24129	00:59:48.74	STBE_19Sep19_bruv3_data	00:44:48.72	700	1125	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP030043.MP4	  29654	01:01:20.91	STBE_19Sep19_bruv3_data	00:46:20.89	688	476	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP030043.MP4	  36941	01:03:22.48	STBE_19Sep19_bruv3_data	00:48:22.47	752	1551	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_3_GP030043.MP4	  43615	01:05:13.83	STBE_19Sep19_bruv3_data	00:50:13.81	770	1326	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_3_GP030043.MP4	  45493	01:05:45.16	STBE_19Sep19_bruv3_data	00:50:45.14	674	916	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_19Sep19_3_GP040043 (1).MP4	   3290	01:11:43.13	STBE_19Sep19_bruv3_data	00:56:43.12	649	146	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_3_GP040043 (1).MP4	   5448	01:12:19.13	STBE_19Sep19_bruv3_data	00:57:19.12	529	1708	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae			3	4	AD	Passing	id? Topsmelt?	background	
+STBE_19Sep19_3_GP040043 (1).MP4	   8380	01:13:08.05	STBE_19Sep19_bruv3_data	00:58:08.03	820	783	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	

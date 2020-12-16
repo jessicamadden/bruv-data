@@ -1,0 +1,28 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 16:06:49
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SAEL_24Oct19_bruv1_GOPR0129.MP4	  51173	00:14:13.74	SAEL_24Oct19_bruv1_data	00:02:13.73	611	369	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+SAEL_24Oct19_bruv1_GOPR0129.MP4	  63219	00:17:34.70	SAEL_24Oct19_bruv1_data	00:05:34.70	661	1096	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP010129.MP4	  18426	00:22:49.47	SAEL_24Oct19_bruv1_data	00:10:49.47	657	1102	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP010129.MP4	  34425	00:27:16.38	SAEL_24Oct19_bruv1_data	00:15:16.38	648	1167	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP010129.MP4	  37596	00:28:09.29	SAEL_24Oct19_bruv1_data	00:16:09.28	712	1339	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Palinuridae	Panulirus	interruptus	48	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP010129.MP4	  37596	00:28:09.29	SAEL_24Oct19_bruv1_data	00:16:09.28	614	641	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP010129.MP4	  42801	00:29:36.12	SAEL_24Oct19_bruv1_data	00:17:36.12	966	1642	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP010129.MP4	  61722	00:34:51.79	SAEL_24Oct19_bruv1_data	00:22:51.79	431	635	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SAEL_24Oct19_bruv1_GP010129.MP4	  62000	00:34:56.43	SAEL_24Oct19_bruv1_data	00:22:56.43	625	1802	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SAEL_24Oct19_bruv1_GP010129.MP4	  62000	00:34:56.43	SAEL_24Oct19_bruv1_data	00:22:56.43	591	148	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP020129.MP4	   9207	00:37:57.73	SAEL_24Oct19_bruv1_data	00:25:57.72	694	1874	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP020129.MP4	  18696	00:40:36.03	SAEL_24Oct19_bruv1_data	00:28:36.03	869	177	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP020129.MP4	  25667	00:42:32.33	SAEL_24Oct19_bruv1_data	00:30:32.33	683	1735	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP020129.MP4	  39373	00:46:20.99	SAEL_24Oct19_bruv1_data	00:34:20.99	857	1107	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP020129.MP4	  40070	00:46:32.62	SAEL_24Oct19_bruv1_data	00:34:32.62	670	415	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP020129.MP4	  43201	00:47:24.86	SAEL_24Oct19_bruv1_data	00:35:24.86	1043	1577	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP020129.MP4	  51390	00:49:41.48	SAEL_24Oct19_bruv1_data	00:37:41.48	708	251	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP020129.MP4	  58870	00:51:46.27	SAEL_24Oct19_bruv1_data	00:39:46.27	660	168	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP030129.MP4	  12630	00:56:36.89	SAEL_24Oct19_bruv1_data	00:44:36.89	184	1096	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Atherinopsidae			3	46	AD	Passing	id? baitfish	background	
+SAEL_24Oct19_bruv1_GP030129.MP4	  30304	01:01:31.75	SAEL_24Oct19_bruv1_data	00:49:31.75	881	1735	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP030129.MP4	  32722	01:02:12.10	SAEL_24Oct19_bruv1_data	00:50:12.09	582	901	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SAEL_24Oct19_bruv1_GP030129.MP4	  46456	01:06:01.22	SAEL_24Oct19_bruv1_data	00:54:01.22	718	71	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_24Oct19_bruv1_GP030129.MP4	  50508	01:07:08.82	SAEL_24Oct19_bruv1_data	00:55:08.82	925	1792	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			

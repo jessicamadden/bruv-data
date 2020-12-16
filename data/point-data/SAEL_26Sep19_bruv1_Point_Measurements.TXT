@@ -1,0 +1,25 @@
+Dot Point Measurements
+
+Generated: Thursday, April 30, 2020 16:30:04
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SAEL_26Sep19_1_GOPR0106.MP4	  62153	00:17:16.92	SAEL_26Sep19_bruv1_data	00:05:16.92	118	539	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	4	AD	Passing			
+SAEL_26Sep19_1_GP010106.MP4	   4714	00:18:59.71	SAEL_26Sep19_bruv1_data	00:06:59.70	846	1273	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_26Sep19_1_GP010106.MP4	  10255	00:20:32.15	SAEL_26Sep19_bruv1_data	00:08:32.14	454	358	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S											1	AD	Passing	id?		
+SAEL_26Sep19_1_GP010106.MP4	  10255	00:20:32.15	SAEL_26Sep19_bruv1_data	00:08:32.14	348	303	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S											1	AD	Passing	id?		
+SAEL_26Sep19_1_GP010106.MP4	  14146	00:21:37.06	SAEL_26Sep19_bruv1_data	00:09:37.06	52	1468	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S											1	AD	Passing	id? topsmelt?	background	
+SAEL_26Sep19_1_GP010106.MP4	  21043	00:23:32.13	SAEL_26Sep19_bruv1_data	00:11:32.12	216	490	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	26	AD	Passing	id??		
+SAEL_26Sep19_1_GP010106.MP4	  62098	00:34:57.06	SAEL_26Sep19_bruv1_data	00:22:57.06	721	1552	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_1_GP020106.MP4	   1650	00:35:49.65	SAEL_26Sep19_bruv1_data	00:23:49.64	814	749	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_26Sep19_1_GP020106.MP4	  11409	00:38:32.46	SAEL_26Sep19_bruv1_data	00:26:32.46	850	1204	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_26Sep19_1_GP020106.MP4	  26732	00:42:48.10	SAEL_26Sep19_bruv1_data	00:30:48.10	687	861	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_1_GP020106.MP4	  36190	00:45:25.89	SAEL_26Sep19_bruv1_data	00:33:25.89	324	300	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae				1	AD	Passing	id? yellowfin	background	
+SAEL_26Sep19_1_GP020106.MP4	  42565	00:47:12.25	SAEL_26Sep19_bruv1_data	00:35:12.24	619	579	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_1_GP020106.MP4	  51598	00:49:42.95	SAEL_26Sep19_bruv1_data	00:37:42.94	24	475	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_1_GP030106.MP4	   3545	00:54:02.32	SAEL_26Sep19_bruv1_data	00:42:02.32	105	1588	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae				1	AD	Passing	id? yellowfin	background	
+SAEL_26Sep19_1_GP030106.MP4	  26662	01:00:27.99	SAEL_26Sep19_bruv1_data	00:48:27.99	384	126	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae				1	AD	Passing	id? yellowfin	background	
+SAEL_26Sep19_1_GP030106.MP4	  33513	01:02:22.29	SAEL_26Sep19_bruv1_data	00:50:22.29	666	1547	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_1_GP030106.MP4	  36594	01:03:13.69	SAEL_26Sep19_bruv1_data	00:51:13.69	155	308	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae				1	AD	Passing	id? yellowfin	background	
+SAEL_26Sep19_1_GP030106.MP4	  36594	01:03:13.69	SAEL_26Sep19_bruv1_data	00:51:13.69	19	176	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae				1	AD	Passing	id? yellowfin	background	
+SAEL_26Sep19_1_GP030106.MP4	  44156	01:05:19.85	SAEL_26Sep19_bruv1_data	00:53:19.85	820	1474	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SAEL_26Sep19_1_GP040106.MP4	    796	01:10:57.52	SAEL_26Sep19_bruv1_data	00:58:57.52	910	1281	SAEL_26Sep19_bruv1	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			

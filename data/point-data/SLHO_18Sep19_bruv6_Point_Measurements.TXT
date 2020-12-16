@@ -1,0 +1,25 @@
+Dot Point Measurements
+
+Generated: Friday 04 December 2020 16:04:34
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SLHO_18Sep19_6_GP010043.MP4	  11413	00:20:52.47	SLHO_18Sep19_bruv6_data	00:06:52.46	646	1039	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing		background	
+SLHO_18Sep19_6_GP010043.MP4	  37756	00:28:11.96	SLHO_18Sep19_bruv6_data	00:14:11.95	1015	1681	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP010043.MP4	  42740	00:29:35.11	SLHO_18Sep19_bruv6_data	00:15:35.10	819	1156	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP010043.MP4	  46101	00:30:31.18	SLHO_18Sep19_bruv6_data	00:16:31.17	720	1720	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SLHO_18Sep19_6_GP010043.MP4	  58784	00:34:02.77	SLHO_18Sep19_bruv6_data	00:20:02.77	936	1675	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP020043.MP4	    463	00:35:31.85	SLHO_18Sep19_bruv6_data	00:21:31.84	665	1006	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing		background	
+SLHO_18Sep19_6_GP020043.MP4	   4367	00:36:36.98	SLHO_18Sep19_bruv6_data	00:22:36.97	714	471	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP020043.MP4	   4367	00:36:36.98	SLHO_18Sep19_bruv6_data	00:22:36.97	839	1352	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP020043.MP4	  46784	00:48:24.64	SLHO_18Sep19_bruv6_data	00:34:24.63	761	434	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	sordidus	47	1	AD	Passing	id?		
+SLHO_18Sep19_6_GP020043.MP4	  54803	00:50:38.42	SLHO_18Sep19_bruv6_data	00:36:38.41	817	1214	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP020043.MP4	  55943	00:50:57.44	SLHO_18Sep19_bruv6_data	00:36:57.43	868	1531	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	sordidus	47	1	AD	Passing	id?		
+SLHO_18Sep19_6_GP020043.MP4	  55943	00:50:57.44	SLHO_18Sep19_bruv6_data	00:36:57.43	815	1341	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP030043.MP4	   4342	00:54:18.62	SLHO_18Sep19_bruv6_data	00:40:18.62	975	1752	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	sordidus	47	1	AD	Passing	id?		
+SLHO_18Sep19_6_GP030043.MP4	  13791	00:56:56.26	SLHO_18Sep19_bruv6_data	00:42:56.26	605	1441	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	50	AD	Passing	id? yf croaker? estimated no.	background	
+SLHO_18Sep19_6_GP030043.MP4	  18761	00:58:19.18	SLHO_18Sep19_bruv6_data	00:44:19.17	779	1444	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SLHO_18Sep19_6_GP030043.MP4	  18761	00:58:19.18	SLHO_18Sep19_bruv6_data	00:44:19.17	722	1673	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SLHO_18Sep19_6_GP030043.MP4	  20275	00:58:44.44	SLHO_18Sep19_bruv6_data	00:44:44.43	908	1094	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP030043.MP4	  21530	00:59:05.38	SLHO_18Sep19_bruv6_data	00:45:05.37	598	1700	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Atherinopsidae			3	1	AD	Passing		background	
+SLHO_18Sep19_6_GP030043.MP4	  26248	01:00:24.09	SLHO_18Sep19_bruv6_data	00:46:24.08	777	963	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SLHO_18Sep19_6_GP030043.MP4	  39702	01:04:08.54	SLHO_18Sep19_bruv6_data	00:50:08.54	782	1099	SLHO_18Sep19_bruv6	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			

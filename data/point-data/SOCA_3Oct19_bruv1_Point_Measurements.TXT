@@ -1,0 +1,82 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 11:36:03
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SOCA_3Oct19_1_GOPR0110.MP4	  39623	00:11:01.04	SOCA_3Oct19_bruv1_data	00:00:01.03	558	1617	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  39987	00:11:07.12	SOCA_3Oct19_bruv1_data	00:00:07.11	680	1801	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Micrometrus	minimus	13	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  40694	00:11:18.91	SOCA_3Oct19_bruv1_data	00:00:18.90	647	1853	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Micrometrus	minimus	13	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  40694	00:11:18.91	SOCA_3Oct19_bruv1_data	00:00:18.90	705	1244	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Micrometrus	minimus	13	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  40694	00:11:18.91	SOCA_3Oct19_bruv1_data	00:00:18.90	804	87	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Micrometrus	minimus	13	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  41087	00:11:25.47	SOCA_3Oct19_bruv1_data	00:00:25.46	640	1289	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  48699	00:13:32.46	SOCA_3Oct19_bruv1_data	00:02:32.45	628	393	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  48699	00:13:32.46	SOCA_3Oct19_bruv1_data	00:02:32.45	617	847	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  50049	00:13:54.98	SOCA_3Oct19_bruv1_data	00:02:54.97	54	1201	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Hyperprosopon	argenteum	11	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  54318	00:15:06.21	SOCA_3Oct19_bruv1_data	00:04:06.20	541	193	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  54318	00:15:06.21	SOCA_3Oct19_bruv1_data	00:04:06.20	446	1106	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  54318	00:15:06.21	SOCA_3Oct19_bruv1_data	00:04:06.20	526	1494	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  58797	00:16:20.93	SOCA_3Oct19_bruv1_data	00:05:20.92	490	765	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  58797	00:16:20.93	SOCA_3Oct19_bruv1_data	00:05:20.92	546	1286	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  62312	00:17:19.57	SOCA_3Oct19_bruv1_data	00:06:19.56	517	1007	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  62312	00:17:19.57	SOCA_3Oct19_bruv1_data	00:06:19.56	617	527	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GOPR0110.MP4	  62312	00:17:19.57	SOCA_3Oct19_bruv1_data	00:06:19.56	457	263	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	   9240	00:20:16.21	SOCA_3Oct19_bruv1_data	00:09:16.21	641	1063	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  13774	00:21:31.86	SOCA_3Oct19_bruv1_data	00:10:31.85	609	1586	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  14450	00:21:43.14	SOCA_3Oct19_bruv1_data	00:10:43.13	120	720	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  14993	00:21:52.19	SOCA_3Oct19_bruv1_data	00:10:52.18	561	299	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  14993	00:21:52.19	SOCA_3Oct19_bruv1_data	00:10:52.18	442	1792	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  15261	00:21:56.67	SOCA_3Oct19_bruv1_data	00:10:56.66	546	427	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  15261	00:21:56.67	SOCA_3Oct19_bruv1_data	00:10:56.66	538	1252	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  15261	00:21:56.67	SOCA_3Oct19_bruv1_data	00:10:56.66	454	1860	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  15847	00:22:06.44	SOCA_3Oct19_bruv1_data	00:11:06.43	651	632	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  15847	00:22:06.44	SOCA_3Oct19_bruv1_data	00:11:06.43	583	1876	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  18326	00:22:47.80	SOCA_3Oct19_bruv1_data	00:11:47.79	595	1005	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  18540	00:22:51.37	SOCA_3Oct19_bruv1_data	00:11:51.36	204	238	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  18540	00:22:51.37	SOCA_3Oct19_bruv1_data	00:11:51.36	554	377	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  18540	00:22:51.37	SOCA_3Oct19_bruv1_data	00:11:51.36	463	1798	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  27147	00:25:14.96	SOCA_3Oct19_bruv1_data	00:14:14.95	421	468	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Hyperprosopon	argenteum	11	1	AD	Passing	id? poss barred?		
+SOCA_3Oct19_1_GP010110.MP4	  32600	00:26:45.94	SOCA_3Oct19_bruv1_data	00:15:45.93	482	1691	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  32917	00:26:51.23	SOCA_3Oct19_bruv1_data	00:15:51.22	475	1796	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  33734	00:27:04.86	SOCA_3Oct19_bruv1_data	00:16:04.85	484	582	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  33734	00:27:04.86	SOCA_3Oct19_bruv1_data	00:16:04.85	587	965	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  35817	00:27:39.61	SOCA_3Oct19_bruv1_data	00:16:39.60	371	593	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  35817	00:27:39.61	SOCA_3Oct19_bruv1_data	00:16:39.60	495	546	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  35817	00:27:39.61	SOCA_3Oct19_bruv1_data	00:16:39.60	589	513	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  37154	00:28:01.91	SOCA_3Oct19_bruv1_data	00:17:01.90	471	493	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  37373	00:28:05.57	SOCA_3Oct19_bruv1_data	00:17:05.56	463	1027	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Hyperprosopon	argenteum	11	1	AD	Passing	id? poss barred?		
+SOCA_3Oct19_1_GP010110.MP4	  37641	00:28:10.04	SOCA_3Oct19_bruv1_data	00:17:10.03	435	1231	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae											1	AD	Passing	invert on bag?		
+SOCA_3Oct19_1_GP010110.MP4	  48593	00:31:12.75	SOCA_3Oct19_bruv1_data	00:20:12.74	533	917	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  50454	00:31:43.80	SOCA_3Oct19_bruv1_data	00:20:43.79	567	478	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  50454	00:31:43.80	SOCA_3Oct19_bruv1_data	00:20:43.79	469	552	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  50454	00:31:43.80	SOCA_3Oct19_bruv1_data	00:20:43.79	544	1776	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP010110.MP4	  54929	00:32:58.46	SOCA_3Oct19_bruv1_data	00:21:58.45	474	1825	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	    462	00:35:31.83	SOCA_3Oct19_bruv1_data	00:24:31.82	466	1434	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	   2073	00:35:58.71	SOCA_3Oct19_bruv1_data	00:24:58.70	480	928	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Micrometrus	minimus	13	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	   2073	00:35:58.71	SOCA_3Oct19_bruv1_data	00:24:58.70	446	1009	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae	Micrometrus	minimus	13	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	   2157	00:36:00.11	SOCA_3Oct19_bruv1_data	00:25:00.10	536	1821	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Embiotocidae				1	AD	Passing	id?		
+SOCA_3Oct19_1_GP020110.MP4	   2391	00:36:04.01	SOCA_3Oct19_bruv1_data	00:25:04.00	549	1726	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	   3215	00:36:17.76	SOCA_3Oct19_bruv1_data	00:25:17.75	467	446	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  10912	00:38:26.17	SOCA_3Oct19_bruv1_data	00:27:26.16	471	974	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  10912	00:38:26.17	SOCA_3Oct19_bruv1_data	00:27:26.16	540	796	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  18982	00:40:40.81	SOCA_3Oct19_bruv1_data	00:29:40.80	666	1519	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  20455	00:41:05.38	SOCA_3Oct19_bruv1_data	00:30:05.37	513	1196	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  20556	00:41:07.06	SOCA_3Oct19_bruv1_data	00:30:07.06	617	98	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  20556	00:41:07.06	SOCA_3Oct19_bruv1_data	00:30:07.06	461	1765	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  39086	00:46:16.21	SOCA_3Oct19_bruv1_data	00:35:16.20	524	913	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  40143	00:46:33.84	SOCA_3Oct19_bruv1_data	00:35:33.83	575	654	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SOCA_3Oct19_1_GP020110.MP4	  59195	00:51:51.69	SOCA_3Oct19_bruv1_data	00:40:51.68	313	1670	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	3	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  10671	00:56:04.21	SOCA_3Oct19_bruv1_data	00:45:04.20	595	566	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  10671	00:56:04.21	SOCA_3Oct19_bruv1_data	00:45:04.20	500	1076	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  14214	00:57:03.32	SOCA_3Oct19_bruv1_data	00:46:03.31	658	1660	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  15276	00:57:21.04	SOCA_3Oct19_bruv1_data	00:46:21.03	200	709	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  15276	00:57:21.04	SOCA_3Oct19_bruv1_data	00:46:21.03	512	1051	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  18359	00:58:12.47	SOCA_3Oct19_bruv1_data	00:47:12.46	529	1451	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  18359	00:58:12.47	SOCA_3Oct19_bruv1_data	00:47:12.46	457	1042	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  18359	00:58:12.47	SOCA_3Oct19_bruv1_data	00:47:12.46	598	682	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  30809	01:01:40.18	SOCA_3Oct19_bruv1_data	00:50:40.17	540	916	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	2	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  31521	01:01:52.06	SOCA_3Oct19_bruv1_data	00:50:52.05	568	1681	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  48015	01:06:27.23	SOCA_3Oct19_bruv1_data	00:55:27.22	437	1450	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  50146	01:07:02.79	SOCA_3Oct19_bruv1_data	00:56:02.78	492	155	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  50146	01:07:02.79	SOCA_3Oct19_bruv1_data	00:56:02.78	540	767	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  50448	01:07:07.82	SOCA_3Oct19_bruv1_data	00:56:07.81	487	1405	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+SOCA_3Oct19_1_GP030110.MP4	  57539	01:09:06.13	SOCA_3Oct19_bruv1_data	00:58:06.12	691	644	SOCA_03Oct19_bruv1	Jessica Madden			<1m	100% benthic algae							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			

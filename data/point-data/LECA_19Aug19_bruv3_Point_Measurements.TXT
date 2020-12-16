@@ -1,0 +1,37 @@
+Dot Point Measurements
+
+Generated: Tuesday, March 24, 2020 12:01:47
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+LECA_19Aug19_bruv3_GOPR0012.MP4	  56767	00:15:47.06	LECA_19Aug19_bruv3_data	00:01:47.06	124	1246	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP010012.MP4	  40551	00:28:58.59	LECA_19Aug19_bruv3_data	00:14:58.58	158	897	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP010012.MP4	  42070	00:29:23.93	LECA_19Aug19_bruv3_data	00:15:23.92	406	129	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP010012.MP4	  42380	00:29:29.10	LECA_19Aug19_bruv3_data	00:15:29.09	391	369	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP010012.MP4	  42380	00:29:29.10	LECA_19Aug19_bruv3_data	00:15:29.09	345	242	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP010012.MP4	  44509	00:30:04.62	LECA_19Aug19_bruv3_data	00:16:04.61	86	104	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP010012.MP4	  44509	00:30:04.62	LECA_19Aug19_bruv3_data	00:16:04.61	519	1630	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP010012.MP4	  53163	00:32:29.00	LECA_19Aug19_bruv3_data	00:18:28.99	487	1319	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+LECA_19Aug19_bruv3_GP010012.MP4	  59084	00:34:07.78	LECA_19Aug19_bruv3_data	00:20:07.77	706	579	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  10191	00:38:14.14	LECA_19Aug19_bruv3_data	00:24:14.14	641	1687	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  10191	00:38:14.14	LECA_19Aug19_bruv3_data	00:24:14.14	149	319	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  13239	00:39:04.99	LECA_19Aug19_bruv3_data	00:25:04.99	485	1074	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  13850	00:39:15.19	LECA_19Aug19_bruv3_data	00:25:15.18	447	1712	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  14270	00:39:22.19	LECA_19Aug19_bruv3_data	00:25:22.19	557	1057	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  32611	00:44:28.18	LECA_19Aug19_bruv3_data	00:30:28.18	257	388	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  32875	00:44:32.59	LECA_19Aug19_bruv3_data	00:30:32.58	468	1701	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  32875	00:44:32.59	LECA_19Aug19_bruv3_data	00:30:32.58	511	952	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  49342	00:49:07.31	LECA_19Aug19_bruv3_data	00:35:07.31	328	898	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP020012.MP4	  49436	00:49:08.88	LECA_19Aug19_bruv3_data	00:35:08.87	610	1019	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Cancridae	Cancer		33	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	   5510	00:54:38.11	LECA_19Aug19_bruv3_data	00:40:38.10	397	1083	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  21717	00:59:08.49	LECA_19Aug19_bruv3_data	00:45:08.49	495	1103	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  39962	01:04:12.88	LECA_19Aug19_bruv3_data	00:50:12.88	159	1099	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  41433	01:04:37.42	LECA_19Aug19_bruv3_data	00:50:37.42	572	1295	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  41433	01:04:37.42	LECA_19Aug19_bruv3_data	00:50:37.42	514	1551	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  53052	01:07:51.27	LECA_19Aug19_bruv3_data	00:53:51.26	370	822	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  53052	01:07:51.27	LECA_19Aug19_bruv3_data	00:53:51.26	425	1184	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  53052	01:07:51.27	LECA_19Aug19_bruv3_data	00:53:51.26	423	1621	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  58579	01:09:23.48	LECA_19Aug19_bruv3_data	00:55:23.47	238	1095	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP030012.MP4	  58579	01:09:23.48	LECA_19Aug19_bruv3_data	00:55:23.47	35	1401	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP040012.MP4	   9057	01:13:19.34	LECA_19Aug19_bruv3_data	00:59:19.34	61	1331	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Embiotocidae	Hyperprosopon	argenteum	11	1	AD	Passing			
+LECA_19Aug19_bruv3_GP040012.MP4	   9057	01:13:19.34	LECA_19Aug19_bruv3_data	00:59:19.34	245	82	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+LECA_19Aug19_bruv3_GP040012.MP4	   9057	01:13:19.34	LECA_19Aug19_bruv3_data	00:59:19.34	443	919	LECA_19Aug19_bruv3	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			

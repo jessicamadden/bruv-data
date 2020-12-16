@@ -1,0 +1,65 @@
+Dot Point Measurements
+
+Generated: Friday, June 12, 2020 17:07:13
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SAEL_26Sep19_6_GOPR0050.MP4	  39772	00:11:03.53	SAEL_26Sep19_bruv6_data	00:00:03.52	383	1853	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GOPR0050.MP4	  39772	00:11:03.53	SAEL_26Sep19_bruv6_data	00:00:03.52	541	1458	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GOPR0050.MP4	  39772	00:11:03.53	SAEL_26Sep19_bruv6_data	00:00:03.52	649	1594	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GOPR0050.MP4	  56724	00:15:46.35	SAEL_26Sep19_bruv6_data	00:04:46.34	891	1703	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GOPR0050.MP4	  59847	00:16:38.45	SAEL_26Sep19_bruv6_data	00:05:38.44	37	1296	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	5	AD	Passing			
+SAEL_26Sep19_6_GOPR0050.MP4	  60059	00:16:41.98	SAEL_26Sep19_bruv6_data	00:05:41.97	213	181	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	12	AD	Passing			
+SAEL_26Sep19_6_GOPR0050.MP4	  61675	00:17:08.94	SAEL_26Sep19_bruv6_data	00:06:08.94	461	1764	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  16965	00:22:25.09	SAEL_26Sep19_bruv6_data	00:11:25.08	739	787	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  17235	00:22:29.60	SAEL_26Sep19_bruv6_data	00:11:29.59	841	1343	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  20836	00:23:29.67	SAEL_26Sep19_bruv6_data	00:12:29.67	730	207	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  24580	00:24:32.14	SAEL_26Sep19_bruv6_data	00:13:32.13	828	1552	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  24580	00:24:32.14	SAEL_26Sep19_bruv6_data	00:13:32.13	897	1787	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  33577	00:27:02.24	SAEL_26Sep19_bruv6_data	00:16:02.23	70	1662	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Seriphus	politus	25	60	AD	Passing	some in background		
+SAEL_26Sep19_6_GP010050.MP4	  37768	00:28:12.16	SAEL_26Sep19_bruv6_data	00:17:12.15	947	92	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  44502	00:30:04.50	SAEL_26Sep19_bruv6_data	00:19:04.49	634	1741	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  49138	00:31:21.85	SAEL_26Sep19_bruv6_data	00:20:21.84	865	569	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  54628	00:32:53.44	SAEL_26Sep19_bruv6_data	00:21:53.43	672	573	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  55609	00:33:09.80	SAEL_26Sep19_bruv6_data	00:22:09.80	689	1289	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP010050.MP4	  59573	00:34:15.94	SAEL_26Sep19_bruv6_data	00:23:15.93	532	655	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	   1011	00:35:40.99	SAEL_26Sep19_bruv6_data	00:24:40.98	753	1511	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	   8199	00:37:40.91	SAEL_26Sep19_bruv6_data	00:26:40.90	682	728	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+SAEL_26Sep19_6_GP020050.MP4	   8504	00:37:46.00	SAEL_26Sep19_bruv6_data	00:26:45.99	699	94	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  10294	00:38:15.86	SAEL_26Sep19_bruv6_data	00:27:15.85	591	1577	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  13356	00:39:06.94	SAEL_26Sep19_bruv6_data	00:28:06.94	621	314	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  13356	00:39:06.94	SAEL_26Sep19_bruv6_data	00:28:06.94	546	494	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  13356	00:39:06.94	SAEL_26Sep19_bruv6_data	00:28:06.94	445	563	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  13356	00:39:06.94	SAEL_26Sep19_bruv6_data	00:28:06.94	885	1778	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  23665	00:41:58.93	SAEL_26Sep19_bruv6_data	00:30:58.92	899	1686	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  24541	00:42:13.55	SAEL_26Sep19_bruv6_data	00:31:13.54	706	1039	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  24647	00:42:15.32	SAEL_26Sep19_bruv6_data	00:31:15.31	700	949	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  27891	00:43:09.44	SAEL_26Sep19_bruv6_data	00:32:09.43	440	1483	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  28648	00:43:22.07	SAEL_26Sep19_bruv6_data	00:32:22.06	682	1040	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  28648	00:43:22.07	SAEL_26Sep19_bruv6_data	00:32:22.06	993	1692	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  29441	00:43:35.30	SAEL_26Sep19_bruv6_data	00:32:35.29	689	873	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  29600	00:43:37.95	SAEL_26Sep19_bruv6_data	00:32:37.94	885	1221	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  35009	00:45:08.19	SAEL_26Sep19_bruv6_data	00:34:08.18	614	412	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  35081	00:45:09.39	SAEL_26Sep19_bruv6_data	00:34:09.38	683	1672	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Labridae	Halichoeres	semicinctus	19	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  38499	00:46:06.41	SAEL_26Sep19_bruv6_data	00:35:06.40	747	429	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  38778	00:46:11.07	SAEL_26Sep19_bruv6_data	00:35:11.06	987	1577	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  39224	00:46:18.51	SAEL_26Sep19_bruv6_data	00:35:18.50	814	1305	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  56325	00:51:03.81	SAEL_26Sep19_bruv6_data	00:40:03.80	888	1747	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae				1	AD	Passing	id?		
+SAEL_26Sep19_6_GP020050.MP4	  56523	00:51:07.11	SAEL_26Sep19_bruv6_data	00:40:07.10	982	1387	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP020050.MP4	  62457	00:52:46.11	SAEL_26Sep19_bruv6_data	00:41:46.10	813	1116	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	   1515	00:53:31.46	SAEL_26Sep19_bruv6_data	00:42:31.45	332	530	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	   2799	00:53:52.88	SAEL_26Sep19_bruv6_data	00:42:52.87	593	861	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	   2799	00:53:52.88	SAEL_26Sep19_bruv6_data	00:42:52.87	848	1075	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	   3927	00:54:11.70	SAEL_26Sep19_bruv6_data	00:43:11.69	748	519	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	   8795	00:55:32.91	SAEL_26Sep19_bruv6_data	00:44:32.90	838	1685	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  10552	00:56:02.23	SAEL_26Sep19_bruv6_data	00:45:02.22	276	286	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  10714	00:56:04.93	SAEL_26Sep19_bruv6_data	00:45:04.92	632	673	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  10834	00:56:06.93	SAEL_26Sep19_bruv6_data	00:45:06.92	536	1007	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  12438	00:56:33.69	SAEL_26Sep19_bruv6_data	00:45:33.68	560	40	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  23693	00:59:41.46	SAEL_26Sep19_bruv6_data	00:48:41.45	644	177	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  29427	01:01:17.12	SAEL_26Sep19_bruv6_data	00:50:17.11	522	460	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  33812	01:02:30.28	SAEL_26Sep19_bruv6_data	00:51:30.27	229	290	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	30	AD	Passing		background	
+SAEL_26Sep19_6_GP030050.MP4	  36568	01:03:16.26	SAEL_26Sep19_bruv6_data	00:52:16.25	121	507	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	73	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  45338	01:05:42.57	SAEL_26Sep19_bruv6_data	00:54:42.56	1008	1258	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  47595	01:06:20.23	SAEL_26Sep19_bruv6_data	00:55:20.22	621	1076	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  49706	01:06:55.44	SAEL_26Sep19_bruv6_data	00:55:55.44	744	785	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+SAEL_26Sep19_6_GP030050.MP4	  61804	01:10:17.28	SAEL_26Sep19_bruv6_data	00:59:17.27	313	296	SAEL_26Sep19_bruv6	Jessica Madden			=1m	100% S							Sciaenidae	Umbrina	roncador	26	24	AD	Passing		background	

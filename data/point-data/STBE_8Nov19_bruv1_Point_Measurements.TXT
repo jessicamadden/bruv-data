@@ -1,0 +1,43 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 11:46:00
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+STBE_8Nov19_1_GOPR0135.MP4	  43157	00:12:00.00	STBE_8Nov19_bruv1	00:00:00.00	573	849	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GOPR0135.MP4	  51358	00:14:16.82	STBE_8Nov19_bruv1	00:02:16.82	657	1127	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GOPR0135.MP4	  51358	00:14:16.82	STBE_8Nov19_bruv1	00:02:16.82	711	1739	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_8Nov19_1_GOPR0135.MP4	  52450	00:14:35.04	STBE_8Nov19_bruv1	00:02:35.04	433	152	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? prob topsmelt	background	
+STBE_8Nov19_1_GOPR0135.MP4	  61775	00:17:10.61	STBE_8Nov19_bruv1	00:05:10.61	566	689	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GOPR0135.MP4	  63572	00:17:40.59	STBE_8Nov19_bruv1	00:05:40.59	535	1330	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GOPR0135.MP4	  63572	00:17:40.59	STBE_8Nov19_bruv1	00:05:40.59	428	637	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	id? prob topsmelt		
+STBE_8Nov19_1_GP010135.MP4	   5313	00:19:10.70	STBE_8Nov19_bruv1	00:07:10.70	157	392	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	positive id		
+STBE_8Nov19_1_GP010135.MP4	   5313	00:19:10.70	STBE_8Nov19_bruv1	00:07:10.70	529	687	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	   5548	00:19:14.62	STBE_8Nov19_bruv1	00:07:14.62	603	1231	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	   5548	00:19:14.62	STBE_8Nov19_bruv1	00:07:14.62	573	588	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	nebulifer	59	1	AD	Passing		background	
+STBE_8Nov19_1_GP010135.MP4	  11695	00:20:57.17	STBE_8Nov19_bruv1	00:08:57.17	567	975	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  11695	00:20:57.17	STBE_8Nov19_bruv1	00:08:57.17	720	1418	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_8Nov19_1_GP010135.MP4	  15486	00:22:00.42	STBE_8Nov19_bruv1	00:10:00.42	661	1278	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  15486	00:22:00.42	STBE_8Nov19_bruv1	00:10:00.42	809	1862	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  36606	00:27:52.77	STBE_8Nov19_bruv1	00:15:52.77	384	1599	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  36606	00:27:52.77	STBE_8Nov19_bruv1	00:15:52.77	667	1128	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  39653	00:28:43.61	STBE_8Nov19_bruv1	00:16:43.60	757	1737	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  39653	00:28:43.61	STBE_8Nov19_bruv1	00:16:43.60	699	1212	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  39653	00:28:43.61	STBE_8Nov19_bruv1	00:16:43.60	566	915	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  50865	00:31:50.66	STBE_8Nov19_bruv1	00:19:50.66	626	1506	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  55360	00:33:05.65	STBE_8Nov19_bruv1	00:21:05.65	449	1724	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Labridae	Semicossyphus	pulcher	46	1	AD	Passing		background	
+STBE_8Nov19_1_GP010135.MP4	  55360	00:33:05.65	STBE_8Nov19_bruv1	00:21:05.65	755	590	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP010135.MP4	  55360	00:33:05.65	STBE_8Nov19_bruv1	00:21:05.65	600	1641	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing		background	
+STBE_8Nov19_1_GP020135.MP4	   7840	00:37:34.92	STBE_8Nov19_bruv1	00:25:34.92	511	967	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP020135.MP4	   7840	00:37:34.92	STBE_8Nov19_bruv1	00:25:34.92	709	1852	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP020135.MP4	  11964	00:38:43.72	STBE_8Nov19_bruv1	00:26:43.72	642	825	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Guarding bait			
+STBE_8Nov19_1_GP020135.MP4	  11964	00:38:43.72	STBE_8Nov19_bruv1	00:26:43.72	797	1154	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP020135.MP4	  32882	00:44:32.70	STBE_8Nov19_bruv1	00:32:32.70	639	951	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP020135.MP4	  43389	00:47:28.00	STBE_8Nov19_bruv1	00:35:27.99	671	1231	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP020135.MP4	  60716	00:52:17.07	STBE_8Nov19_bruv1	00:40:17.06	697	1491	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP030135.MP4	   4526	00:54:21.69	STBE_8Nov19_bruv1	00:42:21.69	446	473	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP030135.MP4	   4526	00:54:21.69	STBE_8Nov19_bruv1	00:42:21.69	582	948	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP030135.MP4	   7756	00:55:15.58	STBE_8Nov19_bruv1	00:43:15.58	765	212	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Urotrygonidae	Urobatis	halleri	31	1	AD	Passing			
+STBE_8Nov19_1_GP030135.MP4	  17443	00:57:57.19	STBE_8Nov19_bruv1	00:45:57.19	306	524	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP030135.MP4	  35444	01:02:57.51	STBE_8Nov19_bruv1	00:50:57.50	271	1490	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP030135.MP4	  51658	01:07:28.01	STBE_8Nov19_bruv1	00:55:28.01	786	1623	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_1_GP030135.MP4	  56381	01:08:46.81	STBE_8Nov19_bruv1	00:56:46.80	888	1558	STBE_08Nov19_bruv1	Jessica Madden			>1m	100% S	STBE	1	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			

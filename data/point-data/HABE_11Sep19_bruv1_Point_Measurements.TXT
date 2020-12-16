@@ -1,0 +1,38 @@
+Dot Point Measurements
+
+Generated: Tuesday, April 21, 2020 16:04:45
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+HABE_11Sep19_1_GP010090.MP4	    649	00:17:52.89	HABE_11Sep19_bruv1_data	00:01:52.88	377	1266	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  13029	00:39:01.49	HABE_11Sep19_bruv1_data	00:23:01.48	744	899	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  18726	00:40:36.53	HABE_11Sep19_bruv1_data	00:24:36.53	731	450	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  18726	00:40:36.53	HABE_11Sep19_bruv1_data	00:24:36.53	542	969	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  20649	00:41:08.62	HABE_11Sep19_bruv1_data	00:25:08.61	674	1004	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	2	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  36342	00:45:30.43	HABE_11Sep19_bruv1_data	00:29:30.42	504	323	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  36342	00:45:30.43	HABE_11Sep19_bruv1_data	00:29:30.42	652	938	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  36342	00:45:30.43	HABE_11Sep19_bruv1_data	00:29:30.42	785	1689	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  41347	00:46:53.93	HABE_11Sep19_bruv1_data	00:30:53.92	646	749	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	2	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  52871	00:50:06.19	HABE_11Sep19_bruv1_data	00:34:06.18	419	296	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  58588	00:51:41.57	HABE_11Sep19_bruv1_data	00:35:41.56	777	1409	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  58685	00:51:43.18	HABE_11Sep19_bruv1_data	00:35:43.17	857	1134	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  60755	00:52:17.72	HABE_11Sep19_bruv1_data	00:36:17.71	785	1377	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	2	AD	Passing			
+HABE_11Sep19_1_GP020090.MP4	  60755	00:52:17.72	HABE_11Sep19_bruv1_data	00:36:17.71	578	514	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  11283	00:56:14.42	HABE_11Sep19_bruv1_data	00:40:14.41	472	1106	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  11660	00:56:20.71	HABE_11Sep19_bruv1_data	00:40:20.70	609	750	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  11660	00:56:20.71	HABE_11Sep19_bruv1_data	00:40:20.70	703	821	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  19816	00:58:36.78	HABE_11Sep19_bruv1_data	00:42:36.77	728	1007	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  19816	00:58:36.78	HABE_11Sep19_bruv1_data	00:42:36.77	769	1340	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  26427	01:00:27.07	HABE_11Sep19_bruv1_data	00:44:27.06	582	1566	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  29903	01:01:25.06	HABE_11Sep19_bruv1_data	00:45:25.06	443	916	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  30674	01:01:37.93	HABE_11Sep19_bruv1_data	00:45:37.92	721	1224	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	2	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  48013	01:06:27.20	HABE_11Sep19_bruv1_data	00:50:27.19	744	1363	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP030090.MP4	  53939	01:08:06.07	HABE_11Sep19_bruv1_data	00:52:06.06	676	1047	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	   1377	01:11:11.22	HABE_11Sep19_bruv1_data	00:55:11.21	609	1036	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	189	1200	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	558	1292	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	404	1641	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	489	1843	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	539	1410	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	691	1241	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	502	1322	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			
+HABE_11Sep19_1_GP040090.MP4	  10228	01:13:38.88	HABE_11Sep19_bruv1_data	00:57:38.87	515	1556	HABE_11Sep19_bruv1	Jessica Madden			= 1m	100% S							Embiotocidae	Amphistichus	argenteus	6	1	AD	Passing			

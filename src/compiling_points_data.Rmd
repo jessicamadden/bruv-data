@@ -178,3 +178,55 @@ point_data <- point_data %>%
 
 write.csv(point_data, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//point_data.csv")
 ```
+
+```{r}
+# Complete point data with rows for all possible time intervals and all species observed in whole data set
+
+# Hone in on smaller subset of data for simplicity's sake
+
+point_data_perc_jul_1 <- point_data %>% 
+  filter(op_code == "PERC_23Jul19_bruv1") %>% 
+  select(op_code, site_full, type, geog, date, bruv, five_min, subclass, family, common, number) %>% 
+  complete(nesting(op_code, site_full, type, geog, date, bruv), five_min, nesting(subclass, family, common), fill=list(number=0)) %>% 
+  group_by(op_code, site_full, type, geog, date, bruv, five_min, subclass, family, common) %>% 
+  summarize(number = sum(number)) %>% 
+  arrange(op_code, five_min, common)
+
+
+# Repeat for whole data set
+
+# Five min intervals
+
+point_fivemin_complete <- point_data %>% 
+  select(op_code, site_full, type, geog, date, bruv, five_min, subclass, family, common, number) %>% 
+  complete(nesting(op_code, site_full, type, geog, date, bruv), five_min, nesting(subclass, family, common), fill=list(number=0)) %>% 
+  group_by(op_code, site_full, type, geog, date, bruv, five_min, subclass, family, common) %>% 
+  summarize(number = sum(number)) %>% 
+  arrange(op_code, five_min, common)
+
+# Remove rows that lack species ID
+
+point_fivemin_complete <- point_fivemin_complete[!is.na(point_fivemin_complete$common),]
+
+# Ten min intervals
+
+point_tenmin_complete <- point_data %>% 
+  select(op_code, site_full, type, geog, date, bruv, ten_min, subclass, family, common, number) %>% 
+  complete(nesting(op_code, site_full, type, geog, date, bruv), ten_min, nesting(subclass, family, common), fill=list(number=0)) %>% 
+  group_by(op_code, site_full, type, geog, date, bruv, ten_min, subclass, family, common) %>% 
+  summarize(number = sum(number)) %>% 
+  arrange(op_code, ten_min, common)
+
+# Remove rows that lack species ID
+
+point_tenmin_complete <- point_tenmin_complete[!is.na(point_tenmin_complete$common),]
+```
+
+
+```{r}
+#Save to csv
+
+write.csv(point_fivemin_complete, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//point_data_fivemin_complete.csv")
+
+write.csv(point_tenmin_complete, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//point_data_tenmin_complete.csv")
+```

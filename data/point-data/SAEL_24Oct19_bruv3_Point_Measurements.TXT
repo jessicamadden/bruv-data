@@ -1,0 +1,15 @@
+Dot Point Measurements
+
+Generated: Friday, June 26, 2020 21:24:33
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SAEL_24Oct19_bruv3_GP010064.MP4	  37565	00:28:08.77	SAEL_24Oct19_bruv3_data	00:13:08.75	276	1639	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019								1	AD	Passing	id? probably topsmelt	background	
+SAEL_24Oct19_bruv3_GP010064.MP4	  39396	00:28:39.32	SAEL_24Oct19_bruv3_data	00:13:39.30	100	541	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019								17	AD	Passing	id? probably topsmelt	background	
+SAEL_24Oct19_bruv3_GP020064.MP4	  10910	00:38:26.14	SAEL_24Oct19_bruv3_data	00:23:26.12	203	731	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019								58	AD	Passing	id? probably topsmelt	background	
+SAEL_24Oct19_bruv3_GP020064.MP4	  12355	00:38:50.24	SAEL_24Oct19_bruv3_data	00:23:50.23	220	1253	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019								103	AD	Passing	id? probably topsmelt	background	
+SAEL_24Oct19_bruv3_GP020064.MP4	  35860	00:45:22.39	SAEL_24Oct19_bruv3_data	00:30:22.37	652	1675	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019				Myliobatidae	Myliobatis	californica	29	1	AD	Passing			
+SAEL_24Oct19_bruv3_GP030064.MP4	   6740	00:54:58.63	SAEL_24Oct19_bruv3_data	00:39:58.61	97	1640	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019								7	AD	Passing	id? probably topsmelt	background	
+SAEL_24Oct19_bruv3_GP030064.MP4	  39469	01:04:04.66	SAEL_24Oct19_bruv3_data	00:49:04.64	678	1414	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing		background	
+SAEL_24Oct19_bruv3_GP030064.MP4	  50111	01:07:02.20	SAEL_24Oct19_bruv3_data	00:52:02.19	279	106	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019								8	AD	Passing	id? probably topsmelt	background	
+SAEL_24Oct19_bruv3_GP030064.MP4	  50865	01:07:14.78	SAEL_24Oct19_bruv3_data	00:52:14.76	353	354	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019								21	AD	Passing	id? probably topsmelt	background	
+SAEL_24Oct19_bruv3_GP030064.MP4	  60412	01:09:54.06	SAEL_24Oct19_bruv3_data	00:54:54.04	142	547	SAEL_24Oct19_bruv3	Jessica Madden			>1m	100% S	SAEL	3	10-24-2019								33	AD	Passing	id? probably topsmelt	background	

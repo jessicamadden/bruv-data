@@ -1,0 +1,32 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 17:58:24
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+HABE_19Jul19_1_GP010057.MP4	  37125	00:10:19.37	data	00:00:14.36	528	1086	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	possibly grunion		
+HABE_19Jul19_1_GP010057.MP4	  37471	00:10:25.14	data	00:00:20.14	606	1335	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing	possibly grunion		
+HABE_19Jul19_1_GP020057.MP4	  42731	00:29:34.96	data	00:19:29.95	896	1337	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Cancridae	Cancer		33	1	AD	Passing	unidentifiable crab		
+HABE_19Jul19_1_GP020057.MP4	  48280	00:31:07.53	data	00:21:02.53	355	1733	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP020057.MP4	  48280	00:31:07.53	data	00:21:02.53	185	1863	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP020057.MP4	  50352	00:31:42.10	data	00:21:37.10	400	1366	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP020057.MP4	  60451	00:34:30.59	data	00:24:25.58	255	421	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP020057.MP4	  60451	00:34:30.59	data	00:24:25.58	613	1314	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP020057.MP4	  62605	00:35:06.52	data	00:25:01.52	204	1006	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP020057.MP4	  62717	00:35:08.39	data	00:25:03.39	529	654	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP020057.MP4	  62717	00:35:08.39	data	00:25:03.39	463	1378	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	   1105	00:35:42.56	data	00:25:37.55	356	747	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	   1105	00:35:42.56	data	00:25:37.55	465	1326	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	   3177	00:36:17.12	data	00:26:12.12	91	931	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	3	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  17072	00:40:08.94	data	00:30:03.94	629	1166	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  20399	00:41:04.45	data	00:30:59.44	567	789	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  20399	00:41:04.45	data	00:30:59.44	788	1169	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  20834	00:41:11.70	data	00:31:06.70	294	360	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  20834	00:41:11.70	data	00:31:06.70	506	1405	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  23020	00:41:48.17	data	00:31:43.17	250	332	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  23020	00:41:48.17	data	00:31:43.17	41	720	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  23020	00:41:48.17	data	00:31:43.17	185	1849	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  49629	00:49:12.10	data	00:39:07.09	324	1676	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  52905	00:50:06.75	data	00:40:01.75	376	1221	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP030057.MP4	  57900	00:51:30.09	data	00:41:25.08	435	1391	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			
+HABE_19Jul19_1_GP040057.MP4	  27974	01:00:52.88	data	00:50:47.88	615	1180	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+HABE_19Jul19_1_GP040057.MP4	  34922	01:02:48.80	data	00:52:43.79	100	431	HABE_19Jul19_bruv1	Jessica Madden			=1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	AD	Passing			

@@ -1,0 +1,22 @@
+Dot Point Measurements
+
+Generated: Tuesday, April 07, 2020 14:34:38
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+RESB_22Jul19_6_GP010010.MP4	   1617	00:18:09.04	REFU_22Jul19_bruv6_data	00:03:09.02	958	941	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Paralichthyidae				1	AD	Passing			
+RESB_22Jul19_6_GP010010.MP4	   6390	00:19:28.67	REFU_22Jul19_bruv6_data	00:04:28.65	1031	442	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_6_GP010010.MP4	   6390	00:19:28.67	REFU_22Jul19_bruv6_data	00:04:28.65	983	718	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			
+RESB_22Jul19_6_GP010010.MP4	  21755	00:23:45.01	REFU_22Jul19_bruv6_data	00:08:44.99	92	1412	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_22Jul19_6_GP010010.MP4	  26695	00:25:07.42	REFU_22Jul19_bruv6_data	00:10:07.41	237	1809	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Atherinopsidae			3	1	AD	Passing			
+RESB_22Jul19_6_GP020010.MP4	   8425	00:37:44.68	REFU_22Jul19_bruv6_data	00:22:44.66	805	885	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+RESB_22Jul19_6_GP020010.MP4	  16725	00:40:03.15	REFU_22Jul19_bruv6_data	00:25:03.13	905	799	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+RESB_22Jul19_6_GP020010.MP4	  23314	00:41:53.08	REFU_22Jul19_bruv6_data	00:26:53.06	935	92	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+RESB_22Jul19_6_GP020010.MP4	  23314	00:41:53.08	REFU_22Jul19_bruv6_data	00:26:53.06	1051	1418	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	1	AD	Passing			
+RESB_22Jul19_6_GP020010.MP4	  35602	00:45:18.08	REFU_22Jul19_bruv6_data	00:30:18.07	797	774	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+RESB_22Jul19_6_GP020010.MP4	  55966	00:50:57.82	REFU_22Jul19_bruv6_data	00:35:57.81	844	1229	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+RESB_22Jul19_6_GP020010.MP4	  60259	00:52:09.44	REFU_22Jul19_bruv6_data	00:37:09.43	908	658	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	2	AD	Passing	this one noticeably smaller, 2 total		
+RESB_22Jul19_6_GP030010.MP4	   8406	00:55:26.42	REFU_22Jul19_bruv6_data	00:40:26.41	915	611	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	1	AD	Passing			
+RESB_22Jul19_6_GP030010.MP4	  38143	01:03:42.54	REFU_22Jul19_bruv6_data	00:48:42.52	840	610	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Olividae	Callianax	biplicata	42	2	AD	Passing			
+RESB_22Jul19_6_GP030010.MP4	  58758	01:09:26.46	REFU_22Jul19_bruv6_data	00:54:26.45	984	1570	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+RESB_22Jul19_6_GP040010.MP4	   1823	01:11:18.66	REFU_22Jul19_bruv6_data	00:56:18.64	956	1560	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Blepharipodidae	Blepharipoda	occidentalis	32	1	AD	Passing			
+RESB_22Jul19_6_GP040010.MP4	   7585	01:12:54.79	REFU_22Jul19_bruv6_data	00:57:54.77	999	1276	REFU_22Jul19_bruv6	Jessica Madden			=1m	100% S							Olividae	Callianax	biplicata	42	1	AD	Passing			

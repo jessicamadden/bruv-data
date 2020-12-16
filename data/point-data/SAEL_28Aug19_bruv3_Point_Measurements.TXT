@@ -1,0 +1,20 @@
+Dot Point Measurements
+
+Generated: Thursday, March 26, 2020 12:22:50
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SAEL_28Aug19_bruv3_GP010021.MP4	   6945	00:19:37.93	SAEL_28Aug19_bruv3_data	00:04:37.91	865	1236	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP010021.MP4	   8836	00:20:09.47	SAEL_28Aug19_bruv3_data	00:05:09.46	822	1140	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP010021.MP4	  32311	00:26:41.12	SAEL_28Aug19_bruv3_data	00:11:41.10	772	770	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	   6772	00:54:59.16	SAEL_28Aug19_bruv3_data	00:39:59.15	451	384	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  19616	00:58:33.44	SAEL_28Aug19_bruv3_data	00:43:33.43	808	605	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  25161	01:00:05.95	SAEL_28Aug19_bruv3_data	00:45:05.94	774	1197	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  30722	01:01:38.73	SAEL_28Aug19_bruv3_data	00:46:38.71	726	1194	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  30722	01:01:38.73	SAEL_28Aug19_bruv3_data	00:46:38.71	804	933	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  41327	01:04:35.66	SAEL_28Aug19_bruv3_data	00:49:35.64	772	1250	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  41327	01:04:35.66	SAEL_28Aug19_bruv3_data	00:49:35.64	793	1113	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  41327	01:04:35.66	SAEL_28Aug19_bruv3_data	00:49:35.64	857	1797	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  43016	01:05:03.83	SAEL_28Aug19_bruv3_data	00:50:03.82	705	1306	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  43016	01:05:03.83	SAEL_28Aug19_bruv3_data	00:50:03.82	729	1174	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP030021.MP4	  62797	01:10:33.85	SAEL_28Aug19_bruv3_data	00:55:33.83	749	1203	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv3_GP040021.MP4	  15012	01:14:58.69	SAEL_28Aug19_bruv3_data	00:59:58.68	766	1111	SAEL_28Aug19_bruv3	Jessica Madden			>1m	100% S							Rhinobatidae	Rhinobatos	productus	36	1	AD	Passing			

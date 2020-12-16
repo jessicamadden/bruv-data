@@ -1,0 +1,39 @@
+Dot Point Measurements
+
+Generated: Wednesday, March 04, 2020 16:50:47
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+SAEL_28Aug19_bruv1_GOPR0080.MP4	  39129	00:10:52.80	SAEL_28Aug19_bruv1_data	00:00:52.79	893	296	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv1_GOPR0080.MP4	  53067	00:14:45.33	SAEL_28Aug19_bruv1_data	00:04:45.32	552	1644	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	16	AD	Passing			
+SAEL_28Aug19_bruv1_GP010080.MP4	  24994	00:24:39.04	SAEL_28Aug19_bruv1_data	00:14:39.03	700	242	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Mustelus	californicus	53 #Gray smoothhound	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP010080.MP4	  29639	00:25:56.54	SAEL_28Aug19_bruv1_data	00:15:56.52	438	1676	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP010080.MP4	  29639	00:25:56.54	SAEL_28Aug19_bruv1_data	00:15:56.52	180	1893	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP010080.MP4	  32258	00:26:40.23	SAEL_28Aug19_bruv1_data	00:16:40.22	321	298	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Mustelus	californicus	53 #Gray smoothhound	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP010080.MP4	  40892	00:29:04.28	SAEL_28Aug19_bruv1_data	00:19:04.26	722	1808	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background											1	AD	Passing	ID? corbina?		
+SAEL_28Aug19_bruv1_GP020080.MP4	  14968	00:39:33.84	SAEL_28Aug19_bruv1_data	00:29:33.82	460	1735	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  15017	00:39:34.66	SAEL_28Aug19_bruv1_data	00:29:34.64	626	1672	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  19079	00:40:42.42	SAEL_28Aug19_bruv1_data	00:30:42.41	561	1654	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Haemulidae	Anisotremus	davidsonii	15	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  21657	00:41:25.43	SAEL_28Aug19_bruv1_data	00:31:25.42	766	1250	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  26934	00:42:53.47	SAEL_28Aug19_bruv1_data	00:32:53.45	483	1720	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  30275	00:43:49.21	SAEL_28Aug19_bruv1_data	00:33:49.19	421	1711	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  31361	00:44:07.33	SAEL_28Aug19_bruv1_data	00:34:07.31	381	1699	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  33946	00:44:50.45	SAEL_28Aug19_bruv1_data	00:34:50.44	683	1813	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  33946	00:44:50.45	SAEL_28Aug19_bruv1_data	00:34:50.44	549	1619	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  44493	00:47:46.41	SAEL_28Aug19_bruv1_data	00:37:46.40	476	1792	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  44548	00:47:47.33	SAEL_28Aug19_bruv1_data	00:37:47.32	659	870	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  52664	00:50:02.73	SAEL_28Aug19_bruv1_data	00:40:02.72	474	399	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP020080.MP4	  62793	00:52:51.72	SAEL_28Aug19_bruv1_data	00:42:51.70	421	1867	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	   1366	00:53:28.97	SAEL_28Aug19_bruv1_data	00:43:28.96	569	1752	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	2	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	   8055	00:55:20.57	SAEL_28Aug19_bruv1_data	00:45:20.55	285	232	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	  15978	00:57:32.75	SAEL_28Aug19_bruv1_data	00:47:32.73	791	510	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background											1	AD	Passing	ID? ray?		
+SAEL_28Aug19_bruv1_GP030080.MP4	  21375	00:59:02.79	SAEL_28Aug19_bruv1_data	00:49:02.77	964	1497	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	  23054	00:59:30.80	SAEL_28Aug19_bruv1_data	00:49:30.78	920	731	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	  23937	00:59:45.53	SAEL_28Aug19_bruv1_data	00:49:45.52	451	111	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background											1	AD	Passing	ID? yellowfin?		
+SAEL_28Aug19_bruv1_GP030080.MP4	  24830	01:00:00.43	SAEL_28Aug19_bruv1_data	00:50:00.41	966	80	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	  24830	01:00:00.43	SAEL_28Aug19_bruv1_data	00:50:00.41	560	1783	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	  35051	01:02:50.95	SAEL_28Aug19_bruv1_data	00:52:50.93	729	1152	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	  41583	01:04:39.93	SAEL_28Aug19_bruv1_data	00:54:39.91	943	604	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	  46260	01:05:57.95	SAEL_28Aug19_bruv1_data	00:55:57.94	649	1560	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background											1	AD	Passing	ID?		
+SAEL_28Aug19_bruv1_GP030080.MP4	  49050	01:06:44.50	SAEL_28Aug19_bruv1_data	00:56:44.48	654	1016	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Palinuridae	Panulirus	interruptus	48 #lobster	1	AD	Passing			
+SAEL_28Aug19_bruv1_GP030080.MP4	  52472	01:07:41.59	SAEL_28Aug19_bruv1_data	00:57:41.57	194	134	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background											1	AD	Passing	ID?		
+SAEL_28Aug19_bruv1_GP030080.MP4	  57865	01:09:11.56	SAEL_28Aug19_bruv1_data	00:59:11.55	830	772	SAEL_28Aug19_bruv1	Jessica Madden			<1m	100% S, Phyllo in background							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			

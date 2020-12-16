@@ -1,0 +1,30 @@
+Dot Point Measurements
+
+Generated: Wednesday 02 December 2020 11:48:59
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+STBE_8Nov19_5_GOPR0083.MP4	  51635	00:14:21.44	STBE_8Nov19_bruv5_data	00:01:21.43	880	1788	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Serranidae	Paralabrax	nebulifer	59	1	AD	Passing			
+STBE_8Nov19_5_GOPR0083.MP4	  60529	00:16:49.83	STBE_8Nov19_bruv5_data	00:03:49.81	954	1664	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP010083.MP4	   2315	00:18:20.68	STBE_8Nov19_bruv5_data	00:05:20.67	712	160	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP010083.MP4	  19381	00:23:05.40	STBE_8Nov19_bruv5_data	00:10:05.39	709	510	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP010083.MP4	  28534	00:25:38.10	STBE_8Nov19_bruv5_data	00:12:38.09	485	503	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Serranidae	Paralabrax	clathratus	44	1	AD	Passing			
+STBE_8Nov19_5_GP010083.MP4	  32091	00:26:37.45	STBE_8Nov19_bruv5_data	00:13:37.43	790	1737	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP010083.MP4	  37104	00:28:01.08	STBE_8Nov19_bruv5_data	00:15:01.07	839	1511	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP020083.MP4	   3220	00:36:17.84	STBE_8Nov19_bruv5_data	00:23:17.83	744	1364	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP020083.MP4	   3366	00:36:20.28	STBE_8Nov19_bruv5_data	00:23:20.27	828	731	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP020083.MP4	   9773	00:38:07.17	STBE_8Nov19_bruv5_data	00:25:07.16	696	1430	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP020083.MP4	  12068	00:38:45.46	STBE_8Nov19_bruv5_data	00:25:45.44	765	1410	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP020083.MP4	  28290	00:43:16.09	STBE_8Nov19_bruv5_data	00:30:16.08	735	1337	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP020083.MP4	  35739	00:45:20.37	STBE_8Nov19_bruv5_data	00:32:20.36	655	1320	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP020083.MP4	  45386	00:48:01.31	STBE_8Nov19_bruv5_data	00:35:01.30	807	1662	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP020083.MP4	  52897	00:50:06.62	STBE_8Nov19_bruv5_data	00:37:06.61	632	1873	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_8Nov19_5_GP020083.MP4	  63588	00:53:04.98	STBE_8Nov19_bruv5_data	00:40:04.97	827	567	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	    275	00:53:10.77	STBE_8Nov19_bruv5_data	00:40:10.76	753	557	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	  19854	00:58:37.41	STBE_8Nov19_bruv5_data	00:45:37.40	739	885	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	  20159	00:58:42.50	STBE_8Nov19_bruv5_data	00:45:42.49	704	1030	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	  32864	01:02:14.46	STBE_8Nov19_bruv5_data	00:49:14.45	738	644	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	  32864	01:02:14.46	STBE_8Nov19_bruv5_data	00:49:14.45	650	1023	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	  37184	01:03:26.54	STBE_8Nov19_bruv5_data	00:50:26.52	534	1612	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	  41685	01:04:41.63	STBE_8Nov19_bruv5_data	00:51:41.62	673	1090	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	  54767	01:08:19.88	STBE_8Nov19_bruv5_data	00:55:19.87	695	562	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_8Nov19_5_GP030083.MP4	  60060	01:09:48.18	STBE_8Nov19_bruv5_data	00:56:48.17	757	1334	STBE_08Nov19_bruv5	Jessica Madden			>1m	100% S	STBE	5	11-08-2019				Triakidae	Triakis	semifasciata	30	1	AD	Passing			

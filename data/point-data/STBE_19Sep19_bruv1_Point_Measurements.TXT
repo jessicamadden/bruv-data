@@ -1,0 +1,88 @@
+Dot Point Measurements
+
+Generated: Wednesday, April 29, 2020 18:44:59
+
+Filename	Frame	Time (HMS)	Period	Period time (HMS)	Image row	Image col	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	Number	Stage	Activity	Comment		
+STBE_19Sep19_1_GOPR0100.MP4	  50350	00:14:00.01	STBE_19Sep19_bruv1_data	00:00:00.00	410	1816	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GOPR0100.MP4	  50484	00:14:02.24	STBE_19Sep19_bruv1_data	00:00:02.24	485	753	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GOPR0100.MP4	  50484	00:14:02.24	STBE_19Sep19_bruv1_data	00:00:02.24	470	1875	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	   6851	00:19:36.36	STBE_19Sep19_bruv1_data	00:05:36.35	611	447	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  14915	00:21:50.89	STBE_19Sep19_bruv1_data	00:07:50.89	724	756	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  23145	00:24:08.20	STBE_19Sep19_bruv1_data	00:10:08.19	647	78	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  24096	00:24:24.06	STBE_19Sep19_bruv1_data	00:10:24.06	560	259	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  24096	00:24:24.06	STBE_19Sep19_bruv1_data	00:10:24.06	393	1818	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  35663	00:27:37.04	STBE_19Sep19_bruv1_data	00:13:37.03	518	430	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  35663	00:27:37.04	STBE_19Sep19_bruv1_data	00:13:37.03	313	802	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  40779	00:29:02.39	STBE_19Sep19_bruv1_data	00:15:02.38	472	827	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	AD	Passing		background	
+STBE_19Sep19_1_GP010100.MP4	  40779	00:29:02.39	STBE_19Sep19_bruv1_data	00:15:02.38	613	763	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	AD	Passing		background	
+STBE_19Sep19_1_GP010100.MP4	  40779	00:29:02.39	STBE_19Sep19_bruv1_data	00:15:02.38	519	635	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	AD	Passing		background	
+STBE_19Sep19_1_GP010100.MP4	  40779	00:29:02.39	STBE_19Sep19_bruv1_data	00:15:02.38	576	589	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Roncador	stearnsii	55	1	AD	Passing		background	
+STBE_19Sep19_1_GP010100.MP4	  40779	00:29:02.39	STBE_19Sep19_bruv1_data	00:15:02.38	732	766	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  43552	00:29:48.65	STBE_19Sep19_bruv1_data	00:15:48.65	639	612	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  44994	00:30:12.71	STBE_19Sep19_bruv1_data	00:16:12.71	639	495	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  44994	00:30:12.71	STBE_19Sep19_bruv1_data	00:16:12.71	436	851	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  44994	00:30:12.71	STBE_19Sep19_bruv1_data	00:16:12.71	515	1433	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  45081	00:30:14.16	STBE_19Sep19_bruv1_data	00:16:14.16	363	1889	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  45081	00:30:14.16	STBE_19Sep19_bruv1_data	00:16:14.16	464	1904	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  45081	00:30:14.16	STBE_19Sep19_bruv1_data	00:16:14.16	477	1072	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  45081	00:30:14.16	STBE_19Sep19_bruv1_data	00:16:14.16	414	901	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  52064	00:32:10.66	STBE_19Sep19_bruv1_data	00:18:10.66	505	1385	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  52064	00:32:10.66	STBE_19Sep19_bruv1_data	00:18:10.66	523	1280	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  52064	00:32:10.66	STBE_19Sep19_bruv1_data	00:18:10.66	552	1150	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  52064	00:32:10.66	STBE_19Sep19_bruv1_data	00:18:10.66	578	1065	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  52064	00:32:10.66	STBE_19Sep19_bruv1_data	00:18:10.66	545	1034	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  52064	00:32:10.66	STBE_19Sep19_bruv1_data	00:18:10.66	588	769	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Kyphosidae	Hermosilla	azurea	45	1	AD	Passing			
+STBE_19Sep19_1_GP010100.MP4	  61436	00:34:47.02	STBE_19Sep19_bruv1_data	00:20:47.01	667	552	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing		background	
+STBE_19Sep19_1_GP010100.MP4	  62715	00:35:08.36	STBE_19Sep19_bruv1_data	00:21:08.35	507	181	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Atractoscion	nobilis	23	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  15307	00:39:39.49	STBE_19Sep19_bruv1_data	00:25:39.49	545	996	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  20341	00:41:03.48	STBE_19Sep19_bruv1_data	00:27:03.47	693	1425	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Mustelus	sp		1	AD	Passing		background	
+STBE_19Sep19_1_GP020100.MP4	  20690	00:41:09.30	STBE_19Sep19_bruv1_data	00:27:09.29	639	940	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  27449	00:43:02.06	STBE_19Sep19_bruv1_data	00:29:02.06	547	1473	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  28074	00:43:12.49	STBE_19Sep19_bruv1_data	00:29:12.48	743	829	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  35614	00:45:18.28	STBE_19Sep19_bruv1_data	00:31:18.28	668	1531	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  40025	00:46:31.87	STBE_19Sep19_bruv1_data	00:32:31.87	268	254	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  40433	00:46:38.68	STBE_19Sep19_bruv1_data	00:32:38.67	570	1245	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  40433	00:46:38.68	STBE_19Sep19_bruv1_data	00:32:38.67	588	558	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  40433	00:46:38.68	STBE_19Sep19_bruv1_data	00:32:38.67	515	344	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  40697	00:46:43.08	STBE_19Sep19_bruv1_data	00:32:43.08	613	637	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  40697	00:46:43.08	STBE_19Sep19_bruv1_data	00:32:43.08	684	1744	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  40697	00:46:43.08	STBE_19Sep19_bruv1_data	00:32:43.08	636	1679	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing	id?		
+STBE_19Sep19_1_GP020100.MP4	  40741	00:46:43.82	STBE_19Sep19_bruv1_data	00:32:43.81	668	1513	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  40741	00:46:43.82	STBE_19Sep19_bruv1_data	00:32:43.81	591	476	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  42834	00:47:18.74	STBE_19Sep19_bruv1_data	00:33:18.73	537	384	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  42834	00:47:18.74	STBE_19Sep19_bruv1_data	00:33:18.73	665	1418	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  45195	00:47:58.13	STBE_19Sep19_bruv1_data	00:33:58.12	619	428	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  45195	00:47:58.13	STBE_19Sep19_bruv1_data	00:33:58.12	530	531	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  45195	00:47:58.13	STBE_19Sep19_bruv1_data	00:33:58.12	547	1545	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  49609	00:49:11.77	STBE_19Sep19_bruv1_data	00:35:11.76	715	632	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  50472	00:49:26.16	STBE_19Sep19_bruv1_data	00:35:26.16	721	505	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP020100.MP4	  61004	00:52:21.87	STBE_19Sep19_bruv1_data	00:38:21.87	803	1106	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   2427	00:53:46.67	STBE_19Sep19_bruv1_data	00:39:46.67	687	1431	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	3	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   3629	00:54:06.73	STBE_19Sep19_bruv1_data	00:40:06.72	568	503	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	3	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   3629	00:54:06.73	STBE_19Sep19_bruv1_data	00:40:06.72	660	1314	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	2	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   3629	00:54:06.73	STBE_19Sep19_bruv1_data	00:40:06.72	577	997	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   4853	00:54:27.15	STBE_19Sep19_bruv1_data	00:40:27.14	625	1553	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   4853	00:54:27.15	STBE_19Sep19_bruv1_data	00:40:27.14	655	507	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   4853	00:54:27.15	STBE_19Sep19_bruv1_data	00:40:27.14	742	762	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   7138	00:55:05.27	STBE_19Sep19_bruv1_data	00:41:05.26	498	418	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   7138	00:55:05.27	STBE_19Sep19_bruv1_data	00:41:05.26	842	1547	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	   8618	00:55:29.96	STBE_19Sep19_bruv1_data	00:41:29.95	762	1579	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  13349	00:56:48.89	STBE_19Sep19_bruv1_data	00:42:48.88	754	268	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  13349	00:56:48.89	STBE_19Sep19_bruv1_data	00:42:48.88	307	1763	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	3	AD	Passing		background	
+STBE_19Sep19_1_GP030100.MP4	  13510	00:56:51.57	STBE_19Sep19_bruv1_data	00:42:51.57	665	996	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  21592	00:59:06.41	STBE_19Sep19_bruv1_data	00:45:06.40	837	1362	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Urotrygonidae	Urobatis	halleri	31 #round ray	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  21707	00:59:08.33	STBE_19Sep19_bruv1_data	00:45:08.32	702	661	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  26908	01:00:35.10	STBE_19Sep19_bruv1_data	00:46:35.09	643	877	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  29830	01:01:23.85	STBE_19Sep19_bruv1_data	00:47:23.84	688	1056	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  41983	01:04:46.60	STBE_19Sep19_bruv1_data	00:50:46.59	691	1051	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  44841	01:05:34.28	STBE_19Sep19_bruv1_data	00:51:34.27	636	225	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Menticirrhus	undulatus	24	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  47492	01:06:18.51	STBE_19Sep19_bruv1_data	00:52:18.50	635	1038	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  48305	01:06:32.07	STBE_19Sep19_bruv1_data	00:52:32.07	504	746	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  48305	01:06:32.07	STBE_19Sep19_bruv1_data	00:52:32.07	740	842	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  56135	01:08:42.70	STBE_19Sep19_bruv1_data	00:54:42.70	751	1783	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  57862	01:09:11.51	STBE_19Sep19_bruv1_data	00:55:11.51	612	270	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing			
+STBE_19Sep19_1_GP030100.MP4	  57862	01:09:11.51	STBE_19Sep19_bruv1_data	00:55:11.51	473	205	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP040100.MP4	   1426	01:11:12.03	STBE_19Sep19_bruv1_data	00:57:12.03	489	111	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP040100.MP4	   1426	01:11:12.03	STBE_19Sep19_bruv1_data	00:57:12.03	530	439	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Triakidae	Triakis	semifasciata	30	1	AD	Passing			
+STBE_19Sep19_1_GP040100.MP4	   5897	01:12:26.63	STBE_19Sep19_bruv1_data	00:58:26.62	79	221	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing		background	
+STBE_19Sep19_1_GP040100.MP4	   5897	01:12:26.63	STBE_19Sep19_bruv1_data	00:58:26.62	381	407	STBE_19Sep19_bruv1	Jessica Madden			>1m	100% S							Sciaenidae	Umbrina	roncador	26	1	AD	Passing		background	
