@@ -84,7 +84,7 @@ ggplot(perc_ref_ten_summary, aes(x = ten_min, y = mean_maxn, fill = site_full)) 
   labs(x = "Time (minutes)", y = "Mean MaxN (+/- SE)", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across deployments for each 10 min segment of 60 min videos") +
   theme_minimal() +
   theme(legend.title = element_blank()) +
-  ggsave("barred_5min.png", width = 10, height = 5)
+  ggsave("barred_10min.png", width = 10, height = 5)
 ```
 
 ```{r, fig.align='center', fig.width=10}
@@ -103,7 +103,7 @@ ggplot(perc_ref_five_summary, aes(x = five_min, y = mean_maxn, fill = site_full)
   labs(x = "Time (minutes)", y = "Mean MaxN (+/- SE)", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across deployments for each 5 min segment of 60 min videos") +
   theme_minimal() +
   theme(legend.title = element_blank()) +
-  ggsave("barred_10min.png", width = 10, height = 5)
+  ggsave("barred_5min.png", width = 10, height = 5)
 ```
 
 
