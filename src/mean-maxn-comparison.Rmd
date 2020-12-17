@@ -2,84 +2,39 @@
 title: "Mean MaxN Comparison"
 author: "Jessica Madden"
 date: "December 16, 2020"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
+library(tidyverse)
+library(here)
+library(wesanderson)
+```
 
 ```{r}
-# Get mean maxN for each 5 min interval
+# Read in point data
 
-perc_mean_maxn_five <- point_data %>% 
-  filter(site_full == "Percos") %>%
-  filter(subclass %in% c("Actinopterygii", "Elasmobranchii")) %>% 
-  group_by(op_code, five_min, common, sp_code) %>% 
-  summarise(
-    maxn = max(number)
-  )
+point_data_complete <- read_csv(here("data", "point_data_complete.csv"))
+five_min <- read_csv(here("data", "point_data_fivemin_complete.csv"))
+ten_min <- read_csv(here("data", "point_data_tenmin_complete.csv"))
 ```
-
-
-```{r}
-
-#Add in zeroes for time intervals when species absent by joining full species list
-# Create 3 data frames and merge
-
-unique_opcode <- point_data %>% 
-  select(op_code, site_full, site_code, type, geog, date, day, month, year, bruv) %>% 
-  unique()
-
-all_five_min <- seq(5, 60, by=5)
-
-df <- unique_opcode %>% 
-  merge(all_five_min) %>% 
-  merge(species_codes) %>% 
-  rename("five_min" = "y")
-
-point_data_five <- point_data %>% 
-  full_join(df, by = c("op_code", "site_full", "site_code", "type", "geog", "date", "day", "month", "year", "bruv", "five_min"))
-  
-point_data_five_perc <-point_data_five %>% 
-  filter(site_full == "Percos") %>% 
-  arrange(op_code, y, common)
-  
-# Sum all duplicate rows
-
-  group_by(op_code, site_full, site_code, type, geog, date, day, month, year, bruv, period_time_hms, time, minute, second, subclass, family, scientific_name, genus, species, common, code, sp_code) %>% 
-  summarize(number = sum(number))
-  
-  
-# Use complete() to fill in missing rows
-  
-point_data_complete <- point_data %>% 
-  select(op_code, sp_code, number, five_min) %>% 
-  complete(op_code, sp_code, five_min, fill=list(number=0)) %>% 
-  arrange(op_code, five_min, sp_code) %>% 
-  inner_join(point_data, by = c("op_code", "sp_code", "five_min"))
-
-# Remove rows that lack species ID
-
-point_data_complete <- point_data_complete[!is.na(point_data_complete$sp_code),]
-
-# Combine duplicate rows
-
-point_data_complete <- point_data_complete %>% 
-  select(op_code, site_full, site_code, type, geog, date, day, month, year, bruv, period_time_hms, time, minute, second, subclass, family, scientific_name, genus, species, common, code, sp_code, number.x, number.y) %>% 
-  group_by(op_code, site_full, site_code, type, geog, date, day, month, year, bruv, period_time_hms, time, minute, second, subclass, family, scientific_name, genus, species, common, code, sp_code) %>% 
-  summarize(number = sum(number))
-
-```
+# Mean MaxN through time
+### Barred surfperch at Percos and Refugio
 
 ```{r}
 # Case study: Percos vs Refugio comparison of mean MaxN of barred surfperch
 # Get mean maxN for each 5 min interval
 
-perc_ref_five <- point_data %>% 
+perc_ref_five <- five_min %>% 
   filter(site_full %in% c("Percos", "Refugio")) %>%
-  filter(common == "Barred surfperch") %>% 
+  filter(common == "Barred surfperch") 
+
+perc_ref_five_summary <- perc_ref_five %>% 
   group_by(op_code, site_full, common, five_min) %>% 
   summarise(
     maxn = max(number)
@@ -94,9 +49,11 @@ perc_ref_five <- point_data %>%
 
 # Get mean maxN for each 10 min interval
 
-perc_ref_ten <- point_data %>% 
+perc_ref_ten <- ten_min %>% 
   filter(site_full %in% c("Percos", "Refugio")) %>%
-  filter(common == "Barred surfperch") %>% 
+  filter(common == "Barred surfperch") 
+
+perc_ref_ten_summary <- perc_ref_ten %>% 
   group_by(op_code, site_full, common, ten_min) %>% 
   summarise(
     maxn = max(number)
@@ -110,39 +67,52 @@ perc_ref_ten <- point_data %>%
   )
 ```
 
-```{r}
-ggplot(perc_ref_five, aes(x = five_min, y = mean_maxn, fill = site_full)) +
-  geom_bar(stat="identity", 
-           position = "dodge") +
-  scale_fill_manual(values = c("seagreen", "sienna3")) +
-  scale_x_continuous(limits = c(0, 60), 
-                     n.breaks = 12) +
-  scale_y_continuous(n.breaks = 10) +
-  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across deployments for each 5 min segment of 60 min video") +
-  theme_minimal() +
-  theme(legend.title = element_blank())
-```
 
-```{r}
-ggplot(perc_ref_ten, aes(x = ten_min, y = mean_maxn, fill = site_full)) +
+```{r, fig.align='center', fig.width=10}
+ggplot(perc_ref_ten_summary, aes(x = ten_min, y = mean_maxn, fill = site_full)) +
   geom_bar(stat="identity", 
            position = "dodge")  +
-  scale_fill_manual(values = c("seagreen", "sienna3")) +
-  scale_x_continuous(limits = c(0, 60), 
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = ten_min, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = 2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_x_continuous(limits = c(0, 65), 
                      n.breaks = 6) +
-  scale_y_continuous(n.breaks = 10) +
-  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across deployments for each 10 min segment of 60 min video") +
+  scale_y_continuous(limits = c(0, 18.5), 
+                     n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across deployments for each 10 min segment of 60 min videos") +
   theme_minimal() +
   theme(legend.title = element_blank())
 ```
 
+```{r, fig.align='center', fig.width=10}
+ggplot(perc_ref_five_summary, aes(x = five_min, y = mean_maxn, fill = site_full)) +
+  geom_bar(stat="identity", 
+           position = "dodge") +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = five_min, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = 2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 5)) +
+  scale_x_continuous(limits = c(0, 66), 
+                     n.breaks = 11) +
+  scale_y_continuous(limits = c(0, 18.5), 
+                     n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across deployments for each 5 min segment of 60 min videos") +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+
+### Leopard sharks at Dume Cove and Leo Carrillo
 ```{r}
-# Case study: Dume vs Leo comparison of mean MaxN of topsmelt
+# Case study: Dume vs Leo comparison of mean MaxN of leopard sharks
 # Get mean maxN for each 5 min interval
 
-dume_leo_five <- point_data %>% 
+dume_leo_five <- five_min %>% 
   filter(site_full %in% c("Dume Cove", "Leo Carrillo")) %>%
-  filter(common == "Topsmelt") %>% 
+  filter(common == "Leopard shark") %>% 
   group_by(op_code, site_full, common, five_min) %>% 
   summarise(
     maxn = max(number)
@@ -157,9 +127,9 @@ dume_leo_five <- point_data %>%
 
 # Get mean maxN for each 10 min interval
 
-dume_leo_ten <- point_data %>% 
+dume_leo_ten <- ten_min %>% 
   filter(site_full %in% c("Dume Cove", "Leo Carrillo")) %>%
-  filter(common == "Topsmelt") %>% 
+  filter(common == "Leopard shark") %>% 
   group_by(op_code, site_full, common, ten_min) %>% 
   summarise(
     maxn = max(number)
@@ -173,30 +143,336 @@ dume_leo_ten <- point_data %>%
   )
 ```
 
-```{r}
-ggplot(dume_leo_five, aes(x = five_min, y = mean_maxn, fill = site_full)) +
-  geom_bar(stat="identity", 
-           position = "dodge") +  
-scale_fill_manual(values = c("seagreen", "sienna3")) +
-  scale_x_continuous(limits = c(0, 60), 
-                     n.breaks = 12) +
-  scale_y_continuous(n.breaks = 10) +
-  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Topsmelt Mean MaxN", subtitle = "Averaged across deployments for each 5 min segment of 60 min video") +
-  theme_minimal() +
-  theme(legend.title = element_blank())
-```
 
-```{r}
+```{r, fig.align='center', fig.width=10}
 ggplot(dume_leo_ten, aes(x = ten_min, y = mean_maxn, fill = site_full)) +
   geom_bar(stat="identity", 
            position = "dodge") +  
-scale_fill_manual(values = c("seagreen", "sienna3")) +
-  scale_x_continuous(limits = c(0, 60), 
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = ten_min, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = 2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_x_continuous(limits = c(0, 65), 
                      n.breaks = 6) +
-  scale_y_continuous(n.breaks = 10) +
-  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Topsmelt Mean MaxN", subtitle = "Averaged across deployments for each 10 min segment of 60 min video") +
+  scale_y_continuous(limits = c(0, 4),
+                     n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Leopard shark Mean MaxN", subtitle = "Averaged across deployments for each 10 min segment of 60 min videos") +
   theme_minimal() +
   theme(legend.title = element_blank())
 ```
 
+```{r, fig.align='center', fig.width=10}
+ggplot(dume_leo_five, aes(x = five_min, y = mean_maxn, fill = site_full)) +
+  geom_bar(stat="identity", 
+           position = "dodge") +  
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = five_min, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = 2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 5)) +
+  scale_x_continuous(limits = c(0, 65), 
+                     n.breaks = 11) +
+  scale_y_continuous(limits = c(0, 4), 
+                     n.breaks = 5) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Leopard shark Mean MaxN", subtitle = "Averaged across deployments for each 5 min segment of 60 min videos") +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
 
+### Unknown silversides at South Campus and Haskells
+
+```{r}
+# Case study: South Campus vs Haskells comparison of mean MaxN of unknown Atherinid
+# Get mean maxN for each 5 min interval
+
+soca_habe_five <- five_min %>% 
+  filter(site_full %in% c("South Campus", "Haskells")) %>%
+  filter(common == "Unknown Silverside") 
+
+soca_habe_five_summary <- soca_habe_five %>% 
+  group_by(op_code, site_full, geog, common, five_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(five_min, site_full, geog) %>% 
+  summarize(
+    mean_maxn = mean(maxn), 
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  ) %>% 
+  arrange(geog, five_min)
+
+# Get mean maxN for each 10 min interval
+
+soca_habe_ten <- ten_min %>% 
+  filter(site_full %in% c("South Campus", "Haskells")) %>%
+  filter(common == "Unknown Silverside") 
+
+soca_habe_ten_summary <- soca_habe_ten %>% 
+  group_by(op_code, site_full, geog, common, ten_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(ten_min, site_full, geog) %>% 
+  summarize(
+    mean_maxn = mean(maxn),
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  ) %>% 
+  arrange(geog, ten_min)
+```
+
+
+```{r, fig.align='center', fig.width=10}
+ggplot(soca_habe_ten_summary, aes(x = ten_min, y = mean_maxn, fill = reorder(site_full, geog))) +
+  geom_bar(stat="identity", 
+           position = "dodge")  +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = ten_min, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = 2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_x_continuous(n.breaks = 6) +
+  scale_y_continuous(limits = c(0, 13), 
+                     n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Unknown silverside Mean MaxN", subtitle = "Averaged across deployments for each 10 min segment of 60 min videos") +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+```{r, fig.align='center', fig.width=10}
+ggplot(soca_habe_five_summary, aes(x = five_min, y = mean_maxn, fill = reorder(site_full, geog))) +
+  geom_bar(stat="identity", 
+           position = "dodge") +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = five_min, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = 2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 5)) +
+  scale_x_continuous(n.breaks = 11, 
+                     limits = c(0, 64)) +
+  scale_y_continuous(limits = c(0, 13), 
+                     n.breaks = 10) +
+  labs(x = "Time (minutes)", y = "Mean MaxN", title = "Unknown silverside Mean MaxN", subtitle = "Averaged across deployments for each 5 min segment of 60 min videos") +
+  theme_minimal() +
+  theme(legend.title = element_blank())
+```
+
+# Mean MaxN across sites
+
+Mean Max N comparison between: 
+
+-  deployments as replicates 
+-  5 min time segments as replicates 
+-  10 min time segments as replicates for each site
+
+### Barred surfperch at all sites
+
+```{r}
+# Each deployment as replicate for each site
+
+barred_all <- point_data_complete %>% 
+  filter(common == "Barred surfperch") %>% 
+  group_by(op_code, site_full, type, geog, date, bruv, subclass, family, common) %>% 
+  summarize(
+    maxn = max(number)
+  ) %>%
+  group_by(site_full, type, geog) %>% 
+  summarize(
+    mean_maxn = mean(maxn), 
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  ) %>% 
+  arrange(geog)
+
+# Each 10 min time segment as replicate for each site
+
+barred_ten <- ten_min %>% 
+  filter(common == "Barred surfperch") %>% 
+  group_by(op_code, site_full, type, geog, common, ten_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(site_full, type, geog) %>% 
+  summarize(
+    mean_maxn = mean(maxn),
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  )
+
+# Each 5 min time segment as replicate for each site
+
+barred_five <- five_min %>% 
+  filter(common == "Barred surfperch") %>% 
+  group_by(op_code, site_full, type, geog, common, five_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(site_full, type, geog) %>% 
+  summarize(
+    mean_maxn = mean(maxn),
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  )
+
+```
+
+```{r, fig.align='center', fig.width=10}
+ggplot(barred_all, aes(x = reorder(site_full, -geog), y = mean_maxn, fill = type)) +
+  geom_bar(stat="identity", 
+           position = "dodge")  +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = site_full, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = .2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_y_continuous(n.breaks = 10) +
+  labs(x = "Site", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged with each deployment as replicate") +
+  theme_minimal() +
+  theme(legend.title = element_blank()) +
+  coord_flip()
+```
+
+```{r, fig.align='center', fig.width=10}
+ggplot(barred_ten, aes(x = reorder(site_full, -geog), y = mean_maxn, fill = type)) +
+  geom_bar(stat="identity", 
+           position = "dodge")  +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = site_full, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = .2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_y_continuous(limits = c(0, 9), 
+                     n.breaks = 10) +
+  labs(x = "Site", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across each 10 minute segment of 60 min deployment") +
+  theme_minimal() +
+  theme(legend.title = element_blank()) +
+  coord_flip()
+```
+
+```{r, fig.align='center', fig.width=10}
+ggplot(barred_five, aes(x = reorder(site_full, -geog), y = mean_maxn, fill = type)) +
+  geom_bar(stat="identity", 
+           position = "dodge")  +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = site_full, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = .2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_y_continuous(limits = c(0, 9),
+                     n.breaks = 10) +
+  labs(x = "Site", y = "Mean MaxN", title = "Barred surfperch Mean MaxN", subtitle = "Averaged across each 5 minute segment of 60 min deployment") +
+  theme_minimal() +
+  theme(legend.title = element_blank()) +
+  coord_flip()
+```
+
+#### Yellowfin croaker at all sites
+
+```{r}
+# Each deployment as replicate for each site
+
+yf_all <- point_data_complete %>% 
+  filter(common == "Yellowfin croaker") %>% 
+  group_by(op_code, site_full, type, geog, date, bruv, subclass, family, common) %>% 
+  summarize(
+    maxn = max(number)
+  ) %>%
+  group_by(site_full, type, geog) %>% 
+  summarize(
+    mean_maxn = mean(maxn), 
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  ) %>% 
+  arrange(geog)
+
+# Each 10 min time segment as replicate for each site
+
+yf_ten <- ten_min %>% 
+  filter(common == "Yellowfin croaker") %>% 
+  group_by(op_code, site_full, type, geog, common, ten_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(site_full, type, geog) %>% 
+  summarize(
+    mean_maxn = mean(maxn),
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  )
+
+# Each 5 min time segment as replicate for each site
+
+yf_five <- five_min %>% 
+  filter(common == "Yellowfin croaker") %>% 
+  group_by(op_code, site_full, type, geog, common, five_min) %>% 
+  summarise(
+    maxn = max(number)
+  ) %>% 
+  group_by(site_full, type, geog) %>% 
+  summarize(
+    mean_maxn = mean(maxn),
+    sd = sd(maxn), 
+    se = sd(maxn)/(sqrt(n())),
+    sample_size = n()
+  )
+
+```
+
+```{r, fig.align='center', fig.width=10}
+ggplot(yf_all, aes(x = reorder(site_full, -geog), y = mean_maxn, fill = type)) +
+  geom_bar(stat="identity", 
+           position = "dodge")  +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = site_full, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = .2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_y_continuous(n.breaks = 10) +
+  labs(x = "Site", y = "Mean MaxN", title = "Yellowfin croaker Mean MaxN", subtitle = "Averaged with each deployment as replicate") +
+  theme_minimal() +
+  theme(legend.title = element_blank()) +
+  coord_flip()
+```
+
+```{r, fig.align='center', fig.width=10}
+ggplot(yf_ten, aes(x = reorder(site_full, -geog), y = mean_maxn, fill = type)) +
+  geom_bar(stat="identity", 
+           position = "dodge")  +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = site_full, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = .2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_y_continuous(limits = c(0, 7),
+                     n.breaks = 10) +
+  labs(x = "Site", y = "Mean MaxN", title = "Yellowfin croaker Mean MaxN", subtitle = "Averaged across each 10 minute segment of 60 min deployment") +
+  theme_minimal() +
+  theme(legend.title = element_blank()) +
+  coord_flip()
+```
+
+```{r, fig.align='center', fig.width=10}
+ggplot(yf_five, aes(x = reorder(site_full, -geog), y = mean_maxn, fill = type)) +
+  geom_bar(stat="identity", 
+           position = "dodge")  +
+  scale_fill_manual(values = wes_palette("Moonrise2")) +
+  geom_errorbar(aes(x = site_full, ymax = mean_maxn + se, ymin = mean_maxn - se), 
+                width = .2, 
+                alpha = 0.9, 
+                position = position_dodge(width = 10)) +
+  scale_y_continuous(limits = c(0, 7),
+                     n.breaks = 10) +
+  labs(x = "Site", y = "Mean MaxN", title = "Yellowfin croaker Mean MaxN", subtitle = "Averaged across each 5 minute segment of 60 min deployment") +
+  theme_minimal() +
+  theme(legend.title = element_blank()) +
+  coord_flip()
+```
