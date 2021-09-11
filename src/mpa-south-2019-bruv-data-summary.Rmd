@@ -83,7 +83,7 @@ sp_richness <- max_n_data %>%
   rename("sp_richness" = "n_distinct(common)") %>% 
   arrange(geog) %>% 
   cbind(pair = c(1, 1, 2, 2, 3, 3, 4, 4, 5, 5)) %>% 
-  arrange(-geog)
+  arrange(geog)
 ```
 
 ***Table 1.** Total species richness at each site. Species richness represents number of unique species (Actinopterygii, Elasmobranchii) observed in all BRUV videos at each site (n = 9). For all MPA/Reference pairs except the San Diego site, the MPA site had greater species richness.*
@@ -92,7 +92,7 @@ richness_table <- sp_richness %>%
   rename("Species richness" = "sp_richness") %>% 
   rename("Type" = "type") %>% 
   rename("Site" = "site_full") %>% 
-  subset(select=-geog) %>% 
+  subset(select= c(-geog, -pair)) %>% 
   kbl() %>% 
   kable_styling()
 richness_table
@@ -393,7 +393,7 @@ ggplot(maxN_fam_table, aes(fill = family_x, x = reorder(site_full, -geog), y = f
         legend.title = element_blank())
 ```
 
-***Figure 5. ** MaxN statistic agregated by family for each site. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude. Stacked colors indicate unique families.*
+***Figure 5. ** MaxN statistic aggregated by family for each site. Sites are ordered MPA first and reference second, with pairs in order of decreasing latitude. Stacked colors indicate unique families.*
 
 ```{r}
 ggplot(maxN_fam_table, aes(fill = family_x, x = reorder(site_full, -geog), y = fam_maxN)) +
@@ -930,7 +930,7 @@ species_list_all <- max_n_data %>%
   
 # Save to file
 
-write.csv(species_list_all_sites, here::here("data", "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//species_list_sites.csv"))
-write.csv(species_list_all, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//species_list.csv")
+write.csv(species_list_all_sites, here::here("data", "species_list_sites.csv"))
+write.csv(species_list_all, here::here("data", "species_list.csv"))
 ```
 
