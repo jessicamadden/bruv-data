@@ -1,5 +1,5 @@
 ---
-title: "MaxN_data_summary"
+title: "Compiling MaxN data files"
 author: "Jessica Madden"
 date: "November 13, 2020"
 output: html_document
