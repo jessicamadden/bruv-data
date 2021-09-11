@@ -1,9 +1,9 @@
 MaxN
 
-Generated: Tuesday, June 23, 2020 11:37:02
+Generated: Friday 04 December 2020 16:09:43
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
-SAEL_24Oct19_bruv1_GP030129.MP4	  12630	00:56:36.89	SAEL_24Oct19_bruv1_data	00:44:36.89	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019								46	No
+SAEL_24Oct19_bruv1_GP030129.MP4	  12630	00:56:36.89	SAEL_24Oct19_bruv1_data	00:44:36.89	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Atherinopsidae			3	46	No
 SAEL_24Oct19_bruv1_GP010129.MP4	  62000	00:34:56.43	SAEL_24Oct19_bruv1_data	00:22:56.43	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Myliobatidae	Myliobatis	californica	29	2	No
 SAEL_24Oct19_bruv1_GOPR0129.MP4	  51173	00:14:13.74	SAEL_24Oct19_bruv1_data	00:02:13.73	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Palinuridae	Panulirus	interruptus	48	1	No
 SAEL_24Oct19_bruv1_GP010129.MP4	  42801	00:29:36.12	SAEL_24Oct19_bruv1_data	00:17:36.12	SAEL_24Oct19_bruv1	Jessica Madden			=1m	100% S	SAEL	1	10-24-2019				Rhinobatidae	Rhinobatos	productus	36	1	No

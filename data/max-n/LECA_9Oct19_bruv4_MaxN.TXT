@@ -1,6 +1,6 @@
 MaxN
 
-Generated: Thursday, June 25, 2020 14:23:05
+Generated: Wednesday 02 December 2020 11:13:43
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
 LECA_9Oct19_4_GP020144.MP4	  39101	00:46:16.46	LECA_9Oct19_bruv4_data	00:32:16.45	LECA_09Oct19_bruv4	Jessica Madden			=1m	100% S, some BM in background	LECA	4	10-09-2019				Atherinopsidae			3	1	No

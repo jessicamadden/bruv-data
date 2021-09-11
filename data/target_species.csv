@@ -1,0 +1,40 @@
+,subclass,family_x,genus_x,species_x,sp_code,common,beach_recreational_fishery
+1,Actinopterygii,Atherinopsidae,Atherinops,affinis,ATAF,Topsmelt,no
+14,Actinopterygii,Atherinopsidae,,,ATHE,Unknown Silverside,no
+28,Actinopterygii,Carangidae,Trachurus,symmetricus,TRSY,Pacific jack mackerel,no
+38,Elasmobranchii,Dasyatidae,Dasyatis,dipterura,DADI,Diamond stingray,no
+9,Actinopterygii,Embiotocidae,Amphistichus,argenteus,AMAR,Barred surfperch,yes
+11,Actinopterygii,Embiotocidae,Amphistichus,koelzi,AMKO,Calico surfperch,yes
+12,Actinopterygii,Embiotocidae,Hyperprosopon,argenteum,HYAR,Walleye surfperch,yes
+13,Actinopterygii,Embiotocidae,Cymatogaster,aggregata,CAGG,Shiner perch,
+15,Actinopterygii,Embiotocidae,Hyperprosopon,ellipticum,HYEL,Silver surfperch,
+20,Actinopterygii,Embiotocidae,Embiotoca,jacksoni,EMJA,Black perch,
+21,Actinopterygii,Embiotocidae,Hypsurus,caryi,HYCA,Rainbow surfperch,
+22,Actinopterygii,Embiotocidae,Micrometrus,minimus,MIMI,Dwarf perch,
+23,Actinopterygii,Embiotocidae,Rhacochilus,toxotes,RHTO,Rubberlip seaperch,
+31,Actinopterygii,Embiotocidae,Rhacochilus,vacca,RHVA,Pile perch,
+24,Actinopterygii,Haemulidae,Anisotremus,davidsonii,ANDA,Sargo,
+16,Elasmobranchii,Heterodontidae,Heterodontus,francisci,HEFR,Horn shark,
+29,Actinopterygii,Kyphosidae,Kyphosus,azureus,KYAZ,Zebra perch,
+32,Actinopterygii,Kyphosidae,Medialuna,californiensis,MECA,Halfmoon,
+33,Actinopterygii,Kyphosidae,Girella,nigricans,GINI,Opaleye,
+26,Actinopterygii,Labridae,Halichoeres,semicinctus,HASE,Rock wrasse,
+30,Actinopterygii,Labridae,Semicossyphus,pulcher,SEPU,California sheephead,
+35,Actinopterygii,Muraenidae,Gymnothorax,mordax,GYMO,California moray,
+2,Elasmobranchii,Myliobatidae,Myliobatis,californica,MYCA,Bat ray,
+3,Actinopterygii,Paralichthyidae,Citharichthys,sordidus,CISO,Pacific sanddab,
+4,Actinopterygii,Paralichthyidae,Citharichthys,stigmaeus,CIST,Speckled sanddab,
+7,Actinopterygii,Paralichthyidae,Paralichthys,californicus,PACA,California halibut,
+5,Elasmobranchii,Platyrhinidae,Platyrhinoidis,triserata,PLTR,Thornback guitarfish,
+6,Elasmobranchii,Rhinobatidae,Rhinobatos,productus,RHPR,Shovelnose guitarfish,
+10,Actinopterygii,Sciaenidae,Menticirrhus,undulatus,MEUN,California corbina,
+17,Actinopterygii,Sciaenidae,Cheilotrema,saturnum,CHSA,Black croaker,
+25,Actinopterygii,Sciaenidae,Umbrina,roncador,UMRO,Yellowfin croaker,
+34,Actinopterygii,Sciaenidae,Roncador,stearnsii,ROST,Spotfin croaker,
+36,Actinopterygii,Sciaenidae,Seriphus,politus,SEPO,Queenfish,
+37,Actinopterygii,Sciaenidae,Atractoscion,nobilis,ATNO,White seabass,
+18,Actinopterygii,Serranidae,Paralabrax,clathratus,PACL,Kelp bass,
+27,Actinopterygii,Serranidae,Paralabrax,nebulifer,PANE,Barred sand bass,
+8,Elasmobranchii,Triakidae,Triakis,semifasciata,TRSE,Leopard shark,
+39,Elasmobranchii,Triakidae,Mustelus,californicus,MUCA,Grey smooth-hound,
+19,Elasmobranchii,Urotrygonidae,Urobatis,halleri,URHA,Round stingray,

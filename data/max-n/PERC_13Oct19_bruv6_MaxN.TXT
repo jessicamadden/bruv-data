@@ -1,13 +1,13 @@
 MaxN
 
-Generated: Wednesday, July 01, 2020 11:51:09
+Generated: Friday 04 December 2020 16:41:59
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
 PERC_13Oct19_bruv6_GP020064.MP4	  11735	00:38:39.90	PERC_13Oct19_bruv6	00:25:39.89	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Embiotocidae				1	No
+PERC_13Oct19_bruv6_GP030064.MP4	  11392	00:56:16.24	PERC_13Oct19_bruv6	00:43:16.23	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Embiotocidae	Amphistichus			6	No
 PERC_13Oct19_bruv6_GP030064.MP4	  22575	00:59:22.81	PERC_13Oct19_bruv6	00:46:22.80	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Embiotocidae	Amphistichus	argenteus	6	5	No
 PERC_13Oct19_bruv6_GP030064.MP4	   6644	00:54:57.03	PERC_13Oct19_bruv6	00:41:57.01	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Embiotocidae	Amphistichus	koelzi	64	2	No
-PERC_13Oct19_bruv6_GP030064.MP4	  11392	00:56:16.24	PERC_13Oct19_bruv6	00:43:16.23	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Embiotocidae	Amphistichus	sp		6	No
-PERC_13Oct19_bruv6_GP020064.MP4	  10275	00:38:15.54	PERC_13Oct19_bruv6	00:25:15.53	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Embiotocidae	Hyperprosopon	argenteum	11	290	No
+PERC_13Oct19_bruv6_GP010064.MP4	  10215	00:20:32.48	PERC_13Oct19_bruv6	00:07:32.47	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Embiotocidae	Hyperprosopon	argenteum	11	145	No
 PERC_13Oct19_bruv6_GOPR0064.MP4	  46754	00:13:00.01	PERC_13Oct19_bruv6	00:00:00.00	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Myliobatidae	Myliobatis	californica	29	1	No
-PERC_13Oct19_bruv6_GP020064.MP4	  27612	00:43:04.78	PERC_13Oct19_bruv6	00:30:04.77	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Paralichthyidae	Citharichthys	stigmaeus	20	290	No
+PERC_13Oct19_bruv6_GOPR0064.MP4	  48182	00:13:23.84	PERC_13Oct19_bruv6	00:00:23.82	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Paralichthyidae	Citharichthys	stigmaeus	20	4	No
 PERC_13Oct19_bruv6_GP020064.MP4	  38266	00:46:02.53	PERC_13Oct19_bruv6	00:33:02.51	PERC_13Oct19_bruv6	Jessica Madden			=1m	100% S	PERC	6	10-13-2019				Rhinobatidae	Rhinobatos	productus	36	2	No

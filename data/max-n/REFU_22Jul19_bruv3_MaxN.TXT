@@ -1,11 +1,11 @@
 MaxN
 
-Generated: Friday, March 20, 2020 16:29:57
+Generated: Friday 04 December 2020 15:09:31
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
 RESB_22Jul19_3_GP010003.MP4	  28742	00:25:41.57	REFU_22Jul19_bruv3_data	00:11:41.57	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae	Atherinops	affinis	1	1	No
 RESB_22Jul19_3_GP010003.MP4	  35274	00:27:30.55	REFU_22Jul19_bruv3_data	00:13:30.54	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Cancridae	Cancer		33	2	No
 RESB_22Jul19_3_GP010003.MP4	  28700	00:25:40.87	REFU_22Jul19_bruv3_data	00:11:40.87	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Embiotocidae	Cymatogaster	aggregata	9	1	No
 RESB_22Jul19_3_GP010003.MP4	  18128	00:22:44.50	REFU_22Jul19_bruv3_data	00:08:44.49	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Olividae	Callianax	biplicata	42	2	No
-RESB_22Jul19_3_GP010003.MP4	  24847	00:24:36.59	REFU_22Jul19_bruv3_data	00:10:36.59	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Paralichthys	californicus	21	2	No
-RESB_22Jul19_3_GP030003.MP4	  19331	00:58:28.69	REFU_22Jul19_bruv3_data	00:44:28.68	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39 # Thornback guitarfish	2	No
+RESB_22Jul19_3_GP010003.MP4	  24847	00:24:36.59	REFU_22Jul19_bruv3_data	00:10:36.59	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Paralichthyidae	Citharichthys	stigmaeus	20	2	No
+RESB_22Jul19_3_GP030003.MP4	  19331	00:58:28.69	REFU_22Jul19_bruv3_data	00:44:28.68	REFU_22Jul19_bruv3	Jessica Madden			>1m	100% S							Platyrhinidae	Platyrhinoidis	triserata	39	2	No

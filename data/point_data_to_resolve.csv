@@ -1,0 +1,525 @@
+op_code,period_time_hms,subclass,family,scientific_name,genus,species,common,code,sp_code,number,comment_1,x_6,Resolved?
+DUCO_16Sep19_bruv1_data,08:14.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,10,check id,background,?
+DUCO_16Sep19_bruv1_data,33:07.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,5,silverfish- topsmelt or anchovy,background,?
+DUCO_16Sep19_bruv1_data,37:37.8,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,4,silverfish- topsmelt or anchovy,background,?
+DUCO_16Sep19_bruv1_data,37:49.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,7,silverfish- topsmelt or anchovy,background,?
+DUCO_16Sep19_bruv1_data,43:03.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,9,silverfish- topsmelt or anchovy,background,?
+DUCO_16Sep19_bruv1_data,48:58.4,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,9,silverfish- topsmelt or anchovy,background,?
+DUCO_16Sep19_bruv3,27:29.3,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,background,?
+DUCO_16Sep19_bruv6,23:10.7,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,5,id?,NA,?
+DUCO_20Aug19_bruv1,01:55.3,Actinopterygii,Kyphosidae,Kyphosus azureus,Kyphosus,azureus,Zebra perch,18,KYAZ,1,id check?,NA,?
+DUCO_20Aug19_bruv1,02:57.7,Actinopterygii,Kyphosidae,Kyphosus azureus,Kyphosus,azureus,Zebra perch,18,KYAZ,1,id check?,NA,?
+DUCO_20Aug19_bruv1,02:57.7,Actinopterygii,Kyphosidae,Kyphosus azureus,Kyphosus,azureus,Zebra perch,18,KYAZ,1,id check?,NA,?
+DUCO_20Aug19_bruv1,02:58.1,Actinopterygii,Kyphosidae,Kyphosus azureus,Kyphosus,azureus,Zebra perch,18,KYAZ,1,id check?,NA,?
+DUCO_20Aug19_bruv1,02:58.1,Actinopterygii,Kyphosidae,Kyphosus azureus,Kyphosus,azureus,Zebra perch,18,KYAZ,1,id check?,NA,?
+DUCO_20Aug19_bruv1,02:58.1,Actinopterygii,Kyphosidae,Kyphosus azureus,Kyphosus,azureus,Zebra perch,18,KYAZ,1,id check?,NA,?
+DUCO_20Aug19_bruv1,00:16.2,NA,, ,,,NA,NA,NA,1,unidentified fish,NA,?
+DUCO_20Aug19_bruv1,00:49.4,NA,, ,,,NA,NA,NA,1,unknown fish- possible black perch,NA,?
+DUCO_20Aug19_bruv1,12:56.2,NA,, ,,,NA,NA,NA,1,unidentified fish - zebra perch?,NA,?
+DUCO_20Aug19_bruv1,27:18.4,NA,, ,,,NA,NA,NA,1,unidentified fish,NA,?
+DUCO_20Aug19_bruv1,33:36.8,NA,, ,,,NA,NA,NA,1,unidentified fish- opaleye?,NA,?
+DUCO_20Aug19_bruv1,35:23.8,NA,, ,,,NA,NA,NA,1,unidentified fish - opaleye?,NA,?
+DUCO_20Aug19_bruv1,54:48.5,NA,, ,,,NA,NA,NA,1,unknown silverside,NA,?
+DUCO_20Aug19_bruv3,40:42.2,NA,, ,,,NA,NA,NA,1,ID? poss. sheephead female,NA,?
+DUCO_20Aug19_bruv3,46:25.1,NA,, ,,,NA,NA,NA,1,ID? poss. sheephead female,NA,?
+DUCO_20Aug19_bruv3,58:25.3,NA,, ,,,NA,NA,NA,1,ID? poss. sheephead female,NA,?
+DUCO_20Aug19_bruv3,59:01.0,NA,, ,,,NA,NA,NA,1,ID? poss black perch,NA,?
+DUCO_20Aug19_bruv6,08:22.8,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,10:51.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? background,NA,?
+DUCO_20Aug19_bruv6,26:18.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,3,id? background,NA,?
+DUCO_20Aug19_bruv6,46:23.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,54,id? background,NA,?
+DUCO_20Aug19_bruv6,00:03.2,NA,, ,,,NA,NA,NA,1,id? opaleye?,NA,?
+DUCO_23Oct19_bruv1,04:22.2,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,,?
+DUCO_23Oct19_bruv1,05:31.1,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,,?
+DUCO_23Oct19_bruv1,07:09.6,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,,?
+DUCO_23Oct19_bruv1,05:36.5,NA,, ,,,NA,NA,NA,57,id? baitfish; # estimate,background,?
+DUCO_23Oct19_bruv1,58:22.0,NA,Kyphosidae, ,,,NA,NA,NA,1,id?,background,?
+DUCO_23Oct19_bruv1,58:22.0,NA,Kyphosidae, ,,,NA,NA,NA,1,id?,background,?
+DUCO_23Oct19_bruv1,43:53.9,Actinopterygii,Labridae,Semicossyphus pulcher,Semicossyphus,pulcher,California sheephead,46,SEPU,1,id?,background,?
+DUCO_23Oct19_bruv4,29:43.8,Actinopterygii,Kyphosidae,Hermosilla azurea,Hermosilla,azurea,Zebra perch,45,KYAZ,1,id?,NA,?
+DUCO_23Oct19_bruv6,18:44.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,?
+DUCO_23Oct19_bruv6,18:53.4,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,?
+DUCO_23Oct19_bruv6,39:33.7,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,14,id? prob topsmelt,NA,?
+HABE_02Oct19_bruv1,01:30.2,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,05:46.4,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,05:46.4,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,05:48.2,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,05:48.2,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,05:48.2,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,06:22.3,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,06:22.3,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,06:22.3,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,06:22.3,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,28:43.8,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,28:43.8,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? topsmelt?,,?
+HABE_02Oct19_bruv1,30:11.3,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? topsmelt?,background,?
+HABE_02Oct19_bruv1,57:29.7,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? topsmelt?,background,?
+HABE_02Oct19_bruv3,00:13.7,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? prob topsmelt,NA,?
+HABE_02Oct19_bruv3,00:31.3,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? prob topsmelt,NA,?
+HABE_02Oct19_bruv3,00:31.3,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? prob topsmelt,NA,?
+HABE_02Oct19_bruv3,14:40.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,12,id? prob topsmelt,NA,?
+HABE_02Oct19_bruv3,00:55.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,00:55.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,00:55.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,00:55.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,00:55.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,01:16.2,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,8,id?,NA,?
+HABE_02Oct19_bruv3,06:11.6,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,10,id?,NA,?
+HABE_02Oct19_bruv3,12:14.0,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,10,id?,NA,?
+HABE_02Oct19_bruv3,15:41.7,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,6,id?,NA,?
+HABE_02Oct19_bruv3,20:57.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,10,id?,NA,?
+HABE_02Oct19_bruv3,23:52.6,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,12,id?,NA,?
+HABE_02Oct19_bruv3,24:46.3,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,15,id?,NA,?
+HABE_02Oct19_bruv3,27:41.5,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,10,id?,NA,?
+HABE_02Oct19_bruv3,32:00.0,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,9,id?,NA,?
+HABE_02Oct19_bruv3,36:51.3,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,6,id?,NA,?
+HABE_02Oct19_bruv3,40:52.1,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,6,id?,NA,?
+HABE_02Oct19_bruv3,52:48.9,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,52:48.9,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,52:57.2,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,52:57.2,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,52:57.2,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,52:57.2,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,52:57.2,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,52:57.2,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,58:18.7,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,58:18.7,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,58:18.7,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,58:46.6,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,58:46.6,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,58:46.6,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,58:46.6,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,id?,NA,?
+HABE_02Oct19_bruv3,59:19.5,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,8,id?,NA,?
+HABE_02Oct19_bruv6,48:32.0,NA,Paralichthyidae, ,,,NA,NA,NA,1,id? halibut?,NA,?
+HABE_02Oct19_bruv6,50:32.4,NA,Paralichthyidae, ,,,NA,NA,NA,1,id? halibut?,NA,?
+HABE_02Oct19_bruv6,41:17.2,Actinopterygii,Carangidae,Trachurus symmetricus,Trachurus,symmetricus,Pacific jack mackerel,65,TRSY,1,id?,NA,?
+HABE_02Oct19_bruv6,51:34.6,Actinopterygii,Carangidae,Trachurus symmetricus,Trachurus,symmetricus,Pacific jack mackerel,65,TRSY,1,id?,NA,?
+HABE_02Oct19_bruv6,55:30.2,Actinopterygii,Carangidae,Trachurus symmetricus,Trachurus,symmetricus,Pacific jack mackerel,65,TRSY,2,id?,NA,?
+HABE_02Oct19_bruv6,59:09.1,Actinopterygii,Carangidae,Trachurus symmetricus,Trachurus,symmetricus,Pacific jack mackerel,65,TRSY,1,id?,NA,?
+HABE_02Oct19_bruv6,59:09.1,Actinopterygii,Carangidae,Trachurus symmetricus,Trachurus,symmetricus,Pacific jack mackerel,65,TRSY,1,id?,NA,?
+HABE_02Oct19_bruv6,59:09.1,Actinopterygii,Carangidae,Trachurus symmetricus,Trachurus,symmetricus,Pacific jack mackerel,65,TRSY,1,id?,NA,?
+HABE_11Sep19_bruv6,21:05.9,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id?,NA,?
+HABE_11Sep19_bruv6,26:04.3,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id?,NA,?
+HABE_11Sep19_bruv6,26:16.4,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id?,NA,?
+HABE_11Sep19_bruv6,26:16.4,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id?,NA,?
+HABE_11Sep19_bruv6,34:45.6,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id?,NA,?
+HABE_11Sep19_bruv6,35:24.0,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id?,NA,?
+HABE_19Jul19_bruv1,00:14.4,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,possibly grunion,NA,?
+HABE_19Jul19_bruv1,00:20.1,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,possibly grunion,NA,?
+HABE_19Jul19_bruv1,19:30.0,Invertebrate,Cancridae,Cancer ,Cancer,,Crab,33,CANC,1,unidentifiable crab,NA,?
+HABE_19Jul19_bruv3,50:16.0,NA,, ,,,NA,NA,NA,1,ID? possibly a bat ray,NA,?
+HABE_19Jul19_bruv3,55:13.2,NA,Paralichthyidae, ,,,NA,NA,NA,1,,NA,?
+HABE_19Jul19_bruv6,39:00.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id?,NA,?
+HABE_19Jul19_bruv6,01:12.7,Invertebrate,Blepharipodidae,Blepharipoda occidentalis,Blepharipoda,occidentalis,Spiny sand crab,32,BLOC,1,id?,NA,?
+HABE_19Jul19_bruv6,55:06.9,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,NA,?
+LECA_09Oct19_bruv1,19:34.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? barred?,NA,?
+LECA_09Oct19_bruv1,20:40.4,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? barred?,NA,?
+LECA_09Oct19_bruv4,07:26.3,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id?,NA,?
+LECA_09Oct19_bruv4,07:26.3,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id?,NA,?
+LECA_09Oct19_bruv4,32:16.4,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,?
+LECA_09Oct19_bruv6,20:22.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? calico?,NA,?
+LECA_09Oct19_bruv6,25:07.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,26:30.5,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,26:30.5,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,26:30.5,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,26:30.5,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,27:12.4,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,27:12.4,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,27:12.4,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,27:12.4,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,27:12.4,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,30:04.1,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,30:04.1,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,30:04.1,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,32:12.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,32:12.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,32:12.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,32:12.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,32:12.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,35:27.3,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,35:41.0,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,35:41.0,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,35:41.0,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,35:41.0,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,41:06.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,41:06.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,41:06.9,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? are all these barred act. calico?,NA,?
+LECA_09Oct19_bruv6,24:48.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topmelt,NA,?
+LECA_17Sep19_bruv1,09:42.2,NA,Embiotocidae, ,,,NA,NA,NA,1,id?,NA,
+LECA_17Sep19_bruv3,03:13.5,Actinopterygii,Sciaenidae,Menticirrhus undulatus,Menticirrhus,undulatus,California corbina,24,MEUN,1,id? ,NA,
+LECA_17Sep19_bruv3,03:46.5,Actinopterygii,Sciaenidae,Menticirrhus undulatus,Menticirrhus,undulatus,California corbina,24,MEUN,1,id?,NA,
+LECA_17Sep19_bruv3,44:52.3,NA,Embiotocidae, ,,,NA,NA,NA,1,id?,NA,
+LECA_17Sep19_bruv6,48:20.8,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,5,check id,NA,
+LECA_17Sep19_bruv6,10:14.0,Elasmobranchii,Urotrygonidae,Urobatis halleri,Urobatis,halleri,Round stingray,31,URHA,1,id?,NA,
+LECA_19Aug19_bruv6,00:11.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+LECA_19Aug19_bruv6,11:41.6,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+LECA_19Aug19_bruv6,21:15.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+LECA_19Aug19_bruv6,25:36.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+LECA_19Aug19_bruv6,30:12.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+PERC_13Oct19_bruv3,02:26.9,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+PERC_13Oct19_bruv6,39:23.4,Actinopterygii,Embiotocidae,Amphistichus koelzi,Amphistichus,koelzi,Calico surfperch,64,AMKO,1,id?,NA,
+PERC_13Oct19_bruv6,41:57.0,Actinopterygii,Embiotocidae,Amphistichus koelzi,Amphistichus,koelzi,Calico surfperch,64,AMKO,2,id?,NA,
+PERC_13Oct19_bruv6,25:15.5,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+PERC_13Oct19_bruv6,30:04.8,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+PERC_13Oct19_bruv6,30:04.8,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+PERC_13Oct19_bruv6,07:32.5,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,145,id?,NA,
+PERC_13Oct19_bruv6,22:19.3,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,1,id?,NA,
+PERC_13Oct19_bruv6,22:19.3,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,1,id?,NA,
+PERC_13Oct19_bruv6,49:15.0,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,59,id?,NA,
+PERC_13Oct19_bruv6,55:40.4,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,122,id?,NA,
+PERC_13Oct19_bruv6,25:39.9,NA,Embiotocidae, ,,,NA,NA,NA,1,id?,NA,
+PERC_13Oct19_bruv6,42:20.5,NA,Embiotocidae,Amphistichus ,Amphistichus,,NA,NA,NA,5,id?,NA,
+PERC_13Oct19_bruv6,43:16.2,NA,Embiotocidae,Amphistichus ,Amphistichus,,NA,NA,NA,6,id?,NA,
+PERC_23Jul19_bruv1,57:08.5,Actinopterygii,Paralichthyidae,Citharichthys sordidus,Citharichthys,sordidus,Pacific sanddab,47,CISO,1,ID?,,
+PERC_23Jul19_bruv1,17:20.2,Mammalia,Phocidae,Phoca vitulina,Phoca,vitulina,Harbor seal,37,PHVI,1,positive ID?,,
+PERC_23Jul19_bruv3,00:00.0,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,01:03.5,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,01:03.5,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,04:59.9,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,04:59.9,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,07:31.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,07:31.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,10:06.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,15:36.7,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,20:03.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,21:24.8,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,25:37.0,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv3,25:37.0,Invertebrate,Nassariidae,Nassarius ,Nassarius,,Nassa mud snail,54,NASS,1,ID?,,
+PERC_23Jul19_bruv6,09:13.5,NA,Paralichthyidae, ,,,NA,NA,NA,1,ID? halibut,NA,
+PERC_23Jul19_bruv6,38:17.9,NA,Paralichthyidae, ,,,NA,NA,NA,1,ID? looks bigger- halibut?,NA,
+PERC_23Jul19_bruv6,02:31.8,NA,Paralichthyidae, ,,,NA,NA,NA,1,,NA,
+PERC_23Jul19_bruv6,15:33.1,NA,Paralichthyidae, ,,,NA,NA,NA,1,,NA,
+REFU_05Sep19_bruv1,25:04.6,Actinopterygii,Embiotocidae,Hyperprosopon ellipticum,Hyperprosopon,ellipticum,Silver surfperch,12,HYEL,18,check id,NA,
+REFU_05Sep19_bruv1,42:32.0,NA,Embiotocidae, ,,,NA,NA,NA,1,id? probably just barred surfperch,NA,
+REFU_05Sep19_bruv1,55:43.1,NA,Embiotocidae, ,,,NA,NA,NA,1,id? probably just barred surfperch,NA,
+REFU_05Sep19_bruv3,12:06.1,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? probably barred surfperch,NA,
+REFU_05Sep19_bruv3,14:20.3,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? calico?,NA,
+REFU_05Sep19_bruv3,15:36.8,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? calico?,NA,
+REFU_05Sep19_bruv3,21:25.6,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? calico?,NA,
+REFU_05Sep19_bruv3,23:27.8,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? calico?,NA,
+REFU_05Sep19_bruv3,50:45.5,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? calico?,NA,
+REFU_05Sep19_bruv3,56:38.2,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id? calico?,NA,
+REFU_05Sep19_bruv3,14:52.1,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id? probably c. stigmaeus,NA,
+REFU_05Sep19_bruv3,15:36.8,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id? probably c. stigmaeus,NA,
+REFU_05Sep19_bruv3,23:36.7,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id? probably c. stigmaeus,NA,
+REFU_05Sep19_bruv3,25:35.3,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id? probably c. stigmaeus,NA,
+REFU_05Sep19_bruv3,03:55.5,NA,Paralichthyidae, ,,,NA,NA,NA,1,id? probably c. stigmaeus,NA,
+REFU_10Oct19_bruv1,00:04.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,background,
+REFU_10Oct19_bruv1,00:04.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,background,
+REFU_10Oct19_bruv3,03:08.6,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv3,03:08.6,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv3,02:13.7,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,06:36.8,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,07:34.0,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,07:34.0,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,07:34.0,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,10:43.6,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,10:43.6,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,10:43.6,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,11:35.7,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,11:35.7,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,11:35.7,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,11:35.7,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,16:13.5,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,16:13.5,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,16:13.5,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,16:13.5,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,22:18.2,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,22:18.2,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,22:18.2,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,22:18.2,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,27:56.4,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,27:56.4,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,30:10.6,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,30:10.6,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,32:15.7,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,32:15.7,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,43:13.8,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,43:13.8,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,55:13.9,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv3,55:13.9,NA,Nassariidae,Nassarius sp,Nassarius,sp,NA,NA,NA,1,id?,NA,
+REFU_10Oct19_bruv6,00:07.8,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+REFU_10Oct19_bruv6,00:07.8,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+REFU_10Oct19_bruv6,01:41.6,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,3,id?,NA,
+REFU_10Oct19_bruv6,05:51.3,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,3,id?,NA,
+REFU_10Oct19_bruv6,05:51.3,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,3,id?,NA,
+REFU_10Oct19_bruv6,11:09.3,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,3,id?,NA,
+REFU_10Oct19_bruv6,11:09.3,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,3,id?,NA,
+REFU_10Oct19_bruv6,00:05.7,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,05:26.3,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,11:11.1,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,11:24.7,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,3,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,15:22.3,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,15:22.3,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,18:10.4,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,18:10.4,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,18:10.4,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_10Oct19_bruv6,26:06.1,NA,Atherinopsidae,Atherinops sp,Atherinops,sp,NA,NA,NA,1,id? prob topsmelt,NA,
+REFU_22Jul19_bruv6,03:09.0,NA,Paralichthyidae, ,,,NA,NA,NA,1,,NA,
+REFU_22Jul19_bruv6,37:09.4,Elasmobranchii,Platyrhinidae,Platyrhinoidis triserata,Platyrhinoidis,triserata,Thornback guitarfish,39,PLTR,2,"this one noticeably smaller, 2 total",NA,
+SAEL_24Oct19_bruv1,44:36.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,46,id? baitfish,NA,
+SAEL_24Oct19_bruv3,13:08.7,NA,, ,,,NA,NA,NA,1,id? probably topsmelt,NA,
+SAEL_24Oct19_bruv3,13:39.3,NA,, ,,,NA,NA,NA,17,id? probably topsmelt,NA,
+SAEL_24Oct19_bruv3,23:26.1,NA,, ,,,NA,NA,NA,58,id? probably topsmelt,NA,
+SAEL_24Oct19_bruv3,23:50.2,NA,, ,,,NA,NA,NA,103,id? probably topsmelt,NA,
+SAEL_24Oct19_bruv3,39:58.6,NA,, ,,,NA,NA,NA,7,id? probably topsmelt,NA,
+SAEL_24Oct19_bruv3,52:02.2,NA,, ,,,NA,NA,NA,8,id? probably topsmelt,NA,
+SAEL_24Oct19_bruv3,52:14.8,NA,, ,,,NA,NA,NA,21,id? probably topsmelt,NA,
+SAEL_24Oct19_bruv3,54:54.0,NA,, ,,,NA,NA,NA,33,id? probably topsmelt,NA,
+SAEL_26Sep19_bruv1,08:32.1,NA,, ,,,NA,NA,NA,1,id?,,
+SAEL_26Sep19_bruv1,08:32.1,NA,, ,,,NA,NA,NA,1,id?,,
+SAEL_26Sep19_bruv1,09:37.1,NA,, ,,,NA,NA,NA,1,id? topsmelt?,background,
+SAEL_26Sep19_bruv1,33:25.9,NA,Sciaenidae, ,,,NA,NA,NA,1,id? yellowfin,background,
+SAEL_26Sep19_bruv1,42:02.3,NA,Sciaenidae, ,,,NA,NA,NA,1,id? yellowfin,background,
+SAEL_26Sep19_bruv1,48:28.0,NA,Sciaenidae, ,,,NA,NA,NA,1,id? yellowfin,background,
+SAEL_26Sep19_bruv1,51:13.7,NA,Sciaenidae, ,,,NA,NA,NA,1,id? yellowfin,background,
+SAEL_26Sep19_bruv1,51:13.7,NA,Sciaenidae, ,,,NA,NA,NA,1,id? yellowfin,background,
+SAEL_26Sep19_bruv1,11:32.1,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,26,id??,,
+SAEL_26Sep19_bruv3,06:09.8,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,3,id?,background,
+SAEL_26Sep19_bruv3,06:51.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,8,id?,background,
+SAEL_26Sep19_bruv3,03:15.5,NA,, ,,,NA,NA,NA,1,id? corbina?,,
+SAEL_26Sep19_bruv3,23:00.4,NA,, ,,,NA,NA,NA,1,id? yf croaker?,,
+SAEL_26Sep19_bruv3,05:28.0,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,12:39.5,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,12:39.5,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,15:58.4,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,21:59.8,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,23:00.4,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,23:00.4,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,24:06.1,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,26:00.8,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,46:53.9,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv3,52:39.0,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+SAEL_26Sep19_bruv6,40:03.8,NA,Sciaenidae, ,,,NA,NA,NA,1,id?,,
+SAEL_28Aug19_bruv1,19:04.3,NA,, ,,,NA,NA,NA,1,ID? corbina?,NA,
+SAEL_28Aug19_bruv1,47:32.7,NA,, ,,,NA,NA,NA,1,ID? ray?,NA,
+SAEL_28Aug19_bruv1,49:45.5,NA,, ,,,NA,NA,NA,1,ID? yellowfin?,NA,
+SAEL_28Aug19_bruv1,55:57.9,NA,, ,,,NA,NA,NA,1,ID?,NA,
+SAEL_28Aug19_bruv1,57:41.6,NA,, ,,,NA,NA,NA,1,ID?,NA,
+SAEL_28Aug19_bruv5,04:36.2,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? unknown silver fish,NA,
+SAEL_28Aug19_bruv5,04:36.2,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? unknown silver fish,NA,
+SAEL_28Aug19_bruv5,04:36.2,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? unknown silver fish,NA,
+SAEL_28Aug19_bruv5,04:36.2,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? unknown silver fish,NA,
+SAEL_28Aug19_bruv5,08:33.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,14,id? unknown silver fish- anchovy?,NA,
+SCRI_25Oct19_bruv1,09:33.4,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+SCRI_25Oct19_bruv1,09:49.2,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,10,id? prob topsmelt,NA,
+SCRI_25Oct19_bruv1,10:14.6,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,13,id? prob topsmelt,NA,
+SCRI_25Oct19_bruv1,12:36.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,3,id? prob topsmelt,NA,
+SCRI_25Oct19_bruv1,17:44.3,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,15,id? prob topsmelt,NA,
+SCRI_25Oct19_bruv1,22:25.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,2,id? prob topsmelt,NA,
+SCRI_25Oct19_bruv1,40:14.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,6,id? prob topsmelt,NA,
+SCRI_25Oct19_bruv1,53:45.6,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+SCRI_25Oct19_bruv1,11:20.9,NA,Triakidae,Mustelus sp,Mustelus,sp,NA,NA,NA,1,id? gray?,NA,
+SCRI_25Oct19_bruv1,22:27.7,NA,Sciaenidae, ,,,NA,NA,NA,1,id? prob corbina,NA,
+SCRI_25Oct19_bruv6,38:24.3,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+SCRI_25Oct19_bruv6,40:51.0,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+SCRI_25Oct19_bruv6,45:46.1,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+SCRI_25Oct19_bruv6,49:48.6,Actinopterygii,Paralichthyidae,Citharichthys stigmaeus,Citharichthys,stigmaeus,Speckled sanddab,20,CIST,1,id?,NA,
+SCRI_25Sep19_bruv1,10:14.8,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? topsmelt?,background,
+SCRI_25Sep19_bruv1,10:18.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,33,id? topsmelt?,background,
+SCRI_25Sep19_bruv1,19:01.6,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? topsmelt?,background,
+SCRI_25Sep19_bruv3,23:24.3,NA,, ,,,NA,NA,NA,7,id?,background,
+SCRI_25Sep19_bruv6,06:02.3,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,6,id? topsmelt?,background,
+SCRI_25Sep19_bruv6,07:00.2,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,32,id? topsmelt?,background,
+SCRI_25Sep19_bruv6,35:11.2,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,77,id? topsmelt?,,
+SCRI_25Sep19_bruv6,38:50.8,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,158,id? probably topsmelt,,
+SCRI_29Aug19_bruv1,35:43.0,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,49,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,41:33.5,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,ID?,background,
+SCRI_29Aug19_bruv1,00:05.4,NA,, ,,,NA,NA,NA,1,ID? corbina?,,
+SCRI_29Aug19_bruv1,00:32.1,NA,, ,,,NA,NA,NA,1,ID? round ray,,
+SCRI_29Aug19_bruv1,02:53.7,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,ID? corbina or yf?,,
+SCRI_29Aug19_bruv1,00:38.4,Elasmobranchii,Urotrygonidae,Urobatis halleri,Urobatis,halleri,Round stingray,31,URHA,1,ID? round ray,,
+SCRI_29Aug19_bruv1,00:38.4,Elasmobranchii,Urotrygonidae,Urobatis halleri,Urobatis,halleri,Round stingray,31,URHA,1,ID? round ray,,
+SCRI_29Aug19_bruv3,33:51.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,ID? topsmelt?,NA,
+SCRI_29Aug19_bruv3,06:53.2,NA,Paralichthyidae, ,,,NA,NA,NA,1,ID? halibut?,NA,
+SCRI_29Aug19_bruv3,15:14.9,NA,, ,,,NA,NA,NA,1,ID? corbina?,NA,
+SCRI_29Aug19_bruv3,25:04.0,NA,Sciaenidae, ,,,NA,NA,NA,1,ID? yf croaker,NA,
+SCRI_29Aug19_bruv3,47:55.9,NA,Sciaenidae, ,,,NA,NA,NA,1,ID? yf croaker?,NA,
+SCRI_29Aug19_bruv6,12:05.3,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,34,id?,background,
+SLHO_07Nov19_bruv1,14:31.4,Actinopterygii,Paralichthyidae,Citharichthys sordidus,Citharichthys,sordidus,Pacific sanddab,47,CISO,1,id?,,
+SLHO_07Nov19_bruv3,02:23.5,Actinopterygii,Kyphosidae,Medialuna californiensis,Medialuna,californiensis,Halfmoon,61,MECA,1,id?,NA,
+SLHO_07Nov19_bruv3,04:27.1,Actinopterygii,Kyphosidae,Medialuna californiensis,Medialuna,californiensis,Halfmoon,61,MECA,1,id?,NA,
+SLHO_07Nov19_bruv3,04:27.1,Actinopterygii,Kyphosidae,Medialuna californiensis,Medialuna,californiensis,Halfmoon,61,MECA,1,id?,NA,
+SLHO_07Nov19_bruv3,01:15.6,NA,, ,,,NA,NA,NA,1,id? opaleye?,NA,
+SLHO_07Nov19_bruv3,55:52.2,NA,, ,,,NA,NA,NA,1,id? topsmelt?,NA,
+SLHO_07Nov19_bruv3,54:56.3,Actinopterygii,Labridae,Semicossyphus pulcher,Semicossyphus,pulcher,California sheephead,46,SEPU,1,id?,NA,
+SLHO_18Sep19_bruv1,13:37.9,NA,Atherinopsidae,Atherinops ,Atherinops,,NA,NA,NA,1,id?,background,
+SLHO_18Sep19_bruv1,53:45.1,NA,Atherinopsidae,Atherinops ,Atherinops,,NA,NA,NA,1,id?,background,
+SLHO_18Sep19_bruv1,31:59.4,Elasmobranchii,Rhinobatidae,Rhinobatos productus,Rhinobatos,productus,Shovelnose guitarfish,36,RHPR,1,id?,,
+SLHO_18Sep19_bruv3,21:38.5,Actinopterygii,Embiotocidae,Embiotoca jacksoni,Embiotoca,jacksoni,Black perch,10,EMJA,1,id?,background,
+SLHO_18Sep19_bruv3,51:34.2,Actinopterygii,Embiotocidae,Embiotoca jacksoni,Embiotoca,jacksoni,Black perch,10,EMJA,1,id?,background,
+SLHO_18Sep19_bruv3,00:25.4,NA,, ,,,NA,NA,NA,22,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,24:20.9,NA,, ,,,NA,NA,NA,38,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,25:05.6,NA,, ,,,NA,NA,NA,46,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,34:29.8,NA,, ,,,NA,NA,NA,20,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,35:44.1,NA,, ,,,NA,NA,NA,40,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,43:10.0,NA,, ,,,NA,NA,NA,6,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,43:31.9,NA,, ,,,NA,NA,NA,8,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,43:48.4,NA,, ,,,NA,NA,NA,23,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,47:19.5,NA,, ,,,NA,NA,NA,15,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,47:39.6,NA,, ,,,NA,NA,NA,50,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,51:38.7,NA,, ,,,NA,NA,NA,30,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,57:29.0,NA,, ,,,NA,NA,NA,10,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,57:41.0,NA,, ,,,NA,NA,NA,27,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,57:50.5,NA,, ,,,NA,NA,NA,37,id? anchovy or topsmelt?,background,
+SLHO_18Sep19_bruv3,02:54.6,Actinopterygii,Sciaenidae,Seriphus politus,Seriphus,politus,Queenfish,25,SEPO,56,check id,background,
+SLHO_18Sep19_bruv3,24:34.6,Actinopterygii,Sciaenidae,Seriphus politus,Seriphus,politus,Queenfish,25,SEPO,65,check id,background,
+SLHO_18Sep19_bruv3,29:24.5,Actinopterygii,Sciaenidae,Seriphus politus,Seriphus,politus,Queenfish,25,SEPO,63,check id,background,
+SLHO_18Sep19_bruv3,49:26.7,Actinopterygii,Sciaenidae,Seriphus politus,Seriphus,politus,Queenfish,25,SEPO,86,check id,background,
+SLHO_18Sep19_bruv3,51:51.4,Actinopterygii,Sciaenidae,Seriphus politus,Seriphus,politus,Queenfish,25,SEPO,52,check id,background,
+SLHO_18Sep19_bruv3,59:27.3,Actinopterygii,Sciaenidae,Seriphus politus,Seriphus,politus,Queenfish,25,SEPO,92,check id,background,
+SLHO_18Sep19_bruv6,34:24.6,Actinopterygii,Paralichthyidae,Citharichthys sordidus,Citharichthys,sordidus,Pacific sanddab,47,CISO,1,id?,,
+SLHO_18Sep19_bruv6,36:57.4,Actinopterygii,Paralichthyidae,Citharichthys sordidus,Citharichthys,sordidus,Pacific sanddab,47,CISO,1,id?,,
+SLHO_18Sep19_bruv6,40:18.6,Actinopterygii,Paralichthyidae,Citharichthys sordidus,Citharichthys,sordidus,Pacific sanddab,47,CISO,1,id?,,
+SLHO_18Sep19_bruv6,42:56.3,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,50,id? yf croaker? estimated no.,background,
+SLHO_22Aug19_bruv3,07:35.7,NA,, ,,,NA,NA,NA,1,ID?,NA,
+SLHO_22Aug19_bruv3,35:18.1,NA,, ,,,NA,NA,NA,3,ID? Embiotocidae?,NA,
+SLHO_22Aug19_bruv6,18:18.8,NA,, ,,,NA,NA,NA,1,id?,NA,
+SLHO_22Aug19_bruv6,00:52.1,Elasmobranchii,Urotrygonidae,Urobatis halleri,Urobatis,halleri,Round stingray,31,URHA,1,id?,NA,
+SOCA_03Oct19_bruv1,14:15.0,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,1,id? poss barred?,NA,
+SOCA_03Oct19_bruv1,17:05.6,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,1,id? poss barred?,NA,
+SOCA_03Oct19_bruv1,25:00.1,NA,Embiotocidae, ,,,NA,NA,NA,1,id?,NA,
+SOCA_03Oct19_bruv3,12:36.9,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+SOCA_03Oct19_bruv3,04:19.0,NA,Embiotocidae, ,,,NA,NA,NA,1,id? looks like white seaperch,NA,
+SOCA_03Oct19_bruv3,46:14.6,NA,Serranidae,Paralabrax sp,Paralabrax,sp,NA,NA,NA,1,id? barred sand bass,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:00.0,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,00:45.5,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id?,NA,
+SOCA_03Oct19_bruv6,21:13.2,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,1,id? prob topsmelt,NA,
+SOCA_03Oct19_bruv6,49:14.3,NA,, ,,,NA,NA,NA,1,id? unknown fish,NA,
+SOCA_09Sep19_bruv1,01:18.1,NA,, ,,,NA,NA,NA,1,id?,NA,
+SOCA_09Sep19_bruv1,10:21.6,NA,Embiotocidae, ,,,NA,NA,NA,1,id? poss barred or calico,NA,
+SOCA_09Sep19_bruv1,33:41.2,NA,Embiotocidae, ,,,NA,NA,NA,1,id?,NA,
+SOCA_09Sep19_bruv3,48:28.0,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id?,,
+SOCA_09Sep19_bruv3,06:42.6,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,1,id?,,
+SOCA_09Sep19_bruv3,06:42.6,Actinopterygii,Embiotocidae,Hyperprosopon argenteum,Hyperprosopon,argenteum,Walleye surfperch,11,HYAR,1,id?,,
+SOCA_09Sep19_bruv3,16:49.9,NA,Embiotocidae, ,,,NA,NA,NA,1,id?,,
+SOCA_09Sep19_bruv3,21:32.5,NA,Embiotocidae, ,,,NA,NA,NA,1,id?,,
+SOCA_09Sep19_bruv3,29:49.8,NA,Embiotocidae, ,,,NA,NA,NA,1,id? walleye?,,
+SOCA_09Sep19_bruv3,41:23.0,NA,Embiotocidae, ,,,NA,NA,NA,1,id?,background,
+SOCA_09Sep19_bruv6,00:48.3,Actinopterygii,Embiotocidae,Amphistichus argenteus,Amphistichus,argenteus,Barred surfperch,6,AMAR,1,id?,NA,
+SOCA_09Sep19_bruv6,22:07.3,Actinopterygii,Labridae,Halichoeres semicinctus,Halichoeres,semicinctus,Rock wrasse,19,HASE,1,id?,NA,
+SOCA_09Sep19_bruv6,12:19.8,NA,Sciaenidae, ,,,NA,NA,NA,2,id?,NA,
+SOCA_09Sep19_bruv6,26:13.7,NA,Embiotocidae, ,,,NA,NA,NA,1,id? Black perch,NA,
+SOCA_09Sep19_bruv6,20:26.2,Actinopterygii,Serranidae,Paralabrax clathratus,Paralabrax,clathratus,Kelp bass,44,PACL,1,id?,NA,
+SOCA_09Sep19_bruv6,30:37.0,Actinopterygii,Serranidae,Paralabrax clathratus,Paralabrax,clathratus,Kelp bass,44,PACL,1,id?,NA,
+SOCA_09Sep19_bruv6,34:50.5,Actinopterygii,Serranidae,Paralabrax clathratus,Paralabrax,clathratus,Kelp bass,44,PACL,1,id? black croaker?,NA,
+SOCA_09Sep19_bruv6,37:28.5,Actinopterygii,Serranidae,Paralabrax clathratus,Paralabrax,clathratus,Kelp bass,44,PACL,1,id?,NA,
+SOCA_09Sep19_bruv6,40:06.1,Actinopterygii,Serranidae,Paralabrax clathratus,Paralabrax,clathratus,Kelp bass,44,PACL,1,id?,NA,
+SOCA_25Jul19_bruv1,28:40.8,NA,, ,,,NA,NA,NA,1,fish?,NA,
+SOCA_25Jul19_bruv1,30:08.5,NA,, ,,,NA,NA,NA,1,cabezon?,NA,
+SOCA_25Jul19_bruv1,42:14.8,NA,, ,,,NA,NA,NA,1,ID? black perch? rubberlip?,NA,
+SOCA_25Jul19_bruv3,57:03.7,Actinopterygii,Embiotocidae,Embiotoca jacksoni,Embiotoca,jacksoni,Black perch,10,EMJA,1,ID check?,NA,
+SOCA_25Jul19_bruv3,57:03.7,Actinopterygii,Embiotocidae,Embiotoca jacksoni,Embiotoca,jacksoni,Black perch,10,EMJA,1,ID check?,NA,
+SOCA_25Jul19_bruv3,01:44.9,NA,, ,,,NA,NA,NA,1,ID? poss. leopard shark,NA,
+SOCA_25Jul19_bruv3,03:30.1,NA,, ,,,NA,NA,NA,1,ID? possible shovellnose,NA,
+SOCA_25Jul19_bruv3,40:26.7,NA,, ,,,NA,NA,NA,1,ID? poss. barred surfperch,NA,
+SOCA_25Jul19_bruv3,56:07.2,NA,, ,,,NA,NA,NA,1,ID? poss. kelp bass but looks big,NA,
+SOCA_25Jul19_bruv3,57:15.7,NA,, ,,,NA,NA,NA,1,ID? poss. sand bass?,NA,
+SOCA_25Jul19_bruv6,07:30.9,Actinopterygii,Embiotocidae,Embiotoca jacksoni,Embiotoca,jacksoni,Black perch,10,EMJA,1,id?,NA,
+SOCA_25Jul19_bruv6,32:01.0,Actinopterygii,Embiotocidae,Embiotoca jacksoni,Embiotoca,jacksoni,Black perch,10,EMJA,1,id?,NA,
+SOCA_25Jul19_bruv6,56:59.5,Actinopterygii,Embiotocidae,Rhacochilus toxotes,Rhacochilus,toxotes,Rubberlip seaperch,57,RHTO,1,id?,NA,
+STBE_08Nov19_bruv1,02:35.0,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? prob topsmelt,NA,
+STBE_08Nov19_bruv1,05:40.6,Actinopterygii,Atherinopsidae,Atherinops affinis,Atherinops,affinis,Topsmelt,1,ATAF,1,id? prob topsmelt,NA,
+STBE_08Nov19_bruv3,00:58.4,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,6,check id,NA,
+STBE_08Nov19_bruv3,05:27.3,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,8,check id,NA,
+STBE_08Nov19_bruv3,05:31.4,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,14,check id,NA,
+STBE_19Sep19_bruv1,27:03.5,NA,Triakidae,Mustelus sp,Mustelus,sp,NA,NA,NA,1,,background,
+STBE_19Sep19_bruv1,32:43.1,Actinopterygii,Sciaenidae,Umbrina roncador,Umbrina,roncador,Yellowfin croaker,26,UMRO,1,id?,,
+STBE_19Sep19_bruv3,57:19.1,Actinopterygii,Atherinopsidae, ,,,Unknown Silverside,3,ATHE,4,id? Topsmelt?,background,
+STBE_19Sep19_bruv3,09:06.2,Actinopterygii,Kyphosidae,Girella nigricans,Girella,nigricans,Opaleye,17,GINI,1,id?,background,
+STBE_19Sep19_bruv3,19:06.0,NA,, ,,,NA,NA,NA,1,id?? fish,background,
+STBE_19Sep19_bruv3,33:34.8,Actinopterygii,Labridae,Semicossyphus pulcher,Semicossyphus,pulcher,California sheephead,46,SEPU,1,id?,background,
+STBE_19Sep19_bruv3,17:05.7,Elasmobranchii,Triakidae,Triakis semifasciata,Triakis,semifasciata,Leopard shark,30,TRSE,1,second one?,,
+STBE_19Sep19_bruv6_data,25:22.8,Actinopterygii,Serranidae,Paralabrax nebulifer,Paralabrax,nebulifer,Barred sand bass,59,PANE,1,id?,background,
+STBE_19Sep19_bruv6_data,31:17.7,Actinopterygii,Serranidae,Paralabrax nebulifer,Paralabrax,nebulifer,Barred sand bass,59,PANE,1,id?,background,
+STBE_19Sep19_bruv6_data,49:16.4,Actinopterygii,Serranidae,Paralabrax nebulifer,Paralabrax,nebulifer,Barred sand bass,59,PANE,1,id?,background,
+STBE_19Sep19_bruv6_data,51:01.0,Actinopterygii,Serranidae,Paralabrax nebulifer,Paralabrax,nebulifer,Barred sand bass,59,PANE,1,id?,background,
+STBE_21Aug19_bruv1,11:13.2,Elasmobranchii,Triakidae,Triakis semifasciata,Triakis,semifasciata,Leopard shark,30,TRSE,1,ID?,NA,

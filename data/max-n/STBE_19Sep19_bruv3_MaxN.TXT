@@ -1,9 +1,10 @@
 MaxN
 
-Generated: Tuesday, June 02, 2020 16:35:43
+Generated: Friday 04 December 2020 16:48:12
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat							Family	Genus	Species	Code	MaxN	Has fed
-STBE_19Sep19_3_GP040043 (1).MP4	   5448	01:12:19.13	STBE_19Sep19_bruv3_data	00:57:19.12	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S											4	No
+STBE_19Sep19_3_GP010043.MP4	  58978	00:34:06.01	STBE_19Sep19_bruv3_data	00:19:05.99	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S											1	No
+STBE_19Sep19_3_GP040043 (1).MP4	   5448	01:12:19.13	STBE_19Sep19_bruv3_data	00:57:19.12	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Atherinopsidae			3	4	No
 STBE_19Sep19_3_GP010043.MP4	  23028	00:24:06.24	STBE_19Sep19_bruv3_data	00:09:06.23	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Kyphosidae	Girella	nigricans	17	1	No
 STBE_19Sep19_3_GP020043.MP4	  56893	00:51:13.29	STBE_19Sep19_bruv3_data	00:36:13.27	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Kyphosidae	Kyphosus	azureus	18	1	No
 STBE_19Sep19_3_GP020043.MP4	  47394	00:48:34.81	STBE_19Sep19_bruv3_data	00:33:34.80	STBE_19Sep19_bruv3	Jessica Madden			>1m	100% S							Labridae	Semicossyphus	pulcher	46 #California sheephead	1	No

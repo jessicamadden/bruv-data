@@ -1,11 +1,11 @@
 MaxN
 
-Generated: Thursday, June 25, 2020 09:30:12
+Generated: Wednesday 02 December 2020 11:07:48
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
-HABE_2Oct19_3_GP010049.MP4	  28654	00:25:40.11	HABE_02Oct19_bruv3_data	00:14:40.10	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Atherinopsidae			3	12	No
-HABE_2Oct19_3_GP020049.MP4	  48031	00:48:45.44	HABE_02Oct19_bruv3_data	00:37:45.43	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Atherinopsidae	Atherinops	affinis	1	20	No
-HABE_2Oct19_3_GP020049.MP4	  50386	00:49:24.73	HABE_02Oct19_bruv3_data	00:38:24.72	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Cancridae	Cancer	sp		3	No
-HABE_2Oct19_3_GP010049.MP4	  19711	00:23:10.91	HABE_02Oct19_bruv3_data	00:12:10.90	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Myliobatidae	Myliobatis	californica	29	1	No
-HABE_2Oct19_3_GP020049.MP4	   1331	00:35:46.33	HABE_02Oct19_bruv3_data	00:24:46.32	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Nassariidae	Nassarius		54	15	No
-HABE_2Oct19_3_GP010049.MP4	  44439	00:30:03.45	HABE_02Oct19_bruv3_data	00:19:03.44	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Paralichthyidae	Citharichthys	stigmaeus	20	3	No
+HABE_2Oct19_3_GP010049.MP4	  28654	00:25:40.11	HABE_2Oct19_bruv3_data	00:14:40.10	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Atherinopsidae			3	12	No
+HABE_2Oct19_3_GP020049.MP4	  48031	00:48:45.44	HABE_2Oct19_bruv3_data	00:37:45.43	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Atherinopsidae	Atherinops	affinis	1	20	No
+HABE_2Oct19_3_GP020049.MP4	  50386	00:49:24.73	HABE_2Oct19_bruv3_data	00:38:24.72	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Cancridae	Cancer	sp		3	No
+HABE_2Oct19_3_GP010049.MP4	  19711	00:23:10.91	HABE_2Oct19_bruv3_data	00:12:10.90	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Myliobatidae	Myliobatis	californica	29	1	No
+HABE_2Oct19_3_GP020049.MP4	   1331	00:35:46.33	HABE_2Oct19_bruv3_data	00:24:46.32	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Nassariidae	Nassarius		54	15	No
+HABE_2Oct19_3_GP010049.MP4	  44439	00:30:03.45	HABE_2Oct19_bruv3_data	00:19:03.44	HABE_02Oct19_bruv3	Jessica Madden			=1m	100% S	HABE	3	10-02-2019				Paralichthyidae	Citharichthys	stigmaeus	20	3	No

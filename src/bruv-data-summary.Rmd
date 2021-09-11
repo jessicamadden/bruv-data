@@ -930,7 +930,7 @@ species_list_all <- max_n_data %>%
   
 # Save to file
 
-write.csv(species_list_all_sites, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//species_list_sites.csv")
+write.csv(species_list_all_sites, here::here("data", "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//species_list_sites.csv"))
 write.csv(species_list_all, "file:///C:/Users/Crab Lab/Box/Crab Lab Group Folder/MPA Project/mpa_project_code/bruv-data/data//species_list.csv")
 ```
 

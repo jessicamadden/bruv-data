@@ -1,9 +1,9 @@
 MaxN
 
-Generated: Friday, June 26, 2020 15:21:30
+Generated: Friday 04 December 2020 16:34:05
 
 Filename	Frame	Time (HMS)	Period	Period time (HMS)	OpCode	TapeReader	Depth	Comment	Visibility	Habitat	Site	Bruv #	Date				Family	Genus	Species	Code	MaxN	Has fed
-STBE_8Nov19_3_GOPR0072.MP4	  59425	00:16:31.41	STBE_8Nov19_bruv3_data	00:05:31.40	STBE_08Nov19_bruv3	Jessica Madden			>1m	100% S	STBE	3	11-08-2019								14	No
+STBE_8Nov19_3_GOPR0072.MP4	  59425	00:16:31.41	STBE_8Nov19_bruv3_data	00:05:31.40	STBE_08Nov19_bruv3	Jessica Madden			>1m	100% S	STBE	3	11-08-2019				Atherinopsidae			3	14	No
 STBE_8Nov19_3_GP030072.MP4	  10815	00:56:06.61	STBE_8Nov19_bruv3_data	00:45:06.60	STBE_08Nov19_bruv3	Jessica Madden			>1m	100% S	STBE	3	11-08-2019				Kyphosidae	Hermosilla	azurea	45	1	No
 STBE_8Nov19_3_GP010072.MP4	  53177	00:32:29.23	STBE_8Nov19_bruv3_data	00:21:29.22	STBE_08Nov19_bruv3	Jessica Madden			>1m	100% S	STBE	3	11-08-2019				Labridae	Semicossyphus	pulcher	46	1	No
 STBE_8Nov19_3_GP010072.MP4	  34027	00:27:09.74	STBE_8Nov19_bruv3_data	00:16:09.74	STBE_08Nov19_bruv3	Jessica Madden			>1m	100% S	STBE	3	11-08-2019				Serranidae	Paralabrax	clathratus	44	6	No
